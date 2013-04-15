@@ -1,0 +1,20 @@
+EMBL GENOME INFO:
+ID   AE004969;
+OS   Neisseria gonorrhoeae FA 1090
+OC   Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales; Neisseriaceae;
+OC   Neisseria.
+
+TRANSCRIPTOME INFO:
+TAXID  242231
+PMID   21251255
+SOURCE http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE26444
+XREFS  http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM648803
+XREFS  http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM648804
+XREFS  http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM648805
+XREFS  http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM648806
+
+PLOT FILES:
+GSM648803_coverage.NC_002946.2.plot	Ngon_+O2_rep1
+GSM648804_coverage.NC_002946.2.plot	Ngon_-O2_rep1
+GSM648805_coverage.NC_002946.2.plot	Ngon_+O2_rep2
+GSM648806_coverage.NC_002946.2.plot	Ngon_-O2_rep2
