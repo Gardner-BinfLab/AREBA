@@ -1,0 +1,18 @@
+EMBL GENOME INFO:
+ID   AE003852; chromosome I
+ID   AE003853; chromosome II
+OS   Vibrio cholerae O1 biovar El Tor str. N16961
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae;
+OC   Vibrio.
+
+TRANSCRIPTOME INFO:
+TAXID   243277
+PMID    21843873
+SOURCE  
+XREFS   http://trace.ddbj.nig.ac.jp/DRASearch/submission?acc=SRA029822
+
+PLOT FILES:
+AE003852_SRR099209_2.plot
+AE003852_SRR099220_2.plot
+AE003853_SRR099209_2.plot
+AE003853_SRR099220_2.plot
