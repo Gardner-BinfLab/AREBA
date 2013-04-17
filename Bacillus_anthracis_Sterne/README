@@ -1,0 +1,14 @@
+EMBL GENOME INFO:
+ID   AE017225
+OS   Bacillus anthracis str. Sterne
+OC   Bacteria; Firmicutes; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+
+TRANSCRIPTOME INFO:
+TAXID   260799
+PMID    19304856
+SOURCE  http://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP001274
+XREFS   
+
+PLOT FILES:
+Bacillus_anthracis_SRR028684.plot
