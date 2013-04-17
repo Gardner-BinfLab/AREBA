@@ -1,0 +1,18 @@
+EMBL GENOME INFO:
+ID   AL123456
+OS   Mycobacterium tuberculosis H37Rv
+OC   Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales;
+OC   Corynebacterineae; Mycobacteriaceae; Mycobacterium;
+OC   Mycobacterium tuberculosis complex.
+
+TRANSCRIPTOME INFO:
+TAXID   83332
+PMID    22072964
+SOURCE  Pers. Commun. Tine Arnvig
+XREFS   
+
+PLOT FILES:
+rnaseqStationary.plot
+rnaseqExponential.plot 
+rnaseqExponential2.plot  
+rnaseqExponential3.plot  
