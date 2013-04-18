@@ -46,9 +46,9 @@ my $gffsS = join(' ',    @gffs);
 my $fhIn  = IO::File->new();
 my $fhOut = IO::File->new();
 
-print "Running [sortGffs.pl $gffsS > $$\-sorted.gff && collapseGffs.pl -g $$\-sorted.gff |]\n" if defined($verbose); 
-
-$fhIn -> open( "sortGffs.pl $gffsS > $$\-sorted.gff && collapseGffs.pl -g $$\-sorted.gff |" ) or die "FATAL: failed to run [sortGffs.pl $gffsS > $$\-sorted.gff && collapseGffs.pl -g $$\-sorted.gff |]";
+print "Running [cat $gffsS | sort -k4nr > $$\-sorted.gff && collapseGffs.pl -g $$\-sorted.gff |]\n" if defined($verbose); 
+#sortGffs.pl $gffsS
+$fhIn -> open( "cat $gffsS | tr \42 \42 \42_\42 | perl -lane \47\$F[0]=\42XXXX\42; \$F[6]=\42.\42; \$F=join(\42\\t\42, \@F); print \$F\47 | sort -k4nr > $$\-sorted.gff && collapseGffs.pl -g $$\-sorted.gff |" ) or die "FATAL: failed to run [sortGffs.pl $gffsS > $$\-sorted.gff && collapseGffs.pl -g $$\-sorted.gff |]";
 my $annMask="annotation_mask.txt";
 open($fhOut, "> $annMask" );
 my $posn=1; 
