@@ -45,7 +45,6 @@ foreach my $pf (@plotFiles){
     $plotPrev=$pf;
 }
 
-exit(0);
 
 #1. 
 my @fileHandles; 
