@@ -11,4 +11,9 @@ SOURCE  http://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP001274
 XREFS   
 
 PLOT FILES:
-Bacillus_anthracis_SRR028684.plot
+SRP001274-SRR028684.stranded.plot
+SRP001274-SRR028685.stranded.plot
+SRP001274-SRR028686.stranded.plot
+SRP001274-SRR028687.stranded.plot
+SRP001274-SRR028688.stranded.plot
+SRP001274-SRR028689.stranded.plot
