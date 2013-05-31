@@ -1,0 +1,15 @@
+EMBL GENOME INFO:
+ID   	BX548174
+OS   	Prochlorococcus marinus subsp. pastoris str. CCMP1986
+OC   	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus.
+
+TRANSCRIPTOME INFO:
+TAXID		59919
+PMID
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA050651
+XREFS
+
+PLOT FILES:
+SRP011374-SRR441714.stranded.plot	
+SRP011374-SRR441715.stranded.plot
+

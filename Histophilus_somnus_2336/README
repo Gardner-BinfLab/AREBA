@@ -1,0 +1,15 @@
+EMBL GENOME INFO:
+ID   	CP000947
+OS   	Haemophilus somnus 2336
+OC   	Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales;
+OC   	Pasteurellaceae; Histophilus.
+
+TRANSCRIPTOME INFO:
+TAXID		228400
+PMID
+SOURCE	http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM732300
+XREFS		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE29578
+
+PLOT FILES:
+GSM732300_hs2336.stranded.plot
+

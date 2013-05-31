@@ -1,14 +1,15 @@
 EMBL GENOME INFO:
-ID   CP002382
-OS   Micavibrio aeruginosavorus ARL-13
-OC   Bacteria; Proteobacteria; Alphaproteobacteria; Micavibrio.
+ID   	CP002382
+OS   	Micavibrio aeruginosavorus ARL-13
+OC  	Bacteria; Proteobacteria; Alphaproteobacteria; Micavibrio.
 
 TRANSCRIPTOME INFO:
-TAXID   856793
-PMID    21936919
-SOURCE  Pers. Commun. Martin Wu
-XREFS   http://www.biomedcentral.com/1471-2164/12/453/additional
+TAXID   	856793
+PMID    		21936919
+SOURCE  	Pers. Commun. Martin Wu
+XREFS  	http://www.biomedcentral.com/1471-2164/12/453/additional
 
 PLOT FILES:
 attach.plot  
 attack.plot
+

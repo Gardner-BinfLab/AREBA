@@ -1,15 +1,15 @@
 EMBL GENOME INFO:
-ID   AE014613;
-OS   Salmonella enterica subsp. enterica serovar Typhi str. Ty2
-OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
-OC   Enterobacteriaceae; Salmonella;
-OC   Salmonella enterica subsp. enterica serovar Typhi.
+ID   	AE014613;
+OS   	Salmonella enterica subsp. enterica serovar Typhi str. Ty2
+OC   	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   	Enterobacteriaceae; Salmonella;
+OC   	Salmonella enterica subsp. enterica serovar Typhi.
 
 TRANSCRIPTOME INFO:
-TAXID   209261
-PMID    19609351
-SOURCE  Pers. Commun. Tim Perkins
-XREFS   ftp://ftp.sanger.ac.uk/pub4/pathogens/st/solexa/Typhi_transcriptome/
+TAXID   	209261
+PMID    		19609351
+SOURCE  	Pers. Commun. Tim Perkins
+XREFS   	ftp://ftp.sanger.ac.uk/pub4/pathogens/st/solexa/Typhi_transcriptome/
 
 PLOT FILES:
 1104_2.plot   ?
@@ -19,5 +19,4 @@ PLOT FILES:
 876_2.plot    ?
 876_5.plot    ?
 WT.plot       Wild type
-
 

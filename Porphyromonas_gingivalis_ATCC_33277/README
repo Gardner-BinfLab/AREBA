@@ -1,0 +1,33 @@
+EMBL GENOME INFO:
+ID   	AP009380
+OS   	Porphyromonas gingivalis ATCC 33277
+OC   	Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae;
+OC   	Porphyromonas.
+
+TRANSCRIPTOME INFO:
+TAXID		431947
+PMID		23194602
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA048510
+XREFS		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM844728
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM844728
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM844730
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM844731
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM844732
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM844733
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM844734
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM844735
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM844736
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM844737
+
+PLOT FILES:
+SRR387923.stranded.plot	
+SRR387924.stranded.plot	
+SRR387925.stranded.plot	
+SRR387926.stranded.plot	
+SRR387927.stranded.plot	
+SRR387928.stranded.plot	
+SRR387929.stranded.plot	
+SRR387930.stranded.plot	
+SRR387931.stranded.plot	
+SRR387932.stranded.plot
+

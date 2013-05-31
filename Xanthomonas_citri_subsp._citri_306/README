@@ -1,0 +1,24 @@
+EMBL GENOME INFO:
+ID   	AE008923
+OS   	Xanthomonas axonopodis pv. citri str. 306
+OC   	Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales;
+OC  	Xanthomonadaceae; Xanthomonas.
+
+TRANSCRIPTOME INFO:
+TAXID		190486
+PMID		23153100 
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA052842
+XREFS		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM591301
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM591302
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM591303
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM591304
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM591305
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM591306
+
+PLOT FILES
+SRP013943-SRR516325.stranded.plot	
+SRP013943-SRR516336.stranded.plot	
+SRP013943-SRR516348.stranded.plot	
+SRP013943-SRR516356.stranded.plot	
+SRP013943-SRR516361.stranded.plot	
+SRP013943-SRR516369.stranded.plot

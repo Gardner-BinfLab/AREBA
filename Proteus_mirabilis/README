@@ -1,0 +1,21 @@
+EMBL GENOME INFO:
+ID   	AM942759
+OS   	Proteus mirabilis
+OC   	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   	Enterobacteriaceae; Proteus.
+
+TRANSCRIPTOME INFO:
+TAXID		1266738
+PMID 		22081397
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA040168
+XREFS		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM764205
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM764206
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM764207
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM764208
+
+PLOT FILES:
+SRP007516-SRR314890.stranded.plot	
+SRP007516-SRR314891.stranded.plot	
+SRP007516-SRR314892.stranded.plot	
+SRP007516-SRR314893.stranded.plot
+

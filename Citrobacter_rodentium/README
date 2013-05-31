@@ -1,0 +1,16 @@
+EMBL GENOME INFO:
+ID   	FR715298
+OS   	Citrobacter rodentium
+OC   	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   	Enterobacteriaceae; Citrobacter.
+
+TRANSCRIPTOME INFO:
+TAXID		67825
+PMID		21490962
+SOURCE	http://www.ebi.ac.uk/ena/data/view/ERA015962
+XREFS
+
+PLOT FILES:
+ERP000493-ERR026449.fastq.stranded.plot 
+ERP000493-ERR026450.fastq.stranded.plot
+

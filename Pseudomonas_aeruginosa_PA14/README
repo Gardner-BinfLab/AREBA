@@ -1,0 +1,22 @@
+EMBL GENOME INFO:
+ID   	CP000438
+OS   	Pseudomonas aeruginosa UCBPP-PA14
+OC   	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   	Pseudomonadaceae; Pseudomonas.
+
+TRANSCRIPTOME INFO
+TAXID		208963
+PMID
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA047974
+XREFS
+
+PLOT FILES:
+SRR363800.fastq.stranded.plot	
+SRR363801.fastq.stranded.plot	
+SRR363802.fastq.stranded.plot	
+SRR363803.fastq.stranded.plot	
+SRR363804.fastq.stranded.plot	
+SRR363805.fastq.stranded.plot	
+SRR363806.fastq.stranded.plot	
+SRR363807.fastq.stranded.plot
+

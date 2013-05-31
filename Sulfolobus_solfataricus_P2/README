@@ -1,0 +1,29 @@
+EMBL GENOME INFO:
+ID   	AE006641
+OS   	Sulfolobus solfataricus P2
+OC   	Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae;
+OC   	Sulfolobus.
+
+TRANSCRIPTOME INFO:
+TAXID	 	273057
+PMID		19884261
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA010164
+XREFS		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM463003
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM463004
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM463005
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM463006
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM463007
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM463008
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM463009
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM463010
+
+PLOT FILES:
+SRP001461-SRR030761.stranded.plot	
+SRP001461-SRR030762.stranded.plot	
+SRP001461-SRR030763.stranded.plot	
+SRP001461-SRR030764.stranded.plot	
+SRP001461-SRR030765.stranded.plot	
+SRP001461-SRR030766.stranded.plot	
+SRP001461-SRR030767.stranded.plot	
+SRP001461-SRR030768.stranded.plot
+

@@ -1,0 +1,28 @@
+EMBL GENOME INFO:
+ID   	AE017354
+OS   	Legionella pneumophila subsp. pneumophila str. Philadelphia 1
+OC   	Bacteria; Proteobacteria; Gammaproteobacteria; Legionellales;
+OC   	Legionellaceae; Legionella.
+
+TRANSCRIPTOME INFO:
+TAXID		272624
+PMID		21408607
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA029905
+XREFS		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM673298
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM673299
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM673300
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM673301
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM673302
+
+PLOT FILES:
+SRP005683-SRR099824.stranded.plot	
+SRP005683-SRR099825.stranded.plot	
+SRP005683-SRR099826.stranded.plot	
+SRP005683-SRR099827.stranded.plot	
+SRP005683-SRR099828.stranded.plot	
+SRP005683-SRR099829.stranded.plot	
+SRP005683-SRR099830.stranded.plot	
+SRP005683-SRR099831.stranded.plot	
+SRP005683-SRR099832.stranded.plot	
+SRP005683-SRR099833.stranded.plot
+

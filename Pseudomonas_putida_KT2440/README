@@ -1,0 +1,17 @@
+EMBL GENOME INFO:
+ID   	AE015451
+OS   	Pseudomonas putida KT2440
+OC   	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   	Pseudomonadaceae; Pseudomonas.
+
+TRANSCRIPTOME INFO:
+TAXID		160488
+PMID		21306427
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA024356
+XREFS		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM594826
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM594825
+
+PLOT FILES:
+SRP003636-SRR066731.fastq.stranded.plot	
+SRP003636-SRR066732.fastq.stranded.plot
+

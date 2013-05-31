@@ -1,0 +1,30 @@
+EMBL GENOME INFO:
+ID   	CP000100
+OS   	Synechococcus elongatus PCC 7942
+OC   	Bacteria; Cyanobacteria; Chroococcales; Synechococcus.
+
+TRANSCRIPTOME INFO:
+TAXID		1140
+PMID		21612627
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA036837
+XREFS		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM723311
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM723312
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM723313
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM723314
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM723315
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM723316
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM723317
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM723318
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM723319
+
+PLOT FILES:
+SRP006795-SRR208051.stranded.plot	
+SRP006795-SRR208052.stranded.plot	
+SRP006795-SRR208053.stranded.plot	
+SRP006795-SRR208054.stranded.plot	
+SRP006795-SRR208055.stranded.plot	
+SRP006795-SRR208056.stranded.plot	
+SRP006795-SRR208057.stranded.plot	
+SRP006795-SRR208058.stranded.plot	
+SRP006795-SRR208059.stranded.plot	
+

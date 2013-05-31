@@ -1,0 +1,21 @@
+EMBL GENOME INFO:
+ID   	CP000721
+OS   	Clostridium beijerinckii NCIMB 8052
+OC   	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae;
+OC   	Clostridium.
+
+TRANSCRIPTOME INFO:
+TAXID 		290402
+PMID		21962126
+SOURCE 	http://www.ncbi.nlm.nih.gov/sra/?term=SRA045799
+XREFS
+
+PLOT FILES
+SRP008141-SRR342473.stranded.plot
+SRP008141-SRR342474.stranded.plot
+SRP008141-SRR342475.stranded.plot
+SRP008141-SRR342476.stranded.plot
+SRP008141-SRR342477.stranded.plot
+SRP008141-SRR342478.stranded.plot
+
+

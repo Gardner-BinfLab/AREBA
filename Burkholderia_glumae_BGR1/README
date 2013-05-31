@@ -1,0 +1,45 @@
+EMBL GENOME INFO:
+ID   	CP001503
+OS   	Burkholderia glumae BGR1
+OC   	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+OC   	Burkholderiaceae; Burkholderia.
+	
+TRANSCRIPTOME INFO:
+TAXID		626418
+PMID		23150539
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA050776
+XREFS		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM894969
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM894970
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM894971
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM894972
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM894973
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM894974
+
+PLOT FILES:
+SRP011470-SRR445017.fastq.sorted.CP001503.stranded.plot
+SRP011470-SRR445018.fastq.sorted.CP001503.stranded.plot
+SRP011470-SRR445019.fastq.sorted.CP001503.stranded.plot 
+SRP011470-SRR445020.fastq.sorted.CP001503.stranded.plot 
+SRP011470-SRR445021.fastq.sorted.CP001503.stranded.plot 
+SRP011470-SRR445022.fastq.sorted.CP001503.stranded.plot
+ 
+EMBL GENOME INFO:
+ID   	CP001504
+OS  	Burkholderia glumae BGR1
+OC   	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;
+OC   	Burkholderiaceae; Burkholderia.
+
+TRANSCRIPTOME INFO:
+TAXID 		626418
+PMID		23150539
+SOURCE	http://trace.ddbj.nig.ac.jp/DRASearch/study?acc=SRP011470
+XREFS
+
+PLOT FILES:
+SRP011470-SRR445017.fastq.sorted.CP001504.stranded.plot
+SRP011470-SRR445018.fastq.sorted.CP001504.stranded.plot
+SRP011470-SRR445019.fastq.sorted.CP001504.stranded.plot
+SRP011470-SRR445020.fastq.sorted.CP001504.stranded.plot 
+SRP011470-SRR445021.fastq.sorted.CP001504.stranded.plot 
+SRP011470-SRR445022.fastq.sorted.CP001504.stranded.plot
+

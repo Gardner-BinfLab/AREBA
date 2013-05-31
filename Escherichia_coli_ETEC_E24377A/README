@@ -1,0 +1,17 @@
+EMBL GENOME INFO:
+ID   	CP000800
+OS   	Escherichia coli E24377A
+OC  	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   	Enterobacteriaceae; Escherichia.
+
+TRANSCRIPTOME INFO:
+TAXID		331111
+PMID		22215741
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA045945
+XREFS		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM789205
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM789206
+
+PLOT FILES:
+SRP008239-SRR345260.stranded.plot
+SRP008239-SRR345261.stranded.plot
+

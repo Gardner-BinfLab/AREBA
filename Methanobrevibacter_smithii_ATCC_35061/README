@@ -1,0 +1,165 @@
+EMBL GENOME INFO:
+ID   	CP000678
+OS   	Methanobrevibacter smithii ATCC 35061
+OC   	Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales;
+OC   	Methanobacteriaceae; Methanobrevibacter.
+
+TRANSCRIPTOME INFO:
+TAXID		420247
+PMID		21317366
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA026682
+XREFS		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623913
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623914
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623915
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623916
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623917
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623918
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623919
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623920
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623921
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623922
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623923
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623924
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623925
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623926
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623927
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623928
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623929
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623930
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623931
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623932
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623933
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623934
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623935
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623936
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623937
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623938
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623939
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623940
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623941
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623942
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623943
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623944
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623945
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623946
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623947
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623948
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623949
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623950
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623951
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623952
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623953
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623954
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623955
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623956
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623957
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623958
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623959
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623960
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623961
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623962
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623963
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623964
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623965
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623966
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623967
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623968
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623969
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623970
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623971
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623972
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623973
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623974
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623975
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623976
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623977
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623978
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623979
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623980
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623981
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623982
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623983
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623984
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623985
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623986
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623987
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM623988
+
+PLOT FILES:
+SRP004631-SRR073604.stranded.plot	
+SRP004631-SRR073605.stranded.plot	
+SRP004631-SRR073606.stranded.plot	
+SRP004631-SRR073607.stranded.plot	
+SRP004631-SRR073608.stranded.plot	
+SRP004631-SRR073609.stranded.plot	
+SRP004631-SRR073610.stranded.plot	
+SRP004631-SRR073611.stranded.plot	
+SRP004631-SRR073612.stranded.plot	
+SRP004631-SRR073613.stranded.plot	
+SRP004631-SRR073614.stranded.plot	
+SRP004631-SRR073615.stranded.plot	
+SRP004631-SRR073616.stranded.plot	
+SRP004631-SRR073617.stranded.plot	
+SRP004631-SRR073618.stranded.plot	
+SRP004631-SRR073619.stranded.plot	
+SRP004631-SRR073620.stranded.plot	
+SRP004631-SRR073621.stranded.plot	
+SRP004631-SRR073622.stranded.plot	
+SRP004631-SRR073623.stranded.plot	
+SRP004631-SRR073624.stranded.plot	
+SRP004631-SRR073625.stranded.plot	
+SRP004631-SRR073626.stranded.plot	
+SRP004631-SRR073627.stranded.plot	
+SRP004631-SRR073628.stranded.plot	
+SRP004631-SRR073629.stranded.plot	
+SRP004631-SRR073630.stranded.plot	
+SRP004631-SRR073631.stranded.plot	
+SRP004631-SRR073632.stranded.plot	
+SRP004631-SRR073633.stranded.plot	
+SRP004631-SRR073634.stranded.plot	
+SRP004631-SRR073635.stranded.plot	
+SRP004631-SRR073636.stranded.plot	
+SRP004631-SRR073637.stranded.plot	
+SRP004631-SRR073638.stranded.plot	
+SRP004631-SRR073639.stranded.plot	
+SRP004631-SRR073640.stranded.plot	
+SRP004631-SRR073641.stranded.plot	
+SRP004631-SRR073642.stranded.plot	
+SRP004631-SRR073643.stranded.plot	
+SRP004631-SRR073644.stranded.plot	
+SRP004631-SRR073645.stranded.plot	
+SRP004631-SRR073646.stranded.plot	
+SRP004631-SRR073647.stranded.plot	
+SRP004631-SRR073648.stranded.plot	
+SRP004631-SRR073649.stranded.plot	
+SRP004631-SRR073650.stranded.plot	
+SRP004631-SRR073651.stranded.plot	
+SRP004631-SRR073652.stranded.plot	
+SRP004631-SRR073653.stranded.plot	
+SRP004631-SRR073654.stranded.plot	
+SRP004631-SRR073655.stranded.plot	
+SRP004631-SRR073656.stranded.plot	
+SRP004631-SRR073657.stranded.plot	
+SRP004631-SRR073658.stranded.plot	
+SRP004631-SRR073659.stranded.plot	
+SRP004631-SRR073660.stranded.plot	
+SRP004631-SRR073661.stranded.plot	
+SRP004631-SRR073662.stranded.plot	
+SRP004631-SRR073663.stranded.plot	
+SRP004631-SRR073664.stranded.plot	
+SRP004631-SRR073665.stranded.plot	
+SRP004631-SRR073666.stranded.plot	
+SRP004631-SRR073667.stranded.plot	
+SRP004631-SRR073668.stranded.plot	
+SRP004631-SRR073669.stranded.plot	
+SRP004631-SRR073670.stranded.plot	
+SRP004631-SRR073671.stranded.plot	
+SRP004631-SRR073672.stranded.plot	
+SRP004631-SRR073673.stranded.plot	
+SRP004631-SRR073674.stranded.plot	
+SRP004631-SRR073675.stranded.plot	
+SRP004631-SRR073676.stranded.plot	
+SRP004631-SRR073677.stranded.plot	
+SRP004631-SRR073678.stranded.plot	
+SRP004631-SRR073679.stranded.plot
+

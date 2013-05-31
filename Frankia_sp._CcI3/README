@@ -1,0 +1,19 @@
+EMBL GENOME INFO:
+ID   	CP000249
+OS  	Frankia sp. CcI3
+OC   	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Frankineae;
+OC   	Frankiaceae; Frankia.
+
+TRANSCRIPTOME INFO:
+TAXID 		106370
+PMID		21867524	
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA040049
+XREFS		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM760806
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM760807
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM760808
+
+PLOT FILES:
+SRP007469-SRR308710.stranded.plot
+SRP007469-SRR308711.stranded.plot
+SRP007469-SRR308712.stranded.plot
+

@@ -1,0 +1,21 @@
+EMBL GENOME INFO:
+ID   	AM743169
+OS   	Stenotrophomonas maltophilia K279a
+OC   	Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales;
+OC   	Xanthomonadaceae; Stenotrophomonas; Stenotrophomonas maltophilia group.
+
+TRANSCRIPTOME INFO:
+TAXID		522373
+PMID		22923593
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA056411
+XREFS		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM977989
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM977990
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM977991
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM977992
+
+PLOT FILES:
+SRP014598-SRR527852.stranded.plot	
+SRP014598-SRR527853.stranded.plot	
+SRP014598-SRR527854.stranded.plot	
+SRP014598-SRR527855.stranded.plot
+

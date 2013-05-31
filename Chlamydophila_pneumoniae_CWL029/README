@@ -1,0 +1,41 @@
+EMBL GENOME INFO:
+ID   	AE001363
+OS   	Chlamydophila pneumoniae CWL029
+OC   	Bacteria; Chlamydiae; Chlamydiales; Chlamydiaceae;
+OC  	Chlamydia/Chlamydophila group; Chlamydia.
+
+TRANSCRIPTOME INFO:
+TAXID		115713
+PMID		21989159
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA025890
+XREFS		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM613995
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM613996
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM613997
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM613998
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM613999
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM614000
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM614001
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM614002
+
+PLOT FILES:
+SRP004041-SRR071140.stranded.plot
+SRP004041-SRR071141.stranded.plot 
+SRP004041-SRR071142.stranded.plot
+SRP004041-SRR071143.stranded.plot 
+SRP004041-SRR071144.stranded.plot
+SRP004041-SRR071145.stranded.plot 
+SRP004041-SRR071146.stranded.plot 
+SRP004041-SRR071147.stranded.plot 
+SRP004041-SRR071148.stranded.plot 
+SRP004041-SRR071149.stranded.plot 
+SRP004041-SRR071150.stranded.plot 
+SRP004041-SRR071151.stranded.plot 
+SRP004041-SRR071152.stranded.plot 
+SRP004041-SRR071153.stranded.plot 
+SRP004041-SRR071154.stranded.plot 
+SRP004041-SRR071155.stranded.plot 
+SRP004041-SRR071156.stranded.plot 
+SRP004041-SRR071157.stranded.plot 
+SRP004041-SRR071158.stranded.plot 
+SRP004041-SRR071159.stranded.plot 
+ 

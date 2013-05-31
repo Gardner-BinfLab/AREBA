@@ -1,0 +1,19 @@
+EMBL GENOME INFO:
+ID   	AE015924
+OS   	Porphyromonas gingivalis W83
+OC   	Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Porphyromonadaceae;
+OC   	Porphyromonas.
+
+TRANSCRIPTOME INFO:
+TAXID		242619
+PMID		22037400
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA039833
+XREFS		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM755210
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM755209
+		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM755208
+
+PLOT FILES:
+SRP007420-SRR307053.stranded.plot	
+SRP007420-SRR307054.stranded.plot	
+SRP007420-SRR307055.stranded.plot
+

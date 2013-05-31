@@ -1,0 +1,22 @@
+EMBL GENOME INFO:
+ID   	U00089
+OS   	Mycoplasma pneumoniae M129
+OC   	Bacteria; Tenericutes; Mollicutes; Mycoplasmataceae; Mycoplasma.
+
+TRANSCRIPTOME INFO:
+TAXID		272634
+PMID		20519413
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA009091
+XREFS
+
+PLOT FILES:
+SRP000937-SRR019711.fastq.stranded.plot	
+SRP000937-SRR019712.fastq.stranded.plot	
+SRP000937-SRR019713.fastq.stranded.plot	
+SRP000937-SRR019714.fastq.stranded.plot	
+SRP000937-SRR019715.fastq.stranded.plot	
+SRP000937-SRR019716.fastq.stranded.plot	
+SRP000937-SRR020510.fastq.stranded.plot	
+SRP000937-SRR029642.stranded.plot	
+SRP000937-SRR060824.stranded.plot
+

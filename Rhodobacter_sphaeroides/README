@@ -1,0 +1,22 @@
+EMBL GENOME INFO:
+ID   	CP000143
+OS   	Rhodobacter sphaeroides 2.4.1
+OC   	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales;
+OC   	Rhodobacteraceae; Rhodobacter.
+
+TRANSCRIPTOME INFO:
+TAXID		272943
+PMID
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA050650
+XREFS
+
+PLOT FILES:
+SRP011373-SRR441716.sorted.CP000143.stranded.plot	
+SRP011373-SRR441716.sorted.CP000144.stranded.plot	
+SRP011373-SRR441717.fastq.sorted.CP000143.stranded.plot	
+SRP011373-SRR441717.fastq.sorted.CP000144.stranded.plot	
+SRP011373-SRR441718.sorted.CP000143.stranded.plot	
+SRP011373-SRR441718.sorted.CP000144.stranded.plot	
+SRP011373-SRR441719.fastq.sorted.CP000143.stranded.plot	
+SRP011373-SRR441719.fastq.sorted.CP000144.stranded.plot	
+

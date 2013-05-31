@@ -1,0 +1,23 @@
+EMBL GENOME INFO:
+ID   	U00096
+OS   	Escherichia coli str. K-12 substr. MG1655
+OC   	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   	Enterobacteriaceae; Escherichia.
+
+TRANSCRIPTOME INFO:
+TAXID		511145
+PMID 		21665928
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA050648
+XREFS
+
+PLOT FILES:
+SRP011371-SRR441579.fastq.stranded.plot
+SRP011371-SRR441580.fastq.stranded.plot
+SRP011371-SRR441581.stranded.plot
+SRP011371-SRR441582.fastq.stranded.plot
+SRP011371-SRR441583.stranded.plot
+SRP011371-SRR441584.fastq.stranded.plot
+SRP011371-SRR441585.stranded.plot
+SRP011371-SRR441586.fastq.stranded.plot
+SRP011371-SRR441587.fastq.stranded.plot
+

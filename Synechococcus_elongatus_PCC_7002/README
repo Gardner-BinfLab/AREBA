@@ -1,0 +1,21 @@
+EMBL GENOME INFO:
+ID   	CP000951
+OS   	Synechococcus sp. PCC 7002
+OC   	Bacteria; Cyanobacteria; Chroococcales; Synechococcus.
+
+TRANSCRIPTOME INFO:
+TAXID		32049
+PMID	 	22514553
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRP007372
+XREFS
+
+PLOT FILES:
+SRR308187.stranded.plot	
+SRR308188.stranded.plot	
+SRR308189.stranded.plot	
+SRR308190.stranded.plot	
+SRR308191.stranded.plot	
+SRR308192.stranded.plot	
+SRR308193.stranded.plot	
+SRR308194.stranded.plot
+

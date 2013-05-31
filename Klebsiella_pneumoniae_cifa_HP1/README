@@ -1,0 +1,16 @@
+EMBL GENOME INFO:
+ID   	CP003200
+OS   	Klebsiella pneumoniae subsp. pneumoniae HS11286
+OC   	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   	Enterobacteriaceae; Klebsiella.
+
+TRANSCRIPTOME INFO:
+TAXID 		1124990
+PMID
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA048562
+XREFS
+
+PLOT FILES:
+SRR389178.stranded.plot
+SRR389180.stranded.plot
+

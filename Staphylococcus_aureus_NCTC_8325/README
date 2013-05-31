@@ -1,0 +1,20 @@
+EMBL GENOME INFO:
+ID   	CP000253
+OS   	Staphylococcus aureus subsp. aureus NCTC 8325
+OC   	Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcus.
+
+TRANSCRIPTOME INFO:
+TAXID		93061
+PMID
+SOURCE	http://www.ncbi.nlm.nih.gov/sra/?term=SRA023572
+XREFS
+
+PLOT FILES:
+SRP003288-SRR064320.fastq.stranded.plot	
+SRP003288-SRR064321.fastq.stranded.plot	
+SRP003288-SRR064322.fastq.stranded.plot	
+SRP003288-SRR388335.fastq.stranded.plot	
+SRP003288-SRR397556.stranded.plot	
+SRP003288-SRR397557.stranded.plot	
+SRP003288-SRR397558.stranded.plot
+
