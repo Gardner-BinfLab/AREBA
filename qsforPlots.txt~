@@ -1,0 +1,41 @@
+Sp	Stranded_based_on_GCor	ncRNA_Detectable	mRNA_Detectable	Genome_Cor_#	Stranded_based_on_AnnotCor	Quality	Comment
+Bacillus_anthracis_Sterne	No	No	No	0.7077163	No	3/5	#ncRNA expressions are very low for ncRNAs and it is same for HK CDS. It contains relatively high expressed regions.
+Burkholderia_glumae_BGR1(CP001503.2)	No	Yes	Yes	0.8576619	No
+Burkholderia_glumae_BGR1(CP001504.2)	No	Yes	Yes	0.8840359	No
+Chlamydophila_pneumoniae_CWL029	Yes	Yes	Yes	-0.01523607	Yes
+Citrobacter_rodentium	Yes	Yes	Yes	0.1678329	Yes	#OK
+Clostridium_beijerinckii_NCIMB_8052	No	Yes	Yes	0.8623019	No	#CDS expressions are relatively lower than Rfam annotations
+Clostridium_difficile_630	Yes	Yes	Yes	0.01353377	Yes	#OK
+Escherichia_coli_ETEC_E24377A	No	Yes	Yes	0.5645216	No	#OK
+Escherichia_coli_K-12_MG1665	No	Yes	Yes	0.9267131	No	#OK
+Frankia_sp._CcI3	No	Yes	Yes	0.9709436	No	#CDS expressions are relatively lower than Rfam annotations
+Helicobacter_pylori	Yes	Yes	Yes	-0.02887973	Yes
+Histophilus_somnus_2336	No	Yes	Yes	0.9563624	No	#CDS expressions are relatively lower than Rfam annotations
+Klebsiella_pneumoniae_cifa_HP1	Yes	Yes	Yes	-0.02750725	Yes
+Legionella_pneumophila	No	Yes	Yes	0.2855178	No	#OK
+Listeria_monocytogenes	No	Yes	Yes	0.51613	No	#CDS expressions are relatively lower than Rfam annotations
+Methanobrevibacter_smithii_ATCC_35061	No	Yes	Yes	0.9319701	No
+Mycobacterium_tuberculosis_H37Rv	No	Yes	Yes	0.7631345	No	#CDS expressions are relatively lower than Rfam annotations
+Mycoplasma_pneumoniae_M129	Yes	Yes	Yes	-0.007186575	Yes	#OK
+Neisseria_gonorrhoeae_FA_1090	Yes	Yes	Yes	-0.004893416	Yes	#OK
+Porphyromonas_gingivalis_ATCC_33277	No	Yes	Yes	0.7182894	No
+Porphyromonas_gingivalis_W83	Yes	Yes	Yes	-0.01173028	Yes	#CDS expressions are relatively lower than Rfam annotations
+Prochlorococcus_marinus_MED4_CCMP1986	No	Yes	Yes	0.8084533	No	#Overexpression on certain annotations
+Proteus_mirabilis	No	Yes	Yes	0.7383808	No	#OK
+Pseudomonas_aeruginosa_PA14	Yes	Yes	Yes	-0.003875472	Yes	#OK
+Pseudomonas_putida_KT2440	No	Yes	Yes	0.2772065	No	#OK
+Rhodobacter_sphaeroides(CP000143.1)	No	Yes	Yes	0.9569357	No	#OK
+Rhodobacter_sphaeroides(CP000144.1)	No	Yes	Yes	0.9066651	No	#OK
+Salmonella_enterica_Typhi_Ty2	Yes	Yes	Yes	0.1749172	Yes	2/5	#Expression is noisy on some annotations, (seems stranded), ribosomal CDS expression low
+Staphylococcus_aureus_NCTC_8325	No	Yes	Yes	0.8247668	No	#OK
+Stenotrophomonas_maltophilia	Yes	Yes	Yes	-0.001897398	Yes	#CDS expressions are relatively lower than Rfam annotations
+Sulfolobus_solfataricus_P2	No	Yes	Yes	0.6084317	No	#OK
+Synechococcus_elongatus_PCC_7002	Yes	Yes	Yes	-0.005018441	Yes	#OK
+Synechococcus_elongatus_PCC_7942	No	Yes	Yes	0.3379183	No	1/5	#CDS expressions are relatively lower than Rfam annotations, depth is high on every location. Dubious correlation
+Vibrio_cholerae_O1_biovar_El_Tor_N16961(AE003853)	Yes	Yes	Yes	-0.01004914	Yes	#Strands are probably reverse in plot file. Rfam annotations are low in number.
+Xanthomonas_citri_subsp._citri_306	No	Yes	Yes	0.9246703	No	#OK
+Nanoarchaeum_equitans_Ignicoccus_hospitalis	Yes	Yes	Yes	Yes	5/5	-0.01802436	#OK
+Pyrococcus_furiosus	Yes	Yes	Yes	-0.000709404	Yes	3/5	#CDS expressions are relatively lower than Rfam annotations
+Bacillus_cereus_ATCC_14579	No	Yes	Yes	0.797656	No	4/5	#OK
+Bacillus_cereus_ATCC_10987	No	Yes	Yes	0.8046342	No	4/5	#OK
+Ignicoccus_hospitalis	Yes	Yes	Yes	-0.005352063	Yes	3/5	#Overexpression on some Rfam annotations, CDS ribosomal regions have lower expressions
