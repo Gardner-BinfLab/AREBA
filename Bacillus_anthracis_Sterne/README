@@ -12,10 +12,18 @@ XREFS		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM341367
 		http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM341368   
 
 PLOT FILES:
+GSE13543-GSM343458_1.stranded.plot
+GSE13543-GSM343459_2A.stranded.plot
+GSE13543-GSM343459_2B.stranded.plot
+GSE13543-GSM343460_5.stranded.plot
+GSE13543-GSM343461_6A.stranded.plot
+GSE13543-GSM343461_6B.stranded.plot
+GSE13543-GSM343462_7.stranded.plot
+GSE13543-GSM343463_8A.stranded.plot
+GSE13543-GSM343463_8B.stranded.plot
 SRP001274-SRR028684.stranded.plot
 SRP001274-SRR028685.stranded.plot
 SRP001274-SRR028686.stranded.plot
 SRP001274-SRR028687.stranded.plot
 SRP001274-SRR028688.stranded.plot
 SRP001274-SRR028689.stranded.plot
-

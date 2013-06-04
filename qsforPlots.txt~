@@ -1,9 +1,9 @@
-Sp	Stranded_based_on_GCor	ncRNA_Detectable	mRNA_Detectable	Genome_Cor_#	Stranded_based_on_AnnotCor	Quality	Comment
-Bacillus_anthracis_Sterne	No	No	No	0.7077163	No	3/5	#ncRNA expressions are very low for ncRNAs and it is same for HK CDS. It contains relatively high expressed regions.
-Burkholderia_glumae_BGR1(CP001503.2)	No	Yes	Yes	0.8576619	No
-Burkholderia_glumae_BGR1(CP001504.2)	No	Yes	Yes	0.8840359	No
-Chlamydophila_pneumoniae_CWL029	Yes	Yes	Yes	-0.01523607	Yes
-Citrobacter_rodentium	Yes	Yes	Yes	0.1678329	Yes	#OK
+Sp	Stranded_based_on_GCor	ncRNA_Detectable	mRNA_Detectable	Genome_Cor_#	Stranded_based_on_AnnotCor	Quality_Score	Comment
+Bacillus_anthracis_Sterne	No	No	No	0.6443139	No	4/5	#OK
+Burkholderia_glumae_BGR1(CP001503.2)	No	Yes	Yes	0.8576619	No	4/5	#OK
+Burkholderia_glumae_BGR1(CP001504.2)	No	Yes	Yes	0.8840359	No	4/5	#OK
+Chlamydophila_pneumoniae_CWL029	Yes	Yes	Yes	-0.01523607	Yes	2/5	#Expressions are only on certain locations. Low information.
+Citrobacter_rodentium	Yes	Yes	Yes	0.1678329	Yes	4/5	#Strands are reverse in the plot file. Noisy.
 Clostridium_beijerinckii_NCIMB_8052	No	Yes	Yes	0.8623019	No	#CDS expressions are relatively lower than Rfam annotations
 Clostridium_difficile_630	Yes	Yes	Yes	0.01353377	Yes	#OK
 Escherichia_coli_ETEC_E24377A	No	Yes	Yes	0.5645216	No	#OK
@@ -15,6 +15,7 @@ Klebsiella_pneumoniae_cifa_HP1	Yes	Yes	Yes	-0.02750725	Yes
 Legionella_pneumophila	No	Yes	Yes	0.2855178	No	#OK
 Listeria_monocytogenes	No	Yes	Yes	0.51613	No	#CDS expressions are relatively lower than Rfam annotations
 Methanobrevibacter_smithii_ATCC_35061	No	Yes	Yes	0.9319701	No
+
 Mycobacterium_tuberculosis_H37Rv	No	Yes	Yes	0.7631345	No	#CDS expressions are relatively lower than Rfam annotations
 Mycoplasma_pneumoniae_M129	Yes	Yes	Yes	-0.007186575	Yes	#OK
 Neisseria_gonorrhoeae_FA_1090	Yes	Yes	Yes	-0.004893416	Yes	#OK
