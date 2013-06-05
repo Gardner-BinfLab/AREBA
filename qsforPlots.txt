@@ -5,20 +5,19 @@ Burkholderia_glumae_BGR1(CP001504.2)	No	Yes	Yes	0.8840359	No	4/5	#OK
 Chlamydophila_pneumoniae_CWL029	Yes	Yes	Yes	-0.01523607	Yes	2/5	#Expressions are only on certain locations. Low information.
 Citrobacter_rodentium	Yes	Yes	Yes	0.1678329	Yes	4/5	#Strands are reverse in the plot file. Noisy.
 Clostridium_beijerinckii_NCIMB_8052	No	Yes	Yes	0.8623019	No	3/5	#CDS expressions are relatively lower than Rfam annotations.
-Clostridium_difficile_630	Yes	Yes	Yes	0.01353377	Yes	#OK
-Escherichia_coli_ETEC_E24377A	No	Yes	Yes	0.5645216	No	#OK
-Escherichia_coli_K-12_MG1665	No	Yes	Yes	0.9267131	No	#OK
-Frankia_sp._CcI3	No	Yes	Yes	0.9709436	No	#CDS expressions are relatively lower than Rfam annotations
-Helicobacter_pylori	Yes	Yes	Yes	-0.02887973	Yes
-Histophilus_somnus_2336	No	Yes	Yes	0.9563624	No	#CDS expressions are relatively lower than Rfam annotations
-Klebsiella_pneumoniae_cifa_HP1	Yes	Yes	Yes	-0.02750725	Yes
-Legionella_pneumophila	No	Yes	Yes	0.2855178	No	#OK
-Listeria_monocytogenes	No	Yes	Yes	0.51613	No	#CDS expressions are relatively lower than Rfam annotations
-Methanobrevibacter_smithii_ATCC_35061	No	Yes	Yes	0.9319701	No
-
-Mycobacterium_tuberculosis_H37Rv	No	Yes	Yes	0.7631345	No	#CDS expressions are relatively lower than Rfam annotations
-Mycoplasma_pneumoniae_M129	Yes	Yes	Yes	-0.007186575	Yes	#OK
-Neisseria_gonorrhoeae_FA_1090	Yes	Yes	Yes	-0.004893416	Yes	#OK
+Clostridium_difficile_630	Yes	Yes	Yes	0.01353377	Yes	4/5	#OK
+Escherichia_coli_ETEC_E24377A	No	Yes	Yes	0.5645216	No	4/5	#OK
+Escherichia_coli_K-12_MG1665	No	Yes	Yes	0.9267131	No	4/5	#OK	
+Frankia_sp._CcI3	No	Yes	Yes	0.9709436	No	3/5	#CDS HK expressions are relatively lower than Rfam annotations. Noisy
+Helicobacter_pylori	Yes	Yes	Yes	-0.02887973	Yes	5/5	#OK
+Histophilus_somnus_2336	No	Yes	Yes	0.9563624	No	3/5	#CDS expressions are relatively lower than Rfam annotations. Noisy
+Klebsiella_pneumoniae_cifa_HP1	Yes	Yes	Yes	-0.02750725	Yes	5/5	#OK
+Legionella_pneumophila	No	Yes	Yes	0.2855178	Yes	3/5	# Stranded according to annotations and manual check. Probably strands are reversed.
+Listeria_monocytogenes	No	Yes	Yes	0.51613	No	3/5	#CDS expressions are relatively lower than Rfam annotations. Noisy.
+Methanobrevibacter_smithii_ATCC_35061	No	Yes	Yes	0.9319701	No	4/5	#OK, HK genes expression low.
+Mycobacterium_tuberculosis_H37Rv	Yes	Yes	Yes	-0.02550697	Yes	5/5	#Recreated max.plot file only used *stranded.plot.
+Mycoplasma_pneumoniae_M129	Yes	Yes	Yes	-0.007186575	Yes	4/5	#OK, some HK genes expression low.
+Neisseria_gonorrhoeae_FA_1090	Yes	Yes	Yes	-0.004893416	Yes	5/5	#OK
 Porphyromonas_gingivalis_ATCC_33277	No	Yes	Yes	0.7182894	No
 Porphyromonas_gingivalis_W83	Yes	Yes	Yes	-0.01173028	Yes	#CDS expressions are relatively lower than Rfam annotations
 Prochlorococcus_marinus_MED4_CCMP1986	No	Yes	Yes	0.8084533	No	#Overexpression on certain annotations
