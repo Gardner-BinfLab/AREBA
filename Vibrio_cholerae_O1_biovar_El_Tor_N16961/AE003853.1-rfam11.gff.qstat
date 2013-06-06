@@ -1,15 +1,15 @@
-AE003853.1	Rfam	ncRNA	48448	48555	115.18	+	.	ID=RF00378.1;Name=RF00378;Alias=Qrr;Note=AE003853.1/48448-48555	Median_depth_stranded:	0	(DPM:0.00),combined:88(DPM:1.69),correlation:	0.03
-AE003853.1	Rfam	regulatory_region	184092	184520	109.42	+	.	ID=RF01766.1;Name=RF01766;Alias=cspA;Note=AE003853.1/184092-184520	Median_depth_stranded:	2	(DPM:0.04),combined:2776(DPM:53.38),correlation:	0.18
-AE003853.1	Rfam	regulatory_region	203399	203844	71.01	-	.	ID=RF01766.2;Name=RF01766;Alias=cspA;Note=AE003853.1/203844-203399	Median_depth_stranded:	2	(DPM:0.04),combined:915(DPM:17.60),correlation:	0.17
-AE003853.1	Rfam	regulatory_region	232124	232296	124.08	-	.	ID=RF00168.1;Name=RF00168;Alias=Lysine;Note=AE003853.1/232296-232124	Median_depth_stranded:	1	(DPM:0.02),combined:406(DPM:7.81),correlation:	-0.28
-AE003853.1	Rfam	ncRNA	494884	494955	64.42	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AE003853.1/494884-494955	Median_depth_stranded:	1	(DPM:0.02),combined:2140(DPM:41.15),correlation:	-0.70
-AE003853.1	Rfam	ncRNA	699566	699636	52.93	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AE003853.1/699636-699566	Median_depth_stranded:	1	(DPM:0.02),combined:70(DPM:1.35),correlation:	-0.76
-AE003853.1	Rfam	ncRNA	699664	699747	53.14	-	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=AE003853.1/699747-699664	Median_depth_stranded:	0	(DPM:0.00),combined:252(DPM:4.85),correlation:	0.44
-AE003853.1	Rfam	regulatory_region	755256	755362	54.54	+	.	ID=RF01051.1;Name=RF01051;Alias=c-di-GMP-I;Note=AE003853.1/755256-755362	Median_depth_stranded:	3	(DPM:0.06),combined:6(DPM:0.12),correlation:	-0.74
-AE003853.1	Rfam	ncRNA	772257	772366	100.11	+	.	ID=RF00378.2;Name=RF00378;Alias=Qrr;Note=AE003853.1/772257-772366	Median_depth_stranded:	3	(DPM:0.06),combined:18(DPM:0.35),correlation:	-0.22
-AE003853.1	Rfam	ncRNA	783777	784101	52.09	-	.	ID=RF00018.1;Name=RF00018;Alias=CsrB;Note=AE003853.1/784101-783777	Median_depth_stranded:	20	(DPM:0.38),combined:8019(DPM:154.21),correlation:	0.24
-AE003853.1	Rfam	regulatory_region	885898	886318	116.24	+	.	ID=RF01766.3;Name=RF01766;Alias=cspA;Note=AE003853.1/885898-886318	Median_depth_stranded:	0	(DPM:0.00),combined:60(DPM:1.15),correlation:	-0.49
-AE003853.1	Rfam	ncRNA	893271	893460	175.33	-	.	ID=RF01808.1;Name=RF01808;Alias=MicX;Note=AE003853.1/893460-893271	Median_depth_stranded:	4	(DPM:0.08),combined:1233(DPM:23.71),correlation:	-0.29
-AE003853.1	Rfam	ncRNA	908201	908307	102.31	-	.	ID=RF00378.3;Name=RF00378;Alias=Qrr;Note=AE003853.1/908307-908201	Median_depth_stranded:	1	(DPM:0.02),combined:96(DPM:1.85),correlation:	-0.06
-AE003853.1	Rfam	ncRNA	994755	994876	105.76	-	.	ID=RF02268.1;Name=RF02268;Alias=MtlS;Note=AE003853.1/994876-994755	Median_depth_stranded:	16	(DPM:0.31),combined:1335(DPM:25.67),correlation:	-0.53
-AE003853.1	Rfam	regulatory_region	1011455	1011593	111.88	-	.	ID=RF00050.1;Name=RF00050;Alias=FMN;Note=AE003853.1/1011593-1011455	Median_depth_stranded:	0	(DPM:0.00),combined:90(DPM:1.73),correlation:	-0.49
+AE003853.1	Rfam	ncRNA	48448	48555	115.18	+	.	ID=RF00378.1;Name=RF00378;Alias=Qrr;Note=AE003853.1/48448-48555;Median_depth_stranded:$0$(DPM:$0.00$),combined:$88$(DPM:$1.69$),correlation:$0.03$
+AE003853.1	Rfam	regulatory_region	184092	184520	109.42	+	.	ID=RF01766.1;Name=RF01766;Alias=cspA;Note=AE003853.1/184092-184520;Median_depth_stranded:$2$(DPM:$0.04$),combined:$2776$(DPM:$53.38$),correlation:$0.18$
+AE003853.1	Rfam	regulatory_region	203399	203844	71.01	-	.	ID=RF01766.2;Name=RF01766;Alias=cspA;Note=AE003853.1/203844-203399;Median_depth_stranded:$2$(DPM:$0.04$),combined:$915$(DPM:$17.60$),correlation:$0.17$
+AE003853.1	Rfam	regulatory_region	232124	232296	124.08	-	.	ID=RF00168.1;Name=RF00168;Alias=Lysine;Note=AE003853.1/232296-232124;Median_depth_stranded:$1$(DPM:$0.02$),combined:$406$(DPM:$7.81$),correlation:$-0.28$
+AE003853.1	Rfam	ncRNA	494884	494955	64.42	+	.	ID=RF00005.1;Name=RF00005;Alias=tRNA;Note=AE003853.1/494884-494955;Median_depth_stranded:$1$(DPM:$0.02$),combined:$2140$(DPM:$41.15$),correlation:$-0.70$
+AE003853.1	Rfam	ncRNA	699566	699636	52.93	-	.	ID=RF00005.2;Name=RF00005;Alias=tRNA;Note=AE003853.1/699636-699566;Median_depth_stranded:$1$(DPM:$0.02$),combined:$70$(DPM:$1.35$),correlation:$-0.76$
+AE003853.1	Rfam	ncRNA	699664	699747	53.14	-	.	ID=RF00005.3;Name=RF00005;Alias=tRNA;Note=AE003853.1/699747-699664;Median_depth_stranded:$0$(DPM:$0.00$),combined:$252$(DPM:$4.85$),correlation:$0.44$
+AE003853.1	Rfam	regulatory_region	755256	755362	54.54	+	.	ID=RF01051.1;Name=RF01051;Alias=c-di-GMP-I;Note=AE003853.1/755256-755362;Median_depth_stranded:$3$(DPM:$0.06$),combined:$6$(DPM:$0.12$),correlation:$-0.74$
+AE003853.1	Rfam	ncRNA	772257	772366	100.11	+	.	ID=RF00378.2;Name=RF00378;Alias=Qrr;Note=AE003853.1/772257-772366;Median_depth_stranded:$3$(DPM:$0.06$),combined:$18$(DPM:$0.35$),correlation:$-0.22$
+AE003853.1	Rfam	ncRNA	783777	784101	52.09	-	.	ID=RF00018.1;Name=RF00018;Alias=CsrB;Note=AE003853.1/784101-783777;Median_depth_stranded:$20$(DPM:$0.38$),combined:$8019$(DPM:$154.21$),correlation:$0.24$
+AE003853.1	Rfam	regulatory_region	885898	886318	116.24	+	.	ID=RF01766.3;Name=RF01766;Alias=cspA;Note=AE003853.1/885898-886318;Median_depth_stranded:$0$(DPM:$0.00$),combined:$60$(DPM:$1.15$),correlation:$-0.49$
+AE003853.1	Rfam	ncRNA	893271	893460	175.33	-	.	ID=RF01808.1;Name=RF01808;Alias=MicX;Note=AE003853.1/893460-893271;Median_depth_stranded:$4$(DPM:$0.08$),combined:$1233$(DPM:$23.71$),correlation:$-0.29$
+AE003853.1	Rfam	ncRNA	908201	908307	102.31	-	.	ID=RF00378.3;Name=RF00378;Alias=Qrr;Note=AE003853.1/908307-908201;Median_depth_stranded:$1$(DPM:$0.02$),combined:$96$(DPM:$1.85$),correlation:$-0.06$
+AE003853.1	Rfam	ncRNA	994755	994876	105.76	-	.	ID=RF02268.1;Name=RF02268;Alias=MtlS;Note=AE003853.1/994876-994755;Median_depth_stranded:$16$(DPM:$0.31$),combined:$1335$(DPM:$25.67$),correlation:$-0.53$
+AE003853.1	Rfam	regulatory_region	1011455	1011593	111.88	-	.	ID=RF00050.1;Name=RF00050;Alias=FMN;Note=AE003853.1/1011593-1011455;Median_depth_stranded:$0$(DPM:$0.00$),combined:$90$(DPM:$1.73$),correlation:$-0.49$
