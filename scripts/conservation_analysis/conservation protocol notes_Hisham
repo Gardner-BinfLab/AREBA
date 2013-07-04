@@ -1,0 +1,16 @@
+01- moved the files that have .embl into a directory "emble.new_genomes", converted to gff using "embl2gff_hisham.pl"
+02- 3 copies of 3 different names involved AM180355 so I retained only AM180355-new-alicia-v1.embl
+03- Retained the coordinates for RUF notes of the ncRNAs from each genome. (Genomes converted to gff and ruf coordinates saved in rufEntries.gff using embl2gff_hisham.pl)
+04- Cleaned rufEntries.gff into rufEntries_clean.gff (to retain only the RUF seqID and start-end of the sequences, 34 uniq IDs having 1490 coordinates). awk 'FS="\t" {print $1}' rufEntries_clean.gff | uniq |wc
+05- Extracted the sequences related to the coordinates in rufEntries_clean.gff into extracted_seqs.fa (1490 sequences using extractSeqs.pl)
+06- Removed redundant sequences in extracted_seqs.fa (similar coordinate and IDs). 
+07- Cracked extracted_seqs.fa in separate Fasta files saved in folder nhmmer
+08- Concatenated the embl genomes into one big file 
+09- Run nhmmer on the Allgenomes.embl using the extracted sequences (runNHMMER.pl).
+10- concatenate the genome and archae taxonomy files in folder taxonomyClassification/ (cat bacteria.taxonomy.ClassMatch.txt archaea.taxonomy.ClassMatch.txt > combined.taxonomy.ClassMatch.txt)
+11- collect sequences that nhmmer identified in more than one species by parsing the tablulated output using nhmmerTableParse.pl. (Syntax "perl nhmmerTableParse.pl > Conservation_Counts.txt")
+12- The output is saved in Conservation_Counts.txt
+
+
+Wrote few little programs. embl2gff_hisham.pl, extractSeqs.pl and runNHMMER.pl, nhmmerTableParse_v1.pl
+I skipped some genomes in nhmmer. These are AM942759 and CP002382 as the gff coordinates don't seem to be concordant with the genome index. 
