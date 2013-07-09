@@ -1,0 +1,11 @@
+AM180355	nHMMer	dnaG	1682910	1683964	349.4	+	.	Clostridium;difficile;630;complete;genome
+AM180355	nHMMer	infC	831229	831756	207.2	+	.	Clostridium;difficile;630;complete;genome
+AM180355	nHMMer	nusA	1516758	1517904	527.0	+	.	Clostridium;difficile;630;complete;genome
+AM180355	nHMMer	nusA	1448412	1448569	10.7	+	.	Clostridium;difficile;630;complete;genome
+AM180355	nHMMer	rpmA	1361901	1362158	140.5	+	.	Clostridium;difficile;630;complete;genome
+AM180355	nHMMer	rpsB	2476128	2476833	411.8	-	.	Clostridium;difficile;630;complete;genome
+AM180355	nHMMer	rpsE	110716	111224	294.2	+	.	Clostridium;difficile;630;complete;genome
+AM180355	nHMMer	rpsJ	102491	102788	160.9	+	.	Clostridium;difficile;630;complete;genome
+AM180355	nHMMer	rpsM	115474	115839	171.8	+	.	Clostridium;difficile;630;complete;genome
+AM180355	nHMMer	rpsM	2998759	2998867	13.3	+	.	Clostridium;difficile;630;complete;genome
+AM180355	nHMMer	smpB	3687910	3688346	180.0	-	.	Clostridium;difficile;630;complete;genome

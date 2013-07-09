@@ -1,0 +1,13 @@
+CP000249	nHMMer	dnaG	1532199	1533370	397.1	+	.	Frankia;sp.;CcI3,;complete;genome.;Median_depth_stranded:$25$(DPM:$0.05$),combined:$48$(DPM:$0.09$),correlation:$0.74$,norm_strand:$1.00$,comb_strand:$1.00
+CP000249	nHMMer	dnaG	2731422	2731694	81.8	+	.	Frankia;sp.;CcI3,;complete;genome.;Median_depth_stranded:$16$(DPM:$0.03$),combined:$40$(DPM:$0.08$),correlation:$-0.50$,norm_strand:$0.00$,comb_strand:$0.00
+CP000249	nHMMer	infC	3770457	3770967	315.1	-	.	Frankia;sp.;CcI3,;complete;genome.;Median_depth_stranded:$65$(DPM:$0.13$),combined:$115$(DPM:$0.23$),correlation:$0.79$,norm_strand:$2.00$,comb_strand:$2.00
+CP000249	nHMMer	nusA	4262712	4263657	388.6	-	.	Frankia;sp.;CcI3,;complete;genome.;Median_depth_stranded:$25$(DPM:$0.05$),combined:$48$(DPM:$0.09$),correlation:$0.73$,norm_strand:$1.00$,comb_strand:$1.00
+CP000249	nHMMer	nusA	1259200	1259374	18.8	+	.	Frankia;sp.;CcI3,;complete;genome.;Median_depth_stranded:$173$(DPM:$0.34$),combined:$445$(DPM:$0.88$),correlation:$0.80$,norm_strand:$8.00$,comb_strand:$10.00
+CP000249	nHMMer	nusA	864488	864609	11.9	+	.	Frankia;sp.;CcI3,;complete;genome.;Median_depth_stranded:$65$(DPM:$0.13$),combined:$111$(DPM:$0.22$),correlation:$0.77$,norm_strand:$2.00$,comb_strand:$2.00
+CP000249	nHMMer	pyrG	3735184	3736790	881.2	-	.	Frankia;sp.;CcI3,;complete;genome.;Median_depth_stranded:$34$(DPM:$0.07$),combined:$81$(DPM:$0.16$),correlation:$0.68$,norm_strand:$1.00$,comb_strand:$1.00
+CP000249	nHMMer	rpmA	1460415	1460622	102.7	+	.	Frankia;sp.;CcI3,;complete;genome.;Median_depth_stranded:$89$(DPM:$0.18$),combined:$185$(DPM:$0.36$),correlation:$-0.04$,norm_strand:$3.00$,comb_strand:$3.00
+CP000249	nHMMer	rpsB	4280434	4281110	446.8	-	.	Frankia;sp.;CcI3,;complete;genome.;Median_depth_stranded:$143$(DPM:$0.28$),combined:$261$(DPM:$0.51$),correlation:$0.74$,norm_strand:$6.00$,comb_strand:$5.00
+CP000249	nHMMer	rpsE	686253	686724	293.8	+	.	Frankia;sp.;CcI3,;complete;genome.;Median_depth_stranded:$43$(DPM:$0.08$),combined:$82$(DPM:$0.16$),correlation:$0.05$,norm_strand:$2.00$,comb_strand:$1.00
+CP000249	nHMMer	rpsJ	677312	677618	185.7	+	.	Frankia;sp.;CcI3,;complete;genome.;Median_depth_stranded:$102$(DPM:$0.20$),combined:$184$(DPM:$0.36$),correlation:$0.56$,norm_strand:$4.00$,comb_strand:$4.00
+CP000249	nHMMer	rpsM	691592	691959	182.6	+	.	Frankia;sp.;CcI3,;complete;genome.;Median_depth_stranded:$54$(DPM:$0.11$),combined:$98$(DPM:$0.19$),correlation:$0.93$,norm_strand:$2.00$,comb_strand:$2.00
+CP000249	nHMMer	smpB	932994	933421	216.3	+	.	Frankia;sp.;CcI3,;complete;genome.;Median_depth_stranded:$56$(DPM:$0.11$),combined:$91$(DPM:$0.18$),correlation:$-0.02$,norm_strand:$2.00$,comb_strand:$2.00

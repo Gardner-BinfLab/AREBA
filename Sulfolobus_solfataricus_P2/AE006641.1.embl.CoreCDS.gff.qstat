@@ -1,0 +1,16 @@
+AE006641	nHMMer	dnaG	1697644	1699052	14.6	-	.	Sulfolobus;solfataricus;P2,;complete;genome.;Median_depth_stranded:$2$(DPM:$0.02$),combined:$5$(DPM:$0.05$),correlation:$0.28$,norm_strand:$0.00$,comb_strand:$1.00
+AE006641	nHMMer	dnaG	1921178	1922434	9.9	+	.	Sulfolobus;solfataricus;P2,;complete;genome.;Median_depth_stranded:$2$(DPM:$0.02$),combined:$5$(DPM:$0.05$),correlation:$0.23$,norm_strand:$0.00$,comb_strand:$1.00
+AE006641	nHMMer	dnaG	114048	115455	9.3	+	.	Sulfolobus;solfataricus;P2,;complete;genome.;Median_depth_stranded:$2$(DPM:$0.02$),combined:$5$(DPM:$0.05$),correlation:$0.05$,norm_strand:$0.00$,comb_strand:$1.00
+AE006641	nHMMer	dnaG	1630304	1631089	9.0	-	.	Sulfolobus;solfataricus;P2,;complete;genome.;Median_depth_stranded:$1$(DPM:$0.01$),combined:$3$(DPM:$0.03$),correlation:$0.32$,norm_strand:$0.00$,comb_strand:$0.00
+AE006641	nHMMer	dnaG	1978734	1980089	7.6	+	.	Sulfolobus;solfataricus;P2,;complete;genome.;Median_depth_stranded:$6$(DPM:$0.05$),combined:$15$(DPM:$0.14$),correlation:$0.29$,norm_strand:$2.00$,comb_strand:$3.00
+AE006641	nHMMer	dnaG	1369384	1370676	7.6	+	.	Sulfolobus;solfataricus;P2,;complete;genome.;Median_depth_stranded:$4$(DPM:$0.04$),combined:$10$(DPM:$0.09$),correlation:$0.73$,norm_strand:$1.00$,comb_strand:$2.00
+AE006641	nHMMer	dnaG	452159	453158	7.1	+	.	Sulfolobus;solfataricus;P2,;complete;genome.;Median_depth_stranded:$1$(DPM:$0.01$),combined:$6$(DPM:$0.05$),correlation:$0.70$,norm_strand:$0.00$,comb_strand:$1.00
+AE006641	nHMMer	dnaG	1212771	1214396	7.0	-	.	Sulfolobus;solfataricus;P2,;complete;genome.;Median_depth_stranded:$1$(DPM:$0.01$),combined:$3$(DPM:$0.03$),correlation:$0.37$,norm_strand:$0.00$,comb_strand:$0.00
+AE006641	nHMMer	nusA	323642	323884	19.8	-	.	Sulfolobus;solfataricus;P2,;complete;genome.;Median_depth_stranded:$13$(DPM:$0.12$),combined:$24$(DPM:$0.22$),correlation:$0.49$,norm_strand:$4.00$,comb_strand:$4.00
+AE006641	nHMMer	pyrG	174329	175922	784.8	-	.	Sulfolobus;solfataricus;P2,;complete;genome.;Median_depth_stranded:$6$(DPM:$0.05$),combined:$9$(DPM:$0.08$),correlation:$-0.01$,norm_strand:$2.00$,comb_strand:$1.00
+AE006641	nHMMer	rpsB	55569	55750	45.0	-	.	Sulfolobus;solfataricus;P2,;complete;genome.;Median_depth_stranded:$28$(DPM:$0.25$),combined:$41$(DPM:$0.37$),correlation:$-0.33$,norm_strand:$9.00$,comb_strand:$6.00
+AE006641	nHMMer	rpsB	323745	323917	11.1	-	.	Sulfolobus;solfataricus;P2,;complete;genome.;Median_depth_stranded:$10$(DPM:$0.09$),combined:$17$(DPM:$0.15$),correlation:$-0.11$,norm_strand:$3.00$,comb_strand:$3.00
+AE006641	nHMMer	rpsE	602212	602767	67.4	-	.	Sulfolobus;solfataricus;P2,;complete;genome.;Median_depth_stranded:$10$(DPM:$0.09$),combined:$14$(DPM:$0.13$),correlation:$0.22$,norm_strand:$3.00$,comb_strand:$2.00
+AE006641	nHMMer	rpsJ	185266	185555	63.5	-	.	Sulfolobus;solfataricus;P2,;complete;genome.;Median_depth_stranded:$38$(DPM:$0.35$),combined:$63$(DPM:$0.57$),correlation:$-0.03$,norm_strand:$12.00$,comb_strand:$12.00
+AE006641	nHMMer	rpsM	59401	59806	41.2	-	.	Sulfolobus;solfataricus;P2,;complete;genome.;Median_depth_stranded:$60$(DPM:$0.55$),combined:$73$(DPM:$0.66$),correlation:$-0.21$,norm_strand:$20.00$,comb_strand:$12.00
+AE006641	nHMMer	rpsM	827381	827491	14.9	+	.	Sulfolobus;solfataricus;P2,;complete;genome.;Median_depth_stranded:$8$(DPM:$0.07$),combined:$11$(DPM:$0.10$),correlation:$-0.19$,norm_strand:$2.00$,comb_strand:$2.00

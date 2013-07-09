@@ -1,0 +1,3 @@
+CP001504	nHMMer	dnaG	2007927	2009131	500.7	-	.	Burkholderia;glumae;BGR1;chromosome;2,;complete;sequence.;Median_depth_stranded:$17$(DPM:$0.11$),combined:$38$(DPM:$0.25$),correlation:$0.01$,norm_strand:$4.00$,comb_strand:$5.00
+CP001504	nHMMer	nusA	2005940	2006105	8.6	-	.	Burkholderia;glumae;BGR1;chromosome;2,;complete;sequence.;Median_depth_stranded:$60$(DPM:$0.39$),combined:$184$(DPM:$1.19$),correlation:$-0.71$,norm_strand:$15.00$,comb_strand:$26.00
+CP001504	nHMMer	rpsB	1926521	1926597	11.1	-	.	Burkholderia;glumae;BGR1;chromosome;2,;complete;sequence.;Median_depth_stranded:$3$(DPM:$0.02$),combined:$3$(DPM:$0.02$),correlation:$-0.15$,norm_strand:$0.00$,comb_strand:$0.00

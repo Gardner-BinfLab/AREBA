@@ -1,57 +1,49 @@
-Sp	Exp	CDS_On	ncRNA_On	Strand_Cor	Annot_Concordance_(CDS100)
-Bacillus_anthracis	GSE13543	1	0.3	0.6175165	0.97
-Bacillus_anthracis	SRP001274	1	1	0.7077163	0.29
-Bacillus_cereus_ATCC_10987	ERR031734	0.9	1	0.8	0.63
-Bacillus_cereus_ATCC_14579	ERR031734	1	1	0.797656	0.67
-Burkholderia_glumae_BGR1.CP001503	SRP011470	1	1	0.8576619	0.58
-Burkholderia_glumae_BGR1.CP001504	SRP011470	0.9	1	0.8840359	0.54
-Chlamydophila_pneumoniae_CWL029	SRP004041	0.5	0.83	-0.01523607	0
-Citrobacter_rodentium	ERP000493	1	1	0.1678329	0
-Clostridium_beijerinckii_NCIMB_8052	SRP008141	1	1	0.8623019	0.6
-Escherichia_coli_ETEC_E24377A	SRP008239	1	1	0.5645216	0.48
-Escherichia_coli_K-12_MG1665	SRP011371	1	1	0.9267131	0.62
-Frankia_sp._CcI3	SRP007469	0.9	0.9	0.9709436	0.56
-Helicobacter_pylori	SRP001481	1	1	-0.02887973	0.08
-Histophilus_somnus_2336	GSM732300	1	0.5	0.9563624	0.28
-Ignicoccus_hospitalis	SRP013830	0.7	1	-0.005352063	0.02
-Klebsiella_pneumoniae_cifa_HP1	SRP009682	1	0.3	-0.02750725	0.08
-Legionella_pneumophila	SRP005683	0.666667	1	0.2855178	0.87
-Listeria_monocytogenes	FROM_STAPH	1	1	0.007795517	0.41
-Listeria_monocytogenes	SRP001753	0.6	1	0.841028	0
-Methanobrevibacter_smithii_ATCC_35061	SRP004631	1	1	0.9319701	0.35
-Mycobacterium_tuberculosis_H37Rv	SRP015746	0.6	1	-0.02550697	0
-Mycobacterium_tuberculosis_H37Rv	Rnaseq	0.1	1	0.7641951	0.03
-Mycoplasma_pneumoniae_M129	SRP000937	1	0.66	-0.007186575	0.03
-Nanoarchaeum_equitans	SRP013830	1	1	-0.01802436	0.04
-Neisseria_gonorrhoeae_FA_1090	GSM648805	1	0.4	-0.004893416	0.02
-Porphyromonas_gingivalis_ATCC_33277	SRP009641	1	0.2	0.7182894	0.7
-Porphyromonas_gingivalis_W83	SRP007420	0.4	1	-0.01173028	0.03
-Prochlorococcus_marinus_MED4_CCMP1986	SRP011374	1	0.66	0.8084533	0.33
-Proteus_mirabilis	SRP007516	1	1	0.7383808	0.61
-Pseudomonas_aeruginosa_PA14	SRP009257	0.9	1	-0.003875472	0
-Pseudomonas_aeruginosa_PAO1	SRP011370	0.1	0.2	0.649618	0
-Pseudomonas_aeruginosa_PAO1	SRP013960	1	1	0.7300114	0.45
-Pseudomonas_putida_KT2440	SRP003636	1	1	0.2772065	0.190000	
-Pyrococcus_furiosus	SRR032433	1	0.8	-0.0003144548	0.010000
-Pyrococcus_furiosus	SRX103303	0.4	0.8	0.001182013	0
-Pyrococcus_furiosus	SRX103304	0.4	1	-0.0005435621	0.01
-Rhodobacter_sphaeroides.CP000143	SRP011373	0.9	0.83	0.9066651	0.69
-Rhodobacter_sphaeroides.CP000144	SRP011373	1	1	0.9569357	0.62
-Staphylococcus_aureus_subsp._aureus_15981	SRP003288	1	1	0.8247668	0.7
-Stenotrophomonas_maltophilia	SRP014598	0.2	1	-0.001897398	0
-Sulfolobus_solfataricus_P2	SRP001461	1	1	0.6084317	0.05	
-Synechococcus_elongatus_PCC_7002	SRP007372	0.2	0.555556	-0.005018441	0.02
-Synechococcus_elongatus_PCC_7942	SRP006795	1	1	0.3379183	0.74
-Vibrio_splendidus_LGP32.FM954973.2	SRR836420	0.666667	1	-0.01004914	0.01
-Xanthomonas_citri_subsp._citri_306	SRP013943	1	0.888889	0.9246703	0.66
-
-
-
-	
-
-
-
-
-
-	
-
+Sp	Exp	Core_CDS_On	ncRNA_On	Strand_Corr	Annot_Concordance_(CDS100)	Coverage	Notes
+Bacillus_anthracis	SRP001274	0.1	0.5	0.7077163	0.26	0.2537	#ribosomal up, low quality due to expression, OK
+Bacillus_anthracis	GSE13543	0.6	0.5	0.6175165	0.97	0.7401	
+Bacillus_cereus_ATCC_10987	ERR031734	0.6	1	0.8	0.63	0.0954	
+Bacillus_cereus_ATCC_14579	ERR031734	0.6	1	0.797656	0.67	0.0858	
+Burkholderia_glumae_BGR1.CP001503	SRP011470	0.6	0.66	0.8576619	0.58	0.7576	
+Burkholderia_glumae_BGR1.CP001504	SRP011470	0.33	1	0.8840359	0.54	0.5895	
+Chlamydophila_pneumoniae_CWL029	SRP004041	0.8	0.8	-0.01523607	0	0.0157	#arch
+Citrobacter_rodentium	ERP000493	0.7	0.8	0.1678329	1	0.4138	
+Clostridium_beijerinckii_NCIMB_8052	SRP008141	0	1	0.8623019	0.6	0.2729	#ribosomal up, OK
+Escherichia_coli_ETEC_E24377A	SRP008239	0.7	0.6	0.5645216	0.48	0.8185	
+Escherichia_coli_K-12_MG1665	SRP011371	0.6	0.8	0.9267131	0.62	0.7719	
+Frankia_sp._CcI3	SRP007469	0.1	1	0.9709436	0.56	0.9956	#ribosomal up, OK
+Helicobacter_pylori	SRP001481	0.5	1	-0.02887973	0.08	0.9852	
+Histophilus_somnus_2336	GSM732300	0.7	0.83	0.9563624	0.28	0.6612	
+Ignicoccus_hospitalis	SRP013830	0.7	1	-0.005352063	0.02	0.438	
+Klebsiella_pneumoniae_cifa_HP1	SRP009682	0.7	0.6	-0.02750725	0.08	0.579	
+Legionella_pneumophila	SRP005683	0.4	1	0.2855178	0.87	0.7143	
+Listeria_monocytogenes	SRP001753	0	0.16	0.841028	0	0.2857	#blacklist, low coverage
+Listeria_monocytogenes	FROM_STAPH	0.2	0.66	0.007795517	0.41	0.0058	#ribosomal up, low quality due to Concordance, OK
+Methanobrevibacter_smithii_ATCC_35061	SRP004631	0.7	1	0.9319701	0.35	0.8403	#arch
+Methanobrevibacter_smithii_ATCC_35061	SUBSET	1	1	0.5843981	0.32	0.7849	#arch
+Mycobacterium_tuberculosis_H37Rv	Rnaseq	0	1	0.7641951	0	NA	#blacklist, probably low cov exp
+Mycobacterium_tuberculosis_H37Rv	SRP015746	0.4	1	-0.02550697	0	0.7679	
+Mycoplasma_pneumoniae_M129	SRP000937	0	0.66	-0.007186575	0.03	0.3894	#blacklist, cant detected core
+Nanoarchaeum_equitans	SRP013830	1	1	-0.01802436	0.04	0.7752	
+Neisseria_gonorrhoeae_FA_1090	GSM648805	0.6	0.6	-0.004893416	0.02	NA	
+Porphyromonas_gingivalis_ATCC_33277	SRP009641	0.6	0.5	0.7182894	0.7	0.9204	
+Porphyromonas_gingivalis_W83	SRP007420	0.2	1	-0.01173028	0.03	0.6527	
+Prochlorococcus_marinus_MED4_CCMP1986	SRP011374	0.5	0.6	0.8084533	0.33	0.5169	#arch
+Proteus_mirabilis	SRP007516	0.6	0.5	0.7383808	0.61	0.5057	
+Pseudomonas_aeruginosa_PA14	SRP009257	0.5	0.83	-0.003875472	0	0.4464	
+Pseudomonas_aeruginosa_PA14	SRP011370	0.1	1	0.5843981	0	0.0014	#blacklist, low coverage, concordance problematic
+Pseudomonas_aeruginosa_PAO1	SRP011370	0.1	1	0.649618	0	0.0011	#blacklist, low covarage, concordance problematic, core set not detected
+Pseudomonas_aeruginosa_PAO1	SRP013960	0.8	0.66	0.7300114	0.45	0.9251	
+Pseudomonas_putida_KT2440	SRP003636	0.7	0.33	0.2772065	0.19	0.0489	
+Pyrococcus_furiosus	SRX103303	0.4	0.66	0.001182013	0	0.0083	
+Pyrococcus_furiosus	SRX103304	0.4	1	-0.0005435621	0.01	0.0567	
+Pyrococcus_furiosus	SRR032433	1	0.66	-0.0003144548	0.01	0.0644	
+Rhodobacter_sphaeroides.CP000143	SRP011373	0.55	0.8	0.9066651	0.69	0.643	
+Rhodobacter_sphaeroides.CP000144	SRP011373	0.5	1	0.9569357	0.62	0.3737	
+Staphylococcus_aureus_subsp._aureus_15981	SRP003288	0.5	1	0.8247668	0.7	0.871	
+Stenotrophomonas_maltophilia	SRP014598	0.1	0.8	-0.001897398	0	0.0399	
+Sulfolobus_solfataricus_P2	SRP001461	0.2	1	0.6084317	0.05	0.4984	
+Synechococcus_elongatus_PCC_7002	SRP007372	0.3	0.8	-0.005018441	0.02	0.9243	
+Synechococcus_elongatus_PCC_7942	SRP006795	0	1	0.3379183	0.74	1	#blacklist, everywhere ON but core not detected
+Vibrio_cholerae_O1_biovar_El_Tor_N16961(AE003853)	SRR099209	0.5	1	-0.01004914	0.01	NA	
+Xanthomonas_citri_subsp._citri_306	SRP013943	0.6	0.8	0.9246703	0.66	0.7488	#arch
+Micavibrio_aeruginosavorus_ARL-13	NA						#blacklist, single stranded, lack of data

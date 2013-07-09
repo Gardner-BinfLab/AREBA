@@ -1,0 +1,5 @@
+AE017199	nHMMer	nusA	180955	181123	7.5	-	.	Nanoarchaeum;equitans;Kin4-M,;complete;genome.;Median_depth_stranded:$24$(DPM:$0.71$),combined:$24$(DPM:$0.71$),correlation:$nan$,norm_strand:$6.00$,comb_strand:$2.00
+AE017199	nHMMer	rpsB	452681	452827	23.1	-	.	Nanoarchaeum;equitans;Kin4-M,;complete;genome.;Median_depth_stranded:$5$(DPM:$0.15$),combined:$8$(DPM:$0.24$),correlation:$-0.86$,norm_strand:$1.00$,comb_strand:$0.00
+AE017199	nHMMer	rpsE	337568	337944	79.5	-	.	Nanoarchaeum;equitans;Kin4-M,;complete;genome.;Median_depth_stranded:$20$(DPM:$0.59$),combined:$21$(DPM:$0.62$),correlation:$-0.02$,norm_strand:$6.00$,comb_strand:$2.00
+AE017199	nHMMer	rpsJ	78175	78377	40.8	+	.	Nanoarchaeum;equitans;Kin4-M,;complete;genome.;Median_depth_stranded:$13$(DPM:$0.38$),combined:$14$(DPM:$0.41$),correlation:$0.80$,norm_strand:$3.00$,comb_strand:$1.00
+AE017199	nHMMer	rpsM	415322	415739	61.8	-	.	Nanoarchaeum;equitans;Kin4-M,;complete;genome.;Median_depth_stranded:$29$(DPM:$0.85$),combined:$30$(DPM:$0.88$),correlation:$-0.13$,norm_strand:$7.00$,comb_strand:$3.00

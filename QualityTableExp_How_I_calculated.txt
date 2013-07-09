@@ -1,0 +1,40 @@
+/*QualityTableExp.txt Explained*/
+
+
+#Second column is experiment name.
+
+
+#Third column shows core CDS are ON or OFF out of 1.
+	This is how calculated this one. First I selected a core gene set which are "infC,nusA,pyrG,rpmA,rpsB,rpsE,rpsJ,rpsM,smpB".
+	I used profile HMMs to find locations of these genes on genomes and then annotated them.
+	I calculated the median depths of each annotation. However I wanted to normalize these medians, so I divided them to
+	'depth per million', which means (TotalDepth/1000000). This metric is pretty consistent with normalizing using background.
+	After calculating these normalized numbers, I set a treshold, which is 0.5, so if they pass 0.5, I say this gene is ON.
+	Therefore, there are 10 genes for each species, if 6 out of 10 are ON it gets 0.6 score.
+	However, archaea annotations are not that good, I could not train my HMMs for archaea gene location. Thus I used keyword
+	"ribosomal" and official annotated locations to detect 10 most expressed genes and then same scoring like above.
+
+#Fourth column shows ncRNA annotations are ON or OFF out of 1.
+	It is similar to CDS ON or OFF test. This time I used core gene set "5S_rRNA,tmRNA,SSU_rRNA,small_SRP,large_SRP,RNaseP".
+	The rest is similar.
+
+#Fifth column shows strand correlation.
+	It is pearson correlation coefficient between two strands. If data is stranded, it is very close to zero.
+	If data is not stranded, correlation coefficient is greater than zero.
+	
+#Sixth coluwn shows correlation concordance.
+	I have checked the top 100 most expressed genes and if their median are more than two times greater than the median under stranded
+	assumption, it gets 1 point. After checking 100 genes, if data is stranded, it is close to 0 out of 100. If data is not stranded, it
+	is close to 100 out of 100.
+	
+	
+
+
+
+
+
+
+
+
+
+
