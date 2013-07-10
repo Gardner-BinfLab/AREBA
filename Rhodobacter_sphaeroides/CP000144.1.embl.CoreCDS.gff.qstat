@@ -1,4 +1,0 @@
-CP000144	nHMMer	nusA	589596	589697	13.6	+	.	Rhodobacter;sphaeroides;2.4.1;chromosome;2,;complete;sequence.;Median_depth_stranded:$8$(DPM:$0.05$),combined:$12$(DPM:$0.08$),correlation:$-0.17$,norm_strand:$2.00$,comb_strand:$3.00
-CP000144	nHMMer	nusA	682619	682806	12.4	-	.	Rhodobacter;sphaeroides;2.4.1;chromosome;2,;complete;sequence.;Median_depth_stranded:$357$(DPM:$2.38$),combined:$731$(DPM:$4.87$),correlation:$-0.59$,norm_strand:$119.00$,comb_strand:$146.00
-CP000144	nHMMer	nusA	435396	435605	6.6	+	.	Rhodobacter;sphaeroides;2.4.1;chromosome;2,;complete;sequence.;Median_depth_stranded:$2$(DPM:$0.01$),combined:$3$(DPM:$0.02$),correlation:$0.07$,norm_strand:$1.00$,comb_strand:$0.00
-CP000144	nHMMer	rpmA	16838	17085	100.9	+	.	Rhodobacter;sphaeroides;2.4.1;chromosome;2,;complete;sequence.;Median_depth_stranded:$322$(DPM:$2.15$),combined:$615$(DPM:$4.10$),correlation:$-0.41$,norm_strand:$107.00$,comb_strand:$153.00
