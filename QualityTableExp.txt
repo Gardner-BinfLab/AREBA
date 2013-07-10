@@ -16,8 +16,8 @@ Histophilus_somnus_2336	GSM732300	0.7	0.83	0.9563624	0.28	0.6612
 Ignicoccus_hospitalis	SRP013830	0.7	1	-0.005352063	0.02	0.438	
 Klebsiella_pneumoniae_cifa_HP1	SRP009682	0.7	0.6	-0.02750725	0.08	0.579	
 Legionella_pneumophila	SRP005683	0.4	1	0.2855178	0.87	0.7143	
-Listeria_monocytogenes	SRP001753	0	0.16	0.841028	0	0.2857	#blacklist, low coverage
-Listeria_monocytogenes	FROM_STAPH	0.2	0.66	0.007795517	0.41	0.0058	#ribosomal up, low quality due to Concordance, OK
+Listeria_monocytogenes	SRP001753	0	0.16	0.841028	0	0.2857	#blacklist, concordance problematic and annot not detected
+Listeria_monocytogenes	FROM_STAPH	0.2	0.66	0.007795517	0.41	0.0058	#blacklist low cov
 Methanobrevibacter_smithii_ATCC_35061	SRP004631	0.7	1	0.9319701	0.35	0.8403	#arch
 Methanobrevibacter_smithii_ATCC_35061	SUBSET	1	1	0.5843981	0.32	0.7849	#arch
 Mycobacterium_tuberculosis_H37Rv	Rnaseq	0	1	0.7641951	0	NA	#blacklist, probably low cov exp
