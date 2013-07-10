@@ -44,6 +44,6 @@ Stenotrophomonas_maltophilia	SRP014598	0.1	0.8	-0.001897398	0	0.0399
 Sulfolobus_solfataricus_P2	SRP001461	0.2	1	0.6084317	0.05	0.4984	
 Synechococcus_elongatus_PCC_7002	SRP007372	0.3	0.8	-0.005018441	0.02	0.9243	
 Synechococcus_elongatus_PCC_7942	SRP006795	0	1	0.3379183	0.74	1	#blacklist, everywhere ON but core not detected
-Vibrio_cholerae_O1_biovar_El_Tor_N16961(AE003853)	SRR099209	0.5	1	-0.01004914	0.01	NA	
+Vibrio_cholerae_O1_biovar_El_Tor_N16961(AE003853)	SRR099209	0.5	1	-0.01004914	0.01	NA	#2 chromosome
 Xanthomonas_citri_subsp._citri_306	SRP013943	0.6	0.8	0.9246703	0.66	0.7488	#arch
 Micavibrio_aeruginosavorus_ARL-13	NA						#blacklist, single stranded, lack of data
