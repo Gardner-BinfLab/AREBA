@@ -6,10 +6,17 @@ OC   	Clostridium.
 
 TRANSCRIPTOME INFO:
 TAXID   	272563
-PMID    		In preparation
+PMID    	In preparation
 SOURCE  	Pers. Commun. Trevor Lawley, Laura Deakin
 XREFS   
-
+ 
 PLOT FILES:
 AM180355.plot
+ermB_Tag17_455305.plot
+ermB_Tag18_455308.plot
+ermB_Tag19_455311.plot
+spo0A_Tag20_455314.plot
+spo0A_Tag21_455317.plot
+spo0A_Tag22_455320.plot
 
+../scripts/generate_max_plot.pl -e AM180355.embl -p ermB_Tag17_455305.plot -p ermB_Tag18_455308.plot -p ermB_Tag19_455311.plot -p spo0A_Tag20_455314.plot -p spo0A_Tag21_455317.plot -p spo0A_Tag22_455320.plot > max.plot

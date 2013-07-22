@@ -58,7 +58,7 @@ sub printGff {
     $spacer = ';' if length($attributes)>0;
     $attributes .= $spacer . 'Product="' . $store->{'product'} . '"' if (defined $store->{'product'});
     $spacer = ';' if length($attributes)>0;
-    $attributes .= $spacer . 'Note="'    . $store->{'notes'}   . '"' if (defined $store->{'notes'});
+    $attributes .= $spacer . 'Note="'    . $store->{'note'}   . '"' if (defined $store->{'note'});
     $attributes .= $spacer . 'Locus_Tag="'    . $store->{'locus_tag'}   . '"' if (defined $store->{'locus_tag'});
     $attributes .= ';';
 
