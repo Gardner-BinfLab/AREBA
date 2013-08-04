@@ -1,0 +1,40 @@
+CP001503.2 EMBL CDS 1395581 1396321 . + . ID=['ACR28429.1'];Product=['30S ribosomal protein S2'];Note=
+CP001503.2 EMBL CDS 284822 285133 . + . ID=['ACR27458.1'];Product=['30S ribosomal protein S10'];Note=
+CP001503.2 EMBL CDS 266390 267088 . + . ID=['ACR27448.1'];Product=['50S ribosomal protein L1'];Note=
+CP001503.2 EMBL CDS 1036865 1038658 . + . ID=['ACR28142.1'];Product=['GTP-binding protein LepA'];Note=
+CP001503.2 EMBL CDS 2192403 2195327 . - . ID=['ACR29111.1'];Product=['Translation initiation factor IF-2'];Note=
+CP001503.2 EMBL CDS 1362871 1363677 . + . ID=['ACR28404.1'];Product=['Peptidase M22, glycoprotease'];Note=
+CP001503.2 EMBL CDS 288030 288359 . + . ID=['ACR27464.1'];Product=['50S ribosomal protein L22'];Note=
+CP001503.2 EMBL CDS 519769 521136 . - . ID=['ACR27689.1'];Product=['Signal recognition particle protein'];Note=
+CP001503.2 EMBL CDS 285970 286590 . + . ID=['ACR27460.1'];Product=['50S ribosomal protein L4'];Note=
+CP001503.2 EMBL CDS 286904 287731 . + . ID=['ACR27462.1'];Product=['50S ribosomal protein L2'];Note=
+CP001503.2 EMBL CDS 599737 600129 . + . ID=['ACR27764.1'];Product=['30S ribosomal protein S9'];Note=
+CP001503.2 EMBL CDS 285308 285970 . + . ID=['ACR27459.1'];Product=['50S ribosomal protein L3'];Note=
+CP001503.2 EMBL CDS 2334033 2336462 . - . ID=['ACR29253.1'];Product=['phenylalanyl-tRNA synthetase subunit beta'];Note=
+CP001503.2 EMBL CDS 290365 290733 . + . ID=['ACR27469.1'];Product=['50S ribosomal protein L14'];Note=
+CP001503.2 EMBL CDS 293266 293784 . + . ID=['ACR27476.1'];Product=['30S ribosomal protein S5'];Note=
+CP001503.2 EMBL CDS 287742 288017 . + . ID=['ACR27463.1'];Product=['30S ribosomal protein S19'];Note=
+CP001503.2 EMBL CDS 280750 281220 . + . ID=['ACR27455.1'];Product=['30S ribosomal protein S7'];Note=
+CP001503.2 EMBL CDS 289174 289590 . + . ID=['ACR27466.1'];Product=['50S ribosomal protein L16'];Note=
+CP001503.2 EMBL CDS 296238 296603 . + . ID=['ACR27482.1'];Product=['30S ribosomal protein S13'];Note=
+CP001503.2 EMBL CDS 2336540 2337553 . - . ID=['ACR29254.1'];Product=['phenylalanyl-tRNA synthetase subunit alpha'];Note=
+CP001503.2 EMBL CDS 294010 294444 . + . ID=['ACR27478.1'];Product=['50S ribosomal protein L15'];Note=
+CP001503.2 EMBL CDS 286587 286901 . + . ID=['ACR27461.1'];Product=['50S ribosomal protein L23'];Note=
+CP001503.2 EMBL CDS 292344 292874 . + . ID=['ACR27474.1'];Product=['50S ribosomal protein L6'];Note=
+CP001503.2 EMBL CDS 265958 266389 . + . ID=['ACR27447.1'];Product=['50S ribosomal protein L11'];Note=
+CP001503.2 EMBL CDS 291063 291602 . + . ID=['ACR27471.1'];Product=['50S ribosomal protein L5'];Note=
+CP001503.2 EMBL CDS 280196 280576 . + . ID=['ACR27454.1'];Product=['30S ribosomal protein S12'];Note=
+CP001503.2 EMBL CDS 289600 289794 . + . ID=['ACR27467.1'];Product=['50S ribosomal protein L29'];Note=
+CP001503.2 EMBL CDS 288371 289171 . + . ID=['ACR27465.1'];Product=['30S ribosomal protein S3'];Note=
+CP001503.2 EMBL CDS 296627 297028 . + . ID=['ACR27483.1'];Product=['30S ribosomal protein S11'];Note=
+CP001503.2 EMBL CDS 267387 267884 . + . ID=['ACR27449.1'];Product=['50S ribosomal protein L10'];Note=
+CP001503.2 EMBL CDS 291930 292325 . + . ID=['ACR27473.1'];Product=['30S ribosomal protein S8'];Note=
+CP001503.2 EMBL CDS 2190928 2191884 . - . ID=['ACR29109.1'];Product=['tRNA pseudouridine synthase B'];Note=
+CP001503.2 EMBL CDS 292887 293252 . + . ID=['ACR27475.1'];Product=['50S ribosomal protein L18'];Note=
+CP001503.2 EMBL CDS 2962619 2962888 . - . ID=['ACR29675.1'];Product=['30S ribosomal protein S15'];Note=
+CP001503.2 EMBL CDS 3164762 3165730 . - . ID=['ACR29859.1'];Product=['Porphobilinogen deaminase'];Note=
+CP001503.2 EMBL CDS 289791 290063 . + . ID=['ACR27468.1'];Product=['30S ribosomal protein S17'];Note=
+CP001503.2 EMBL CDS 599295 599723 . + . ID=['ACR27763.1'];Product=['50S ribosomal protein L13'];Note=
+CP001503.2 EMBL CDS 684994 686049 . + . ID=['ACR27836.1'];Product=['Phosphoribosylaminoimidazole synthetase'];Note=
+CP001503.2 EMBL CDS 1409822 1410469 . + . ID=['ACR28444.1'];Product=['Ribonuclease HII'];Note=
+CP001503.2 EMBL CDS 290743 291048 . + . ID=['ACR27470.1'];Product=['50S ribosomal protein L24'];Note=

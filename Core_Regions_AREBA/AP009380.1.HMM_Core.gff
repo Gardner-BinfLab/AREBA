@@ -1,0 +1,39 @@
+AP009380.1 EMBL CDS 1780920 1781765 . - . ID=['BAG34107.1'];Product=['putative 30S ribosomal protein S2'];Note=
+AP009380.1 EMBL CDS 2084016 2084321 . - . ID=['BAG34388.1'];Product=['30S ribosomal protein S10'];Note=
+AP009380.1 EMBL CDS 1766359 1767057 . - . ID=['BAG34093.1'];Product=['50S ribosomal protein L1'];Note=
+AP009380.1 EMBL CDS 1530449 1532236 . + . ID=['BAG33896.1'];Product=['GTP-binding protein LepA'];Note=
+AP009380.1 EMBL CDS 385999 388938 . + . ID=['BAG32874.1'];Product=['translation initiation factor IF-2'];Note=
+AP009380.1 EMBL CDS 424191 425216 . - . ID=['BAG32912.1'];Product=['putative O-sialoglycoprotein endopeptidase'];Note=
+AP009380.1 EMBL CDS 2080857 2081261 . - . ID=['BAG34382.1'];Product=['50S ribosomal protein L22'];Note=
+AP009380.1 EMBL CDS 1340274 1341611 . + . ID=['BAG33724.1'];Product=['signal recognition particle protein'];Note=
+AP009380.1 EMBL CDS 2082747 2083376 . - . ID=['BAG34386.1'];Product=['50S ribosomal protein L4'];Note=
+AP009380.1 EMBL CDS 2081608 2082432 . - . ID=['BAG34384.1'];Product=['50S ribosomal protein L2'];Note=
+AP009380.1 EMBL CDS 1781900 1782286 . - . ID=['BAG34108.1'];Product=['putative 30S ribosomal protein S9'];Note=
+AP009380.1 EMBL CDS 2083376 2083993 . - . ID=['BAG34387.1'];Product=['50S ribosomal protein L3'];Note=
+AP009380.1 EMBL CDS 2291921 2294380 . - . ID=['BAG34563.1'];Product=['phenylalanyl-tRNA synthetase beta subunit'];Note=
+AP009380.1 EMBL CDS 2078820 2079185 . - . ID=['BAG34377.1'];Product=['50S ribosomal protein L14'];Note=
+AP009380.1 EMBL CDS 2075743 2076261 . - . ID=['BAG34370.1'];Product=['30S ribosomal protein S5'];Note=
+AP009380.1 EMBL CDS 2081316 2081585 . - . ID=['BAG34383.1'];Product=['30S ribosomal protein S19'];Note=
+AP009380.1 EMBL CDS 2086473 2086949 . - . ID=['BAG34390.1'];Product=['30S ribosomal protein S7'];Note=
+AP009380.1 EMBL CDS 2079655 2080089 . - . ID=['BAG34380.1'];Product=['50S ribosomal protein L16'];Note=
+AP009380.1 EMBL CDS 2072178 2072558 . - . ID=['BAG34363.1'];Product=['30S ribosomal protein S13'];Note=
+AP009380.1 EMBL CDS 1910274 1911296 . + . ID=['BAG34230.1'];Product=['phenylalanyl-tRNA synthetase alpha subunit'];Note=
+AP009380.1 EMBL CDS 2075075 2075521 . - . ID=['BAG34368.1'];Product=['50S ribosomal protein L15'];Note=
+AP009380.1 EMBL CDS 2082439 2082732 . - . ID=['BAG34385.1'];Product=['50S ribosomal protein L23'];Note=
+AP009380.1 EMBL CDS 2076630 2077181 . - . ID=['BAG34372.1'];Product=['50S ribosomal protein L6'];Note=
+AP009380.1 EMBL CDS 1767078 1767515 . - . ID=['BAG34094.1'];Product=['50S ribosomal protein L11'];Note=
+AP009380.1 EMBL CDS 2077917 2078477 . - . ID=['BAG34375.1'];Product=['50S ribosomal protein L5'];Note=
+AP009380.1 EMBL CDS 2087186 2087590 . - . ID=['BAG34391.1'];Product=['30S ribosomal protein S12'];Note=
+AP009380.1 EMBL CDS 2079455 2079649 . - . ID=['BAG34379.1'];Product=['50S ribosomal protein L29'];Note=
+AP009380.1 EMBL CDS 2080110 2080850 . - . ID=['BAG34381.1'];Product=['30S ribosomal protein S3'];Note=
+AP009380.1 EMBL CDS 2071780 2072166 . - . ID=['BAG34362.1'];Product=['30S ribosomal protein S11'];Note=
+AP009380.1 EMBL CDS 1765819 1766343 . - . ID=['BAG34092.1'];Product=['putative 50S ribosomal protein L10'];Note=
+AP009380.1 EMBL CDS 2077200 2077595 . - . ID=['BAG34373.1'];Product=['30S ribosomal protein S8'];Note=
+AP009380.1 EMBL CDS 619664 620440 . - . ID=['BAG33089.1'];Product=['putative tRNA pseudouridine synthase B'];Note=
+AP009380.1 EMBL CDS 2076267 2076611 . - . ID=['BAG34371.1'];Product=['50S ribosomal protein L18'];Note=
+AP009380.1 EMBL CDS 1897422 1897691 . + . ID=['BAG34217.1'];Product=['putative 30S ribosomal protein S15'];Note=
+AP009380.1 EMBL CDS 2079187 2079441 . - . ID=['BAG34378.1'];Product=['30S ribosomal protein S17'];Note=
+AP009380.1 EMBL CDS 1782296 1782751 . - . ID=['BAG34109.1'];Product=['putative 50S ribosomal protein L13'];Note=
+AP009380.1 EMBL CDS 2265274 2266440 . - . ID=['BAG34541.1'];Product=['putative phosphoribosylformylglycinamidine cyclo-ligase'];Note=
+AP009380.1 EMBL CDS 838068 838673 . + . ID=['BAG33286.1'];Product=['putative ribonuclease HII'];Note=
+AP009380.1 EMBL CDS 2078477 2078797 . - . ID=['BAG34376.1'];Product=['50S ribosomal protein L24'];Note=

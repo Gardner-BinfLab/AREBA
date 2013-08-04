@@ -1,0 +1,39 @@
+AE001363.1 EMBL CDS 781769 782602 . + . ID=['AAD18835.1'];Product=['S2 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 633252 633569 . - . ID=['AAD18689.1'];Product=['S10 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 92465 93163 . + . ID=['AAD18231.1'];Product=['L1 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 402012 403820 . + . ID=['AAD18503.1'];Product=['GTPase'];Note=
+AE001363.1 EMBL CDS 360081 362753 . + . ID=['AAD18466.1'];Product=['Initiation Factor-2'];Note=
+AE001363.1 EMBL CDS 233210 234244 . + . ID=['AAD18347.1'];Product=['O-Sialoglycoprotein Endopeptidase'];Note=
+AE001363.1 EMBL CDS 727093 727428 . - . ID=['AAD18781.1'];Product=['L22 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 147279 148625 . + . ID=['AAD18268.1'];Product=['Signal Recognition Particle GTPase'];Note=
+AE001363.1 EMBL CDS 728947 729621 . - . ID=['AAD18785.1'];Product=['L4 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 727719 728573 . - . ID=['AAD18783.1'];Product=['L2 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 282548 282952 . - . ID=['AAD18399.1'];Product=['S9 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 729654 730331 . - . ID=['AAD18786.1'];Product=['L3 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 682583 684961 . + . ID=['AAD18733.1'];Product=['phenylalanyl tRNA Synthetase Beta'];Note=
+AE001363.1 EMBL CDS 725096 725464 . - . ID=['AAD18776.1'];Product=['L14 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 722309 722806 . - . ID=['AAD18770.1'];Product=['S5 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 727447 727713 . - . ID=['AAD18782.1'];Product=['S19 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 635695 636168 . - . ID=['AAD18691.1'];Product=['S7 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 725961 726377 . - . ID=['AAD18779.1'];Product=['L16 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 720060 720428 . - . ID=['AAD18767.1'];Product=['S13 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 1141014 1142033 . + . ID=['AAD19130.1'];Product=['Phenylalanyl tRNA Synthetase, Alpha'];Note=
+AE001363.1 EMBL CDS 721882 722316 . - . ID=['AAD18769.1'];Product=['L15 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 728595 728930 . - . ID=['AAD18784.1'];Product=['L23 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 723206 723757 . - . ID=['AAD18772.1'];Product=['L6 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 92013 92438 . + . ID=['AAD18230.1'];Product=['L11 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 724203 724745 . - . ID=['AAD18774.1'];Product=['L5 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 636216 636587 . - . ID=['AAD18692.1'];Product=['S12 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 725740 725958 . - . ID=['AAD18778.1'];Product=['L29 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 726406 727077 . - . ID=['AAD18780.1'];Product=['S3 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 719637 720038 . - . ID=['AAD18766.1'];Product=['S11 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 93179 93691 . + . ID=['AAD18232.1'];Product=['L10 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 723784 724185 . - . ID=['AAD18773.1'];Product=['S8 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 363175 363882 . + . ID=['AAD18468.1'];Product=['tRNA Pseudouridine Synthase'];Note=
+AE001363.1 EMBL CDS 722824 723195 . - . ID=['AAD18771.1'];Product=['L18 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 1152888 1153157 . - . ID=['AAD19137.1'];Product=['S15 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 67301 68005 . - . ID=['AAD18205.1'];Product=['Porphobilinogen Deaminase'];Note=
+AE001363.1 EMBL CDS 725487 725747 . - . ID=['AAD18777.1'];Product=['S17 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 282966 283415 . - . ID=['AAD18400.1'];Product=['L13 Ribosomal Protein'];Note=
+AE001363.1 EMBL CDS 150523 151167 . + . ID=['AAD18272.1'];Product=['Ribonuclease HII'];Note=
+AE001363.1 EMBL CDS 724747 725082 . - . ID=['AAD18775.1'];Product=['L24 Ribosomal Protein'];Note=

@@ -1,0 +1,40 @@
+FN543502.1 EMBL CDS 205298 206023 . + . ID=['CBG86952.1'];Product=['30S ribosomal protein S2'];Note=
+FN543502.1 EMBL CDS 4757184 4757495 . + . ID=['CBG91196.1'];Product=['30S ribosomal subunit protein S10'];Note=
+FN543502.1 EMBL CDS 3963464 3964168 . - . ID=['CBG90473.1'];Product=['50S ribosomal subunit protein L1'];Note=
+FN543502.1 EMBL CDS 2650870 2652669 . - . ID=['CBG89258.1'];Product=['GTP-binding protein LepA'];Note=
+FN543502.1 EMBL CDS 4920188 4922872 . + . ID=['CBG91358.1'];Product=['translation initiation factor IF-2'];Note=
+FN543502.1 EMBL CDS 3808830 3809843 . - . ID=['CBG90326.1'];Product=['probable O-sialoglycoprotein endopeptidase (glycoprotease)'];Note=
+FN543502.1 EMBL CDS 4760221 4760553 . + . ID=['CBG91202.1'];Product=['50S ribosomal subunit protein L22'];Note=
+FN543502.1 EMBL CDS 2702920 2704281 . - . ID=['CBG89303.1'];Product=['signal recognition particle protein'];Note=
+FN543502.1 EMBL CDS 4758168 4758773 . + . ID=['CBG91198.1'];Product=['50S ribosomal subunit protein L4'];Note=
+FN543502.1 EMBL CDS 4759090 4759911 . + . ID=['CBG91200.1'];Product=['50S ribosomal subunit protein L2'];Note=
+FN543502.1 EMBL CDS 4845564 4845956 . + . ID=['CBG91288.1'];Product=['30S ribosomal subunit protein S9'];Note=
+FN543502.1 EMBL CDS 4757528 4758157 . + . ID=['CBG91197.1'];Product=['50S ribosomal subunit protein L3'];Note=
+FN543502.1 EMBL CDS 1436589 1438976 . + . ID=['CBG88106.1'];Product=['Phenylalanyl-tRNA synthetase beta chain'];Note=
+FN543502.1 EMBL CDS 4762303 4762674 . + . ID=['CBG91207.1'];Product=['50S ribosomal subunit protein L14'];Note=
+FN543502.1 EMBL CDS 4765223 4765726 . + . ID=['CBG91214.1'];Product=['30S ribosomal subunit protein S5'];Note=
+FN543502.1 EMBL CDS 4759928 4760206 . + . ID=['CBG91201.1'];Product=['30S ribosomal subunit protein S19'];Note=
+FN543502.1 EMBL CDS 4729095 4729565 . + . ID=['CBG91173.1'];Product=['30S ribosomal subunit protein S7'];Note=
+FN543502.1 EMBL CDS 4761285 4761695 . + . ID=['CBG91204.1'];Product=['50S ribosomal subunit protein L16'];Note=
+FN543502.1 EMBL CDS 4767981 4768337 . + . ID=['CBG91219.1'];Product=['30S ribosomal subunit protein S13'];Note=
+FN543502.1 EMBL CDS 1435590 1436573 . + . ID=['CBG88105.1'];Product=['Phenylalanyl-tRNA synthetase alpha chain'];Note=
+FN543502.1 EMBL CDS 4765913 4766347 . + . ID=['CBG91216.1'];Product=['50S ribosomal subunit protein L15'];Note=
+FN543502.1 EMBL CDS 4758770 4759072 . + . ID=['CBG91199.1'];Product=['50S ribosomal subunit protein L23'];Note=
+FN543502.1 EMBL CDS 4764312 4764845 . + . ID=['CBG91212.1'];Product=['50S ribosomal subunit protein L6'];Note=
+FN543502.1 EMBL CDS 3964172 3964600 . - . ID=['CBG90474.1'];Product=['50S ribosomal subunit protein L11'];Note=
+FN543502.1 EMBL CDS 4763014 4763553 . + . ID=['CBG91209.1'];Product=['50S ribosomal subunit protein L5'];Note=
+FN543502.1 EMBL CDS 4728624 4728998 . + . ID=['CBG91172.1'];Product=['30S ribosomal subunit protein S12'];Note=
+FN543502.1 EMBL CDS 4761695 4761886 . + . ID=['CBG91205.1'];Product=['50S ribosomal subunit protein L29'];Note=
+FN543502.1 EMBL CDS 4760571 4761272 . + . ID=['CBG91203.1'];Product=['30S ribosomal subunit protein S3'];Note=
+FN543502.1 EMBL CDS 4768354 4768743 . + . ID=['CBG91220.1'];Product=['30S ribosomal subunit protein S11'];Note=
+FN543502.1 EMBL CDS 3962552 3963049 . - . ID=['CBG90472.1'];Product=['50S ribosomal subunit protein L10'];Note=
+FN543502.1 EMBL CDS 4763907 4764299 . + . ID=['CBG91211.1'];Product=['30S ribosomal subunit protein S8'];Note=
+FN543502.1 EMBL CDS 4923430 4924374 . + . ID=['CBG91360.1'];Product=['tRNA pseudouridine synthase B'];Note=
+FN543502.1 EMBL CDS 4764855 4765208 . + . ID=['CBG91213.1'];Product=['50S ribosomal subunit protein L18'];Note=
+FN543502.1 EMBL CDS 4924528 4924797 . + . ID=['CBG91361.1'];Product=['30S ribosomal subunit protein S15'];Note=
+FN543502.1 EMBL CDS 4167894 4168835 . + . ID=['CBG90649.1'];Product=['porphobilinogen deaminase'];Note=
+FN543502.1 EMBL CDS 4761886 4762140 . + . ID=['CBG91206.1'];Product=['30S ribosomal subunit protein S17'];Note=
+FN543502.1 EMBL CDS 4845045 4845548 . + . ID=['CBG91287.1'];Product=['50S ribosomal subunit protein L13'];Note=
+FN543502.1 EMBL CDS 2565760 2566797 . + . ID=['CBG89187.1'];Product=['phosphoribosylaminoimidazole synthetase'];Note=
+FN543502.1 EMBL CDS 219825 220421 . + . ID=['CBG86966.1'];Product=['ribonuclease HII'];Note=
+FN543502.1 EMBL CDS 4762685 4762999 . + . ID=['CBG91208.1'];Product=['50S ribosomal subunit protein L24'];Note=

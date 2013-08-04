@@ -20,7 +20,7 @@ def PlotStat(AdditionalStat):
     return float(sum(Cumulative)/float(len(Cumulative)))
 """        
     
-
+"""
 def CorrelationCoef(GffLine,PlotObject): #pearson correlation coef per annotation
     ReverseStrand=[]
     ForwardStrand=[]
@@ -28,9 +28,9 @@ def CorrelationCoef(GffLine,PlotObject): #pearson correlation coef per annotatio
         ForwardStrand.append(int(PlotObject[i].split()[1]))
         ReverseStrand.append(int(PlotObject[i].split()[0]))
     return pearsonr(ReverseStrand,ForwardStrand)[0]
-        
+"""
     
-
+"""
 def GenomeDepthPerMillion(PlotObject): 
     TotalDepth=0
     #GenomeMedian=[]
@@ -40,7 +40,17 @@ def GenomeDepthPerMillion(PlotObject):
         #GenomeMedian.append(int(PlotObject[i].split()[0]))
         #GenomeMedian.append(int(PlotObject[i].split()[1]))
     return(float(TotalDepth/1000000))
-    
+"""
+
+
+def GenomeMedian(PlotObject): 
+    GenomeMedian=[]
+    LenRange=len(PlotObject)
+    for i in range(0,LenRange):
+        GenomeMedian.append(int(PlotObject[i].split()[0]))
+        GenomeMedian.append(int(PlotObject[i].split()[1]))
+    return(int(numpy.median(GenomeMedian)))
+        
     
 
 #function to calculate normalized Median of strands, assumes both stranded or non-stranded plot files, uses median tuple
@@ -94,9 +104,10 @@ def main():
     except:
         print "File Read Error"
         return
-    if(args.additional==True):
-        GDPM=GenomeDepthPerMillion(PlotObject)
-        AdditionalStat=[] #Additional statistics list to record MedianTuple
+    if(args.additional==False):
+        GenomeM=GenomeMedian(PlotObject)
+    #    GDPM=GenomeDepthPerMillion(PlotObject)
+    #    AdditionalStat=[] #Additional statistics list to record MedianTuple
     for GffLine in GffObject:
         try: #basinda info kismi olan GFF dosyalari icin ise yariyor
             MedianTup=MedianTranscript(GffLine,PlotObject)
@@ -104,12 +115,13 @@ def main():
             #print GffLine.strip()+";Median_depth_stranded:"+str(MedianTup[0])+"("+str(float(MedianTup[0]/GDPM))+")"+",combined:"+str(MedianTup[1])+"("+str(float(MedianTup[1]/GDPM))+")"
             #print "%s\tMedian_depth_stranded:%d(DPM:%.2f)(Norm:%d),combined:%d(DPM:%.2f)(Norm:%d),correlation:%.2f" %(GffLine.strip(),MedianTup[0],MedianTup[0]/GDPM,NormalizedMedianTup[0],MedianTup[1],MedianTup[1]/GDPM,NormalizedMedianTup[1],CorCoef)
             if (args.additional==False):
-                print "%s;Median_depth_stranded:$%d$,combined:$%d$" %(GffLine.strip(),MedianTup[0],MedianTup[1])
-                pass
+                print "%s;Median_depth_stranded:$%d$,combined:$%d$,(Genome_Median:$%d$)" %(GffLine.strip(),MedianTup[0],MedianTup[1],GenomeM)
             else:
-                AdditionalStat.append(MedianTup)
-                CorCoef=CorrelationCoef(GffLine,PlotObject)
-                print "%s;Median_depth_stranded:$%d$(DPM:$%.2f$),combined:$%d$(DPM:$%.2f$),correlation:$%.2f$" %(GffLine.strip(),MedianTup[0],MedianTup[0]/GDPM,MedianTup[1],MedianTup[1]/GDPM,CorCoef)
+                #AdditionalStat.append(MedianTup)
+                #CorCoef=CorrelationCoef(GffLine,PlotObject)
+                MedianNorm=MedianNormalize(GffLine,PlotObject,MedianTup)
+                print "%s;Median_depth_stranded:$%d$,combined:$%d$,Normalized:$%d$%d$" %(GffLine.strip(),MedianTup[0],MedianTup[1],MedianNorm[0],MedianNorm[1])
+                #print "%s;Median_depth_stranded:$%d$(DPM:$%.2f$),combined:$%d$(DPM:$%.2f$),correlation:$%.2f$,norm_strand:$%.2f$,comb_strand:$%.2f" %(GffLine.strip(),MedianTup[0],MedianTup[0]/GDPM,MedianTup[1],MedianTup[1]/GDPM,CorCoef,MedianNorm[0],MedianNorm[1])
         except:
             pass
     #if(args.additional==True):

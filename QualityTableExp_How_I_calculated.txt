@@ -1,35 +1,33 @@
 /*QualityTableExp.txt Explained*/
 
 
+#First column is EMBL.
+
 #Second column is experiment name.
 
+#Third column is Pearson correlation coefficient.
+	If it is closer to 0, it is stranded, otherwise not stranded.
+	
 
-#Third column shows core CDS are ON or OFF out of 1.
-	This is how calculated this one. First I selected a core gene set which are "infC,nusA,pyrG,rpmA,rpsB,rpsE,rpsJ,rpsM,smpB".
-	I used profile HMMs to find locations of these genes on genomes and then annotated them.
-	I calculated the median depths of each annotation. However I wanted to normalize these medians, so I divided them to
-	'depth per million', which means (TotalDepth/1000000). This metric is pretty consistent for normalizing using background.
-	After calculating these normalized DPM numbers, I set a treshold, which is 0.5, so if they pass 0.5, I say this gene is ON.
-	In each experiment, plot depths vary too much and I just want to use somewhat similar and normalized metric.
-	Therefore, there are 10 genes for each species, if 6 out of 10 are ON it gets 0.6 score.
-	However, archaea annotations are not that good, I could not train my HMMs for archaea gene location, lack of
-	annotations etc. Thus, I used the keyword "ribosomal" and official EMBL annotated
-	locations to detect 10 most expressed genes, then check their DPM like above.
-
+#Fourth column shows core CDS are ON or OFF out of 1.
+	First I selected core gene set from (Wu et al. 2013). The total number of genes are 40 and they are conserved both in archaea and bacteria.
+	I used profile HMMs of Wu et al. 2013 to detect locations of these genes.
+	I calculated the median depths of each location.
+	I normalized these depths by dividing them to medians of 200 random locations.
+	If this normalized median is larger than 1, it is expressed and ON.
+	Therefore, if 39/40 are expressed according to a plot file, it gets 0.975.
+	
 #Fourth column shows ncRNA annotations are ON or OFF out of 1.
-	It is similar to CDS ON or OFF test. This time I used core gene set "5S_rRNA,tmRNA,SSU_rRNA,small_SRP,large_SRP,RNaseP".
-	The rest is similar.
+	It is similar to CDS ON or OFF test. This time I used core Rfam annotations (e.g 	'tRNA','RNaseP_bact_a','tmRNA','Bacteria_small_SRP','6S','SSU_rRNA_bacteria','5S_rRNA','C4','PK-G12rRNA').
 
-#Fifth column shows strand correlation.
-	It is pearson correlation coefficient between two strands. If data is stranded, it is very close to zero.
-	If data is not stranded, correlation coefficient is greater than zero.
+
+#Sixth column shows concordance.
+	This is tricky. I could not find an easy way to detect non-annotated highly expressed regions but I used a different method.
+	First I found median depth of a plot file. So this is the background median of a plot file, all annotations have to pass this low treshold.
+	Thus, for example, if 3600/4000 pass this treshold, it gets 0.9. I thought this metric, at least, shows concordance of annotations and plot files.
 	
-#Sixth coluwn shows correlation concordance.
-	I have checked the top 100 most expressed genes and if their median are more than two times (two fold) greater
-	than the median under stranded assumption, it gets 1 point. After checking 100 genes, if data is not-stranded, it is close to 0 out of 100. If data is not stranded, it
-	is close to 100 out of 100. If data is stranded, it is close to 0 out of 100.
-	
-	
+#Seventh column
+	I will add coverage.
 
 
 

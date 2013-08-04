@@ -1,0 +1,40 @@
+CP000249.1 EMBL CDS 4280241 4281110 . - . ID=['ABD12933.1'];Product=['SSU ribosomal protein S2P'];Note=
+CP000249.1 EMBL CDS 677311 677619 . + . ID=['ABD09965.1'];Product=['SSU ribosomal protein S10P'];Note=
+CP000249.1 EMBL CDS 659890 660669 . + . ID=['ABD09954.1'];Product=['LSU ribosomal protein L1P'];Note=
+CP000249.1 EMBL CDS 1506365 1508413 . + . ID=['ABD10640.1'];Product=['GTP-binding protein LepA'];Note=
+CP000249.1 EMBL CDS 4258840 4262028 . - . ID=['ABD12914.1'];Product=['bacterial translation initiation factor 2 (bIF-2)'];Note=
+CP000249.1 EMBL CDS 3142594 3143664 . + . ID=['ABD12024.1'];Product=['O-sialoglycoprotein endopeptidase'];Note=
+CP000249.1 EMBL CDS 680619 681044 . + . ID=['ABD09971.1'];Product=['LSU ribosomal protein L22P'];Note=
+CP000249.1 EMBL CDS 4292795 4294348 . - . ID=['ABD12947.1'];Product=['signal recognition particle subunit FFH/SRP54 (srp54)'];Note=
+CP000249.1 EMBL CDS 678341 679078 . + . ID=['ABD09967.1'];Product=['LSU ribosomal protein L4P'];Note=
+CP000249.1 EMBL CDS 679418 680251 . + . ID=['ABD09969.1'];Product=['LSU ribosomal protein L2P'];Note=
+CP000249.1 EMBL CDS 698530 698937 . + . ID=['ABD09999.1'];Product=['SSU ribosomal protein S9P'];Note=
+CP000249.1 EMBL CDS 677637 678344 . + . ID=['ABD09966.1'];Product=['LSU ribosomal protein L3P'];Note=
+CP000249.1 EMBL CDS 3763736 3766282 . - . ID=['ABD12533.1'];Product=['phenylalanyl-tRNA synthetase beta subunit'];Note=
+CP000249.1 EMBL CDS 683067 683435 . + . ID=['ABD09976.1'];Product=['LSU ribosomal protein L14P'];Note=
+CP000249.1 EMBL CDS 686165 686773 . + . ID=['ABD09983.1'];Product=['SSU ribosomal protein S5P'];Note=
+CP000249.1 EMBL CDS 680345 680626 . + . ID=['ABD09970.1'];Product=['SSU ribosomal protein S19P'];Note=
+CP000249.1 EMBL CDS 673172 673642 . + . ID=['ABD09962.1'];Product=['SSU ribosomal protein S7P'];Note=
+CP000249.1 EMBL CDS 681994 682410 . + . ID=['ABD09973.1'];Product=['LSU ribosomal protein L16P'];Note=
+CP000249.1 EMBL CDS 691592 691972 . + . ID=['ABD09991.1'];Product=['SSU ribosomal protein S13P'];Note=
+CP000249.1 EMBL CDS 3766286 3767389 . - . ID=['ABD12534.1'];Product=['phenylalanyl-tRNA synthetase, alpha subunit'];Note=
+CP000249.1 EMBL CDS 686961 687491 . + . ID=['ABD09985.1'];Product=['LSU ribosomal protein L15P'];Note=
+CP000249.1 EMBL CDS 679075 679371 . + . ID=['ABD09968.1'];Product=['LSU ribosomal protein L23P'];Note=
+CP000249.1 EMBL CDS 685172 685708 . + . ID=['ABD09981.1'];Product=['LSU ribosomal protein L6P'];Note=
+CP000249.1 EMBL CDS 659381 659815 . + . ID=['ABD09953.1'];Product=['LSU ribosomal protein L11P'];Note=
+CP000249.1 EMBL CDS 683806 684405 . + . ID=['ABD09978.1'];Product=['LSU ribosomal protein L5P'];Note=
+CP000249.1 EMBL CDS 672798 673172 . + . ID=['ABD09961.1'];Product=['SSU ribosomal protein S12P'];Note=
+CP000249.1 EMBL CDS 682410 682676 . + . ID=['ABD09974.1'];Product=['LSU ribosomal protein L29P'];Note=
+CP000249.1 EMBL CDS 681044 681991 . + . ID=['ABD09972.1'];Product=['SSU ribosomal protein S3P'];Note=
+CP000249.1 EMBL CDS 692051 692455 . + . ID=['ABD09992.1'];Product=['SSU ribosomal protein S11P'];Note=
+CP000249.1 EMBL CDS 661056 661619 . + . ID=['ABD09955.1'];Product=['LSU ribosomal protein L10P'];Note=
+CP000249.1 EMBL CDS 684749 685159 . + . ID=['ABD09980.1'];Product=['SSU ribosomal protein S8P'];Note=
+CP000249.1 EMBL CDS 4255698 4256681 . - . ID=['ABD12910.1'];Product=['tRNA pseudouridine synthase B'];Note=
+CP000249.1 EMBL CDS 685719 686093 . + . ID=['ABD09982.1'];Product=['LSU ribosomal protein L18P'];Note=
+CP000249.1 EMBL CDS 4254248 4254517 . - . ID=['ABD12908.1'];Product=['SSU ribosomal protein S15P'];Note=
+CP000249.1 EMBL CDS 568277 569464 . + . ID=['ABD09872.1'];Product=['hydroxymethylbilane synthase'];Note=
+CP000249.1 EMBL CDS 682682 682990 . + . ID=['ABD09975.1'];Product=['SSU ribosomal protein S17P'];Note=
+CP000249.1 EMBL CDS 697993 698436 . + . ID=['ABD09998.1'];Product=['LSU ribosomal protein L13P'];Note=
+CP000249.1 EMBL CDS 117015 118124 . + . ID=['ABD09489.1'];Product=['phosphoribosylformylglycinamidine cyclo-ligase'];Note=
+CP000249.1 EMBL CDS 4287805 4288527 . - . ID=['ABD12940.1'];Product=['Ribonuclease H'];Note=
+CP000249.1 EMBL CDS 683438 683764 . + . ID=['ABD09977.1'];Product=['LSU ribosomal protein L24P'];Note=
