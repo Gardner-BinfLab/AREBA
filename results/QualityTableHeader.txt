@@ -15,7 +15,7 @@ Species EMBL    Experiment_ID   Dataset_ID      Strand_Correlation      Core_CDS
 	
 
 #Core_CDS_On
-###	First I selected core gene set from (Wu et al. 2013). The total number of genes are 40 and they are conserved both in archaea and bacteria.
+###	First I selected core gene set from Wu et al. 2013. The total number of genes are 40 and they are conserved both in archaea and bacteria.
 ###	I used profile HMMs of Wu et al. 2013 to detect locations of these genes.
 ###	I calculated the median depths of each location.
 ###	I normalized these depths by dividing them to medians of 200 random locations.
