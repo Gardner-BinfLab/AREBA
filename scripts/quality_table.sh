@@ -21,7 +21,7 @@ cd plot/$species_directory;
 	if [ ! -f $plot.all.expression ]; then gff_plot2median.py -g /home/suu13/projects/areba/Quality_Score/$embl_name.all.gff -p $plot 1> $plot.all.expression 2> /dev/null; fi;
 	Core_CDS=$(cat $plot.CDS.expression | awk 'BEGIN{FS="$"; total_c=0; treshold_c=0;}{total_c++; if($7>1) treshold_c++;}END{print treshold_c/total_c}');
 	Core_Rfam=$(cat $plot.Rfam.expression | awk 'BEGIN{FS="$"; total_c=0; treshold_c=0;}{total_c++; if($7>1) treshold_c++;}END{print treshold_c/total_c}');
-	Concordance=$(cat $plot.all.expression | awk 'BEGIN{FS="$"; total_c=0; treshold_c=0;}{total_c++; if($4>$6) treshold_c++;}END{print treshold_c/total_c}');
+	Concordance=$(Concordance.py -p $plot -g /home/suu13/projects/areba/Quality_Score/$embl_name.gff3 -g /home/suu13/projects/areba/Quality_Score/$embl_name.all.gff | awk '{print $2}');
 	echo -e "$species\t$embl_name\t$experiment_id\t$dataset_id\t$Correlation\t$Core_CDS\t$Core_Rfam\t$Concordance\t$Coverage";
 	done
 cd /home/suu13/projects/areba/Quality_Score;
