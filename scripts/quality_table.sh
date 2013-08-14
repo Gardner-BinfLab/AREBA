@@ -15,9 +15,9 @@ cd plot/$species_directory;
 		experiment_id=$(echo $plot | cut -d/ -f1);
 		dataset_id=$(echo $plot | cut -d. -f1 | cut -d/ -f2);
 		species=$(grep -m1 $dataset_id ../species_experiment_dataset_coverage_depth_mapped.stats | cut -f1);
-		Coverage_mapped_reads=$(grep grep -E "$dataset_id.*${embl_name:0:8}" ../species_experiment_dataset_coverage_depth_mapped.stats | cut -f4,6);
-		
-		if [ -z $Coverage_mapped_reads ]; then Coverage_mapped_reads=$(grep $dataset_id ../species_experiment_dataset_coverage_depth_mapped.stats | cut -f4,6); fi;
+		Coverage_mapped_reads=$(grep -E "$experiment_id.*$dataset_id.*${embl_name:0:8}" ../species_experiment_dataset_coverage_depth_mapped.stats | cut -f4,6);
+		echo ${embl_name:0:8};
+		if [ -z $Coverage_mapped_reads ]; then Coverage_mapped_reads=$(grep -E "$experiment_id.*$dataset_id" ../species_experiment_dataset_coverage_depth_mapped.stats | cut -f4,6); fi;
 
 		Correlation=$(echo `cat $plot | Rscript -e 'f=read.table("stdin"); cor(f[,1],f[,2]);'` | awk '{print $2}');
 		if [ ! -f $plot.CDS.expression ]; then gff_plot2median.py -g /home/suu13/projects/areba/Quality_Score/$embl_name.HMM_Core.gff -p $plot -a 1> $plot.CDS.expression 2> /dev/null; fi;
@@ -27,7 +27,7 @@ cd plot/$species_directory;
 		Core_Rfam=$(cat $plot.Rfam.expression | awk 'BEGIN{FS="$"; total_c=0; treshold_c=0;}{total_c++; if($7>1) treshold_c++;}END{print treshold_c/total_c}');
 		Concordance=$(Concordance.py -p $plot -g /home/suu13/projects/areba/Quality_Score/$embl_name.gff3 -g /home/suu13/projects/areba/Quality_Score/$embl_name.all.gff | awk '{print $2}');
 		echo -e "$species\t$embl_name\t$experiment_id\t$dataset_id\t$Correlation\t$Core_CDS\t$Core_Rfam\t$Concordance\t$Coverage_mapped_reads";
-	if;
+	fi;
 	done
 cd /home/suu13/projects/areba/Quality_Score;
 
