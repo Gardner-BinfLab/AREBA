@@ -1,3 +1,33 @@
 Bacterial & Archaeal Transcriptome Meta-analysis Project.
 
 
+
+
+
+
+Datasets for the next release:
+
+Directional RNA-seq reveals highly complex condition-dependent transcriptomes in E. coliK12 through accurate full-length transcripts assembling.
+Li S, Dong X, Su Z.
+BMC Genomics. 2013 Jul 30;14(1):520.
+http://www.biomedcentral.com/1471-2164/14/520/abstract
+
+Computational analysis of bacterial RNA-Seq data.
+McClure R, Balasubramanian D, Sun Y, Bobrovskyy M, Sumby P, Genco CA, Vanderpool CK, Tjaden B.
+Nucleic Acids Res. 2013 May 28
+http://nar.oxfordjournals.org/content/early/2013/05/28/nar.gkt444.long
+
+RNA at 92°C: The non-coding transcriptome of the hyperthermophilic archaeon Pyrococcus abyssi.
+Toffano-Nioche C, Ott A, Crozat E, Nguyen AN, Zytnicki M, Leclerc F, Forterre P, Bouloc P, Gautheret D.
+RNA Biol. 2013 Jul 2;10(7).
+
+
+Summary plot files to consider:
+
+1. currently generating "max.plot" i.e. maximum read-depths per genomic position 
+    --great for identifying novel ncRNAs
+2. consider other summary plot files e.g. median.plot, min.plot (may be boring), ...
+    --useful for more conservative studies
+
+
+
