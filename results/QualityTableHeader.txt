@@ -11,29 +11,32 @@ Species EMBL    Experiment_ID   Dataset_ID      Strand_Correlation      Core_CDS
 #Dataset_ID
 
 #Strand_Correlation
-###If it is closer to 0, it is stranded, otherwise not stranded.
+/*	If it is closer to 0, it is stranded, otherwise not stranded.
 	
 
 #Core_CDS_On
-###	First I selected core gene set from Wu et al. 2013. The total number of genes are 40 and they are conserved both in archaea and bacteria.
-###	I used profile HMMs of Wu et al. 2013 to detect locations of these genes.
-###	I calculated the median depths of each location.
-###	I normalized these depths by dividing them to medians of 200 random locations.
-###	If this normalized median is larger than 1, it is expressed and ON.
-###	Therefore, if 39/40 are expressed according to a plot file, it gets 0.975.
+/*	First I selected core gene set from Wu et al. 2013. The total number of genes are 40 and they are conserved both in archaea and bacteria.
+/*	I used profile HMMs of Wu et al. 2013 to detect locations of these genes.
+/*	I calculated the median depths of each location.
+/*	I normalized these depths by dividing them to medians of 200 random locations.
+/*	If this normalized median is larger than 1, it is expressed and ON.
+/*	Therefore, if 39/40 are expressed according to a plot file, it gets 0.975.
 	
 #Core_Rfam_On
-###	It is similar to CDS ON or OFF test. This time I used core Rfam annotations (e.g 	'tRNA','RNaseP_bact_a','tmRNA','Bacteria_small_SRP','6S','SSU_rRNA_bacteria','5S_rRNA','C4','PK-G12rRNA').
+/*	It is similar to CDS ON or OFF test. This time I used core Rfam annotations (e.g 	'tRNA','RNaseP_bact_a','tmRNA','Bacteria_small_SRP','6S','SSU_rRNA_bacteria','5S_rRNA','C4','PK-G12rRNA').
 
 
 #Annot_Concordance
-###	This is tricky. I could not find an easy way to detect non-annotated highly expressed regions but I used a different method.
-###	First I found median depth of a plot file. So this is the background median of a plot file, all annotations have to pass this low treshold.
-###	Thus, for example, if 3600/4000 pass this treshold, it gets 0.9. I thought this metric, at least, shows concordance of annotations and plot files.
-	
+/*	I used Paul's suggestion for concordance.
+/* 	Algorithm: foreach(region){if(annotated && expression>genomicMedian){$count++}elsif(unannotated && expression<genomicMedian){$count++}	 $total++;} concordance=$count/$total;
+/*	Concordance.py was created to implement algorithm.
+/*
+/*	
 #Coverage
+/* 	Calculated by Stinus
 
 #Fraction_mapped_reads
+/* 	Calculated by Stinus
 
 
 
