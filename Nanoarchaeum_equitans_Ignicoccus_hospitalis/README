@@ -1,0 +1,16 @@
+EMBL GENOME INFO:
+ID   AE017199; SV 1; circular; genomic DNA; STD; PRO; 490885 BP.
+OS   Nanoarchaeum equitans Kin4-M
+OC   Archaea; Nanoarchaeota; Nanoarchaeum.
+
+TRANSCRIPTOME INFO:
+TAXID           228908
+PMID            22809431
+SOURCE          http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE38821
+
+PLOT FILES:
+SRP013830-SRR514574.fastq.stranded.plot
+SRP013830-SRR514575.fastq.stranded.plot
+SRP013830-SRR514576.fastq.stranded.plot
+SRP013830-SRR514577.fastq.stranded.plot
+SRP013830-SRR514578.fastq.stranded.plot

@@ -1,0 +1,15 @@
+EMBL GENOME INFO:
+ID   FM954972; SV 2; circular; genomic DNA; STD; PRO; 3299303 BP. chromosome 1
+ID   FM954973; SV 2; circular; genomic DNA; STD; PRO; 1675515 BP. chromosome 2
+OS   Vibrio splendidus LGP32
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae;
+OC   Vibrio.
+
+TRANSCRIPTOME INFO:
+TAXID           575788
+PMID            23097430
+SOURCE          http://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP021844
+
+PLOT FILES:
+SRR836420.fastq.sorted.FM954972.2.stranded.plot
+SRR836420.fastq.sorted.FM954973.2.stranded.plot

@@ -1,0 +1,18 @@
+EMBL GENOME INFO:
+ID   AE009950; SV 1; circular; genomic DNA; STD; PRO; 1908256 BP.
+OS   Pyrococcus furiosus DSM 3638
+OC   Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae;
+OC   Pyrococcus.
+
+TRANSCRIPTOME INFO:
+TAXID           186497
+PMID            19945378
+SOURCE          http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE16968
+SOURCE          http://www.ncbi.nlm.nih.gov/sra/SRX015089
+PMID            ????????
+SOURCE          http://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?sample=SRS269129
+
+PLOT FILES:
+SRX015089-SRR032433.fastq.stranded.plot
+SRX103303-SRR358786.fastq.stranded.plot
+SRX103304-SRR358787.fastq.stranded.plot

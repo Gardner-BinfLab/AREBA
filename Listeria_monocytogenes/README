@@ -1,0 +1,18 @@
+EMBL GENOME INFO:
+ID   CP002002; SV 1; circular; genomic DNA; STD; PRO; 2903106 BP.
+OS   Listeria monocytogenes 10403S
+OC   Bacteria; Firmicutes; Bacillales; Listeriaceae; Listeria.
+
+TRANSCRIPTOME INFO:
+TAXID           393133
+PMID            20042087
+SOURCE          http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15651
+PMID            22123973
+SOURCE          http://www.ncbi.nlm.nih.gov/sra/SRX025759
+
+PLOT FILES:
+SRP001753-SRR331094.stranded.plot
+SRP001753-SRR331095.stranded.plot
+SRP001753-SRR331096.stranded.plot
+SRP001753-SRR331097.stranded.plot
+SRR392745.fastq.stranded.plot

@@ -1,0 +1,13 @@
+EMBL GENOME INFO:
+ID   AE016877; SV 1; circular; genomic DNA; STD; PRO; 5411809 BP.
+OS   Bacillus cereus ATCC 14579
+OC   Bacteria; Firmicutes; Bacillales; Bacillaceae; Bacillus;
+OC   Bacillus cereus group.
+
+TRANSCRIPTOME INFO:
+TAXID           226900
+PMID            22537947
+SOURCE          http://www.ncbi.nlm.nih.gov/sra/ERX011940
+
+PLOT FILES:
+ERR031734-ERR031734.fastq.stranded.plot

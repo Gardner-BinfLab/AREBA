@@ -1,0 +1,22 @@
+EMBL GENOME INFO:
+ID   AE004091; SV 2; circular; genomic DNA; STD; PRO; 6264404 BP.
+OS   Pseudomonas aeruginosa PAO1
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+OC   Pseudomonadaceae; Pseudomonas.
+
+TRANSCRIPTOME INFO:
+TAXID           208964
+PMID            22590564
+SOURCE          http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE36340
+PMID            ????????
+SOURCE          http://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP013960
+
+PLOT FILES:
+SRP011370-SRR441575.fastq.stranded.plot
+SRP011370-SRR441576.fastq.stranded.plot
+SRP013960-SRR518528.stranded.plot
+SRP013960-SRR518529.stranded.plot
+SRP013960-SRR518530.stranded.plot
+SRP013960-SRR518533.fastq.stranded.plot
+SRP013960-SRR519062.stranded.plot
+SRP013960-SRR519063.stranded.plot
