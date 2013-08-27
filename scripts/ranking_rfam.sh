@@ -1,7 +1,18 @@
 
-echo -e "#hit\tExpression_Rank\t\t\t\t\torders_seen"
+echo -e "#RfamID\tRfamAlias\tEMBLAccession\tExpressionRank"
 
 
+
+for file in `ls */*cumulative.stat`;
+do
+cat $file | gawk 'match($0,/ID=(.*);Name.*Alias=(.*);Note/,alias)  {print alias[1],"\t",alias[2],"\t",$1,"\t",NR}';
+
+done
+
+
+
+
+: << 'END'
 for keyword in `cat */*rfam*.gff | gawk 'match($0,/Alias=(.*);/,m) {print m[1]}' | sort -n | uniq`;
 do
 
@@ -10,3 +21,5 @@ do
 
 	
 done
+
+END
