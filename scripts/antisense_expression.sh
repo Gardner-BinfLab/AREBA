@@ -19,8 +19,8 @@ cd plot/$species_directory;
 		#if [ -z $Coverage_mapped_reads ]; then Coverage_mapped_reads=$(grep -E "^$species_directory.*$experiment_id.*$dataset_id" ../species_experiment_dataset_coverage_depth_mapped.stats | cut -f4,6); fi;
 
 		#Correlation=$(echo `cat $plot | Rscript -e 'f=read.table("stdin"); cor(f[,1],f[,2]);'` | awk '{print $2}');
-		if [ ! -f home/suu13/projects/antisense/$embl_name*/$embl_name.$plot.HMM_Core.expression ]; then gff_plot2median.py -g /home/suu13/projects/antisense/$embl_name*/$embl_name.HMM_Core.gff -p $plot -a 1> /home/suu13/projects/antisense/$embl_name*/$embl_name.$plot.HMM_Core.expression 2> /dev/null; fi;
-		if [ ! /home/suu13/projects/antisense/$embl_name*/$embl_name.$plot-rfam-filtered.expression ]; then gff_plot2median.py -g /home/suu13/projects/antisense/$embl_name*/$embl_name-rfam-filtered.gff -p $plot -a 1> /home/suu13/projects/antisense/$embl_name*/$embl_name.$plot-rfam-filtered.expression 2> /dev/null; fi;
+		if [ ! -f /home/suu13/projects/antisense/core_fasta/$embl_name*/$embl_name.$plot.HMM_Core.expression ]; then gff_plot2median.py -g /home/suu13/projects/antisense/core_fasta/$embl_name*/$embl_name.HMM_Core.gff -p $plot -a 1> /home/suu13/projects/antisense/core_fasta/$embl_name*/$embl_name.$plot.HMM_Core.expression 2> /dev/null; fi;
+		if [ ! /home/suu13/projects/antisense/core_fasta/$embl_name*/$embl_name.$plot-rfam-filtered.expression ]; then gff_plot2median.py -g /home/suu13/projects/antisense/core_fasta/$embl_name*/$embl_name-rfam-filtered.gff -p $plot -a 1> /home/suu13/projects/antisense/core_fasta/$embl_name*/$embl_name.$plot-rfam-filtered.expression 2> /dev/null; fi;
 
 		#Core_CDS=$(cat $plot.HMM_Core.expression | awk 'BEGIN{FS="$"; total_c=0; treshold_c=0;}{total_c++; if($7>1) treshold_c++;}END{print treshold_c/total_c}');
 		#Core_Rfam=$(cat $plot.Rfam.expression | awk 'BEGIN{FS="$"; total_c=0; treshold_c=0;}{total_c++; if($7>1) treshold_c++;}END{print treshold_c/total_c}');
