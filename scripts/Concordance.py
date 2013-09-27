@@ -8,29 +8,93 @@ Algorithm:
 foreach(region){if(annotated && expression>genomicMedian){$count++}elsif(unannotated && expression<genomicMedian){$count++} $total++;}
 concordance=$count/$total;
 
+Revised 20/09/2013
 
-Multiple GFF files can be used because it is important to mark annotated regions.
+
+
+
+
+
+NOTE:Multiple GFF files can be used because it is important to mark annotated regions.
 
 
 @author: suu13
 '''
 import numpy
 import argparse
+from collections import OrderedDict
+
+def Expression_Array(PlotObject):
+    EA=[]
+    for i in range(0,len(PlotObject)):
+        EA.append(int(PlotObject[i].split()[0])+int(PlotObject[i].split()[1]))
+    EA.sort(reverse=True)
+    
+    return list(OrderedDict.fromkeys(EA)) #return ordered expression list
+    
+def ROC_Table(PlotObject,GffObject):
+    LenRange=len(PlotObject)
+    GenomeScaffold=Genome_Annotation_Marker(GffObject,LenRange)
+    ExpressionArray=Expression_Array(PlotObject)
+    print "Expression\tTruePositive\tFalsePositive\tTrueNegative\tFalseNegative"
+    for i in ExpressionArray:
+        GenomeCS=GenomeConcordanceStats(PlotObject,GffObject,i,GenomeScaffold)
+        print "%d\t%d\t%d\t%d\t%d" % (i,GenomeCS[0],GenomeCS[1],GenomeCS[2],GenomeCS[3]) 
+        
+        
+    
 
 def GenomeMedian(PlotObject): 
     GenomeMedian=[]
     LenRange=len(PlotObject)
     for i in range(0,LenRange):
-        GenomeMedian.append(int(PlotObject[i].split()[0]))
-        GenomeMedian.append(int(PlotObject[i].split()[1]))
+        GenomeMedian.append(int(PlotObject[i].split()[0])+int(PlotObject[i].split()[1]))
     return(int(numpy.median(GenomeMedian)))
 
 
 
+def Genome_Annotation_Marker(GffObject,PlotLength):
+    GenomeScaffold=numpy.zeros(shape=(PlotLength,2))
+    for GffLine in GffObject:
+        try: #basinda info kismi olan GFF dosyalari icin ise yariyor 
+            if GffLine.split()[6]=='-':
+                for i in range(int(GffLine.split()[3])-1,int(GffLine.split()[4])): #plot dosyalari sifirdan basliyor diye -1 yaptim
+                    GenomeScaffold[i,0]=1
+            else:
+                for i in range(int(GffLine.split()[3])-1,int(GffLine.split()[4])):
+                    GenomeScaffold[i,1]=1                   
+        except:
+            pass 
+    return GenomeScaffold
+    
+
+def GenomeConcordanceStats(PlotObject,GffObject,ExpressionTreshold,GenomeScaffold): #second function to calculate concordance
+    LenRange=len(PlotObject)
+    TruePositive=0
+    FalsePositive=0
+    TrueNegative=0
+    FalseNegative=0
+    for i in range(0,LenRange):
+        ExpressionOnLocation=int(PlotObject[i].split()[0])+int(PlotObject[i].split()[1])
+        if (GenomeScaffold[i,0]==1 or GenomeScaffold[i,1]==1) and (ExpressionTreshold < ExpressionOnLocation): #assume unstranded plot
+            TruePositive +=1
+        elif (GenomeScaffold[i,0]==0 and GenomeScaffold[i,1]==0) and (ExpressionTreshold < ExpressionOnLocation):
+            FalsePositive +=1
+        elif (GenomeScaffold[i,0]==0 and GenomeScaffold[i,1]==0) and (ExpressionTreshold >= ExpressionOnLocation):
+            TrueNegative +=1
+        else:
+            FalseNegative +=1
+        #if (GenomeScaffold[i,0]==1 or GenomeScaffold[i,1]==1) and (ExpressionTreshold >= ExpressionOnLocation):
+        #    FalseNegative +=1
+    
+    #PPV=float(TruePositive/float(TruePositive+FalsePositive+1))
+    #Specificity=float(TrueNegative/float(TrueNegative+FalsePositive+1))
+    
+    return [TruePositive,FalsePositive,TrueNegative,FalseNegative]
 
 
 
-def GenomeConcordance(PlotObject,GffObject,GenomeM):
+def GenomeConcordance(PlotObject,GffObject,GenomeM): #old function to calculate concordance
     LenRange=len(PlotObject)
     GenomeScaffold=numpy.zeros(shape=(LenRange,2)) #2 sutun ve genome boyu kadar 0 dolu 2 boyutlu array olusturmak
     for GffLine in GffObject: #bu kisim genomdaki her bolgeye annotation varsa 1 yoksa 0 koyuyor
@@ -65,8 +129,17 @@ def main():
         print "File Read Error"
         return
     
-    GenomeM=GenomeMedian(PlotObject)
-    print "Concordance: " + str(GenomeConcordance(PlotObject,GffObject,GenomeM))
+    if(args.roc==False):
+        GenomeM=GenomeMedian(PlotObject)
+        #print "Concordance: " + str(GenomeConcordance(PlotObject,GffObject,GenomeM))
+        
+        GenomeCS=GenomeConcordanceStats(PlotObject,GffObject,GenomeM,Genome_Annotation_Marker(GffObject,len(PlotObject)))
+        print "PPV & Specificity:%f\t%f" % (GenomeCS[0],GenomeCS[1])
+    else:
+        ROC_Table(PlotObject,GffObject)
+    
+    
+    
 
 
 
@@ -81,5 +154,6 @@ if __name__ == '__main__':
     Argument_Parser=argparse.ArgumentParser(prog="Concordance.py")
     Argument_Parser.add_argument('-gff',type=str,help="GFF files of annotations",required=True,action="append")
     Argument_Parser.add_argument('-plot',type=str,help="Transcriptome plot file",required=True)
+    Argument_Parser.add_argument('-roc',action='store_true',help="ROC_Table")
     args=Argument_Parser.parse_args()
     main()
