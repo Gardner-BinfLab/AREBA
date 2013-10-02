@@ -13,7 +13,7 @@ NOTE:Multiple GFF files can be used because it is important to mark annotated re
 
 @author: suu13
 '''
-import numpy
+from numpy import zeros
 import argparse
 from collections import OrderedDict
 from joblib import Parallel,delayed
@@ -42,7 +42,7 @@ def ROC_Table(PlotObject,GffObject):
     
 
 def Genome_Annotation_Marker(GffObject,LenRange,PlotObject):
-    GenomeScaffold=numpy.zeros(shape=(LenRange,2))
+    GenomeScaffold=zeros(shape=(LenRange,2))
     for GffLine in GffObject:
         try:                 
             for i in range(int(GffLine.split()[3])-1,int(GffLine.split()[4])):
@@ -52,7 +52,7 @@ def Genome_Annotation_Marker(GffObject,LenRange,PlotObject):
     for i in range(0,LenRange):
         GenomeScaffold[i,1]=int(PlotObject[i].split()[0])+int(PlotObject[i].split()[1])
      
-    return GenomeScaffold #return a genome scaffold with annotations marked, assume unstranded
+    return GenomeScaffold #return a genome scaffold with annotations marked, and expression summed: assume unstranded data
 
 def GenomeConcordanceStats(ExpressionTreshold,GenomeScaffold,LenRange): #second function to calculate concordance
     TruePositive=0
@@ -62,7 +62,7 @@ def GenomeConcordanceStats(ExpressionTreshold,GenomeScaffold,LenRange): #second 
     for i in range(0,LenRange):
         if (GenomeScaffold[i,0]==1) and (ExpressionTreshold <= GenomeScaffold[i,1]): #assume unstranded plot
             TruePositive +=1
-        elif (GenomeScaffold[i,0]==0) and (ExpressionTreshold < GenomeScaffold[i,1]):
+        elif (GenomeScaffold[i,0]==0) and (ExpressionTreshold <= GenomeScaffold[i,1]):
             FalsePositive +=1
         elif (GenomeScaffold[i,0]==0) and (ExpressionTreshold > GenomeScaffold[i,1]):
             TrueNegative +=1

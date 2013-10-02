@@ -22,9 +22,11 @@ cd plot/$species_directory;
 		if [ ! -f $plot.CDS.expression ]; then gff_plot2median.py -g /home/suu13/projects/areba/Quality_Score/$embl_name.HMM_Core.gff -p $plot -a 1> $plot.CDS.expression 2> /dev/null; fi;
 		if [ ! -f $plot.Rfam.expression ]; then gff_plot2median.py -g /home/suu13/projects/areba/Quality_Score/$embl_name.rfam.core.gff -p $plot -a 1> $plot.Rfam.expression 2> /dev/null; fi;
 		if [ ! -f $plot.all.expression ]; then gff_plot2median.py -g /home/suu13/projects/areba/Quality_Score/$embl_name.all.gff -p $plot 1> $plot.all.expression 2> /dev/null; fi;
-		Core_CDS=$(cat $plot.CDS.expression | awk 'BEGIN{FS="$"; total_c=0; treshold_c=0;}{total_c++; if($7>1) treshold_c++;}END{print treshold_c/total_c}');
-		Core_Rfam=$(cat $plot.Rfam.expression | awk 'BEGIN{FS="$"; total_c=0; treshold_c=0;}{total_c++; if($7>1) treshold_c++;}END{print treshold_c/total_c}');
-		Concordance=$(Concordance.py -p $plot -g /home/suu13/projects/areba/Quality_Score/$embl_name.gff3 -g /home/suu13/projects/areba/Quality_Score/$embl_name.all.gff | awk '{print $2}');
+		Genome_Median=$(gff_plot2median.py -g foo -p $plot -m | cut -d: -f2); #calculate genomic median
+		if [ $Genome_Median -eq 0 ]; then let $Genome_Median=1;  #if genomic median is 0, make it 1
+		Core_CDS=$(cat $plot.CDS.expression | awk 'BEGIN{FS="$"; total_c=0; treshold_c=0;}{total_c++; if($4>='"$Genome_Median"') treshold_c++;}END{print treshold_c/total_c}'); #check core CDS on
+		Core_Rfam=$(cat $plot.Rfam.expression | awk 'BEGIN{FS="$"; total_c=0; treshold_c=0;}{total_c++; if($4>='"$Genome_Median"') treshold_c++;}END{print treshold_c/total_c}'); #check selected rfam on
+		Concordance=$(Concordance.py -p $plot -g /home/suu13/projects/areba/Quality_Score/$embl_name.gff3 -g /home/suu13/projects/areba/Quality_Score/$embl_name.all.gff | awk '{print $2}'); #check concordance of whole genome for all annotations
 		echo -e "$species\t$embl_name\t$experiment_id\t$dataset_id\t$Correlation\t$Core_CDS\t$Core_Rfam\t$Concordance\t$Coverage_mapped_reads";
 	fi;
 	done
