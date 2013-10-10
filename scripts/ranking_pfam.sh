@@ -3,13 +3,13 @@ echo -e "#PfamAccession\tPfamID\tEMBLAccession\tExpressionRank"
 
 
 
-for file in `ls */*cumulative.stat`;
+for file in `ls */*$1`;
 do
 cat $file | gawk 'match($0,/;id=(.*);acc=(.*);pid/,alias)  {print alias[2],"\t",alias[1],"\t",$1,"\t",NR}';
 
 done
 
-
+#the code below was removed
 : << 'END'
 for keyword in `cat */*PfamA*.gff | gawk 'match($0,/id=(.*);acc/,m) {print m[1]}' | sort -n | uniq`;
 do

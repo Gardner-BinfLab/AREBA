@@ -1,0 +1,21 @@
+/*	
+----------------------------------------------------
+	There are two groups for ranking.
+		
+		# The first group contains RUFs, Rfam annotations, PfamA and PfamB annotations, thus these are ranked together.
+		The files of first group are "PfamAB.ranking.PfamAB.txt, rfam.ranking.PfamAB.txt, ruf.ranking.PfamAB.txt".
+		Each of them contains different type of annotations, and so each of them has different name.
+		
+		Each species directory contain files named *PfamAB.cumulative.stat which has the sorted expression data. I created those files and
+		extracted required ranking information.
+		
+		# The second group contains RUFS, Rfam annotaions and CDS annotations of EMBL files, thus these are ranked together.
+		The files of second group are "CDS.ranking.CDS.txt, rfam.ranking.CDS.txt, ruf.ranking.CDS.txt".
+		Each of them contains different type of annotations, and so each of them has different name.
+		
+		Each species directory contain files named *CDS.cumulative.stat which has the sorted expression data. I created those files and
+		extracted required ranking information.
+
+----------------------------------------------------
+*/
+		
