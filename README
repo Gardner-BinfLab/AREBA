@@ -21,7 +21,34 @@ RNA at 92°C: The non-coding transcriptome of the hyperthermophilic archaeon Pyr
 Toffano-Nioche C, Ott A, Crozat E, Nguyen AN, Zytnicki M, Leclerc F, Forterre P, Bouloc P, Gautheret D.
 RNA Biol. 2013 Jul 2;10(7).
 
+Determination of sRNA Expressions by RNA-seq in Yersinia pestis Grown In Vitro and during Infection
+Yan et al. 
+PLoS One. 2013; 8(9): e74495.
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3770706/
 
+RNA-Seq Analysis of Mycobacterium avium Non-Coding Transcriptome
+Ignatov et al. 
+PLoS One. 2013; 8(9): e74209. 
+http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0074209
+
+Comparative analysis of non-coding RNAs in the antibiotic-producing Streptomyces bacteria
+Moody et al. 
+BMC Genomics. 2013
+http://www.biomedcentral.com/1471-2164/14/558/abstract
+
+Revealing of Mycobacterium marinum Transcriptome by RNA-seq
+Wang et al.
+PLoS ONE
+
+RNA-Seq of Bacillus licheniformis: active regulatory RNA features expressed
+within a productive fermentation
+Wiegand et al.
+BMC Genomics 2013, 14:667
+
+
+
+
+######################################################################
 Summary plot files to consider:
 
 1. currently generating "max.plot" i.e. maximum read-depths per genomic position 
