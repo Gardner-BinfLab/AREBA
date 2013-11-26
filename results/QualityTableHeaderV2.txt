@@ -27,7 +27,7 @@ Species EMBL    Experiment_ID   Dataset_ID      Strand_Correlation      Core_CDS
 
 
 #Annot_Concordance
-/*	We are working on this.
+/*	We are working on this. We implemented ROC plot based on various tresholds, unfortunately genomic median achieves same.
 /*	I used Paul's suggestion for concordance.
 /* 	Algorithm: foreach(region){if(annotated && expression>genomicMedian){$count++}elsif(unannotated && expression<genomicMedian){$count++}	 $total++;} concordance=$count/$total;
 /*	Concordance.py was created to implement algorithm.
