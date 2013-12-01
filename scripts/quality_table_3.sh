@@ -1,0 +1,1 @@
+../../scripts/quality_table_3.sh
