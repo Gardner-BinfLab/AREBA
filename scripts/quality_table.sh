@@ -1,5 +1,5 @@
 
-echo -e "Species\tEMBL\tExperiment_ID\tDataset_ID\tStrand_Correlation\tCore_CDS_On\tCore_Rfam_On\tAnnot_Concordance\tCoverage\tFraction_mapped_reads"
+echo -e "Species\tEMBL\tExperiment_ID\tDataset_ID\tStrand_Correlation\tCore_CDS_On\tCore_Rfam_On\tAnnotation_Concordance\tCoverage\tFraction_mapped_reads"
 cat embl.directory.map.txt | while read i;
 do
 

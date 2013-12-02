@@ -14,6 +14,7 @@ NOTE:Multiple GFF files can be used because it is important to mark annotated re
 @author: suu13
 '''
 from numpy import zeros
+from numpy import median
 import argparse
 from collections import OrderedDict
 from joblib import Parallel,delayed
@@ -40,17 +41,33 @@ def ROC_Table(PlotObject,GffObject):
         
         
     
-
-def Genome_Annotation_Marker(GffObject,LenRange,PlotObject):
-    GenomeScaffold=zeros(shape=(LenRange,2))
+def Genome_Annotation_Marker(GffObject,PlotObject):
+    GenomeScaffold=zeros(shape=(len(PlotObject),2))
     for GffLine in GffObject:
         try:                 
             for i in range(int(GffLine.split()[3])-1,int(GffLine.split()[4])):
                 GenomeScaffold[i,0]=1
         except:
             pass
-    for i in range(0,LenRange):
+    for i in range(0,len(PlotObject)):
         GenomeScaffold[i,1]=int(PlotObject[i].split()[0])+int(PlotObject[i].split()[1])
+     
+    return GenomeScaffold #return a genome scaffold with annotations marked, and expression summed: assume unstranded data
+
+def Genome_Annotation_Marker_Shuffled(GffObject,PlotObject,ShiftSize):
+    GenomeScaffold=zeros(shape=(len(PlotObject),2))
+    for GffLine in GffObject:
+        try:                 
+            for i in range(int(GffLine.split()[3])-1,int(GffLine.split()[4])):
+                GenomeScaffold[i,0]=1
+        except:
+            pass
+    for i in range(0,len(PlotObject)):
+        try:      
+            GenomeScaffold[i,1]=int(PlotObject[i+ShiftSize].split()[0])+int(PlotObject[i+ShiftSize].split()[1])
+        except:
+            GenomeScaffold[i,1]=int(PlotObject[i+ShiftSize-(len(PlotObject)-1)].split()[0])+int(PlotObject[i+ShiftSize-(len(PlotObject)-1)].split()[1])
+        
      
     return GenomeScaffold #return a genome scaffold with annotations marked, and expression summed: assume unstranded data
 
@@ -81,6 +98,16 @@ def GenomeConcordanceStats(ExpressionTreshold,GenomeScaffold,LenRange): #second 
     return
 
 
+def GenomeConcordance(GenomeM,GenomeScaffold): #old function to calculate concordance
+    concordance=0
+    for i in range(0,len(GenomeScaffold)): #genome medianindan buyukse ve annotation varsa
+        if (GenomeScaffold[i,0]==1) and (GenomeM <= GenomeScaffold[i,1]):
+            concordance += 1
+        elif (GenomeScaffold[i,0]==0) and (GenomeM > GenomeScaffold[i,1]):
+            concordance += 1
+    return (float(concordance)/len(GenomeScaffold))
+
+
 
 def main():
     try:
@@ -94,8 +121,15 @@ def main():
         print "File Read Error"
         return
     
-    ROC_Table(PlotObject,GffObject)
+    #ROC_Table(PlotObject,GffObject)
     
+    #print (args.plot)+"\t",
+    Concor=[]
+    for ShiftSize in range(0,200000,15000):
+        GenomeScaffold=Genome_Annotation_Marker_Shuffled(GffObject,PlotObject,ShiftSize)
+        Concor.append(str(GenomeConcordance(10,GenomeScaffold)))
+    print('\t'.join(map(str,Concor)))
+
     
     
 if __name__ == '__main__':
@@ -103,5 +137,6 @@ if __name__ == '__main__':
     Argument_Parser=argparse.ArgumentParser(prog="Concordance.py")
     Argument_Parser.add_argument('-gff',type=str,help="GFF files of annotations",required=True,action="append")
     Argument_Parser.add_argument('-plot',type=str,help="Transcriptome plot file",required=True)
+
     args=Argument_Parser.parse_args()
     main()

@@ -18,9 +18,9 @@ NOTE:Multiple GFF files can be used because it is important to mark annotated re
 
 @author: suu13
 '''
-import numpy
+from numpy import zeros,median
 import argparse
-
+from math import log
  
         
     
@@ -30,10 +30,10 @@ def GenomeMedian(PlotObject):
     LenRange=len(PlotObject)
     for i in range(0,LenRange):
         GenomeMedian.append(int(PlotObject[i].split()[0])+int(PlotObject[i].split()[1]))
-    return(int(numpy.median(GenomeMedian))) #find the genomic median, assume unstranded
+    return(int(median(GenomeMedian))) #find the genomic median, assume unstranded
 
 def Genome_Annotation_Marker(GffObject,PlotObject):
-    GenomeScaffold=numpy.zeros(shape=(len(PlotObject),2))
+    GenomeScaffold=zeros(shape=(len(PlotObject),2))
     for GffLine in GffObject:
         try:                 
             for i in range(int(GffLine.split()[3])-1,int(GffLine.split()[4])):
@@ -105,8 +105,8 @@ def GenomeConcordanceStats(ExpressionTreshold,GenomeScaffold): #second function 
     
     PPV=float(TruePositive/float(TruePositive+FalsePositive))
     Specificity=float(TrueNegative/float(TrueNegative+FalsePositive))
-    
-    return [PPV,Specificity]
+    Stinus=(float(TruePositive)/float(TruePositive+FalsePositive))/(float(TruePositive+FalseNegative)/float(TruePositive+FalsePositive+TrueNegative+FalseNegative))
+    return [PPV,Specificity,log(Stinus,2)]
 
 def GenomeConcordance(GenomeM,GenomeScaffold): #old function to calculate concordance
     concordance=0
@@ -137,10 +137,10 @@ def main():
         print "Concordance: " + str(GenomeConcordance(GenomeM,GenomeScaffold))
 
     else: #New version
-        GenomeM=GenomeMedian(PlotObject)
+        #GenomeM=GenomeMedian(PlotObject)
         GenomeScaffold=Genome_Annotation_Marker(GffObject,PlotObject)                
-        GenomeCS=GenomeConcordanceStats(GenomeM,GenomeScaffold)
-        print "PPV & Specificity:%f\t%f" % (GenomeCS[0],GenomeCS[1])
+        GenomeCS=GenomeConcordanceStats(10,GenomeScaffold)
+        print "PPV & Specificity & Concordance New Metric:%f\t%f\t%f" % (GenomeCS[0],GenomeCS[1],GenomeCS[2])
     
     
     
