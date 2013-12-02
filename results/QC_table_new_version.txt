@@ -1,4 +1,4 @@
-Species	EMBL	Experiment_ID	Dataset_ID	Strand_Correlation	Core_CDS_On	Core_Rfam_On	Annot_Concordance	PPV	Specificity	Coverage	Fraction_mapped_reads
+Species	EMBL	Experiment_ID	Dataset_ID	Strand_Correlation	Core_CDS_On	Core_Rfam_On	PPV	Specificity	Coverage	Fraction_mapped_reads
 Xanthomonas_citri_subsp._citri_306	AE008923.1	SRP013943	SRR516325	0.9158945	0.925	0.918033	0.879479	0.547612	0.3516	0.95466837437596092584
 Xanthomonas_citri_subsp._citri_306	AE008923.1	SRP013943	SRR516336	0.9256339	0.95	0.967213	0.880034	0.526208	0.3231	0.94101433333851652887
 Xanthomonas_citri_subsp._citri_306	AE008923.1	SRP013943	SRR516348	0.918733	0.875	0.95082	0.883385	0.572373	0.2818	0.98126493696995391710

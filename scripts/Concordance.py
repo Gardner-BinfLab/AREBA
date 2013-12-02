@@ -86,7 +86,7 @@ def GenomeConcordanceStats(PlotObject,GffObject,ExpressionTreshold,GenomeScaffol
     return [PPV,Specificity]
 """
 
-def GenomeConcordanceStats(ExpressionTreshold,GenomeScaffold): #second function to calculate concordance
+def GenomeConcordanceStats(ExpressionTreshold,GenomeScaffold): #second function to calculate PPV and Spec
     TruePositive=0
     FalsePositive=0
     TrueNegative=0
@@ -108,27 +108,14 @@ def GenomeConcordanceStats(ExpressionTreshold,GenomeScaffold): #second function 
     
     return [PPV,Specificity]
 
-def GenomeConcordance(PlotObject,GffObject,GenomeM): #old function to calculate concordance
-    LenRange=len(PlotObject)
-    GenomeScaffold=numpy.zeros(shape=(LenRange,2)) #2 sutun ve genome boyu kadar 0 dolu 2 boyutlu array olusturmak
-    for GffLine in GffObject: #bu kisim genomdaki her bolgeye annotation varsa 1 yoksa 0 koyuyor
-        try: #basinda info kismi olan GFF dosyalari icin ise yariyor 
-            if GffLine.split()[6]=='-':
-                for i in range(int(GffLine.split()[3])-1,int(GffLine.split()[4])): #plot dosyalari sifirdan basliyor diye -1 yaptim
-                    GenomeScaffold[i,0]=1
-            else:
-                for i in range(int(GffLine.split()[3])-1,int(GffLine.split()[4])):
-                    GenomeScaffold[i,1]=1                 
-        except:
-            pass
-    
+def GenomeConcordance(GenomeM,GenomeScaffold): #old function to calculate concordance
     concordance=0
-    for i in range(0,LenRange): #genome medianindan buyukse ve annotation varsa
-        if (GenomeScaffold[i,0]==1 and (GenomeM < int(PlotObject[i].split()[0]))) or (GenomeScaffold[i,0]==0 and (GenomeM > int(PlotObject[i].split()[0]))):
+    for i in range(0,len(GenomeScaffold)): #genome medianindan buyukse ve annotation varsa
+        if (GenomeScaffold[i,0]==1) and (GenomeM <= GenomeScaffold[i,1]):
             concordance += 1
-        if (GenomeScaffold[i,1]==1 and (GenomeM < int(PlotObject[i].split()[1]))) or (GenomeScaffold[i,1]==0 and (GenomeM > int(PlotObject[i].split()[1]))):
+        elif (GenomeScaffold[i,0]==0) and (GenomeM > GenomeScaffold[i,1]):
             concordance += 1
-    return (float(concordance)/float(2*LenRange))
+    return (float(concordance)/len(GenomeScaffold))
 
 
 def main():
@@ -143,12 +130,13 @@ def main():
         print "File Read Error"
         return
     
-    if(args.roc==False):
+    if(args.additional==False): #Old version
         GenomeM=GenomeMedian(PlotObject)
         GenomeScaffold=Genome_Annotation_Marker(GffObject,PlotObject)
-        print "Concordance: " + str(GenomeConcordance(PlotObject,GffObject,GenomeM))
+        #print "Concordance: " + str(GenomeConcordance(PlotObject,GffObject,GenomeM))
+        print "Concordance: " + str(GenomeConcordance(GenomeM,GenomeScaffold))
 
-    else:
+    else: #New version
         GenomeM=GenomeMedian(PlotObject)
         GenomeScaffold=Genome_Annotation_Marker(GffObject,PlotObject)                
         GenomeCS=GenomeConcordanceStats(GenomeM,GenomeScaffold)
@@ -158,18 +146,11 @@ def main():
     
 
 
-
-
-
-
-
-
-
 if __name__ == '__main__':
     #parse command line arguments
     Argument_Parser=argparse.ArgumentParser(prog="Concordance.py")
     Argument_Parser.add_argument('-gff',type=str,help="GFF files of annotations",required=True,action="append")
     Argument_Parser.add_argument('-plot',type=str,help="Transcriptome plot file",required=True)
-    Argument_Parser.add_argument('-roc',action='store_true',help="ROC_Table")
+    Argument_Parser.add_argument('-additional',action='store_true',help="Additional PPV & Specificity")
     args=Argument_Parser.parse_args()
     main()
