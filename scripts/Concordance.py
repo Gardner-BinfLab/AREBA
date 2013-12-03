@@ -100,13 +100,21 @@ def GenomeConcordanceStats(ExpressionTreshold,GenomeScaffold): #second function 
             TrueNegative +=1
         else:
             FalseNegative +=1
-        #if (GenomeScaffold[i,0]==1 or GenomeScaffold[i,1]==1) and (ExpressionTreshold >= ExpressionOnLocation):
-        #    FalseNegative +=1
     
-    PPV=float(TruePositive/float(TruePositive+FalsePositive))
-    Specificity=float(TrueNegative/float(TrueNegative+FalsePositive))
-    Stinus=(float(TruePositive)/float(TruePositive+FalsePositive))/(float(TruePositive+FalseNegative)/float(TruePositive+FalsePositive+TrueNegative+FalseNegative))
-    return [PPV,Specificity,log(Stinus,2)]
+    try:
+        PPV=float(TruePositive/float(TruePositive+FalsePositive))
+    except:
+        PPV='NA'
+    try:
+        Specificity=float(TrueNegative/float(TrueNegative+FalsePositive))
+    except:
+        Specificity='NA'
+    try:
+        Stinus=(float(TruePositive)/float(TruePositive+FalsePositive))/(float(TruePositive+FalseNegative)/float(TruePositive+FalsePositive+TrueNegative+FalseNegative))
+        Stinus=log(Stinus,2)
+    except:
+        Stinus='NA'
+    return [PPV,Specificity,Stinus]
 
 def GenomeConcordance(GenomeM,GenomeScaffold): #old function to calculate concordance
     concordance=0
@@ -140,7 +148,7 @@ def main():
         #GenomeM=GenomeMedian(PlotObject)
         GenomeScaffold=Genome_Annotation_Marker(GffObject,PlotObject)                
         GenomeCS=GenomeConcordanceStats(10,GenomeScaffold)
-        print "PPV & Specificity & Concordance New Metric:%f\t%f\t%f" % (GenomeCS[0],GenomeCS[1],GenomeCS[2])
+        print "PPV & Specificity & Concordance New Metric:%s\t%s\t%s" % (str(GenomeCS[0]),str(GenomeCS[1]),str(GenomeCS[2]))
     
     
     
