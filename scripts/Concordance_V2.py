@@ -108,6 +108,21 @@ def GenomeConcordance(GenomeM,GenomeScaffold): #old function to calculate concor
     return (float(concordance)/len(GenomeScaffold))
 
 
+def GenomeConcordanceShuffled(GenomeM,GenomeScaffold,ShiftSize):
+    concordance=0
+    for i in range(0,len(GenomeScaffold)): #genome medianindan buyukse ve annotation varsa
+        try:
+            if (GenomeScaffold[i,0]==1) and (GenomeM <= GenomeScaffold[i+ShiftSize,1]):
+                concordance += 1
+            elif (GenomeScaffold[i,0]==0) and (GenomeM > GenomeScaffold[i+ShiftSize,1]):
+                concordance += 1
+        except:
+            if (GenomeScaffold[i,0]==1) and (GenomeM <= GenomeScaffold[i+ShiftSize-len(GenomeScaffold),1]):
+                concordance += 1
+            elif (GenomeScaffold[i,0]==0) and (GenomeM > GenomeScaffold[i+ShiftSize-len(GenomeScaffold),1]):
+                concordance += 1
+    #print concordance            
+    return (float(concordance)/len(GenomeScaffold))
 
 def main():
     try:
@@ -125,12 +140,14 @@ def main():
     
     #print (args.plot)+"\t",
     Concor=[]
-    for ShiftSize in range(0,200000,15000):
-        GenomeScaffold=Genome_Annotation_Marker_Shuffled(GffObject,PlotObject,ShiftSize)
-        Concor.append(str(GenomeConcordance(10,GenomeScaffold)))
-    print('\t'.join(map(str,Concor)))
-
+    GenomeScaffold=Genome_Annotation_Marker(GffObject,PlotObject)
+    Concor.append(GenomeConcordanceShuffled(10,GenomeScaffold,0))
     
+    for ShiftSize in range(50000,2000000,50000):
+        #GenomeScaffold=Genome_Annotation_Marker_Shuffled(GffObject,PlotObject,ShiftSize)
+        Concor.append(str(GenomeConcordanceShuffled(10,GenomeScaffold,ShiftSize)))
+    
+    print(','.join(map(str,Concor)))
     
 if __name__ == '__main__':
     #parse command line arguments

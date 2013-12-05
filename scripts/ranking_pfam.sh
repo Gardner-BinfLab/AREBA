@@ -1,13 +1,23 @@
 
-echo -e "#PfamAccession\tPfamID\tEMBLAccession\tExpressionRank"
+echo -e "#PfamAccession\tPfamID\tEMBLAccession\tExpressionRank";
 
-
-
-for file in `ls */*$1`;
+for file in `ls */*$1`; #use extension of file as an argument
 do
 cat $file | gawk 'match($0,/;id=(.*);acc=(.*);pid/,alias)  {print alias[2],"\t",alias[1],"\t",$1,"\t",NR}';
-
 done
+
+
+
+
+
+#for file in `ls */*$1`; #use extension of file as an argument, new part after PfamAB exception, bu kisim calismiyor, elle calisiyor.
+#do
+#embl=$(echo $file | cut -d'/' -f2 | cut -d'.' -f1);
+#cat $file | gawk 'match($0,/;id=*);acc=(.*);pid/,alias)  {print alias[2],"\t",alias[1],"\t","'$embl'","\t",NR}'; 
+#done
+
+
+
 
 #the code below was removed
 : << 'END'
