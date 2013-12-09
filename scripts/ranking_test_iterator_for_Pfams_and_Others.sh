@@ -11,7 +11,7 @@ do
 		echo $genome_file;
 		#cat `ls *gff | grep -v "CDS\|gene\|annot"` | grep "RUF\|Rfam\|Pfam" | sponge $genome_file.cumulative.gff;
 		#cat *PfamA*gff *rfam*gff *RUF*gff > $genome_file.cumulative.gff;
-		cat ~/genomes/Pfam/*/*$genome_file* > ~/tmp/tmp.gff;	
+		cat ~/genomes/Pfam/*/*$genome_file* > ~/tmp/tmp.gff; #combine PfamAB	
 		if [ -f max.plot ]; then gff_plot2median.py -g ~/tmp/tmp.gff -g *rfam*.gff -g *RUF.gff -p max.plot > $genome_file.PfamAB.cumulative.stat; fi;
 		cat $genome_file.PfamAB.cumulative.stat | sort -t$ -k4nr | sponge $genome_file.PfamAB.cumulative.stat;
 		rm ~/tmp/tmp.gff;
