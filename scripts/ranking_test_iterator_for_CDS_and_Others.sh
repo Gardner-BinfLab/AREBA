@@ -11,7 +11,7 @@ do
 		echo $genome_file;
 		#cat `ls *gff | grep -v "CDS\|gene\|annot"` | grep "RUF\|Rfam\|Pfam" | sponge $genome_file.cumulative.gff;
 		#cat *PfamA*gff *rfam*gff *RUF*gff > $genome_file.cumulative.gff;
-		if [ -f max.plot ]; then gff_plot2median.py -g *CDS.gff -g *rfam*.gff -g *RUF.gff -p max.plot > $genome_file.CDS.cumulative.stat; fi;
+		if [ -f max.plot ]; then gff_plot2median.py -g *CDS.gff -g ../../rfam_stinus_gff/$genome_file*Rfam.tblout.gff -g *RUF.gff -p max.plot > $genome_file.CDS.cumulative.stat; fi;
 		cat $genome_file.CDS.cumulative.stat | sort -t$ -k4nr | sponge $genome_file.CDS.cumulative.stat;
 
 	fi
@@ -29,7 +29,7 @@ do
 		echo $genome_file;
 		#cat `ls *gff | grep -v "CDS\|gene\|annot"` | grep "RUF\|Rfam\|Pfam" | sponge $genome_file.cumulative.gff;
 		#cat *PfamA*gff *rfam*gff *RUF*gff > $genome_file.cumulative.gff;
-		if [ -f $genome_file-max.plot ]; then gff_plot2median.py -g $genome_file-CDS.gff -g $genome_file*rfam*.gff -g $genome_file*RUF.gff -p $genome_file-max.plot > $genome_file.CDS.cumulative.stat; fi;
+		if [ -f $genome_file-max.plot ]; then gff_plot2median.py -g $genome_file-CDS.gff -g ../../rfam_stinus_gff/$genome_file*Rfam.tblout.gff -g $genome_file*RUF.gff -p $genome_file-max.plot > $genome_file.CDS.cumulative.stat; fi;
 		cat $genome_file.CDS.cumulative.stat | sort -t$ -k4nr | sponge $genome_file.CDS.cumulative.stat;
 
 	fi

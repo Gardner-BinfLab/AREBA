@@ -3,9 +3,10 @@ echo -e "#RfamID\tRfamAlias\tEMBLAccession\tExpressionRank"
 
 
 
-for file in `ls */*$1`; #use extension of file as an argument
+for file in `ls */*$1`;
 do
-cat $file | gawk 'match($0,/ID=(.*);Name.*Alias=(.*);Note/,alias)  {print alias[1],"\t",alias[2],"\t",$1,"\t",NR}';
+embl_accession=$(echo $file | cut -d/ -f2 | cut -d. -f1);
+cat $file | gawk 'match($0,/ID=(.*);Alias=(.*);E-value/,alias)  {print alias[1],"\t",alias[2],"\t","'$embl_accession'","\t",NR}';
 
 done
 
