@@ -1,0 +1,114 @@
+FM954972.2 EMBL CDS 2521749 2522513 . - . ID=['CAV19514.1'];Product=['ribosomal protein S2'];Note=
+FM954972.2 EMBL CDS 2979947 2980273 . - . ID=['CAV20126.1'];Product=['30S ribosomal protein S10'];Note=
+FM954972.2 EMBL CDS 3130397 3131101 . - . ID=['CAV20263.1'];Product=['ribosomal protein L1'];Note=
+FM954972.2 EMBL CDS 2810546 2812339 . - . ID=['CAV19832.1'];Product=['GTP-binding protein lepA'];Note=
+FM954972.2 EMBL CDS 2653553 2656243 . - . ID=['CAV19641.1'];Product=['translation initiation factor 2'];Note=
+FM954972.2 EMBL CDS 407585 408601 . + . ID=['CAV17409.1'];Product=['Probable O-sialoglycoprotein endopeptidase'];Note=
+FM954972.2 EMBL CDS 2976905 2977240 . - . ID=['CAV20120.1'];Product=['Ribosomal protein L22'];Note=
+FM954972.2 EMBL CDS 2748036 2749448 . - . ID=['CAV19739.1'];Product=['Signal recognition particle protein'];Note=
+FM954972.2 EMBL CDS 2978684 2979286 . - . ID=['CAV20124.1'];Product=['Ribosomal protein L4'];Note=
+FM954972.2 EMBL CDS 2977546 2978370 . - . ID=['CAV20122.1'];Product=['Ribosomal protein L2'];Note=
+FM954972.2 EMBL CDS 441641 442033 . + . ID=['CAV17438.1'];Product=['ribosomal protein S9'];Note=
+FM954972.2 EMBL CDS 2979303 2979932 . - . ID=['CAV20125.1'];Product=['50S ribosomal protein L3'];Note=
+FM954972.2 EMBL CDS 1885488 1887875 . - . ID=['CAV18949.1'];Product=['Phenylalanyl-tRNA synthetase beta chain'];Note=['Evidence 2a : Function of homologous gene experimentally demonstrated in another organism; PubMedId : 2991205, 9097039; Product type e : enzyme']
+FM954972.2 EMBL CDS 2974786 2975082 . - . ID=['CAV20114.1'];Product=['50S ribosomal protein L14'];Note=
+FM954972.2 EMBL CDS 2971727 2972227 . - . ID=['CAV20105.1'];Product=['Ribosomal protein S5'];Note=
+FM954972.2 EMBL CDS 2977248 2977526 . - . ID=['CAV20121.1'];Product=['Ribosomal protein S19'];Note=
+FM954972.2 EMBL CDS 2984338 2984808 . - . ID=['CAV20129.1'];Product=['ribosomal protein S7'];Note=
+FM954972.2 EMBL CDS 2975766 2976176 . - . ID=['CAV20117.1'];Product=['50S ribosomal protein L16'];Note=
+FM954972.2 EMBL CDS 2969087 2969443 . - . ID=['CAV20100.1'];Product=['ribosomal protein S13'];Note=
+FM954972.2 EMBL CDS 1887894 1888877 . - . ID=['CAV18950.1'];Product=['Phenylalanyl-tRNA synthetase alpha chain'];Note=['Evidence 2a : Function of homologous gene experimentally demonstrated in another organism; PubMedId : 6317865, 2991205, 1942071, 1537809; Product type e : enzyme']
+FM954972.2 EMBL CDS 2971103 2971537 . - . ID=['CAV20103.1'];Product=['Ribosomal protein L15'];Note=
+FM954972.2 EMBL CDS 2978385 2978687 . - . ID=['CAV20123.1'];Product=['Ribosomal protein L23'];Note=
+FM954972.2 EMBL CDS 2972605 2973138 . - . ID=['CAV20108.1'];Product=['ribosomal protein L6'];Note=
+FM954972.2 EMBL CDS 3131106 3131594 . - . ID=['CAV20264.1'];Product=['ribosomal protein L11'];Note=
+FM954972.2 EMBL CDS 2973893 2974432 . - . ID=['CAV20111.1'];Product=['ribosomal protein L5'];Note=
+FM954972.2 EMBL CDS 2984913 2985287 . - . ID=['CAV20130.1'];Product=['ribosomal protein S12'];Note=
+FM954972.2 EMBL CDS 2975575 2975769 . - . ID=['CAV20116.1'];Product=['50S ribosomal protein L29'];Note=
+FM954972.2 EMBL CDS 2976188 2976886 . - . ID=['CAV20118.1'];Product=['Ribosomal protein S3'];Note=
+FM954972.2 EMBL CDS 2968678 2969067 . - . ID=['CAV20099.1'];Product=['Ribosomal protein S11'];Note=
+FM954972.2 EMBL CDS 3129661 3130194 . - . ID=['CAV20261.1'];Product=['Ribosomal protein L10'];Note=
+FM954972.2 EMBL CDS 2973149 2973541 . - . ID=['CAV20109.1'];Product=['ribosomal protein S8'];Note=
+FM954972.2 EMBL CDS 2652051 2653004 . - . ID=['CAV19639.1'];Product=['tRNA pseudouridine 55 synthase'];Note=
+FM954972.2 EMBL CDS 2972242 2972595 . - . ID=['CAV20107.1'];Product=['ribosomal protein L18'];Note=
+FM954972.2 EMBL CDS 2651563 2651832 . - . ID=['CAV19638.1'];Product=['Similar to ribosomal protein S15'];Note=
+FM954972.2 EMBL CDS 3199920 3200858 . + . ID=['CAV20330.1'];Product=['Porphobilinogen deaminase'];Note=
+FM954972.2 EMBL CDS 2975321 2975575 . - . ID=['CAV20115.1'];Product=['ribosomal protein S17'];Note=
+FM954972.2 EMBL CDS 441199 441627 . + . ID=['CAV17437.1'];Product=['ribosomal protein L13'];Note=
+FM954972.2 EMBL CDS 2484989 2486029 . + . ID=['CAV19480.1'];Product=['Phosphoribosyl-aminoimidazole synthetase'];Note=
+FM954972.2 EMBL CDS 2507539 2508159 . - . ID=['CAV19500.1'];Product=['Ribonuclease HII'];Note=
+FM954972.2 EMBL CDS 2974457 2974774 . - . ID=['CAV20112.1'];Product=['50S ribosomal protein L24'];Note=
+FM954972.2 EMBL CDS 2656266 2657753 . - . ID=['CAV19642.1'];Product=['Transcription elongation protein nusA'];Note=
+FM954972.2 EMBL CDS 3124975 3129099 . - . ID=['CAV20259.1'];Product=['DNA-directed RNA polymerase beta chain'];Note=
+FM954972.2 EMBL CDS 645232 646713 . + . ID=['CAV17618.1'];Product=['GTP-binding protein engA'];Note=
+FM954972.2 EMBL CDS 3120682 3124917 . - . ID=['CAV20258.1'];Product=["DNA-directed RNA polymerase beta' chain"];Note=
+FM954972.2 EMBL CDS 3051424 3053625 . + . ID=['CAV20195.1'];Product=["primosomal protein N'"];Note=
+FM954972.2 EMBL CDS 2219982 2223443 . + . ID=['CAV19245.1'];Product=['transcription-repair coupling factor'];Note=
+FM954972.2 EMBL CDS 2796066 2797706 . - . ID=['CAV19811.1'];Product=['CTP synthase (UTP--ammonia ligase)'];Note=
+FM954972.2 EMBL CDS 2969748 2971082 . - . ID=['CAV20102.1'];Product=['SecY, Preprotein translocase subunit SecY'];Note=
+FM954972.2 EMBL CDS 363489 364661 . + . ID=['CAV17372.1'];Product=['GTP1/Obg family protein'];Note=
+FM954972.2 EMBL CDS 98803 101604 . + . ID=['CAV17142.1'];Product=['DNA polymerase I'];Note=
+FM954972.2 EMBL CDS 275260 275673 . + . ID=['CAV17302.1'];Product=['ribosomal protein S6'];Note=
+FM954972.2 EMBL CDS 2967011 2968003 . - . ID=['CAV20097.1'];Product=['DNA-directed RNA polymerase, alpha subunit'];Note=
+FM954972.2 EMBL CDS 773124 774212 . + . ID=['CAV17730.1'];Product=['Peptide chain release factor 1'];Note=
+FM954972.2 EMBL CDS 276072 276524 . + . ID=['CAV17304.1'];Product=['ribosomal protein L9'];Note=
+FM954972.2 EMBL CDS 2649082 2651202 . - . ID=['CAV19637.1'];Product=['polyribonucleotide nucleotidyltransferase'];Note=
+FM954972.2 EMBL CDS 2520766 2521611 . - . ID=['CAV19513.1'];Product=['Elongation factor Ts'];Note=
+FM954972.2 EMBL CDS 2966606 2966986 . - . ID=['CAV20096.1'];Product=['ribosomal protein L17'];Note=
+FM954972.2 EMBL CDS 2746227 2746967 . - . ID=['CAV19733.1'];Product=['tRNA (guanine-N1)-methyltransferase'];Note=
+FM954972.2 EMBL CDS 2012877 2013155 . + . ID=['CAV19044.1'];Product=['ribosomal protein L25'];Note=
+FM954972.2 EMBL CDS 2624472 2625851 . - . ID=['CAV19615.1'];Product=['Predicted ATP-dependent serine protease'];Note=
+FM954972.2 EMBL CDS 3297294 3299189 . - . ID=['CAV20415.1'];Product=['gid A : glucose inhibited division protein A'];Note=
+FM954972.2 EMBL CDS 750323 750640 . - . ID=['CAV17710.1'];Product=['hypothetical protein'];Note=
+FM954972.2 EMBL CDS 2653004 2653417 . - . ID=['CAV19640.1'];Product=['ribosome-binding factor A'];Note=
+FM954972.2 EMBL CDS 259676 261847 . + . ID=['CAV17290.1'];Product=['DNA mismatch repair protein mutL'];Note=
+FM954972.2 EMBL CDS 669229 669783 . - . ID=['CAV17636.1'];Product=['SsrA-binding protein'];Note=
+FM954972.2 EMBL CDS 461128 462189 . + . ID=['CAV17457.1'];Product=['UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase'];Note=
+FM954972.2 EMBL CDS 451541 452491 . + . ID=['CAV17449.1'];Product=['S-adenosyl-methyltransferase mraW'];Note=
+FM954972.2 EMBL CDS 458580 459896 . + . ID=['CAV17455.1'];Product=['UDP-N-acetylmuramoylalanine--D-glutamate ligase'];Note=
+FM954972.2 EMBL CDS 2745814 2746167 . - . ID=['CAV19731.1'];Product=['ribosomal protein L19'];Note=
+FM954972.2 EMBL CDS 1306783 1307136 . + . ID=['CAV18362.1'];Product=['50S ribosomal subunit protein L20'];Note=['Evidence 2a : Function of homologous gene experimentally demonstrated in another organism; Product type s : structure']
+FM954972.2 EMBL CDS 1171704 1172315 . + . ID=['CAV18233.1'];Product=['Holliday junction DNA helicase ruvA'];Note=
+FM954972.2 EMBL CDS 1172419 1173435 . + . ID=['CAV18234.1'];Product=['Holliday junction DNA helicase ruvB'];Note=
+FM954972.2 EMBL CDS 2190468 2191775 . - . ID=['CAV19219.1'];Product=['Seryl-tRNA synthetase'];Note=
+FM954972.2 EMBL CDS 362578 362889 . + . ID=['CAV17370.1'];Product=['50S ribosomal protein L21'];Note=
+FM954972.2 EMBL CDS 275806 276033 . + . ID=['CAV17303.1'];Product=['Ribosomal protein S18'];Note=
+FM954972.2 EMBL CDS 2785506 2788067 . + . ID=['CAV19791.1'];Product=['DNA mismatch repair protein mutS'];Note=
+FM954972.2 EMBL CDS 552601 552861 . - . ID=['CAV17538.1'];Product=['30S ribosomal protein S20'];Note=
+FM954972.2 EMBL CDS 671261 672925 . - . ID=['CAV17640.1'];Product=['DNA repair protein RecN'];Note=
+FM954972.2 EMBL CDS 2519222 2519809 . - . ID=['CAV19511.1'];Product=['Ribosome recycling factor'];Note=
+FM954972.2 EMBL CDS 944352 944951 . + . ID=['CAV17930.1'];Product=['Recombination protein recR'];Note=
+FM954972.2 EMBL CDS 758526 758987 . - . ID=['CAV17717.1'];Product=['Hypothetical protein'];Note=
+FM954972.2 EMBL CDS 262015 262947 . + . ID=['CAV17291.1'];Product=['tRNA delta(2)-isopentenylpyrophosphate transferase'];Note=
+FM954972.2 EMBL CDS 767121 768272 . - . ID=['CAV17723.1'];Product=['GTP-dependent nucleic acid-binding protein'];Note=
+FM954972.2 EMBL CDS 7498 8919 . + . ID=['CAV17067.1'];Product=['Chromosomal replication initiator protein dnaA'];Note=
+FM954972.2 EMBL CDS 2743832 2744098 . + . ID=['CAV19723.1'];Product=['Dephospho-CoA kinase'];Note=['Evidence 2b : Function of strongly homologous gene; Product type pe : putative enzyme']
+FM954972.2 EMBL CDS 2746994 2747548 . - . ID=['CAV19735.1'];Product=['16S rRNA processing protein RimM'];Note=
+FM954972.2 EMBL CDS 2583311 2583760 . - . ID=['CAV19573.1'];Product=['Hypothetical protein'];Note=
+FM954972.2 EMBL CDS 2516244 2517329 . - . ID=['CAV19508.1'];Product=['putative 1-deoxy-D-xylulose 5-phosphate reductoisomeras'];Note=['Evidence 3 : Function proposed based on presence of conserved amino acid motif, structural feature or limited homology; Product type pe : putative enzyme']
+FM954972.2 EMBL CDS 2792757 2793239 . - . ID=['CAV19802.1'];Product=['2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (MECDP-synthase)'];Note=
+FM954972.2 EMBL CDS 1062258 1063283 . + . ID=['CAV18073.1'];Product=['Fatty acid/phospholipid synthesis protein plsX'];Note=
+FM954972.2 EMBL CDS 2501410 2502780 . - . ID=['CAV19497.1'];Product=['tRNA(Ile)-lysidine synthase'];Note=
+FM954972.2 EMBL CDS 404771 406522 . - . ID=['CAV17406.1'];Product=['DNA primase'];Note=
+FM954972.2 EMBL CDS 1169435 1169956 . + . ID=['CAV18231.1'];Product=['Crossover junction endodeoxyribonuclease ruvC'];Note=
+FM954972.2 EMBL CDS 2747575 2747823 . - . ID=['CAV19737.1'];Product=['Ribosomal protein S16'];Note=
+FM954972.2 EMBL CDS 2783707 2784759 . - . ID=['CAV19787.1'];Product=['Protein recA (Recombinase A)'];Note=
+FM954972.2 EMBL CDS 554745 555680 . + . ID=['CAV17540.1'];Product=['Riboflavin biosynthesis protein ribF'];Note=
+FM954972.2 EMBL CDS 30042 32108 . - . ID=['CAV17089.1'];Product=['Glycyl-tRNA synthetase beta chain'];Note=
+FM954972.2 EMBL CDS 2178009 2179145 . + . ID=['CAV19208.1'];Product=['Probable tRNA(5-methylaminomethyl-2-thiouridylate)-methyltransferase'];Note=
+FM954972.2 EMBL CDS 1306546 1306740 . + . ID=['CAV18360.1'];Product=['50S ribosomal protein L35'];Note=['Evidence 2a : Function of homologous gene experimentally demonstrated in another organism; Product type s : structure']
+FM954972.2 EMBL CDS 3117512 3118633 . - . ID=['CAV20255.1'];Product=['Uroporphyrinogen decarboxylase'];Note=
+FM954972.2 EMBL CDS 337897 338784 . + . ID=['CAV17351.1'];Product=['Rod shape-determining protein mreC'];Note=
+FM954972.2 EMBL CDS 362909 363166 . + . ID=['CAV17371.1'];Product=['50S ribosomal protein L27'];Note=
+FM954972.2 EMBL CDS 768223 768813 . - . ID=['CAV17724.1'];Product=['Peptidyl-tRNA hydrolase'];Note=
+FM954972.2 EMBL CDS 1305971 1306441 . + . ID=['CAV18359.1'];Product=['Translation initiation factor IF-3'];Note=['Evidence 2a : Function of homologous gene experimentally demonstrated in another organism; Product type f : factor']
+FM954972.2 EMBL CDS 454585 456069 . + . ID=['CAV17452.1'];Product=['UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase'];Note=
+FM954972.2 EMBL CDS 1062078 1062248 . + . ID=['CAV18072.1'];Product=['50S ribosomal protein L32'];Note=
+FM954972.2 EMBL CDS 3129238 3129603 . - . ID=['CAV20260.1'];Product=['putative ribosomal protein L7/L12'];Note=
+FM954972.2 EMBL CDS 752576 755152 . - . ID=['CAV17713.1'];Product=['Leucyl-tRNA synthetase'];Note=
+FM954972.2 EMBL CDS 2455871 2457883 . - . ID=['CAV19449.1'];Product=['DNA ligase'];Note=
+FM954972.2 EMBL CDS 464634 465902 . + . ID=['CAV17460.1'];Product=['cell division protein FtsA'];Note=
+FM954972.2 EMBL CDS 116703 118535 . + . ID=['CAV17156.1'];Product=['GTP-binding protein typA/bipA'];Note=
+FM954972.2 EMBL CDS 2353497 2354777 . - . ID=['CAV19369.1'];Product=['ATP-dependent Clp protease ATP-binding subunit clpX'];Note=
+FM954972.2 EMBL CDS 10176 11255 . + . ID=['CAV17069.1'];Product=['DNA replication and repair protein recF'];Note=
+FM954972.2 EMBL CDS 3136702 3137760 . - . ID=['CAV20270.1'];Product=['UDP-N-acetylenolpyruvoylglucosamine reductase'];Note=

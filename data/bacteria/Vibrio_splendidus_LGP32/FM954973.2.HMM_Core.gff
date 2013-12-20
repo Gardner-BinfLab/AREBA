@@ -1,0 +1,18 @@
+FM954973.2 EMBL CDS 1117732 1119360 . + . ID=['CAV26873.1'];Product=['Sigma 54 dependant transcriptional regulator'];Note=['Evidence 2a : Function of homologous gene experimentally demonstrated in another organism; Product type r : regulator']
+FM954973.2 EMBL CDS 690130 691161 . - . ID=['CAV26234.1'];Product=['putative GTPase'];Note=
+FM954973.2 EMBL CDS 1275408 1277477 . - . ID=['CAV27059.1'];Product=['ATP-dependent RNA helicase'];Note=
+FM954973.2 EMBL CDS 640203 641489 . + . ID=['CAV26155.1'];Product=['Superfamily II DNA and RNA helicase'];Note=
+FM954973.2 EMBL CDS 888588 888998 . + . ID=['CAV26573.1'];Product=['Similar to Protein chain release factor B'];Note=
+FM954973.2 EMBL CDS 749130 750506 . + . ID=['CAV26340.1'];Product=['Tol R/Q protein'];Note=
+FM954973.2 EMBL CDS 1295012 1296643 . + . ID=['CAV27089.1'];Product=['Uncharacterized FAD-dependent dehydrogenase'];Note=
+FM954973.2 EMBL CDS 431422 432078 . + . ID=['CAV25858.1'];Product=['KtrA'];Note=
+FM954973.2 EMBL CDS 1115052 1117745 . + . ID=['CAV26872.1'];Product=['Chaperone ClpB'];Note=['Evidence 2a : Function of homologous gene experimentally demonstrated in another organism; PubMedId : 16763151; Product type f : factor']
+FM954973.2 EMBL CDS 1475833 1478073 . + . ID=['CAV27409.1'];Product=['putative methyl-accepting chemotaxis protein'];Note=
+FM954973.2 EMBL CDS 827354 828028 . - . ID=['CAV26479.1'];Product=['ABC transporter, ATP-binding protein'];Note=
+FM954973.2 EMBL CDS 690130 691161 . - . ID=['CAV26234.1'];Product=['putative GTPase'];Note=
+FM954973.2 EMBL CDS 468053 469837 . + . ID=['CAV25910.1'];Product=['Hypothetical ABC transporter ATP-binding protein'];Note=
+FM954973.2 EMBL CDS 830104 832011 . + . ID=['CAV26484.1'];Product=['GGDEF family protein'];Note=
+FM954973.2 EMBL CDS 774662 776785 . + . ID=['CAV26396.2'];Product=['anaerobic ribonucleoside-triphosphate reductase'];Note=['Evidence 2a : Function of homologous gene experimentally demonstrated in an other organism; Product type e : enzyme']
+FM954973.2 EMBL CDS 402093 403457 . + . ID=['CAV25804.1'];Product=['putative heat shock protein 70 family protein'];Note=
+FM954973.2 EMBL CDS 1115052 1117745 . + . ID=['CAV26872.1'];Product=['Chaperone ClpB'];Note=['Evidence 2a : Function of homologous gene experimentally demonstrated in another organism; PubMedId : 16763151; Product type f : factor']
+FM954973.2 EMBL CDS 326774 327556 . - . ID=['CAV25677.1'];Product=['hemin ABC transporter, ATP-binding protein HutD'];Note=
