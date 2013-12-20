@@ -1,8 +1,11 @@
 Bacterial & Archaeal Transcriptome Meta-analysis Project.
 
-
-
-
+This is a collection of RNA-seq datasets spanning Archaea and
+Bacteria. Each dataset has been converted into a consistent format,
+plotfiles, containing read-depths for each position of the
+corresponding genome. These files can be read by genome viewing tools
+such as Artemis so RNA-seq data can be viewed in the context of genome
+annotations. 
 
 
 Datasets for the next release:
@@ -46,15 +49,11 @@ Wiegand et al.
 BMC Genomics 2013, 14:667
 
 
+Probing bacterial metabolism during infection using high-resolution transcriptomics
+Jorth et al.
+Aggregatibacter actinomycetemcomitans
+http://jb.asm.org/content/early/2013/08/19/JB.00875-13.short?rss=1
+
 
 
 ######################################################################
-Summary plot files to consider:
-
-1. currently generating "max.plot" i.e. maximum read-depths per genomic position 
-    --great for identifying novel ncRNAs
-2. consider other summary plot files e.g. median.plot, min.plot (may be boring), ...
-    --useful for more conservative studies
-
-
-
