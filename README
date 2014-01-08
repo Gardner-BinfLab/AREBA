@@ -8,6 +8,7 @@ such as Artemis so RNA-seq data can be viewed in the context of genome
 annotations. 
 
 
+######################################################################
 Datasets for the next release:
 
 Directional RNA-seq reveals highly complex condition-dependent transcriptomes in E. coliK12 through accurate full-length transcripts assembling.
@@ -48,12 +49,17 @@ within a productive fermentation
 Wiegand et al.
 BMC Genomics 2013, 14:667
 
-
 Probing bacterial metabolism during infection using high-resolution transcriptomics
 Jorth et al.
 Aggregatibacter actinomycetemcomitans
 http://jb.asm.org/content/early/2013/08/19/JB.00875-13.short?rss=1
 
+Comprehensive analysis of the Corynebacterium glutamicum transcriptome using an improved RNAseq technique
+Pfeifer-Sancar et al.
+http://www.biomedcentral.com/1471-2164/14/888/abstract
 
+Ammonium induces differential expression of methane and nitrogen metabolism-related genes in Methylocystis sp. strain SC2
+Dam et al.
+http://onlinelibrary.wiley.com/doi/10.1111/1462-2920.12367/abstract
 
 ######################################################################
