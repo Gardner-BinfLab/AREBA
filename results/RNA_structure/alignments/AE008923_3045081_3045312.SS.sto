@@ -1,0 +1,74 @@
+# STOCKHOLM 1.0
+
+#=GS AM039952/3165797-3166027    DE [subseq from] Xanthomonas campestris pv. vesicatoria complete genome
+#=GS CP002914/2947364-2947594    DE [subseq from] Xanthomonas axonopodis pv. citrumelo F1, complete genome.
+#=GS CP003057/1845003-1844773    DE [subseq from] Xanthomonas oryzae pv. oryzicola BLS256, complete genome.
+#=GS AE013598/3414217-3414447    DE [subseq from] Xanthomonas oryzae pv. oryzae KACC10331, complete genome.
+#=GS AP008229/3420725-3420955    DE [subseq from] Xanthomonas oryzae pv. oryzae MAFF 311018 DNA, complete genome.
+#=GS CP000967/3512334-3512564    DE [subseq from] Xanthomonas oryzae pv. oryzae PXO99A, complete genome.
+#=GS AM920689/1977228-1976999    DE [subseq from] Xanthomonas campestris pv. campestris complete genome, strain B100
+#=GS CP002789/2917679-2917908    DE [subseq from] Xanthomonas campestris pv. raphani 756C, complete genome.
+#=GS AE008923/3045081-3045311    DE [subseq from] Xanthomonas axonopodis pv. citri str. 306, complete genome.
+#=GS Xanthomonas/2525472-2525702 DE [subseq from] citri subsp. citri Aw12879, complete genome. 5321499
+#=GS Xanthomonas/3060855-3061085 DE [subseq from] axonopodis Xac29-1, complete genome. 5153455
+#=GS AE008922/2915145-2915374    DE [subseq from] Xanthomonas campestris pv. campestris str. ATCC 33913, complete genome.
+#=GS CP000050/1996074-1995845    DE [subseq from] Xanthomonas campestris pv. campestris str. 8004, complete genome.
+
+AM039952/3165797-3166027            TGTCCTCCAAACTCGATACGACGCATGCGGGGGAACA.TACGAATCGCACGCGAGCTTTCAATCATCTCCGCCAAGCGATCACCGCGGTAGAACCTACCGACCCCAGATCACTCGACAGCCCTTTGTTTCAACAGAGACAAACTTTCAAACGAAGGAGCCCGAAACATACGGGATCCCACCTTTTCCACGCTGAATCAGT
+#=GR AM039952/3165797-3166027    PP 699**********************************.******************************************************************************************************************************************************************
+CP002914/2947364-2947594            TGTCCTCCAAACTCGATACGACGCATGCGGGGGAACA.TACGAATCGCACGCGAGCTTTCAATCATCTCCGCCAAGCGATCACCGCGGTAGAACCTACCGACCCCAGATCACTCGACAGCCCTTTGTTTCAACAGAGACAAACTTTCAAACGAAGGAGCCCGAAACATACGGGATCCCACCTTTTCCACGCTGAATCAGT
+#=GR CP002914/2947364-2947594    PP 699**********************************.******************************************************************************************************************************************************************
+CP003057/1845003-1844773            TGTCCTCCAAACTCGATACGACGCATGCGGGGGAACA.TACGAATCGCACGCGAGCTTTCAATCATCTCCGCCAAGCGATCACCGCGGTAAAACCTACCGACCCCAGATCACTCGACAGCCCTTTGTTTCAACAGAGACAAACCTTCAAACTGGGGAGCCCGAAACATACGGGATCCCACCTTTTCCACGCTGAATCAGT
+#=GR CP003057/1845003-1844773    PP 699**********************************.******************************************************************************************************************************************************************
+AE013598/3414217-3414447            TGTCCTCCAAACTCGATACGACGCATGCGGGGAAACA.TACGAATCGCACGCGAGCTTTCAATCATCTCCGTCAAGCAATCACCGCGGTAAAACCTACCGACCCCAGATCACTCGACAGCCCTTTGTTTTAACAGAGACAAACTTTCAAACTCGGGAGCCCGAAACATACGGGATCCCACCTTTTCCACGCTGAATCAGT
+#=GR AE013598/3414217-3414447    PP 699**********************************.******************************************************************************************************************************************************************
+AP008229/3420725-3420955            TGTCCTCCAAACTCGATACGACGCATGCGGGGAAACA.TACGAATCGCACGCGAGCTTTCAATCATCTCCGTCAAGCAATCACCGCGGTAAAACCTACCGACCCCAGATCACTCGACAGCCCTTTGTTTTAACAGAGACAAACTTTCAAACTCGGGAGCCCGAAACATACGGGATCCCACCTTTTCCACGCTGAATCAGT
+#=GR AP008229/3420725-3420955    PP 699**********************************.******************************************************************************************************************************************************************
+CP000967/3512334-3512564            TGTCCTCCAAACTCGATACGACGCATGCGGGGAAACA.TACGAATCGCACGCGAGCTTTCAATCATCTCCGTCAAGCAATCACCGCGGTAAAACCTACCGACCCCAGATCACTCGACAGCCCTTTGTTTTAACAGAGACAAACTTTCAAACTCGGGAGCCCGAAACATACGGGATCCCACCTTTTCCACGCTGAATCAGT
+#=GR CP000967/3512334-3512564    PP 699**********************************.******************************************************************************************************************************************************************
+AM920689/1977228-1976999            TGTCCTCCAAACTCGATACGGCGCATGCGGGGGAACA.TACGAATCGCACGCGAGCTTTCAATCATC-CTGTCGTCCGATCACCGCGGTAATACCTACCGACCCCAGATCGCACGACAGCCCTTTGTTTCAACAGAGACAAACCTTCAAACGAGGGAGCCCGCACCTTACGGGATCCCACCTTTTCCACGCTGAATCAGT
+#=GR AM920689/1977228-1976999    PP 699**********************************.*****************************.************************************************************************************************************************************
+CP002789/2917679-2917908            TGTCCTCCAAACTCGATACGGCGCATGCGGGGGAACA.TACGAATCGCACGCGAGCTTTCAATCATC-CTGTCGTCCGATCACCGCGGTAATACCTACCGACCCCAGATCGCACGACAGCCCTTTGTTTCAACAGAGACAAACCTTCAAACGAGGGAGCCCGCACCTTACGGGATCCCACCTTTTCCACGCTGAATCAGT
+#=GR CP002789/2917679-2917908    PP 699**********************************.*****************************.************************************************************************************************************************************
+AE008923/3045081-3045311            TGTCCTCCAAACTCGATACGACGCATGCGGGGGAACAtTACGAATCGCACGCGAGCTTTCAATCATCTCCGCCAAGCGATCACCGCGGTAA-ACCTACCGACCCCAGATCACTCGACAGCCCTTTGTTTCAACAGAGACAAACTTTCAAACGAAGGAGCCCGAAACATACGGGATCCCACCTTTTCCACGCTGAATCAGT
+#=GR AE008923/3045081-3045311    PP 699**********************************99**************************************************99.9***********************************************************************************************************
+Xanthomonas/2525472-2525702         TGTCCTCCAAACTCGATACGACGCATGCGGGGGAACAtTACGAATCGCACGCGAGCTTTCAATCATCTCCGCCAAGCGATCACCGCGGTAA-ACCTACCGACCCCAGATCACTCGACAGCCCTTTGTTTCAACAGAGACAAACTTTCAAACGAAGGAGCCCGAAACATACGGGATCCCACCTTTTCCACGCTGAATCAGT
+#=GR Xanthomonas/2525472-2525702 PP 699**********************************99**************************************************99.9***********************************************************************************************************
+Xanthomonas/3060855-3061085         TGTCCTCCAAACTCGATACGACGCATGCGGGGGAACAtTACGAATCGCACGCGAGCTTTCAATCATCTCCGCCAAGCGATCACCGCGGTAA-ACCTACCGACCCCAGATCACTCGACAGCCCTTTGTTTCAACAGAGACAAACTTTCAAACGAAGGAGCCCGAAACATACGGGATCCCACCTTTTCCACGCTGAATCAGT
+#=GR Xanthomonas/3060855-3061085 PP 699**********************************99**************************************************99.9***********************************************************************************************************
+AE008922/2915145-2915374            TGTCCTCCAAACTCGATACGGCGCATGCGGGGGAACA.TACGAATCGCACGCGAGCTTTCAATCATC-CTGTCGTCCGATCACCGCGGTAATACCTACCGACCCCAGATCGCAAGACAGCCCTTTGTTTCAACAGAGACAAACCTTCAAACGAGGGAGTCCGCACCTTACGGGATCCCACCTTTTCCACGCTGAATCAGT
+#=GR AE008922/2915145-2915374    PP 699**********************************.*****************************.************************************************************************************************************************************
+CP000050/1996074-1995845            TGTCCTCCAAACTCGATACGGCGCATGCGGGGGAACA.TACGAATCGCACGCGAGCTTTCAATCATC-CTGTCGTCCGATCACCGCGGTAATACCTACCGACCCCAGATCGCAAGACAGCCCTTTGTTTCAACAGAGACAAACCTTCAAACGAGGGAGTCCGCACCTTACGGGATCCCACCTTTTCCACGCTGAATCAGT
+#=GR CP000050/1996074-1995845    PP 699**********************************.*****************************.************************************************************************************************************************************
+
+#=GC SS_cons                        .............(((.(((((((.(((((..............))))).)))................................(((((.....)))))..............((((((..((((((((....))))))))............(((.((((.......)))).))).....................))
+
+AM039952/3165797-3166027            TGTCACTTTAATTAACCATCGTTTTGCAACAT
+#=GR AM039952/3165797-3166027    PP *****************************986
+CP002914/2947364-2947594            TGTCACTTTAATTAACCATCGTTTTGCAACAT
+#=GR CP002914/2947364-2947594    PP *****************************986
+CP003057/1845003-1844773            TGTCACTTTGATTAACCATCGTTTTGCAACAT
+#=GR CP003057/1845003-1844773    PP *****************************986
+AE013598/3414217-3414447            TGTCACTTTAATTAACCATCGTTTTGCAACAT
+#=GR AE013598/3414217-3414447    PP *****************************986
+AP008229/3420725-3420955            TGTCACTTTAATTAACCATCGTTTTGCAACAT
+#=GR AP008229/3420725-3420955    PP *****************************986
+CP000967/3512334-3512564            TGTCACTTTAATTAACCATCGTTTTGCAACAT
+#=GR CP000967/3512334-3512564    PP *****************************986
+AM920689/1977228-1976999            TGTCACTTCAATTAACCATCGTTTTGCAACAT
+#=GR AM920689/1977228-1976999    PP *****************************986
+CP002789/2917679-2917908            TGTCACTTCAATTAACCATCGTTTTGCAACAT
+#=GR CP002789/2917679-2917908    PP *****************************986
+AE008923/3045081-3045311            TGTCACTTTAATTAACCAACGTTTTGCAACAT
+#=GR AE008923/3045081-3045311    PP *****************************986
+Xanthomonas/2525472-2525702         TGTCACTTTAATTAACCAACGTTTTGCAACAT
+#=GR Xanthomonas/2525472-2525702 PP *****************************986
+Xanthomonas/3060855-3061085         TGTCACTTTAATTAACCAACGTTTTGCAACAT
+#=GR Xanthomonas/3060855-3061085 PP *****************************986
+AE008922/2915145-2915374            TGTCACTTCAATTAACCATCGTTTTGCAACAT
+#=GR AE008922/2915145-2915374    PP *****************************986
+CP000050/1996074-1995845            TGTCACTTCAATTAACCATCGTTTTGCAACAT
+#=GR CP000050/1996074-1995845    PP *****************************986
+#=GC SS_cons                        ))))..............)))).)))......
+
+//

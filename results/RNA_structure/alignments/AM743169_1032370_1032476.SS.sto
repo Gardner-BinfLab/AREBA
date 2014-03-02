@@ -1,0 +1,18 @@
+# STOCKHOLM 1.0
+
+#=GS AM743169/1032370-1032476       DE [subseq from] Stenotrophomonas maltophilia K279a complete genome, strain K279a
+#=GS Stenotrophomonas/977219-977325 DE [subseq from] maltophilia D457 complete genome 4769156
+#=GS CP002986/949107-949213         DE [subseq from] Stenotrophomonas maltophilia JV3, complete genome.
+#=GS CP001111/966486-966592         DE [subseq from] Stenotrophomonas maltophilia R551-3, complete genome.
+
+AM743169/1032370-1032476               CAGAATATCGGACTCGCTTCGGCGGACCGGAACTTCGGTGACAGTCTCCAGGCAAAGGTTTGAGGTTCCAGCGTCAGCGGTATCGGCGATGGAGTGAAAGTTTCAGT
+#=GR AM743169/1032370-1032476       PP 699*****************************************************************************************************986
+Stenotrophomonas/977219-977325         CAGAATATCGGACTCGCTTCGGCGGACCGGAACTTCGGTGACAGTCTCCAGGCAAGGTTTCAAGGTTCCAGTGCTGGCGGTATCGGCGGTGGAGCGAAAGTTTCAGT
+#=GR Stenotrophomonas/977219-977325 PP 699*****************************************************************************************************986
+CP002986/949107-949213                 CAGAATATCGGACTCGCTTCGGCGGACCGGAACTTCGGTGGCGGTCTCCAGGCAAAGGTTTGAGGTTCCAGTGCTGGCGGTATCGGCGGTGGAACGAAAGTTTCAGT
+#=GR CP002986/949107-949213         PP 69******************************************************************************************************986
+CP001111/966486-966592                 CAGAATATCGGACTCGCTTCGGCGGACCGGAACTTCGGTGACAGTCCCCAGGCAGACGTTTGAAGCACCAGCGCCAGTTGCACCGGCGCGGGAGCAAAAGTTTCAGT
+#=GR CP001111/966486-966592         PP 699*****************************************************************************************************997
+#=GC SS_cons                           .......(((((((.((((.((.((((.(..((....))..).))))))))))...))))))).((((((.((((((.....)))))).))))))............
+
+//

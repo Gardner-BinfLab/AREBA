@@ -1,0 +1,81 @@
+# STOCKHOLM 1.0
+
+#=GS CP001408/3792637-3792585                DE [subseq from] Burkholderia pseudomallei MSHR346 chromosome I, complete sequence.
+#=GS AM747720/255231-255283                  DE [subseq from] Burkholderia cenocepacia J2315 chromosome 1, complete genome
+#=GS CP000378/3040864-3040812                DE [subseq from] Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.
+#=GS CP000458/385783-385835                  DE [subseq from] Burkholderia cenocepacia HI2424 chromosome 1, complete sequence.
+#=GS CP000958/353786-353838                  DE [subseq from] Burkholderia cenocepacia MC0-3 chromosome 1, complete sequence.
+#=GS CP000010/2750783-2750731                DE [subseq from] Burkholderia mallei ATCC 23344 chromosome 1, complete sequence.
+#=GS CP000526/3155100-3155048                DE [subseq from] Burkholderia mallei SAVP1 chromosome I, complete sequence.
+#=GS CP000546/1939868-1939920                DE [subseq from] Burkholderia mallei NCTC 10229 chromosome I, complete sequence.
+#=GS CP000570/3677672-3677620                DE [subseq from] Burkholderia pseudomallei 668 chromosome I, complete sequence.
+#=GS CP000548/3409020-3409072                DE [subseq from] Burkholderia mallei NCTC 10247 chromosome I, complete sequence.
+#=GS CP000151/302416-302468                  DE [subseq from] Burkholderia sp. 383 chromosome 1, complete sequence.
+#=GS CP000614/356356-356408                  DE [subseq from] Burkholderia vietnamiensis G4 chromosome 1, complete sequence.
+#=GS CP000440/299624-299676                  DE [subseq from] Burkholderia ambifaria AMMD chromosome 1, complete sequence.
+#=GS CP001025/308004-308056                  DE [subseq from] Burkholderia ambifaria MC40-6 chromosome 1, complete sequence.
+#=GS BX571965/3828546-3828494                DE [subseq from] Burkholderia pseudomallei strain K96243, chromosome 1, complete sequence.
+#=GS CP000572/3727409-3727357                DE [subseq from] Burkholderia pseudomallei 1106a chromosome I, complete sequence.
+#=GS ENA|CM000774|CM000774.1/2993150-2993098 DE [subseq from] Burkholderia pseudomallei 1106b chromosome I, whole genome shotgun sequence.
+#=GS ENA|CM000832|CM000832.1/20485-20433     DE [subseq from] Burkholderia pseudomallei 1710a chromosome I, whole genome shotgun sequence.
+#=GS CP000124/4123272-4123220                DE [subseq from] Burkholderia pseudomallei 1710b chromosome I, complete sequence.
+#=GS AP009385/3255628-3255576                DE [subseq from] Burkholderia multivorans ATCC 17616 DNA, complete genome, chromosome 1.
+#=GS CP000868/269145-269197                  DE [subseq from] Burkholderia multivorans ATCC 17616 chromosome 1, complete sequence.
+#=GS CP000086/3521253-3521201                DE [subseq from] Burkholderia thailandensis E264 chromosome I, complete sequence.
+#=GS ENA|CM000438|CM000438.1/36784-36836     DE [subseq from] Burkholderia thailandensis ATCC 700388 chromosome 1, whole genome shotgun sequence.
+#=GS CP002599/325030-325082                  DE [subseq from] Burkholderia gladioli BSR3 chromosome 1, complete sequence.
+#=GS CP001503/264700-264752                  DE [subseq from] Burkholderia glumae BGR1 chromosome 1, complete sequence.
+
+CP001408/3792637-3792585                        TAAGCCAGTTATTCGTTGATCGACAGTTTAGGGGTCGGCGCCAGCCGGCCCCA
+#=GR CP001408/3792637-3792585                PP 79*************************************************97
+AM747720/255231-255283                          TAAGCCAGTTATTCGTTGATCGACAGTTTTGGGGCTGGCATCAGCCGGCCCCA
+#=GR AM747720/255231-255283                  PP 79*************************************************97
+CP000378/3040864-3040812                        TAAGCCAGTTATTCGTTGATCGACAGTTTTGGGGCTGGCATCAGCCGGCCCCA
+#=GR CP000378/3040864-3040812                PP 79*************************************************97
+CP000458/385783-385835                          TAAGCCAGTTATTCGTTGATCGACAGTTTTGGGGCTGGCATCAGCCGGCCCCA
+#=GR CP000458/385783-385835                  PP 79*************************************************97
+CP000958/353786-353838                          TAAGCCAGTTATTCGTTGATCGACAGTTTTGGGGCTGGCATCAGCCGGCCCCA
+#=GR CP000958/353786-353838                  PP 79*************************************************97
+CP000010/2750783-2750731                        TAAGCCAGTTATTCGTTGATCGACAGTTTAGGGGTCGGCGCAAGCCGGCCCCA
+#=GR CP000010/2750783-2750731                PP 79*************************************************97
+CP000526/3155100-3155048                        TAAGCCAGTTATTCGTTGATCGACAGTTTAGGGGTCGGCGCAAGCCGGCCCCA
+#=GR CP000526/3155100-3155048                PP 79*************************************************97
+CP000546/1939868-1939920                        TAAGCCAGTTATTCGTTGATCGACAGTTTAGGGGTCGGCGCAAGCCGGCCCCA
+#=GR CP000546/1939868-1939920                PP 79*************************************************97
+CP000570/3677672-3677620                        TAAGCCAGTTATTCGTTGATCGACAGTTTAGGGGTCGGCGCAAGCCGGCCCCA
+#=GR CP000570/3677672-3677620                PP 89*************************************************98
+CP000548/3409020-3409072                        TAAGCCAGTTATTCGTTGATCGACAGTTTAGGGGTCGGCGCAAGCCGGCCCCA
+#=GR CP000548/3409020-3409072                PP 89*************************************************97
+CP000151/302416-302468                          TAAGCCAGTTATTCGTTGATCGACAGTTTTGGGGCTGGCAACAGCCGGCCCCA
+#=GR CP000151/302416-302468                  PP 79*************************************************97
+CP000614/356356-356408                          TAAGCCAGTTATTCGTTGATCGACAGTTTTGGGGCTGGCAACAGCCGGCCCCA
+#=GR CP000614/356356-356408                  PP 79*************************************************97
+CP000440/299624-299676                          TAAGCCAGTTATTCGTTGATCGACAGTTTTGGGGCTGGCAGCAGCCGGCCCCA
+#=GR CP000440/299624-299676                  PP 79*************************************************97
+CP001025/308004-308056                          TAAGCCAGTTATTCGTTGATCGACAGTTTTGGGGCTGGCAGCAGCCGGCCCCA
+#=GR CP001025/308004-308056                  PP 79*************************************************97
+BX571965/3828546-3828494                        TAAGCCAGTTATTCGTTGATCGACAGTTTAGGGGTCGGCGCCAGCTGGCCCCA
+#=GR BX571965/3828546-3828494                PP 79*************************************************97
+CP000572/3727409-3727357                        TAAGCCAGTTATTCGTTGATCGACAGTTTAGGGGTCGGCGCCAGCTGGCCCCA
+#=GR CP000572/3727409-3727357                PP 79*************************************************97
+ENA|CM000774|CM000774.1/2993150-2993098         TAAGCCAGTTATTCGTTGATCGACAGTTTAGGGGTCGGCGCCAGCTGGCCCCA
+#=GR ENA|CM000774|CM000774.1/2993150-2993098 PP 79*************************************************97
+ENA|CM000832|CM000832.1/20485-20433             TAAGCCAGTTATTCGTTGATCGACAGTTTAGGGGTCGGCGCCAGCTGGCCCCA
+#=GR ENA|CM000832|CM000832.1/20485-20433     PP 79*************************************************97
+CP000124/4123272-4123220                        TAAGCCAGTTATTCGTTGATCGACAGTTTAGGGGTCGGCGCCAGCTGGCCCCA
+#=GR CP000124/4123272-4123220                PP 89*************************************************98
+AP009385/3255628-3255576                        TAAGCCAGTTATTCGTTGATCGACAGTTTTGGGGCTGGCAGTAGCCGGCCCCA
+#=GR AP009385/3255628-3255576                PP 79*************************************************98
+CP000868/269145-269197                          TAAGCCAGTTATTCGTTGATCGACAGTTTTGGGGCTGGCAGTAGCCGGCCCCA
+#=GR CP000868/269145-269197                  PP 79*************************************************98
+CP000086/3521253-3521201                        TAAGCCAGTTACTCGTTGATCGACAGTTTGGGGGTCGGCGTTTGCCGATCCCA
+#=GR CP000086/3521253-3521201                PP 79*************************************************98
+ENA|CM000438|CM000438.1/36784-36836             TAAGCCAGTTACTCGTTGATCGACAGTTTGGGGGTCGGCGTTTGCCGATCCCA
+#=GR ENA|CM000438|CM000438.1/36784-36836     PP 79*************************************************98
+CP002599/325030-325082                          TAAGCCAGTTAGTCGCTGATCGACAGTTTTGGGGCCGGAGCTGTTCGGTCCCA
+#=GR CP002599/325030-325082                  PP 79*************************************************98
+CP001503/264700-264752                          TAAGCCAGTTAGTTCCGGGTCGACAGTTTTGGGGCCGGAGTTGTCCGGTCCCA
+#=GR CP001503/264700-264752                  PP 79*************************************************98
+#=GC SS_cons                                    ............(((.....))).......(((((((((....))))))))).
+
+//

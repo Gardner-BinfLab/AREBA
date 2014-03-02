@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+#=GS CP000551/958100-958162 DE [subseq from] Prochlorococcus marinus str. AS9601, complete genome.
+#=GS CP000576/956964-957026 DE [subseq from] Prochlorococcus marinus str. MIT 9301, complete genome.
+#=GS CP000825/989879-989941 DE [subseq from] Prochlorococcus marinus str. MIT 9215, complete genome.
+#=GS CP000111/959816-959878 DE [subseq from] Prochlorococcus marinus str. MIT 9312, complete genome.
+#=GS BX548174/979901-979964 DE [subseq from] Prochlorococcus marinus MED4 complete genome.
+#=GS CP000552/985242-985305 DE [subseq from] Prochlorococcus marinus str. MIT 9515, complete genome.
+
+CP000551/958100-958162         GTTCTAGGAGGTCTTTCAAAATGATCGATAGCCTGCCTGAAATTTCGGAATAAA.CCGAACTAA
+#=GR CP000551/958100-958162 PP 79****************************************************.******986
+CP000576/956964-957026         GTTCTAGGAGGTCTTTCAAAATGATCGATAGCCTGCCTGAAATTTCGGAATAAA.CCGAACTAA
+#=GR CP000576/956964-957026 PP 79****************************************************.******986
+CP000825/989879-989941         GTTCTAGGAGGTCTTTCAAAATGATCGATAGCCTGCCTGAAATTTCGGAATAAA.CCGAACTAA
+#=GR CP000825/989879-989941 PP 79****************************************************.******986
+CP000111/959816-959878         GTTCTAGGAGGTCTTTCAGAATGATCGATAGCCTGCCTGAAATTTCGGAATAAA.CCGAACTAA
+#=GR CP000111/959816-959878 PP 79****************************************************.******986
+BX548174/979901-979964         GTTTTAGGAGGTCTTTCAAAATGATCGATAGCCTGCCTGCAATTTCGGAATAATtCCGAACTAA
+#=GR BX548174/979901-979964 PP 799**********************************************************986
+CP000552/985242-985305         GTTTTAGGAGGTCTTTCAAAATGATCGATAGCCTGCCTGCAATTTCGGAATAATtCCGAACTGA
+#=GR CP000552/985242-985305 PP 789**********************************************************975
+#=GC SS_cons                   (((.(((((((.((.((.........)).))))).)))).)))(((((.......)))))....
+
+//

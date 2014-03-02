@@ -1,0 +1,153 @@
+# STOCKHOLM 1.0
+
+#=GS CP001150/2863652-2863756       DE [subseq from] Rhodobacter sphaeroides KD131 chromosome 1, complete sequence.
+#=GS CP001151/60003-60107           DE [subseq from] Rhodobacter sphaeroides KD131 chromosome 2, complete sequence.
+#=GS CP001151/1130587-1130691       DE [subseq from] Rhodobacter sphaeroides KD131 chromosome 2, complete sequence.
+#=GS CP000143/1468-1572             DE [subseq from] Rhodobacter sphaeroides 2.4.1 chromosome 1, complete sequence.
+#=GS CP000144/1470-1574             DE [subseq from] Rhodobacter sphaeroides 2.4.1 chromosome 2, complete sequence.
+#=GS CP000144/35143-35247           DE [subseq from] Rhodobacter sphaeroides 2.4.1 chromosome 2, complete sequence.
+#=GS CP000577/89234-89338           DE [subseq from] Rhodobacter sphaeroides ATCC 17029 chromosome 1, complete sequence.
+#=GS CP000578/577365-577469         DE [subseq from] Rhodobacter sphaeroides ATCC 17029 chromosome 2, complete sequence.
+#=GS CP000578/613011-613115         DE [subseq from] Rhodobacter sphaeroides ATCC 17029 chromosome 2, complete sequence.
+#=GS CP000578/820562-820666         DE [subseq from] Rhodobacter sphaeroides ATCC 17029 chromosome 2, complete sequence.
+#=GS CP001151/1056808-1056704       DE [subseq from] Rhodobacter sphaeroides KD131 chromosome 2, complete sequence.
+#=GS CP000661/2864776-2864881       DE [subseq from] Rhodobacter sphaeroides ATCC 17025, complete genome.
+#=GS CP000830/374943-375097         DE [subseq from] Dinoroseobacter shibae DFL 12, complete genome.
+#=GS CP000830/618708-618862         DE [subseq from] Dinoroseobacter shibae DFL 12, complete genome.
+#=GS CP002018/2762572-2762673       DE [subseq from] Ketogulonigenium vulgarum WSH-001, complete genome.
+#=GS CP002018/2503964-2504065       DE [subseq from] Ketogulonigenium vulgarum WSH-001, complete genome.
+#=GS CP002018/2611005-2611106       DE [subseq from] Ketogulonigenium vulgarum WSH-001, complete genome.
+#=GS CP002018/1549031-1548930       DE [subseq from] Ketogulonigenium vulgarum WSH-001, complete genome.
+#=GS CP002224/14837-14938           DE [subseq from] Ketogulonicigenium vulgare Y25, complete genome.
+#=GS CP002224/239722-239823         DE [subseq from] Ketogulonicigenium vulgare Y25, complete genome.
+#=GS CP002224/399765-399866         DE [subseq from] Ketogulonicigenium vulgare Y25, complete genome.
+#=GS CP002224/1955946-1955845       DE [subseq from] Ketogulonicigenium vulgare Y25, complete genome.
+#=GS CP000377/146419-146531         DE [subseq from] Silicibacter sp. TM1040, complete genome.
+#=GS CP000031/4014511-4014400       DE [subseq from] Ruegeria pomeroyi DSS-3, complete genome.
+#=GS CP000031/263368-263479         DE [subseq from] Ruegeria pomeroyi DSS-3, complete genome.
+#=GS CP000031/3466174-3466063       DE [subseq from] Ruegeria pomeroyi DSS-3, complete genome.
+#=GS Phaeobacter/38851-38965        DE [subseq from] gallaeciensis 2.10, complete genome. 3758274
+#=GS Phaeobacter/2623345-2623231    DE [subseq from] gallaeciensis 2.10, complete genome. 3758274
+#=GS Phaeobacter/2934409-2934295    DE [subseq from] gallaeciensis 2.10, complete genome. 3758274
+#=GS Phaeobacter/3332229-3332115    DE [subseq from] gallaeciensis 2.10, complete genome. 3758274
+#=GS CP000362/704709-704818         DE [subseq from] Roseobacter denitrificans OCh 114, complete genome.
+#=GS Octadecabacter/312778-312912   DE [subseq from] arcticus 238, complete genome. 5200279
+#=GS Octadecabacter/4273735-4273601 DE [subseq from] arcticus 238, complete genome. 5200279
+#=GS CP002623/3866062-3865952       DE [subseq from] Roseobacter litoralis Och 149, complete genome.
+#=GS CP000489/59905-60014           DE [subseq from] Paracoccus denitrificans PD1222 chromosome 1, complete sequence.
+#=GS CP000489/1978367-1978258       DE [subseq from] Paracoccus denitrificans PD1222 chromosome 1, complete sequence.
+#=GS CP000490/143446-143555         DE [subseq from] Paracoccus denitrificans PD1222 chromosome 2, complete sequence.
+#=GS Octadecabacter/25514-25648     DE [subseq from] antarcticus 307, complete genome. 4812600
+#=GS Octadecabacter/361399-361533   DE [subseq from] antarcticus 307, complete genome. 4812600
+#=GS CP002897/771827-771934         DE [subseq from] Paracoccus denitrificans SD1, complete genome.
+#=GS CP000264/4083214-4083100       DE [subseq from] Jannaschia sp. CCS1, complete genome.
+#=GS CP001312/1515585-1515693       DE [subseq from] Rhodobacter capsulatus SB 1003, complete genome.
+#=GS CP001312/161794-161903         DE [subseq from] Rhodobacter capsulatus SB 1003, complete genome.
+#=GS CP001312/3580649-3580540       DE [subseq from] Rhodobacter capsulatus SB 1003, complete genome.
+#=GS CP001312/1005560-1005669       DE [subseq from] Rhodobacter capsulatus SB 1003, complete genome.
+#=GS Phaeobacter/14665-14751        DE [subseq from] gallaeciensis DSM 17395, complete genome. 3821831
+#=GS Phaeobacter/2674827-2674741    DE [subseq from] gallaeciensis DSM 17395, complete genome. 3821831
+#=GS Phaeobacter/2999291-2999205    DE [subseq from] gallaeciensis DSM 17395, complete genome. 3821831
+#=GS Phaeobacter/3393163-3393077    DE [subseq from] gallaeciensis DSM 17395, complete genome. 3821831
+
+CP001150/2863652-2863756               AAGGATGCTTCT..GG.CAGACAG..GCTCG..C.CTGTCTCGTGAAGCtACTTGGCA.G...................A.GACCAG.......TCA.......TG...GTCTCAAC..........................................ATGCGGCCAGGCCGTCCCCATATCCCTTCAAAGA--
+#=GR CP001150/2863652-2863756       PP 79**********..**.*******..*****..*.***********************.*...................*.******.......***.......**...********..........................................*****************************98865..
+CP001151/60003-60107                   AAGGATGCTTCT..GG.CAGACAG..GCTCG..C.CTGTCTCGTGAAGCtACTTGGCA.G...................A.GACCAG.......TCA.......TG...GTCTCAAC..........................................ATGCGGCCAGGCCGTCCCCATATCCCTTCAAAGA--
+#=GR CP001151/60003-60107           PP 79**********..**.*******..*****..*.***********************.*...................*.******.......***.......**...********..........................................*****************************98865..
+CP001151/1130587-1130691               AAGGATGCTTCT..GG.CAGACAG..GCTCG..C.CTGTCTCGTGAAGCtACTTGGCA.G...................A.GACCAG.......TCA.......TG...GTCTCAAC..........................................ATGCGGCCAGGCCGTCCCCATATCCCTTCAAAGA--
+#=GR CP001151/1130587-1130691       PP 79**********..**.*******..*****..*.***********************.*...................*.******.......***.......**...********..........................................******************************9876..
+CP000143/1468-1572                     AAGGATGCTTCT..GG.CAGACAG..GCTTG..C.CTGTCTCGTGAAGCtACTTGGCA.G...................A.GACCAG.......TCA.......TG...GTCTCAAC..........................................ACGCGGCCAGGCCGTCCCCATATCCCTTCAAAGA--
+#=GR CP000143/1468-1572             PP 79**********..**.*******..*****..*.***********************.*...................*.******.......***.......**...********..........................................*****************************98865..
+CP000144/1470-1574                     AAGGATGCTTCT..GG.CAGACAG..GCTTG..C.CTGTCTCGTGAAGCtACTTGGCA.G...................A.GACCAG.......TCA.......TG...GTCTCAAC..........................................ACGCGGCCAGGCCGTCCCCATATCCCTTCAAAGA--
+#=GR CP000144/1470-1574             PP 79**********..**.*******..*****..*.***********************.*...................*.******.......***.......**...********..........................................*****************************98865..
+CP000144/35143-35247                   AAGGATGCTTCT..GG.CAGACAG..GCTTG..C.CTGTCTCGTGAAGCtACTTGGCA.G...................A.GACCAG.......TCA.......TG...GTCTCAAC..........................................ACGCGGCCAGGCCGTCCCCATATCCCTTCAAAGA--
+#=GR CP000144/35143-35247           PP 79**********..**.*******..*****..*.***********************.*...................*.******.......***.......**...********..........................................*****************************98865..
+CP000577/89234-89338                   AAGGATGCTTCT..GG.CAGACAG..GCTTG..C.CTGTCTCGTGAAGCtACTTGGCA.G...................A.GACCAG.......TCA.......TG...GTCTCAAC..........................................ACGCGGCCAGGCCGTCCCCATATCCCTTCAAAGA--
+#=GR CP000577/89234-89338           PP 79**********..**.*******..*****..*.***********************.*...................*.******.......***.......**...********..........................................*****************************98865..
+CP000578/577365-577469                 AAGGATGCTTCT..GG.CAGACAG..GCTTG..C.CTGTCTCGTGAAGCtACTTGGCA.G...................A.GACCAG.......TCA.......TG...GTCTCAAC..........................................ACGCGGCCAGGCCGTCCCCATATCCCTTCAAAGA--
+#=GR CP000578/577365-577469         PP 79**********..**.*******..*****..*.***********************.*...................*.******.......***.......**...********..........................................*****************************98865..
+CP000578/613011-613115                 AAGGATGCTTCT..GG.CAGACAG..GCTTG..C.CTGTCTCGTGAAGCtACTTGGCA.G...................A.GACCAG.......TCA.......TG...GTCTCAAC..........................................ACGCGGCCAGGCCGTCCCCATATCCCTTCAAAGA--
+#=GR CP000578/613011-613115         PP 79**********..**.*******..*****..*.***********************.*...................*.******.......***.......**...********..........................................*****************************98865..
+CP000578/820562-820666                 AAGGATGCTTCT..GG.CAGACAG..GCTTG..C.CTGTCTCGTGAAGCtACTTGGCA.G...................A.GACCAG.......TCA.......TG...GTCTCAAC..........................................ACGCGGCCAGGCCGTCCCCATATCCCTTCAAAGA--
+#=GR CP000578/820562-820666         PP 79**********..**.*******..*****..*.***********************.*...................*.******.......***.......**...********..........................................*****************************98865..
+CP001151/1056808-1056704               AAGGATGCTTCT..GG.CAGACAG..GCTCG..C.CTGTCTCGTGAAGCtACTTGGCA.G...................A.GACCAG.......TCA.......TG...GTCTCAAC..........................................ATGCGGCCAGGCCGTCCCCATATCCCTTCAAAGA--
+#=GR CP001151/1056808-1056704       PP 79**********..**.*******..*****..*.***********************.*...................*.******.......***.......**...********..........................................******************************9876..
+CP000661/2864776-2864881               AAGGATGCCTCT..GG.CAGACGA..GCCTG..C.TCGTCTCGTGAGGCtACTTGGCA.G...................A.GACCAG.......TCA.......TG...GTCTCAAC..........................................ACGCGGCCAGGCCGTCCCCATATCCCTTCATGTAA-
+#=GR CP000661/2864776-2864881       PP 79**********..**.*******..*****..*.***********************.*...................*.******.......***.......**...********..........................................*****************************987765.
+CP000830/374943-375097                 AAGGATGTTCCT..GG.CAGATTT..GTTCG..C.AAATCTCGTGGAAC.ACTTAGCA.Gtccgacgg..ttccttcggG.GATCGG......gA--.......--...-------CacaaggggcacctcgcgtgtcccgagcttcgtaagaggctcgAAGCGACCAGGCCGTCCTCATATCTCTTCAGAACAA
+#=GR CP000830/374943-375097         PP 79**********..**.*******..*****..*.**************.********.*77777766..6666666653.445544......31.....................133344444455566888999999999999999999999999999******************************9986
+CP000830/618708-618862                 AAGGATGTTCCT..GG.CAGATTT..GTTCG..C.AAATCTCGTGGAAC.ACTTAGCA.Gtccgacgg..ttccttcggG.GATCGG......gA--.......--...-------CacaaggggcacctcgcgtgtcccgagcttcgtaagaggctcgAAGCGACCAGGCCGTCCTCATATCTCTTCAGAACAA
+#=GR CP000830/618708-618862         PP 79**********..**.*******..*****..*.**************.********.*77777766..6666666653.445544......31.....................133344444455566888999999999999999999999999999******************************9986
+CP002018/2762572-2762673               AAGGATGTTCCT..AG.AAGCGCA..GCTTG..C.TGCACTCGTGGAAC.ACTTAGCA.G...................T.--CCAA.......TTC.......AA...ATGGACAT..........................................AAACGGTCTGACCGTCCTCATATCTCTTCAGTTT--
+#=GR CP002018/2762572-2762673       PP 79**********..**.*******..*****..*.**************.********.8...................7...9999.......999.......99...9999****..........................................******************************9875..
+CP002018/2503964-2504065               AAGGATGTTCCT..AG.AAGCGCA..GCTTG..C.TGCACTCGTGGAAC.ACTTAGCA.G...................T.--CCAA.......TTC.......AA...ATGGACAT..........................................AAACGGTCTGACCGTCCTCATATCTCTTCAGTTT--
+#=GR CP002018/2503964-2504065       PP 79**********..**.*******..*****..*.**************.********.8...................7...9999.......999.......99...999999**..........................................******************************9865..
+CP002018/2611005-2611106               AAGGATGTTCCT..AG.AAGCGCA..GCTTG..C.TGCACTCGTGGAAC.ACTTAGCA.G...................T.--CCAA.......TTC.......AA...ATGGACAT..........................................AAACGGTCTGACCGTCCTCATATCTCTTCAGTTT--
+#=GR CP002018/2611005-2611106       PP 79**********..**.*******..*****..*.**************.********.8...................7...9999.......999.......99...999999**..........................................******************************9865..
+CP002018/1549031-1548930               AAGGATGTTCCT..AG.AAGCGCA..GCTTG..C.TGCACTCGTGGAAC.ACTTAGCA.G...................T.--CCAA.......TTC.......AA...ATGGACAT..........................................AAACGGTCTGACCGTCCTCATATCTCTTCAGTTT--
+#=GR CP002018/1549031-1548930       PP 79**********..**.*******..*****..*.**************.********.8...................7...9999.......999.......99...999999**..........................................******************************9865..
+CP002224/14837-14938                   AAGGATGTTCCT..AG.AAGCGCA..GCTTG..C.TGCACTCGTGGAAC.ACTTAGCA.G...................T.--CCAA.......TTC.......AA...ATGGACAT..........................................AAACGGTCTGACCGTCCTCATATCTCTTCAGTTT--
+#=GR CP002224/14837-14938           PP 79**********..**.*******..*****..*.**************.********.8...................7...9999.......999.......99...999999**..........................................******************************9865..
+CP002224/239722-239823                 AAGGATGTTCCT..AG.AAGCGCA..GCTTG..C.TGCACTCGTGGAAC.ACTTAGCA.G...................T.--CCAA.......TTC.......AA...ATGGACAT..........................................AAACGGTCTGACCGTCCTCATATCTCTTCAGTTT--
+#=GR CP002224/239722-239823         PP 79**********..**.*******..*****..*.**************.********.8...................7...9999.......999.......99...999999**..........................................******************************9865..
+CP002224/399765-399866                 AAGGATGTTCCT..AG.AAGCGCA..GCTTG..C.TGCACTCGTGGAAC.ACTTAGCA.G...................T.--CCAA.......TTC.......AA...ATGGACAT..........................................AAACGGTCTGACCGTCCTCATATCTCTTCAGTTT--
+#=GR CP002224/399765-399866         PP 79**********..**.*******..*****..*.**************.********.8...................7...9999.......999.......99...999999**..........................................******************************9865..
+CP002224/1955946-1955845               AAGGATGTTCCT..AG.AAGCGCA..GCTTG..C.TGCACTCGTGGAAC.ACTTAGCA.G...................T.--CCAA.......TTC.......AA...ATGGACAT..........................................AAACGGTCTGACCGTCCTCATATCTCTTCAGTTT--
+#=GR CP002224/1955946-1955845       PP 79**********..**.*******..*****..*.**************.********.8...................7...9999.......999.......99...999999**..........................................******************************9865..
+CP000377/146419-146531                 AAGGATGATGCT..AG.CAGAACG.aGCTTG..CtCTTTCTCGTGCATC.ACTTAGCA.G...................AaGATCAGcaaacaaAGC.......TG...GTCACATC..........................................AG--GACCGAGCCGTCCTCATATCTCTTCAGAACA-
+#=GR CP000377/146419-146531         PP 69**********..**.**99876.6*****..98899***********.********.*...................99*****96554433344.......99...*****999..........................................99..***************************9876.
+CP000031/4014511-4014400               AAGGATGTATCT..AGtTAGATTT..GTTCG..C.AAATCTCGTGATAC.ACTTAGCA.G...................AaGATCAAc....aaA-Caa..agtTG...ATCAAA-C..........................................TCCGGACCGGACCGTCCTCATATCTCTTCAGGAA--
+#=GR CP000031/4014511-4014400       PP 79**********..**99******..*****..*.**************.********.*...................889999885....432.134..44355...665544.7..........................................8889**************************9865..
+CP000031/263368-263479                 AAGGATGTATCT..AGtTAGATTT..GTTCG..C.AAATCTCGTGATAC.ACTTAGCA.G...................AaGATCAAc....aaA-Caa..agtTG...ATCAAA-C..........................................TCCGGACCGGACCGTCCTCATATCTCTTCAGGAA--
+#=GR CP000031/263368-263479         PP 69**********..**99******..*****..*.**************.********.*...................889999885....432.134..44355...665544.7..........................................8889**************************9865..
+CP000031/3466174-3466063               AAGGATGTATCT..AGtTAGATTT..GTTCG..C.AAATCTCGTGATAC.ACTTAGCA.G...................AaGATCAAc....aaA-Caa..agtTG...ATCAAA-C..........................................TCCGGACCGGACCGTCCTCATATCTCTTCAGGAA--
+#=GR CP000031/3466174-3466063       PP 69**********..**99******..*****..*.**************.********.*...................889999885....432.134..44355...665544.7..........................................8889**************************9865..
+Phaeobacter/38851-38965                AAGGATGTATCT..AGcTAGAACAgaGCTTG..CtCTGTCTCGTGATAC.ACTTAGCA.T...................AaGATCAG.......TAAtcaaaacTG...ATCACATC..........................................CG--GACCAGGCCGTCCTCATATCTCTTCAGAACT-
+#=GR Phaeobacter/38851-38965        PP 79**********..9976666544339****..9899************.********.9...................88*****9.......655445555588...89998888..........................................77..***************************9886.
+Phaeobacter/2623345-2623231            AAGGATGTATCT..AGcTAGAACAgaGCTTG..CtCTGTCTCGTGATAC.ACTTAGCA.T...................AaGATCAG.......TAAtcaaaacTG...ATCACATC..........................................CG--GACCAGGCCGTCCTCATATCTCTTCAGAACT-
+#=GR Phaeobacter/2623345-2623231    PP 79**********..9976666544339****..9899************.********.9...................88*****9.......655445555588...89998888..........................................77..***************************9886.
+Phaeobacter/2934409-2934295            AAGGATGTATCT..AGcTAGAACAgaGCTTG..CtCTGTCTCGTGATAC.ACTTAGCA.T...................AaGATCAG.......TAAtcaaaacTG...ATCACATC..........................................CG--GACCAGGCCGTCCTCATATCTCTTCAGAACT-
+#=GR Phaeobacter/2934409-2934295    PP 79**********..9976666544339****..9899************.********.9...................88*****9.......655445555588...89998888..........................................77..***************************9886.
+Phaeobacter/3332229-3332115            AAGGATGTATCT..AGcTAGAACAgaGCTTG..CtCTGTCTCGTGATAC.ACTTAGCA.T...................AaGATCAG.......TAAtcaaaacTG...ATCACATC..........................................CG--GACCAGGCCGTCCTCATATCTCTTCAGAACT-
+#=GR Phaeobacter/3332229-3332115    PP 79**********..9976666544339****..9899************.********.9...................88*****9.......655445555588...89998888..........................................77..***************************9886.
+CP000362/704709-704818                 AAGGATGTTCCT..AGcCATTGAT..GTTCG..C.ATCAATCATGGAAC.ACTTAGCA.A...................-.GATCGGcatacaaAGC.......CG...GTCAAAAC..........................................ATCGGACCGAGCCGTCCTCATATCTCTTCAGTA---
+#=GR CP000362/704709-704818         PP 79**********..**99******..*****..*.**************.*******9.7.....................7898886543333444.......89...********..........................................******************************986...
+Octadecabacter/312778-312912           AAGGATATTTCT..AG.TAACCAA..GCTTG..C.TTGGCTCGTGAAAT.ACTTAGCA.Aa.................aA.GACCAGc....aaT-Caa..agcTG...GTCAGGTCgaatgttcgc......................atttgaccacAACGAACCGAGCCGTCCTCATATCTCTTCAGATCAG
+#=GR Octadecabacter/312778-312912   PP 79**********..**.*******..*****..*.**************.*******9.75.................53.6666663....321.122..23344...444444335555555555......................6666666666888999*************************99876
+Octadecabacter/4273735-4273601         AAGGATATTTCT..AG.TAACCAA..GCTTG..C.TTGGCTCGTGAAAT.ACTTAGCA.Aa.................aA.GACCAGc....aaT-Caa..agcTG...GTCAGGTCgaatgttcgc......................atttgaccacAACGAACCGAGCCGTCCTCATATCTCTTCAGATCAG
+#=GR Octadecabacter/4273735-4273601 PP 79**********..**.*******..*****..*.**************.*******9.75.................53.6666663....321.122..23344...444444335555555555......................6666666666888999*************************99876
+CP002623/3866062-3865952               AAGGATGTTCCT..AGcCATTGAT..GTTCG..C.ATCAATCATGGAAC.ACTTAGCA.A...................-.GATCGGcatacaaAGC.......CG...GTCAAAAC..........................................ATCGGACCGAGCCGTCCTCATATCTCTTCAGTAA--
+#=GR CP002623/3866062-3865952       PP 79**********..**99******..*****..*.**************.*******9.7.....................7898886543333444.......89...********..........................................******************************9865..
+CP000489/59905-60014                   AAGGAAGCTTCT..GG.CAGGACT..GCTTG..C.AGTCCTCGTGAGGCgACTTAGCA.G...................AcATCCAG.......ATCa....ggAT...GTCACATT..........................................CGACGGTCGGACCGTCCTCATATCCCTTCAACTCG-
+#=GR CP000489/59905-60014           PP 79**********..**.*******..*****..*.***********************.*...................84444577.......5552....2244...88999999..........................................99***************************987765.
+CP000489/1978367-1978258               AAGGAAGCTTCT..GG.CAGGACT..GCTTG..C.AGTCCTCGTGAGGCgACTTAGCA.G...................AcATCCAG.......ATCa....ggAT...GTCACATT..........................................CGACGGTCGGACCGTCCTCATATCCCTTCAACTCG-
+#=GR CP000489/1978367-1978258       PP 79**********..**.*******..*****..*.***********************.*...................84444577.......5552....2244...88999999..........................................99***************************987765.
+CP000490/143446-143555                 AAGGAAGCTTCT..GG.CAGGACT..GCTTG..C.AGTCCTCGTGAGGCgACTTAGCA.G...................AcATCCAG.......ATCa....ggAT...GTCACATT..........................................CGACGGTCGGACCGTCCTCATATCCCTTCAACTCG-
+#=GR CP000490/143446-143555         PP 79**********..**.*******..*****..*.***********************.*...................84444577.......5552....2244...88999999..........................................99***************************987765.
+Octadecabacter/25514-25648             AAGGATATTTCT..AG.TAACCAA..GCTTG..C.TTGGCTCGTGAAAT.ACTTAGCA.AaaaggacagcaatcaaagcT.GTTCAG.......GT-.......--...-------Cgaatgttcgc......................atttgaccaaAACGAACCGAGCCGTCCTCATATCTCTTCAGATCAG
+#=GR Octadecabacter/25514-25648     PP 79**********..**.*******..*****..*.**************.*******9.877777776666666555543.444444.......33....................23333344444......................55566666667778899************************99876
+Octadecabacter/361399-361533           AAGGATATTTCT..AG.TAACCAA..GCTTG..C.TTGGCTCGTGAAAT.ACTTAGCA.AaaaggacagcaatcaaagcT.GTTCAG.......GT-.......--...-------Cgaatgttcgc......................atttgaccaaAACGAACCGAGCCGTCCTCATATCTCTTCAGATCAG
+#=GR Octadecabacter/361399-361533   PP 79**********..**.*******..*****..*.**************.*******9.877777776666666555543.444444.......33....................23333344444......................55566666667778899************************99876
+CP002897/771827-771934                 AAGGAAGATGCT..GG.CAGGACG..GCTTG..C.CGTTCTCGTGCATCgACTTAGCA.G...................GcATCCAG.......ATC.......AGgatGCCACATT..........................................CGACGGCCGGACCGTCCTCATATCCCTTCAGCG---
+#=GR CP002897/771827-771934         PP 79**********..**.*******..*****..*.***********************.9...................73444477.......555.......4312266788888..........................................9999**************************965...
+CP000264/4083214-4083100               AAGGATGTTGTT..AG.CATTTGG..GTTCG..C.CCAGATCGTACAAC.ACTTAGCA.Gcttcg.........caagaA.GCATAG.......TCC.......TT...CGGGACGC..........................................ATCGGGCCGAACCGTCCTCATATCTCTTCGAAACT-
+#=GR CP000264/4083214-4083100       PP 79**********..**.*******..*****..*.**************.********.*98888.........888765.777778.......777.......77...77777789..........................................99***************************887765.
+CP001312/1515585-1515693               AAGGATGTCTTCccCA.GAGAAGA..ACTTGttC.CTCTCTACAGAAGAcACTTAGCA.G...................AaGTTCAG.......TCA.......GA...A-CTTCAT..........................................ATGCGGCCAGGCCGTCCTCATATCTCTTCAGAAC--
+#=GR CP001312/1515585-1515693       PP 6999999876552255.6777777..89999667.788888888988877********.*...................99******.......877.......65...5.566669..........................................9******************************986..
+CP001312/161794-161903                 AAGGATGTCTTCccCA.GAGAAGA..ACTTGttC.CTCTCTACAGAAGAcACTTAGCAcG...................AgGCTCAG.......TCA.......GA...GCCTCA-T..........................................ATGCGGCCAGGCCGTCCTCATATCTCTTCAGAAC--
+#=GR CP001312/161794-161903         PP 6999999876552255.6777777..89999667.788888888988877********64...................5699****.......999.......99...988777.8..........................................99*****************************986..
+CP001312/3580649-3580540               AAGGATGTCTTCccCA.GAGAAGA..ACTTGttC.CTCTCTACAGAAGAcACTTAGCAcG...................AgGCTCAG.......TCA.......GA...GCCTCA-T..........................................ATGCGGCCAGGCCGTCCTCATATCTCTTCAGAAC--
+#=GR CP001312/3580649-3580540       PP 6999999876552255.6777777..89999667.788888888988877********64...................5699****.......999.......99...988777.8..........................................99*****************************986..
+CP001312/1005560-1005669               AAGGATGTCTTCccCA.GAGAAGA..ACTTGttC.CTCTCTACAGAAGAcACTTAGCAcG...................AgGCTCAG.......TCA.......GA...A-CTTCAT..........................................ATGCGGCCAGGCCGTCCTCATATCTCTTCAGAAC--
+#=GR CP001312/1005560-1005669       PP 6999999876552255.6777777..89999667.788888888988877********64...................46999999.......876.......65...5.566669..........................................9******************************986..
+Phaeobacter/14665-14751                ------------..--.-------..---CG..C.ATCAAACATGGATC.ACTTAGCA.T...................AaGATCAG.......TAAtcaaaacTG...ATCACATC..........................................CG--GACCAGGCCGTCCTCATATCTCTTCAGAACT-
+#=GR Phaeobacter/14665-14751        PP .............................57..7.88888999******.********.9...................88******.......665445555588...99999888..........................................77..***************************9886.
+Phaeobacter/2674827-2674741            ------------..--.-------..---CG..C.ATCAAACATGGATC.ACTTAGCA.T...................AaGATCAG.......TAAtcaaaacTG...ATCACATC..........................................CG--GACCAGGCCGTCCTCATATCTCTTCAGAACT-
+#=GR Phaeobacter/2674827-2674741    PP .............................57..7.88888999******.********.9...................88******.......665445555588...99999888..........................................77..***************************9886.
+Phaeobacter/2999291-2999205            ------------..--.-------..---CG..C.ATCAAACATGGATC.ACTTAGCA.T...................AaGATCAG.......TAAtcaaaacTG...ATCACATC..........................................CG--GACCAGGCCGTCCTCATATCTCTTCAGAACT-
+#=GR Phaeobacter/2999291-2999205    PP .............................57..7.88888999******.********.9...................88******.......665445555588...99999888..........................................77..***************************9886.
+Phaeobacter/3393163-3393077            ------------..--.-------..---CG..C.ATCAAACATGGATC.ACTTAGCA.T...................AaGATCAG.......TAAtcaaaacTG...ATCACATC..........................................CG--GACCAGGCCGTCCTCATATCTCTTCAGAACT-
+#=GR Phaeobacter/3393163-3393077    PP .............................57..7.88888999******.********.9...................88******.......665445555588...99999888..........................................77..***************************9886.
+#=GC SS_cons                           ......(((((.........((((...........)))).....)))))..................................................................................................................................................
+
+//

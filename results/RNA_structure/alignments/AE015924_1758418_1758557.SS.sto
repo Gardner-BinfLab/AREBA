@@ -1,0 +1,60 @@
+# STOCKHOLM 1.0
+
+#=GS AE015924/60947-61083     DE [subseq from] Porphyromonas gingivalis W83, complete genome.
+#=GS AE015924/1758419-1758555 DE [subseq from] Porphyromonas gingivalis W83, complete genome.
+#=GS AE015924/2302318-2302182 DE [subseq from] Porphyromonas gingivalis W83, complete genome.
+#=GS AE015924/199117-199254   DE [subseq from] Porphyromonas gingivalis W83, complete genome.
+#=GS AE015924/1029636-1029773 DE [subseq from] Porphyromonas gingivalis W83, complete genome.
+#=GS AE015924/259842-259705   DE [subseq from] Porphyromonas gingivalis W83, complete genome.
+#=GS AE015924/527633-527496   DE [subseq from] Porphyromonas gingivalis W83, complete genome.
+#=GS AE015924/1743104-1742967 DE [subseq from] Porphyromonas gingivalis W83, complete genome.
+#=GS AE015924/22072-22207     DE [subseq from] Porphyromonas gingivalis W83, complete genome.
+#=GS AE015924/1338403-1338538 DE [subseq from] Porphyromonas gingivalis W83, complete genome.
+#=GS AP012203/1396092-1396228 DE [subseq from] Porphyromonas gingivalis TDC60 DNA, complete genome.
+#=GS AE015924/1874060-1873924 DE [subseq from] Porphyromonas gingivalis W83, complete genome.
+#=GS AP012203/1462732-1462838 DE [subseq from] Porphyromonas gingivalis TDC60 DNA, complete genome.
+#=GS AP009380/1858087-1857981 DE [subseq from] Porphyromonas gingivalis ATCC 33277 DNA, complete genome.
+#=GS AE015924/335201-335307   DE [subseq from] Porphyromonas gingivalis W83, complete genome.
+#=GS AP012203/2218918-2218834 DE [subseq from] Porphyromonas gingivalis TDC60 DNA, complete genome.
+#=GS AE015924/1409421-1409504 DE [subseq from] Porphyromonas gingivalis W83, complete genome.
+#=GS AP009380/1246147-1246227 DE [subseq from] Porphyromonas gingivalis ATCC 33277 DNA, complete genome.
+
+AE015924/60947-61083             TTTGGTAAAAGATTAGGAGAGGTACTTCACAGCACCTCTCCTTTCGTCTATTATCAGAGCCACCTAAGGTAAATCATCTTACCTTGGGTATATTCCACAAA.AAACTCTGATGAGTACA.AATATAAGCCTATTCGCCC
+#=GR AE015924/60947-61083     PP 589**************************************************************************************************.*****************.****************986
+AE015924/1758419-1758555         TTTGGTAAAAGATTAGGAGAGGTACTTCACAGCACCTCTCCTTTCGTCTATTATCAGAGCCACCTAAGGTAAATCATCTTACCTTGGGTATATTCCACAAA.AAACTCTGATGAGTACA.AATATAAGCCTATTCGCCC
+#=GR AE015924/1758419-1758555 PP 589**************************************************************************************************.*****************.****************986
+AE015924/2302318-2302182         TTTGGTAAAAGATTAGGAGAGGTACTTCACAGCACCTCTCCTTTCGTCTATTATCAGAGCCACCTAAGGTAAATCATCTTACCTTGGGTATATTCCACAAA.AAACTCTGATGAGTACA.AATATAAGCCTATTCGCCC
+#=GR AE015924/2302318-2302182 PP 589**************************************************************************************************.*****************.****************986
+AE015924/199117-199254           TTTGGCAAAAGATTAGGAGAGGTACTTCACAGCACCTCTCCTTTCGTCTATTATCAGAGCCACCTAAGGTAAATCATCTTACCTTGGGTATATTCCACAAAaAAACTCTGATGAGTACA.AATATAAGCCTATTCGCCC
+#=GR AE015924/199117-199254   PP 589************************************************************************************************99999***************.****************986
+AE015924/1029636-1029773         TTTGGCAAAAGATTAGGAGAGGTACTTCACAGCACCTCTCCTTTCGTCTATTATCAGAGCCACCTAAGGTAAATCATCTTACCTTGGGTATATTCCACAAAaAAACTCTGATGAGTACA.AATATAAGCCTATTCGCCC
+#=GR AE015924/1029636-1029773 PP 589************************************************************************************************99999***************.****************986
+AE015924/259842-259705           TTTGGCAAAAGATTAGGAGAGGTACTTCACAGCACCTCTCCTTTCGTCTATTATCAGAGCCACCTAAGGTAAATCATCTTACCTTGGGTATATTCCACAAAaAAACTCTGATGAGTACA.AATATAAGCCTATTCGCCC
+#=GR AE015924/259842-259705   PP 589************************************************************************************************99999***************.****************986
+AE015924/527633-527496           TTTGGCAAAAGATTAGGAGAGGTACTTCACAGCACCTCTCCTTTCGTCTATTATCAGAGCCACCTAAGGTAAATCATCTTACCTTGGGTATATTCCACAAAaAAACTCTGATGAGTACA.AATATAAGCCTATTCGCCC
+#=GR AE015924/527633-527496   PP 589************************************************************************************************99999***************.****************986
+AE015924/1743104-1742967         TTTGGCAAAAGATTAGGAGAGGTACTTCACAGCACCTCTCCTTTCGTCTATTATCAGAGCCACCTAAGGTAAATCATCTTACCTTGGGTATATTCCACAAAaAAACTCTGATGAGTACA.AATATAAGCCTATTCGCCC
+#=GR AE015924/1743104-1742967 PP 589************************************************************************************************99999***************.****************986
+AE015924/22072-22207             -TTGGTAAAAGATTAGGAGAGGTACTTCACAGCACCTCTCCTTTCGTCTATTATCAGAGCCACCTAAGGTAAATCATCTTACCTTTGGTATATTCCACAAA.AAACTCTGATGAGTACA.AATATAAGCCTATTCGCCC
+#=GR AE015924/22072-22207     PP .89**************************************************************************************************.*****************.****************986
+AE015924/1338403-1338538         -TTGGTAAAAGATTAGGAGAGGTACTTCACAGCACCTCTCCTTTCGTCTATTATCAGAGCCACCTAAGGTAAATCATCTTACCTTTGGTATATTCCACAAA.AAACTCTGATGAGTACA.AATATAAGCCTATTCGCCC
+#=GR AE015924/1338403-1338538 PP .89**************************************************************************************************.*****************.****************986
+AP012203/1396092-1396228         TTTGGCAATAGA-AAGGAGAGGAACTTCCCGGTGCCTCTCCT-TCGTTTGTTATCAGAGTCGCCCTGGGCAAATAATCTTACCCTTGGCCTATCACAAAAAcAAACTCTGATGAGTATAaAATATAAGCCCATTCGCCC
+#=GR AP012203/1396092-1396228 PP 589*********.99**************************9.678899*********************************************************************9789**************986
+AE015924/1874060-1873924         TTTGGCAATAGA-AAGGAGAGGAACTACCCGGTGCCTCTCCT-TCGTTTGTTATCAGAGTCGCCCTGGGCAAATAATCTTACCCTTGGCCTATCACAAAAAcAAACTCTGATGAGTATAaAATATAAGCCCATTCGCCC
+#=GR AE015924/1874060-1873924 PP 589*********.99**************************9.678899*********************************************************************9789**************986
+AP012203/1462732-1462838         ---------AAAAAGGGAGAGGCTCTTTCCTGTGCCTCTCCTTCGGT--TTTATCGGAGTTGCTTTGGGTAAATAAGCTTACCTGGGGCTT----TACAAA.---------------TA.AATATAAGTCTATTCGCCC
+#=GR AP012203/1462732-1462838 PP .........667799******************************99..99**************************************99....999999................99.*****************97
+AP009380/1858087-1857981         ---------AAAAAGGGAGAGGCTCTTTCCGGTGCCTCTCCTTCGGT--TTTATCGGAGTTGCTTTGGGTAAATAAGCTTACCTGGAGCTT----TACAAA.---------------TA.AATATAGGTCTTTTCGCCC
+#=GR AP009380/1858087-1857981 PP .........667799******************************99..99**************************************99....999999................99.*****************97
+AE015924/335201-335307           ---------AAAAAGGGAGAGGCTCTTTCCAGTGCCTCTCCTTCGGT--TTTATCGGAGTTGCTTTGGATAAATAAGCTTACCTGGAGCTT----TACAAA.---------------TA.AATATAGGTCTTTTCGCCC
+#=GR AE015924/335201-335307   PP .........667799******************************99..99**************************************99....999999................99.*****************97
+AP012203/2218918-2218834         -TTGGCAATAGATAAGGAGAGGAACTTCCCGGTGTCTCTCCTTCGTTGTGTTATCAGAGTCTCCTTGGGCCAATAATATAAGCCTG---------------.-----------------.-------------------
+#=GR AP012203/2218918-2218834 PP .79******************************************************************************99987.....................................................
+AE015924/1409421-1409504         -TTGGCAATAGA-AAGGAGAGGAACTTCCCGGTGTCTCTCCTTCGTTGTGTTATCAGAGTCTCCTTGGGCCAATAATATAAGCCTG---------------.-----------------.-------------------
+#=GR AE015924/1409421-1409504 PP .79*********.99******************************************************************99887.....................................................
+AP009380/1246147-1246227         -----CAATAGATAAGGAGAGGAACTTCCCGGTGTCTCTCCTTCGTTGTGTTATCAGAGTCTCCTTGGACCAATAATATAAGCCTG---------------.-----------------.-------------------
+#=GR AP009380/1246147-1246227 PP .....6899************************************************************************99987.....................................................
+#=GC SS_cons                     ..............(((((((((.((....)).)))))))))................(((......))).....................................................................
+
+//

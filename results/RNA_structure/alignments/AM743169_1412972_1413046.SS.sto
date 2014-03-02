@@ -1,0 +1,24 @@
+# STOCKHOLM 1.0
+
+#=GS CP002986/1278663-1278736         DE [subseq from] Stenotrophomonas maltophilia JV3, complete genome.
+#=GS Stenotrophomonas/1368947-1369020 DE [subseq from] maltophilia D457 complete genome 4769156
+#=GS CP001111/1317092-1317165         DE [subseq from] Stenotrophomonas maltophilia R551-3, complete genome.
+#=GS AM743169/1412973-1413046         DE [subseq from] Stenotrophomonas maltophilia K279a complete genome, strain K279a
+#=GS CP002446/1130216-1130284         DE [subseq from] Pseudoxanthomonas suwonensis 11-1, complete genome.
+#=GS CP003093/1223623-1223693         DE [subseq from] Pseudoxanthomonas spadix BD-a59, complete genome.
+
+CP002986/1278663-1278736                 AACAAACGTGCAGCACAGTCCGGTGACTGCATGAGCCTACGTTGTCGATA..CGACACGCCCACCCGAACAAGAAT
+#=GR CP002986/1278663-1278736         PP 699***********************************************..*********************987
+Stenotrophomonas/1368947-1369020         AACAAACGTGCAGCACAGTCCGGTGACTGCATGAGCCTACGTTGTCGATA..CGACACGCCCACCCGAACAAGAAT
+#=GR Stenotrophomonas/1368947-1369020 PP 699***********************************************..*********************987
+CP001111/1317092-1317165                 AACAAACGTGCAGCACAGTCCAGTGACTGCATCAGCCTACGTTGTCGAAA..CGACACGCCCACCCGAACAAGAAT
+#=GR CP001111/1317092-1317165         PP 689***********************************************..*********************987
+AM743169/1412973-1413046                 AACAAACGTGCAGCACAGTCCGGTGACTGCATGAGCCCACGTTGTCTACA..TGACACGCCCACCCGAACAAGAAT
+#=GR AM743169/1412973-1413046         PP 689***********************************************..*********************987
+CP002446/1130216-1130284                 AATAAACGCGCAGCGCAATCCGGCGACTGCGTCAGTCCAAGCTGTCG-CA..AGACACGCCCACCCGAACAA----
+#=GR CP002446/1130216-1130284         PP 689********************************************.9*..******************97....
+CP003093/1223623-1223693                 AACAATCGTGCGGCGCAATCCTGCGAACGCATCAGTGCCTGCTGTCGAAAccCGACACGCCCACCTCAACA-----
+#=GR CP003093/1223623-1223693         PP 699***********************************************999****************98.....
+#=GC SS_cons                             .......(((((((((......))).)))))).......((.(((((.....))))))).................
+
+//

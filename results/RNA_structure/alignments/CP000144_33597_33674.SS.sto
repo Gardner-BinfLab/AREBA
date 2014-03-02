@@ -1,0 +1,42 @@
+# STOCKHOLM 1.0
+
+#=GS CP000578/575819-575895   DE [subseq from] Rhodobacter sphaeroides ATCC 17029 chromosome 2, complete sequence.
+#=GS CP000143/3188533-3188609 DE [subseq from] Rhodobacter sphaeroides 2.4.1 chromosome 1, complete sequence.
+#=GS CP000144/942940-943016   DE [subseq from] Rhodobacter sphaeroides 2.4.1 chromosome 2, complete sequence.
+#=GS CP000577/87686-87764     DE [subseq from] Rhodobacter sphaeroides ATCC 17029 chromosome 1, complete sequence.
+#=GS CP000578/611463-611541   DE [subseq from] Rhodobacter sphaeroides ATCC 17029 chromosome 2, complete sequence.
+#=GS CP001150/2862104-2862182 DE [subseq from] Rhodobacter sphaeroides KD131 chromosome 1, complete sequence.
+#=GS CP001151/1129039-1129117 DE [subseq from] Rhodobacter sphaeroides KD131 chromosome 2, complete sequence.
+#=GS CP001151/1058356-1058278 DE [subseq from] Rhodobacter sphaeroides KD131 chromosome 2, complete sequence.
+#=GS CP000578/819014-819092   DE [subseq from] Rhodobacter sphaeroides ATCC 17029 chromosome 2, complete sequence.
+#=GS CP000144/33597-33673     DE [subseq from] Rhodobacter sphaeroides 2.4.1 chromosome 2, complete sequence.
+#=GS CP001151/58456-58533     DE [subseq from] Rhodobacter sphaeroides KD131 chromosome 2, complete sequence.
+#=GS CP000661/2863230-2863306 DE [subseq from] Rhodobacter sphaeroides ATCC 17025, complete genome.
+
+CP000578/575819-575895           ATGGACAGAAAGACCTCGGGC..GATGCCCGAGGCAGATGTGCGAAGGTTCGACGTCAAGGACAGCGCTTCG.GCGCTTT
+#=GR CP000578/575819-575895   PP 79*******************..*************************************************.*****97
+CP000143/3188533-3188609         ATGGACAGAAAGACCTCGGGC..GATGCCCGAGGCAGATGTGCGAAGGTTCGACGTCAAGGACAGCGCTTCG.GCGCTTT
+#=GR CP000143/3188533-3188609 PP 79*******************..*************************************************.*****97
+CP000144/942940-943016           ATGGACAGAAAGACCTCGGGC..GATGCCCGAGGCAGATGTGCGAAGGTTCGACGTCAAGGACAGCGCTTCG.GCGCTTT
+#=GR CP000144/942940-943016   PP 79*******************..*************************************************.*****97
+CP000577/87686-87764             ATGGACAGAAAGACCTCGGGCttGATGCTCGAGGCAGATGTGCGAAGGTTCGACGTCAAGGACAGCGCTTCG.GCGCTTT
+#=GR CP000577/87686-87764     PP 79**********************************************************************.*****97
+CP000578/611463-611541           ATGGACAGAAAGACCTCGGGCttGATGCTCGAGGCAGATGTGCGAAGGTTCGACGTCAAGGACAGCGCTTCG.GCGCTTT
+#=GR CP000578/611463-611541   PP 79**********************************************************************.*****97
+CP001150/2862104-2862182         ATGGACAGAAAGACCTCGGGCttGATGCTCGAGGCAGATGTGCGAAGGTTCGACGTCAAGGACAGCGCTTCG.GCGCTTT
+#=GR CP001150/2862104-2862182 PP 79**********************************************************************.*****97
+CP001151/1129039-1129117         ATGGACAGAAAGACCTCGGGCttGATGCTCGAGGCAGATGTGCGAAGGTTCGACGTCAAGGACAGCGCTTCG.GCGCTTT
+#=GR CP001151/1129039-1129117 PP 79**********************************************************************.*****97
+CP001151/1058356-1058278         ATGGACAGAAAGACCTCGGGCttGATGCTCGAGGCAGATGTGCGAAGGTTCGACGTCAAGGACAGCGCTTCG.GCGCTTT
+#=GR CP001151/1058356-1058278 PP 79**********************************************************************.*****97
+CP000578/819014-819092           ATGGACAGAAAGACCTCGGGCttGATGCTCGAGGCAGATGTGCGAACGTTCGACGTCAAGGACAGCGCTTCG.GCGCTTT
+#=GR CP000578/819014-819092   PP 79**********************************************************************.*****97
+CP000144/33597-33673             ATGGACAGAAAGACCTCGGGC..GATGCTCGAGGCAGATGTGCGAAGGTTCGACGTCAAGGATAGTCCTTCG.GGACTTT
+#=GR CP000144/33597-33673     PP 79*******************..*************************************************.****996
+CP001151/58456-58533             ATGGACAGAAAGACCTCGGGC..GATGCCCGAGGCAGATGTGCGAAGGTTCGACGTCAAGGATAGCGCGTCAaGCGCTTT
+#=GR CP001151/58456-58533     PP 79*******************..************************************************889999997
+CP000661/2863230-2863306         ATGGACAGAAAGACCTCGAAC..GATGTTCGAGGCAGATGTGCGAAGGTTCGACGTCAAGGATAGTCCTTCG.GGACTTT
+#=GR CP000661/2863230-2863306 PP 69*******************..*************************************************.***9986
+#=GC SS_cons                     .............((((((((.....))))))))..(((((.(((....))))))))......(((((.....)))))..
+
+//

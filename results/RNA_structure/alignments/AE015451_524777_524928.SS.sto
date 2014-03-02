@@ -1,0 +1,1070 @@
+# STOCKHOLM 1.0
+# WARNING: seq names have been made unique by adding a prefix of "<seq#>|"
+
+#=GS 000|CP002620/4254354-4254214    DE [subseq from] Pseudomonas mendocina NK-01, complete genome.
+#=GS 001|CP002620/4720009-4719869    DE [subseq from] Pseudomonas mendocina NK-01, complete genome.
+#=GS 002|CP002620/5209531-5209391    DE [subseq from] Pseudomonas mendocina NK-01, complete genome.
+#=GS 003|CT573326/489886-490028      DE [subseq from] Pseudomonas entomophila str. L48 chromosome,complete sequence.
+#=GS 004|CT573326/696354-696496      DE [subseq from] Pseudomonas entomophila str. L48 chromosome,complete sequence.
+#=GS 005|CT573326/1375399-1375541    DE [subseq from] Pseudomonas entomophila str. L48 chromosome,complete sequence.
+#=GS 006|CT573326/3800821-3800679    DE [subseq from] Pseudomonas entomophila str. L48 chromosome,complete sequence.
+#=GS 007|CP002870/512520-512662      DE [subseq from] Pseudomonas putida S16, complete genome.
+#=GS 008|CP002870/684334-684476      DE [subseq from] Pseudomonas putida S16, complete genome.
+#=GS 009|CP002870/2066809-2066951    DE [subseq from] Pseudomonas putida S16, complete genome.
+#=GS 010|CP002870/4651121-4650979    DE [subseq from] Pseudomonas putida S16, complete genome.
+#=GS 011|CP002870/5114811-5114669    DE [subseq from] Pseudomonas putida S16, complete genome.
+#=GS 012|Pseudomonas/4525057-4524915 DE [subseq from] putida HB3267, complete genome. 5875750
+#=GS 013|Pseudomonas/5004791-5004649 DE [subseq from] putida HB3267, complete genome. 5875750
+#=GS 014|CP000949/5621948-5621806    DE [subseq from] Pseudomonas putida W619, complete genome.
+#=GS 015|CP000712/539690-539832      DE [subseq from] Pseudomonas putida F1, complete genome.
+#=GS 016|CP000712/3914925-3914783    DE [subseq from] Pseudomonas putida F1, complete genome.
+#=GS 017|CP000712/5076551-5076409    DE [subseq from] Pseudomonas putida F1, complete genome.
+#=GS 018|Pseudomonas/2849974-2850116 DE [subseq from] putida ND6, complete genome. 6085449
+#=GS 019|Pseudomonas/3192582-3192724 DE [subseq from] putida ND6, complete genome. 6085449
+#=GS 020|Pseudomonas/4002476-4002618 DE [subseq from] putida ND6, complete genome. 6085449
+#=GS 021|Pseudomonas/1788475-1788333 DE [subseq from] putida ND6, complete genome. 6085449
+#=GS 022|AE015451/2548525-2548667    DE [subseq from] Pseudomonas putida KT2440 complete genome.
+#=GS 023|AE015451/5312841-5312699    DE [subseq from] Pseudomonas putida KT2440 complete genome.
+#=GS 024|CP000949/5041925-5041783    DE [subseq from] Pseudomonas putida W619, complete genome.
+#=GS 025|CP000949/5256262-5256120    DE [subseq from] Pseudomonas putida W619, complete genome.
+#=GS 026|CP002290/1354754-1354896    DE [subseq from] Pseudomonas putida BIRD-1, complete genome.
+#=GS 027|Pseudomonas/2031211-2031353 DE [subseq from] putida HB3267, complete genome. 5875750
+#=GS 028|Pseudomonas/674738-674596   DE [subseq from] putida ND6, complete genome. 6085449
+#=GS 029|CP000712/184977-185119      DE [subseq from] Pseudomonas putida F1, complete genome.
+#=GS 030|CP000712/717019-717161      DE [subseq from] Pseudomonas putida F1, complete genome.
+#=GS 031|CP000926/183473-183615      DE [subseq from] Pseudomonas putida GB-1, complete genome.
+#=GS 032|CP000926/188880-189022      DE [subseq from] Pseudomonas putida GB-1, complete genome.
+#=GS 033|CP000926/542489-542631      DE [subseq from] Pseudomonas putida GB-1, complete genome.
+#=GS 034|CP000926/731375-731517      DE [subseq from] Pseudomonas putida GB-1, complete genome.
+#=GS 035|CP000926/4767554-4767412    DE [subseq from] Pseudomonas putida GB-1, complete genome.
+#=GS 036|CP000926/5221642-5221500    DE [subseq from] Pseudomonas putida GB-1, complete genome.
+#=GS 037|Pseudomonas/246062-246204   DE [subseq from] putida HB3267, complete genome. 5875750
+#=GS 038|Pseudomonas/251469-251611   DE [subseq from] putida HB3267, complete genome. 5875750
+#=GS 039|Pseudomonas/626071-626213   DE [subseq from] putida HB3267, complete genome. 5875750
+#=GS 040|Pseudomonas/801315-801457   DE [subseq from] putida HB3267, complete genome. 5875750
+#=GS 041|Pseudomonas/3369888-3370030 DE [subseq from] putida ND6, complete genome. 6085449
+#=GS 042|AE015451/176655-176797      DE [subseq from] Pseudomonas putida KT2440 complete genome.
+#=GS 043|AE015451/697660-697802      DE [subseq from] Pseudomonas putida KT2440 complete genome.
+#=GS 044|CP002290/205548-205690      DE [subseq from] Pseudomonas putida BIRD-1, complete genome.
+#=GS 045|CP002290/733142-733284      DE [subseq from] Pseudomonas putida BIRD-1, complete genome.
+#=GS 046|CP002290/3822767-3822625    DE [subseq from] Pseudomonas putida BIRD-1, complete genome.
+#=GS 047|CP002290/4884934-4884792    DE [subseq from] Pseudomonas putida BIRD-1, complete genome.
+#=GS 048|CP002870/131370-131512      DE [subseq from] Pseudomonas putida S16, complete genome.
+#=GS 049|CP000949/1294598-1294740    DE [subseq from] Pseudomonas putida W619, complete genome.
+#=GS 050|Pseudomonas/4256294-4256436 DE [subseq from] putida DOT-T1E, complete genome. 6260702
+#=GS 051|CP000680/1141835-1141975    DE [subseq from] Pseudomonas mendocina ymp, complete genome.
+#=GS 052|CP000680/2193112-2193252    DE [subseq from] Pseudomonas mendocina ymp, complete genome.
+#=GS 053|CP000680/4313448-4313308    DE [subseq from] Pseudomonas mendocina ymp, complete genome.
+#=GS 054|CP000680/4854675-4854535    DE [subseq from] Pseudomonas mendocina ymp, complete genome.
+#=GS 055|AE015451/171225-171367      DE [subseq from] Pseudomonas putida KT2440 complete genome.
+#=GS 056|CP000949/5616507-5616365    DE [subseq from] Pseudomonas putida W619, complete genome.
+#=GS 057|CP002290/200118-200260      DE [subseq from] Pseudomonas putida BIRD-1, complete genome.
+#=GS 058|CT573326/115345-115487      DE [subseq from] Pseudomonas entomophila str. L48 chromosome,complete sequence.
+#=GS 059|CT573326/2739167-2739309    DE [subseq from] Pseudomonas entomophila str. L48 chromosome,complete sequence.
+#=GS 060|CT573326/5003837-5003695    DE [subseq from] Pseudomonas entomophila str. L48 chromosome,complete sequence.
+#=GS 061|AE015451/524785-524927      DE [subseq from] Pseudomonas putida KT2440 complete genome.
+#=GS 062|CP002290/548059-548201      DE [subseq from] Pseudomonas putida BIRD-1, complete genome.
+#=GS 063|Pseudomonas/4993840-4993698 DE [subseq from] putida DOT-T1E, complete genome. 6260702
+#=GS 064|AE015451/1325339-1325481    DE [subseq from] Pseudomonas putida KT2440 complete genome.
+#=GS 065|CP000949/839540-839682      DE [subseq from] Pseudomonas putida W619, complete genome.
+#=GS 066|CP000949/3781102-3780960    DE [subseq from] Pseudomonas putida W619, complete genome.
+#=GS 067|CP000712/1342666-1342808    DE [subseq from] Pseudomonas putida F1, complete genome.
+#=GS 068|CP002727/239370-239510      DE [subseq from] Pseudomonas fulva 12-X, complete genome.
+#=GS 069|CP002727/691435-691575      DE [subseq from] Pseudomonas fulva 12-X, complete genome.
+#=GS 070|CP002727/936776-936916      DE [subseq from] Pseudomonas fulva 12-X, complete genome.
+#=GS 071|CP002727/2803941-2803801    DE [subseq from] Pseudomonas fulva 12-X, complete genome.
+#=GS 072|Pseudomonas/961965-962131   DE [subseq from] stutzeri DSM 10701, complete genome. 4174118
+#=GS 073|Pseudomonas/2652310-2652144 DE [subseq from] stutzeri DSM 10701, complete genome. 4174118
+#=GS 074|Pseudomonas/679520-679686   DE [subseq from] stutzeri DSM 10701, complete genome. 4174118
+#=GS 075|CP000926/2092574-2092716    DE [subseq from] Pseudomonas putida GB-1, complete genome.
+#=GS 076|Pseudomonas/3874107-3873969 DE [subseq from] sp. UW4, complete genome. 6183388
+#=GS 077|CP002585/182326-182464      DE [subseq from] Pseudomonas brassicacearum subsp. brassicacearum NFM421, complete genome.
+#=GS 078|CP002585/4846628-4846490    DE [subseq from] Pseudomonas brassicacearum subsp. brassicacearum NFM421, complete genome.
+#=GS 079|CP002585/5809489-5809351    DE [subseq from] Pseudomonas brassicacearum subsp. brassicacearum NFM421, complete genome.
+#=GS 080|CP002585/6173282-6173144    DE [subseq from] Pseudomonas brassicacearum subsp. brassicacearum NFM421, complete genome.
+#=GS 081|CP003150/165750-165888      DE [subseq from] Pseudomonas fluorescens F113, complete genome.
+#=GS 082|CP003150/844876-845014      DE [subseq from] Pseudomonas fluorescens F113, complete genome.
+#=GS 083|CP003150/2107247-2107385    DE [subseq from] Pseudomonas fluorescens F113, complete genome.
+#=GS 084|CP003150/5766612-5766474    DE [subseq from] Pseudomonas fluorescens F113, complete genome.
+#=GS 085|CP003150/6155380-6155242    DE [subseq from] Pseudomonas fluorescens F113, complete genome.
+#=GS 086|Pseudomonas/111024-111162   DE [subseq from] sp. UW4, complete genome. 6183388
+#=GS 087|Pseudomonas/1768530-1768668 DE [subseq from] sp. UW4, complete genome. 6183388
+#=GS 088|Pseudomonas/689975-690113   DE [subseq from] sp. UW4, complete genome. 6183388
+#=GS 089|Pseudomonas/1080396-1080534 DE [subseq from] sp. UW4, complete genome. 6183388
+#=GS 090|Pseudomonas/5287806-5287668 DE [subseq from] sp. UW4, complete genome. 6183388
+#=GS 091|Pseudomonas/5596311-5596173 DE [subseq from] sp. UW4, complete genome. 6183388
+#=GS 092|CP000438/6317823-6317668    DE [subseq from] Pseudomonas aeruginosa UCBPP-PA14, complete genome.
+#=GS 093|AE004091/6044904-6044749    DE [subseq from] Pseudomonas aeruginosa PAO1, complete genome.
+#=GS 094|CP000076/122663-122802      DE [subseq from] Pseudomonas fluorescens Pf-5, complete genome.
+#=GS 095|CP000076/853904-854043      DE [subseq from] Pseudomonas fluorescens Pf-5, complete genome.
+#=GS 096|CP000076/4815329-4815190    DE [subseq from] Pseudomonas fluorescens Pf-5, complete genome.
+#=GS 097|CP000076/6014281-6014142    DE [subseq from] Pseudomonas fluorescens Pf-5, complete genome.
+#=GS 098|CP000076/6388101-6387962    DE [subseq from] Pseudomonas fluorescens Pf-5, complete genome.
+#=GS 099|Pseudomonas/3697307-3697141 DE [subseq from] stutzeri DSM 10701, complete genome. 4174118
+#=GS 100|CP002585/844486-844624      DE [subseq from] Pseudomonas brassicacearum subsp. brassicacearum NFM421, complete genome.
+#=GS 101|CP000744/806941-807081      DE [subseq from] Pseudomonas aeruginosa PA7, complete genome.
+#=GS 102|CP000744/4988224-4988084    DE [subseq from] Pseudomonas aeruginosa PA7, complete genome.
+#=GS 103|CP000744/5571540-5571400    DE [subseq from] Pseudomonas aeruginosa PA7, complete genome.
+#=GS 104|CP000744/6358776-6358636    DE [subseq from] Pseudomonas aeruginosa PA7, complete genome.
+#=GS 105|CP002496/699057-699212      DE [subseq from] Pseudomonas aeruginosa M18, complete genome.
+#=GS 106|CP002496/4832875-4832720    DE [subseq from] Pseudomonas aeruginosa M18, complete genome.
+#=GS 107|CP002496/6099763-6099608    DE [subseq from] Pseudomonas aeruginosa M18, complete genome.
+#=GS 108|AE004091/721936-722091      DE [subseq from] Pseudomonas aeruginosa PAO1, complete genome.
+#=GS 109|AE004091/4793892-4793737    DE [subseq from] Pseudomonas aeruginosa PAO1, complete genome.
+#=GS 110|CP000438/4957338-4957183    DE [subseq from] Pseudomonas aeruginosa UCBPP-PA14, complete genome.
+#=GS 111|CP002496/5322322-5322167    DE [subseq from] Pseudomonas aeruginosa M18, complete genome.
+#=GS 112|FM209186/699192-699347      DE [subseq from] Pseudomonas aeruginosa LESB58 complete genome sequence
+#=GS 113|FM209186/5133608-5133453    DE [subseq from] Pseudomonas aeruginosa LESB58 complete genome sequence
+#=GS 114|FM209186/5603243-5603088    DE [subseq from] Pseudomonas aeruginosa LESB58 complete genome sequence
+#=GS 115|FM209186/6380849-6380694    DE [subseq from] Pseudomonas aeruginosa LESB58 complete genome sequence
+#=GS 116|Pseudomonas/694099-694254   DE [subseq from] aeruginosa B136-33, complete genome. 6421010
+#=GS 117|Pseudomonas/699021-699176   DE [subseq from] aeruginosa DK2, complete genome. 6402658
+#=GS 118|Pseudomonas/4802391-4802236 DE [subseq from] aeruginosa DK2, complete genome. 6402658
+#=GS 119|Pseudomonas/4836356-4836201 DE [subseq from] aeruginosa B136-33, complete genome. 6421010
+#=GS 120|Pseudomonas/5370852-5370697 DE [subseq from] aeruginosa DK2, complete genome. 6402658
+#=GS 121|Pseudomonas/5415681-5415526 DE [subseq from] aeruginosa B136-33, complete genome. 6421010
+#=GS 122|Pseudomonas/6181880-6181725 DE [subseq from] aeruginosa DK2, complete genome. 6402658
+#=GS 123|Pseudomonas/6201268-6201113 DE [subseq from] aeruginosa B136-33, complete genome. 6421010
+#=GS 124|CP002620/3044700-3044560    DE [subseq from] Pseudomonas mendocina NK-01, complete genome.
+#=GS 125|AP012280/1450148-1450303    DE [subseq from] Pseudomonas aeruginosa NCGM2.S1 DNA, complete genome.
+#=GS 126|AP012280/5920107-5919952    DE [subseq from] Pseudomonas aeruginosa NCGM2.S1 DNA, complete genome.
+#=GS 127|AP012280/6536326-6536171    DE [subseq from] Pseudomonas aeruginosa NCGM2.S1 DNA, complete genome.
+#=GS 128|CP000438/732926-733081      DE [subseq from] Pseudomonas aeruginosa UCBPP-PA14, complete genome.
+#=GS 129|Pseudomonas/5506741-5506879 DE [subseq from] poae RE*1-1-14, complete genome. 5512241
+#=GS 130|Pseudomonas/1279138-1279276 DE [subseq from] poae RE*1-1-14, complete genome. 5512241
+#=GS 131|Pseudomonas/3809989-3809851 DE [subseq from] poae RE*1-1-14, complete genome. 5512241
+#=GS 132|Pseudomonas/4138397-4138259 DE [subseq from] poae RE*1-1-14, complete genome. 5512241
+#=GS 133|AM181176/768383-768522      DE [subseq from] Pseudomonas fluorescens SBW25 complete genome
+#=GS 134|AM181176/119571-119710      DE [subseq from] Pseudomonas fluorescens SBW25 complete genome
+#=GS 135|AM181176/6073863-6073724    DE [subseq from] Pseudomonas fluorescens SBW25 complete genome
+#=GS 136|CP000094/121319-121458      DE [subseq from] Pseudomonas fluorescens Pf0-1, complete genome.
+#=GS 137|CP000094/802880-803019      DE [subseq from] Pseudomonas fluorescens Pf0-1, complete genome.
+#=GS 138|CP000094/2549382-2549521    DE [subseq from] Pseudomonas fluorescens Pf0-1, complete genome.
+#=GS 139|CP000094/4421879-4421740    DE [subseq from] Pseudomonas fluorescens Pf0-1, complete genome.
+#=GS 140|CP000094/5731708-5731569    DE [subseq from] Pseudomonas fluorescens Pf0-1, complete genome.
+#=GS 141|Pseudomonas/119660-119799   DE [subseq from] fluorescens A506, complete genome. 5962570
+#=GS 142|Pseudomonas/766544-766683   DE [subseq from] fluorescens A506, complete genome. 5962570
+#=GS 143|Pseudomonas/2134823-2134962 DE [subseq from] fluorescens A506, complete genome. 5962570
+#=GS 144|Pseudomonas/4480096-4479957 DE [subseq from] fluorescens A506, complete genome. 5962570
+#=GS 145|Pseudomonas/4967300-4967161 DE [subseq from] fluorescens A506, complete genome. 5962570
+#=GS 146|Pseudomonas/5323043-5322904 DE [subseq from] fluorescens A506, complete genome. 5962570
+#=GS 147|AM181176/2234778-2234917    DE [subseq from] Pseudomonas fluorescens SBW25 complete genome
+#=GS 148|AM181176/5722408-5722269    DE [subseq from] Pseudomonas fluorescens SBW25 complete genome
+#=GS 149|CP000304/866544-866703      DE [subseq from] Pseudomonas stutzeri A1501, complete genome.
+#=GS 150|CP000304/2535957-2535798    DE [subseq from] Pseudomonas stutzeri A1501, complete genome.
+#=GS 151|CP002622/1793266-1793425    DE [subseq from] Pseudomonas stutzeri DSM 4166, complete genome.
+#=GS 152|CP002622/2526280-2526121    DE [subseq from] Pseudomonas stutzeri DSM 4166, complete genome.
+#=GS 153|CP002622/3617696-3617537    DE [subseq from] Pseudomonas stutzeri DSM 4166, complete genome.
+#=GS 154|CP002881/719295-719454      DE [subseq from] Pseudomonas stutzeri ATCC 17588 = LMG 11199, complete genome.
+#=GS 155|CP002881/1648679-1648838    DE [subseq from] Pseudomonas stutzeri ATCC 17588 = LMG 11199, complete genome.
+#=GS 156|CP002881/2365177-2365018    DE [subseq from] Pseudomonas stutzeri ATCC 17588 = LMG 11199, complete genome.
+#=GS 157|CP002881/3529018-3528859    DE [subseq from] Pseudomonas stutzeri ATCC 17588 = LMG 11199, complete genome.
+#=GS 158|AE004091/5269420-5269265    DE [subseq from] Pseudomonas aeruginosa PAO1, complete genome.
+#=GS 159|Pseudomonas/4900143-4900281 DE [subseq from] poae RE*1-1-14, complete genome. 5512241
+#=GS 160|AP012280/974829-974984      DE [subseq from] Pseudomonas aeruginosa NCGM2.S1 DNA, complete genome.
+#=GS 161|CP000438/5541352-5541197    DE [subseq from] Pseudomonas aeruginosa UCBPP-PA14, complete genome.
+#=GS 162|Pseudomonas/4666720-4666564 DE [subseq from] denitrificans ATCC 13867, complete genome. 5696307
+#=GS 163|CP002622/779686-779845      DE [subseq from] Pseudomonas stutzeri DSM 4166, complete genome.
+#=GS 164|CP000094/5398436-5398297    DE [subseq from] Pseudomonas fluorescens Pf0-1, complete genome.
+#=GS 165|AE016853/6219301-6219164    DE [subseq from] Pseudomonas syringae pv. tomato str. DC3000, complete genome.
+#=GS 166|CP000304/3519178-3519005    DE [subseq from] Pseudomonas stutzeri A1501, complete genome.
+#=GS 167|AE016853/666579-666716      DE [subseq from] Pseudomonas syringae pv. tomato str. DC3000, complete genome.
+#=GS 168|AE016853/827393-827530      DE [subseq from] Pseudomonas syringae pv. tomato str. DC3000, complete genome.
+#=GS 169|AE016853/1071930-1072067    DE [subseq from] Pseudomonas syringae pv. tomato str. DC3000, complete genome.
+#=GS 170|AE016853/3874830-3874693    DE [subseq from] Pseudomonas syringae pv. tomato str. DC3000, complete genome.
+#=GS 171|CP000075/771947-772084      DE [subseq from] Pseudomonas syringae pv. syringae B728a, complete genome.
+#=GS 172|CP000075/964537-964674      DE [subseq from] Pseudomonas syringae pv. syringae B728a, complete genome.
+#=GS 173|CP000075/3852826-3852689    DE [subseq from] Pseudomonas syringae pv. syringae B728a, complete genome.
+#=GS 174|CP000075/5428413-5428276    DE [subseq from] Pseudomonas syringae pv. syringae B728a, complete genome.
+#=GS 175|CP000075/5953335-5953198    DE [subseq from] Pseudomonas syringae pv. syringae B728a, complete genome.
+#=GS 176|CP000058/5784512-5784375    DE [subseq from] Pseudomonas syringae pv. phaseolicola 1448A, complete genome.
+#=GS 177|Pseudomonas/592998-593154   DE [subseq from] denitrificans ATCC 13867, complete genome. 5696307
+#=GS 178|Pseudomonas/5466640-5466484 DE [subseq from] denitrificans ATCC 13867, complete genome. 5696307
+#=GS 179|CP000058/803853-803990      DE [subseq from] Pseudomonas syringae pv. phaseolicola 1448A, complete genome.
+#=GS 180|CP000058/1048588-1048725    DE [subseq from] Pseudomonas syringae pv. phaseolicola 1448A, complete genome.
+#=GS 181|CP000058/3636842-3636705    DE [subseq from] Pseudomonas syringae pv. phaseolicola 1448A, complete genome.
+#=GS 182|CP000058/5252383-5252246    DE [subseq from] Pseudomonas syringae pv. phaseolicola 1448A, complete genome.
+#=GS 183|Pseudomonas/2646583-2646739 DE [subseq from] denitrificans ATCC 13867, complete genome. 5696307
+#=GS 184|CP000304/1796914-1797073    DE [subseq from] Pseudomonas stutzeri A1501, complete genome.
+#=GS 185|Pseudomonas/986846-987007   DE [subseq from] stutzeri CCUG 29243, complete genome. 4709064
+#=GS 186|Pseudomonas/1982829-1982990 DE [subseq from] stutzeri CCUG 29243, complete genome. 4709064
+#=GS 187|Pseudomonas/2705955-2705794 DE [subseq from] stutzeri CCUG 29243, complete genome. 4709064
+#=GS 188|Pseudomonas/3908166-3908005 DE [subseq from] stutzeri CCUG 29243, complete genome. 4709064
+#=GS 189|Pseudomonas/1127902-1128063 DE [subseq from] stutzeri RCH2, complete genome. 4575057
+#=GS 190|Pseudomonas/2121619-2121780 DE [subseq from] stutzeri RCH2, complete genome. 4575057
+#=GS 191|Pseudomonas/2878402-2878241 DE [subseq from] stutzeri RCH2, complete genome. 4575057
+#=GS 192|Pseudomonas/3795990-3795829 DE [subseq from] stutzeri RCH2, complete genome. 4575057
+#=GS 193|Pseudomonas/2111845-2112004 DE [subseq from] denitrificans ATCC 13867, complete genome. 5696307
+#=GS 194|Azotobacter/177286-177403   DE [subseq from] vinelandii CA, complete genome. 5366370
+#=GS 195|Azotobacter/177286-177403   DE [subseq from] vinelandii CA6, complete genome. 5323210
+#=GS 196|Azotobacter/1377834-1377951 DE [subseq from] vinelandii CA6, complete genome. 5323210
+#=GS 197|Azotobacter/1377848-1377965 DE [subseq from] vinelandii CA, complete genome. 5366370
+#=GS 198|Azotobacter/4675029-4674912 DE [subseq from] vinelandii CA6, complete genome. 5323210
+#=GS 199|Azotobacter/4675041-4674924 DE [subseq from] vinelandii CA, complete genome. 5366370
+#=GS 200|CP001157/177286-177403      DE [subseq from] Azotobacter vinelandii DJ, complete genome.
+#=GS 201|CP001157/1377822-1377939    DE [subseq from] Azotobacter vinelandii DJ, complete genome.
+#=GS 202|CP001157/4675036-4674919    DE [subseq from] Azotobacter vinelandii DJ, complete genome.
+#=GS 203|Azotobacter/1909106-1909223 DE [subseq from] vinelandii CA6, complete genome. 5323210
+#=GS 204|Azotobacter/1909118-1909235 DE [subseq from] vinelandii CA, complete genome. 5366370
+#=GS 205|Azotobacter/2842877-2842760 DE [subseq from] vinelandii CA6, complete genome. 5323210
+#=GS 206|Azotobacter/2842889-2842772 DE [subseq from] vinelandii CA, complete genome. 5366370
+#=GS 207|Azotobacter/4281097-4280980 DE [subseq from] vinelandii CA6, complete genome. 5323210
+#=GS 208|Azotobacter/4281109-4280992 DE [subseq from] vinelandii CA, complete genome. 5366370
+#=GS 209|CP001157/1909093-1909210    DE [subseq from] Azotobacter vinelandii DJ, complete genome.
+#=GS 210|CP001157/2842865-2842748    DE [subseq from] Azotobacter vinelandii DJ, complete genome.
+#=GS 211|CP001157/4281101-4280984    DE [subseq from] Azotobacter vinelandii DJ, complete genome.
+
+000|CP002620/4254354-4254214            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGGTA.AGACTGGTAG.TCGA.CAGATTATCAGC...ATCACAAGTAAC-ACTCGTGAATTC..................GAG.AG.TTTAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 000|CP002620/4254354-4254214    PP 79*********************************.**********.****.************...********9998.99**********..................*66.66.78899..............................9.................******************************
+001|CP002620/4720009-4719869            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGGTA.AGACTGGTAG.TCGA.CAGATTATCAGC...ATCACAAGTAAC-ACTCGTGAATTC..................GAG.AG.TTTAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 001|CP002620/4720009-4719869    PP 79*********************************.**********.****.************...********9998.99**********..................*66.66.78899..............................9.................******************************
+002|CP002620/5209531-5209391            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGGTA.AGACTGGTAG.TCGA.CAGATTATCAGC...ATCACAAGTAAC-ACTCGTGAATTC..................GAG.AG.TTTAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 002|CP002620/5209531-5209391    PP 79*********************************.**********.****.************...********9998.99**********..................*66.66.78899..............................9.................******************************
+003|CT573326/489886-490028              TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCACcAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 003|CT573326/489886-490028      PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+004|CT573326/696354-696496              TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCACcAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 004|CT573326/696354-696496      PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+005|CT573326/1375399-1375541            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCACcAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 005|CT573326/1375399-1375541    PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+006|CT573326/3800821-3800679            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCACcAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 006|CT573326/3800821-3800679    PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+007|CP002870/512520-512662              CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCACaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 007|CP002870/512520-512662      PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+008|CP002870/684334-684476              CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCACaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 008|CP002870/684334-684476      PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+009|CP002870/2066809-2066951            CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCACaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 009|CP002870/2066809-2066951    PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+010|CP002870/4651121-4650979            CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCACaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 010|CP002870/4651121-4650979    PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+011|CP002870/5114811-5114669            CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCACaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 011|CP002870/5114811-5114669    PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+012|Pseudomonas/4525057-4524915         CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCACaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 012|Pseudomonas/4525057-4524915 PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+013|Pseudomonas/5004791-5004649         CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCACaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 013|Pseudomonas/5004791-5004649 PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+014|CP000949/5621948-5621806            CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAGaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 014|CP000949/5621948-5621806    PP 699********************************.**********.***99************...*************************..................***.**.*****..............................*.................******************************
+015|CP000712/539690-539832              TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 015|CP000712/539690-539832      PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+016|CP000712/3914925-3914783            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 016|CP000712/3914925-3914783    PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+017|CP000712/5076551-5076409            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 017|CP000712/5076551-5076409    PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+018|Pseudomonas/2849974-2850116         TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 018|Pseudomonas/2849974-2850116 PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+019|Pseudomonas/3192582-3192724         TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 019|Pseudomonas/3192582-3192724 PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+020|Pseudomonas/4002476-4002618         TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 020|Pseudomonas/4002476-4002618 PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+021|Pseudomonas/1788475-1788333         TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 021|Pseudomonas/1788475-1788333 PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+022|AE015451/2548525-2548667            CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 022|AE015451/2548525-2548667    PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+023|AE015451/5312841-5312699            CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 023|AE015451/5312841-5312699    PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+024|CP000949/5041925-5041783            CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 024|CP000949/5041925-5041783    PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+025|CP000949/5256262-5256120            CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 025|CP000949/5256262-5256120    PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+026|CP002290/1354754-1354896            CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 026|CP002290/1354754-1354896    PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+027|Pseudomonas/2031211-2031353         CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 027|Pseudomonas/2031211-2031353 PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+028|Pseudomonas/674738-674596           CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 028|Pseudomonas/674738-674596   PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+029|CP000712/184977-185119              TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 029|CP000712/184977-185119      PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+030|CP000712/717019-717161              TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 030|CP000712/717019-717161      PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+031|CP000926/183473-183615              TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 031|CP000926/183473-183615      PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+032|CP000926/188880-189022              TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 032|CP000926/188880-189022      PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+033|CP000926/542489-542631              TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 033|CP000926/542489-542631      PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+034|CP000926/731375-731517              TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 034|CP000926/731375-731517      PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+035|CP000926/4767554-4767412            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 035|CP000926/4767554-4767412    PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+036|CP000926/5221642-5221500            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 036|CP000926/5221642-5221500    PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+037|Pseudomonas/246062-246204           TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 037|Pseudomonas/246062-246204   PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+038|Pseudomonas/251469-251611           TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 038|Pseudomonas/251469-251611   PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+039|Pseudomonas/626071-626213           TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 039|Pseudomonas/626071-626213   PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+040|Pseudomonas/801315-801457           TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 040|Pseudomonas/801315-801457   PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+041|Pseudomonas/3369888-3370030         TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 041|Pseudomonas/3369888-3370030 PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+042|AE015451/176655-176797              CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 042|AE015451/176655-176797      PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+043|AE015451/697660-697802              CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 043|AE015451/697660-697802      PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+044|CP002290/205548-205690              CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 044|CP002290/205548-205690      PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+045|CP002290/733142-733284              CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 045|CP002290/733142-733284      PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+046|CP002290/3822767-3822625            CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 046|CP002290/3822767-3822625    PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+047|CP002290/4884934-4884792            CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 047|CP002290/4884934-4884792    PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+048|CP002870/131370-131512              CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 048|CP002870/131370-131512      PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+049|CP000949/1294598-1294740            CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCATaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 049|CP000949/1294598-1294740    PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+050|Pseudomonas/4256294-4256436         CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 050|Pseudomonas/4256294-4256436 PP 589********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+051|CP000680/1141835-1141975            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGGTA.AGACTGGTAG.TCGA.CTGATTATCAGC...ATCACAAGTAAC-ACTCGTGAATTC..................GAG.AG.TTTAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 051|CP000680/1141835-1141975    PP 79*********************************.**********.****.************...********9998.99**********..................*66.66.78899..............................9.................******************************
+052|CP000680/2193112-2193252            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGGTA.AGACTGGTAG.TCGA.CTGATTATCAGC...ATCACAAGTAAC-ACTCGTGAATTC..................GAG.AG.TTTAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 052|CP000680/2193112-2193252    PP 79*********************************.**********.****.************...********9998.99**********..................*66.66.78899..............................9.................******************************
+053|CP000680/4313448-4313308            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGGTA.AGACTGGTAG.TCGA.CTGATTATCAGC...ATCACAAGTAAC-ACTCGTGAATTC..................GAG.AG.TTTAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 053|CP000680/4313448-4313308    PP 79*********************************.**********.****.************...********9998.99**********..................*66.66.78899..............................9.................******************************
+054|CP000680/4854675-4854535            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGGGTA.AGACTGATAG.TCGA.CTGATTATCAGC...ATCACAAGTAAC-ACTCGTGAATTC..................GAG.AG.TTTAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 054|CP000680/4854675-4854535    PP 79*********************************.**********.****.************...********9998.99**********..................*66.66.78899..............................9.................******************************
+055|AE015451/171225-171367              CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAT.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 055|AE015451/171225-171367      PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+056|CP000949/5616507-5616365            CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAT.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 056|CP000949/5616507-5616365    PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+057|CP002290/200118-200260              CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAT.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 057|CP002290/200118-200260      PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+058|CT573326/115345-115487              TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGGCTGATAG.TCACcAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 058|CT573326/115345-115487      PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+059|CT573326/2739167-2739309            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGGCTGATAG.TCACcAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 059|CT573326/2739167-2739309    PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+060|CT573326/5003837-5003695            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGGCTGATAG.TCACcAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 060|CT573326/5003837-5003695    PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+061|AE015451/524785-524927              CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAT.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 061|AE015451/524785-524927      PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+062|CP002290/548059-548201              CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAT.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 062|CP002290/548059-548201      PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+063|Pseudomonas/4993840-4993698         TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAT.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACG.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 063|Pseudomonas/4993840-4993698 PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+064|AE015451/1325339-1325481            CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAT.GGGCTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 064|AE015451/1325339-1325481    PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+065|CP000949/839540-839682              CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAT.GGTCTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 065|CP000949/839540-839682      PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+066|CP000949/3781102-3780960            CGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAT.GGTCTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGACCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 066|CP000949/3781102-3780960    PP 699********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+067|CP000712/1342666-1342808            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTAT
+#=GR 067|CP000712/1342666-1342808    PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+068|CP002727/239370-239510              TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTTA.AGACTGACAGaTCGC.AAGATTATCAGC...ATCACAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 068|CP002727/239370-239510      PP 79*********************************.******998658999.************...********9998.99**********..................*.9.**.*****..............................*.................******************************
+069|CP002727/691435-691575              TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTTA.AGACTGACAGaTCGC.AAGATTATCAGC...ATCACAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 069|CP002727/691435-691575      PP 79*********************************.******998658999.************...********9998.99**********..................*.9.**.*****..............................*.................******************************
+070|CP002727/936776-936916              TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTTA.AGACTGACAGaTCGC.AAGATTATCAGC...ATCACAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 070|CP002727/936776-936916      PP 79*********************************.******998658999.************...********9998.99**********..................*.9.**.*****..............................*.................******************************
+071|CP002727/2803941-2803801            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAGTTA.AGACTGACAGaTCGC.AAGATTATCAGC...ATCACAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 071|CP002727/2803941-2803801    PP 79*********************************.******998658999.************...********9998.99**********..................*.9.**.*****..............................*.................******************************
+072|Pseudomonas/961965-962131           TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATGG.TCAGcAAGATTATCAGC...ATCACAATGTACTCAACGAGAAATC..................ATT.GA.GTGCTcttctggaggtt......ctccggaagagaT.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 072|Pseudomonas/961965-962131   PP 79*********************************.**********.***99************...*************************..................***.**.*9998555566666665......5555555555555.................******************************
+073|Pseudomonas/2652310-2652144         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATGG.TCAGcAAGATTATCAGC...ATCACAATGTACTCAACGAGAAATC..................ATT.GA.GTGCTcttctggaggtt......ctccggaagagaT.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 073|Pseudomonas/2652310-2652144 PP 79*********************************.**********.***99************...*************************..................***.**.*9998555566666665......5555555555555.................******************************
+074|Pseudomonas/679520-679686           TGAATCAAGCAATTCGTGTGGGTGCTTGTGAAGTC.AGACTGATGG.TCAGcAAGATTATCAGC...ATCACAATGTACTCAACGAGAAATC..................ATT.GA.GTGCTcttctggaggtt......ctccggaagagaT.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 074|Pseudomonas/679520-679686   PP 79*********************************.**********.***99************...*************************..................***.**.*9998555566666665......5555555555555.................******************************
+075|CP000926/2092574-2092716            TGAATCAAGTAATTCGTGTGGGTGCTTGTGAGTAC.GGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTGGCCATGCGAGAAATC..................ACA.TA.GTCAT..............................T.................TGAGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 075|CP000926/2092574-2092716    PP 799********************************.**********.****9************...*************************..................***.**.*****..............................*.................******************************
+076|Pseudomonas/3874107-3873969         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGGGTC.AGACTGCTAG.TCAA.CAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 076|Pseudomonas/3874107-3873969 PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+077|CP002585/182326-182464              TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGCTAG.TCAA.CAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 077|CP002585/182326-182464      PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+078|CP002585/4846628-4846490            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGCTAG.TCAA.CAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 078|CP002585/4846628-4846490    PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+079|CP002585/5809489-5809351            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGCTAG.TCAA.CAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 079|CP002585/5809489-5809351    PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+080|CP002585/6173282-6173144            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGCTAG.TCAA.CAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 080|CP002585/6173282-6173144    PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+081|CP003150/165750-165888              TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGCTAG.TCAA.CAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 081|CP003150/165750-165888      PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+082|CP003150/844876-845014              TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGCTAG.TCAA.CAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 082|CP003150/844876-845014      PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+083|CP003150/2107247-2107385            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGCTAG.TCAA.CAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 083|CP003150/2107247-2107385    PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+084|CP003150/5766612-5766474            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGCTAG.TCAA.CAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 084|CP003150/5766612-5766474    PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+085|CP003150/6155380-6155242            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGCTAG.TCAA.CAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 085|CP003150/6155380-6155242    PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+086|Pseudomonas/111024-111162           TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGCTAG.TCAA.CAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 086|Pseudomonas/111024-111162   PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+087|Pseudomonas/1768530-1768668         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGCTAG.TCAA.CAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 087|Pseudomonas/1768530-1768668 PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+088|Pseudomonas/689975-690113           TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGCTAG.TCAA.CAGATTATCAGC...ATCGCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 088|Pseudomonas/689975-690113   PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+089|Pseudomonas/1080396-1080534         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGCTAG.TCAA.CAGATTATCAGC...ATCGCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 089|Pseudomonas/1080396-1080534 PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+090|Pseudomonas/5287806-5287668         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGCTAG.TCAA.CAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 090|Pseudomonas/5287806-5287668 PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+091|Pseudomonas/5596311-5596173         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGCTAG.TCAA.CAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 091|Pseudomonas/5596311-5596173 PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+092|CP000438/6317823-6317668            CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 092|CP000438/6317823-6317668    PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+093|AE004091/6044904-6044749            CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 093|AE004091/6044904-6044749    PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+094|CP000076/122663-122802              TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 094|CP000076/122663-122802      PP 79*********************************.**********.****9************...*************************..................***.99999***..............................*.................******************************
+095|CP000076/853904-854043              TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 095|CP000076/853904-854043      PP 79*********************************.**********.****9************...*************************..................***.99999***..............................*.................******************************
+096|CP000076/4815329-4815190            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 096|CP000076/4815329-4815190    PP 79*********************************.**********.****9************...*************************..................***.99999***..............................*.................******************************
+097|CP000076/6014281-6014142            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 097|CP000076/6014281-6014142    PP 79*********************************.**********.****9************...*************************..................***.99999***..............................*.................******************************
+098|CP000076/6388101-6387962            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAaAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 098|CP000076/6388101-6387962    PP 79*********************************.**********.****9************...*************************..................***.99999***..............................*.................******************************
+099|Pseudomonas/3697307-3697141         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATGG.TCAGcAAGATTATCAGC...ATCACAATGTACTCAGCGAGAAATC..................ATT.GA.GTGCTcttctggaggtt......ctccggaagagaT.................TGCGATTGCTGAGCCAGGTTTAGGGTTTTC
+#=GR 099|Pseudomonas/3697307-3697141 PP 79*********************************.**********.***99************...*************************..................***.**.*9998555566666665......5555555555555.................******************************
+100|CP002585/844486-844624              TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGGCTGCTAG.TCAA.CAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 100|CP002585/844486-844624      PP 79*********************************.**********.****.************...*************************..................***.99999***..............................*.................******************************
+101|CP000744/806941-807081              CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACACAAGTAACTC--TGTGAATTC..................ACAaGA.GTTAA..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 101|CP000744/806941-807081      PP 699********************************.**********.****.************...*********99976..578899999..................865378.*****..............................*.................******************************
+102|CP000744/4988224-4988084            CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACACAAGTAACTC--TGTGAATTC..................ACAaGA.GTTAA..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 102|CP000744/4988224-4988084    PP 699********************************.**********.****.************...*********99976..578899999..................865378.*****..............................*.................******************************
+103|CP000744/5571540-5571400            CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACACAAGTAACTC--TGTGAATTC..................ACAaGA.GTTAA..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 103|CP000744/5571540-5571400    PP 699********************************.**********.****.************...*********99976..578899999..................865378.*****..............................*.................******************************
+104|CP000744/6358776-6358636            CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACACAAGTAACTC--TGTGAATTC..................ACAaGA.GTTAA..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 104|CP000744/6358776-6358636    PP 699********************************.**********.****.************...*********99976..578899999..................865378.*****..............................*.................******************************
+105|CP002496/699057-699212              TGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 105|CP002496/699057-699212      PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+106|CP002496/4832875-4832720            TGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 106|CP002496/4832875-4832720    PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+107|CP002496/6099763-6099608            TGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 107|CP002496/6099763-6099608    PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+108|AE004091/721936-722091              CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 108|AE004091/721936-722091      PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+109|AE004091/4793892-4793737            CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 109|AE004091/4793892-4793737    PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+110|CP000438/4957338-4957183            CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 110|CP000438/4957338-4957183    PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+111|CP002496/5322322-5322167            CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 111|CP002496/5322322-5322167    PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+112|FM209186/699192-699347              CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 112|FM209186/699192-699347      PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+113|FM209186/5133608-5133453            CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 113|FM209186/5133608-5133453    PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+114|FM209186/5603243-5603088            CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 114|FM209186/5603243-5603088    PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+115|FM209186/6380849-6380694            CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 115|FM209186/6380849-6380694    PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+116|Pseudomonas/694099-694254           CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 116|Pseudomonas/694099-694254   PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+117|Pseudomonas/699021-699176           CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 117|Pseudomonas/699021-699176   PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+118|Pseudomonas/4802391-4802236         CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 118|Pseudomonas/4802391-4802236 PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+119|Pseudomonas/4836356-4836201         CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 119|Pseudomonas/4836356-4836201 PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+120|Pseudomonas/5370852-5370697         CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 120|Pseudomonas/5370852-5370697 PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+121|Pseudomonas/5415681-5415526         CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 121|Pseudomonas/5415681-5415526 PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+122|Pseudomonas/6181880-6181725         CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 122|Pseudomonas/6181880-6181725 PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+123|Pseudomonas/6201268-6201113         CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 123|Pseudomonas/6201268-6201113 PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+124|CP002620/3044700-3044560            TGAGTCAAGCAATTCGTGTGGGTGCTTGTGAGGTA.AGACTGATAG.TCAA.CTGATTATCGGC...ATCACAAGTAAC-ACTCGTGAATTC..................GAG.AG.TTTAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 124|CP002620/3044700-3044560    PP 6899*******************************.**********.****.************...********9998.99**********..................*66.66.78899..............................9.................******************************
+125|AP012280/1450148-1450303            CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AGCGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 125|AP012280/1450148-1450303    PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+126|AP012280/5920107-5919952            CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AGCGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 126|AP012280/5920107-5919952    PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+127|AP012280/6536326-6536171            CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AGCGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 127|AP012280/6536326-6536171    PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+128|CP000438/732926-733081              CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AGCGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 128|CP000438/732926-733081      PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+129|Pseudomonas/5506741-5506879         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GA.ATAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 129|Pseudomonas/5506741-5506879 PP 79*********************************.**********.***99************...*************************..................***.**.*****..............................*.................******************************
+130|Pseudomonas/1279138-1279276         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GA.ATAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 130|Pseudomonas/1279138-1279276 PP 79*********************************.**********.***99************...*************************..................***.**.*****..............................*.................******************************
+131|Pseudomonas/3809989-3809851         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GA.ATAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 131|Pseudomonas/3809989-3809851 PP 79*********************************.**********.***99************...*************************..................***.**.*****..............................*.................******************************
+132|Pseudomonas/4138397-4138259         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GA.ATAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 132|Pseudomonas/4138397-4138259 PP 79*********************************.**********.***99************...*************************..................***.**.*****..............................*.................******************************
+133|AM181176/768383-768522              TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAGcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 133|AM181176/768383-768522      PP 79*********************************.**********.***99************...*************************..................***.99999***..............................*.................******************************
+134|AM181176/119571-119710              TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 134|AM181176/119571-119710      PP 79*********************************.**********.***99************...*************************..................***.99999***..............................*.................******************************
+135|AM181176/6073863-6073724            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 135|AM181176/6073863-6073724    PP 79*********************************.**********.***99************...*************************..................***.99999***..............................*.................******************************
+136|CP000094/121319-121458              TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 136|CP000094/121319-121458      PP 79*********************************.**********.***99************...*************************..................***.99999***..............................*.................******************************
+137|CP000094/802880-803019              TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 137|CP000094/802880-803019      PP 79*********************************.**********.***99************...*************************..................***.99999***..............................*.................******************************
+138|CP000094/2549382-2549521            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 138|CP000094/2549382-2549521    PP 79*********************************.**********.***99************...*************************..................***.99999***..............................*.................******************************
+139|CP000094/4421879-4421740            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 139|CP000094/4421879-4421740    PP 79*********************************.**********.***99************...*************************..................***.99999***..............................*.................******************************
+140|CP000094/5731708-5731569            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 140|CP000094/5731708-5731569    PP 79*********************************.**********.***99************...*************************..................***.99999***..............................*.................******************************
+141|Pseudomonas/119660-119799           TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 141|Pseudomonas/119660-119799   PP 79*********************************.**********.***99************...*************************..................***.99999***..............................*.................******************************
+142|Pseudomonas/766544-766683           TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 142|Pseudomonas/766544-766683   PP 79*********************************.**********.***99************...*************************..................***.99999***..............................*.................******************************
+143|Pseudomonas/2134823-2134962         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 143|Pseudomonas/2134823-2134962 PP 79*********************************.**********.***99************...*************************..................***.99999***..............................*.................******************************
+144|Pseudomonas/4480096-4479957         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 144|Pseudomonas/4480096-4479957 PP 79*********************************.**********.***99************...*************************..................***.99999***..............................*.................******************************
+145|Pseudomonas/4967300-4967161         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 145|Pseudomonas/4967300-4967161 PP 79*********************************.**********.***99************...*************************..................***.99999***..............................*.................******************************
+146|Pseudomonas/5323043-5322904         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 146|Pseudomonas/5323043-5322904 PP 79*********************************.**********.***99************...*************************..................***.99999***..............................*.................******************************
+147|AM181176/2234778-2234917            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 147|AM181176/2234778-2234917    PP 799********************************.**********.***99************...*************************..................***.99999***..............................*.................******************************
+148|AM181176/5722408-5722269            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 148|AM181176/5722408-5722269    PP 799********************************.**********.***99************...*************************..................***.99999***..............................*.................******************************
+149|CP000304/866544-866703              TGAATCAAGCAATTCGTGTGGGTGCTTGTGAATGTaAGACTGGTAG.TCGC.AAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagtta.ctctttctaGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 149|CP000304/866544-866703      PP 79****************************9987769*********.****.************...*************************44444444.444444444334.44.44555..............................7.................******************************
+150|CP000304/2535957-2535798            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAATGTaAGACTGGTAG.TCGC.AAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagtta.ctctttctaGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 150|CP000304/2535957-2535798    PP 79****************************9987769*********.****.************...*************************44444444.444444444334.44.44555..............................7.................******************************
+151|CP002622/1793266-1793425            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAATGTaAGACTGGTAG.TCGC.AAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagtta.ctctttctaGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 151|CP002622/1793266-1793425    PP 79****************************9987769*********.****.************...*************************44444444.444444444334.44.44555..............................7.................******************************
+152|CP002622/2526280-2526121            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAATGTaAGACTGGTAG.TCGC.AAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagtta.ctctttctaGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 152|CP002622/2526280-2526121    PP 79****************************9987769*********.****.************...*************************44444444.444444444334.44.44555..............................7.................******************************
+153|CP002622/3617696-3617537            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAATGTaAGACTGGTAG.TCGC.AAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagtta.ctctttctaGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 153|CP002622/3617696-3617537    PP 79****************************9987769*********.****.************...*************************44444444.444444444334.44.44555..............................7.................******************************
+154|CP002881/719295-719454              TGAATCAAGCAATTCGTGTGGGTGCTTGTGAATGTaAGACTGGTAG.TCGC.AAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagtta.ctctttctaGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 154|CP002881/719295-719454      PP 79****************************9987769*********.****.************...*************************44444444.444444444334.44.44555..............................7.................******************************
+155|CP002881/1648679-1648838            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAATGTaAGACTGGTAG.TCGC.AAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagtta.ctctttctaGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 155|CP002881/1648679-1648838    PP 79****************************9987769*********.****.************...*************************44444444.444444444334.44.44555..............................7.................******************************
+156|CP002881/2365177-2365018            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAATGTaAGACTGGTAG.TCGC.AAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagtta.ctctttctaGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 156|CP002881/2365177-2365018    PP 79****************************9987769*********.****.************...*************************44444444.444444444334.44.44555..............................7.................******************************
+157|CP002881/3529018-3528859            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAATGTaAGACTGGTAG.TCGC.AAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagtta.ctctttctaGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 157|CP002881/3529018-3528859    PP 79****************************9987769*********.****.************...*************************44444444.444444444334.44.44555..............................7.................******************************
+158|AE004091/5269420-5269265            CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAG-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 158|AE004091/5269420-5269265    PP 699********************************.**********.****.************...*******99877.9***********..................9.8.99.98877..............................444555555.555555559*****************************
+159|Pseudomonas/4900143-4900281         TGAATCAAGCAATTCGTGTGGGTGCTTGTGTAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GA.ATAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 159|Pseudomonas/4900143-4900281 PP 79*********************************.**********.***99************...*************************..................***.**.*****..............................*.................******************************
+160|AP012280/974829-974984              CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AGCGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTCTAGGGTTTTC
+#=GR 160|AP012280/974829-974984      PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+161|CP000438/5541352-5541197            CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGGTGA.TCGC.AAGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................Atctctttt.taagagaaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 161|CP000438/5541352-5541197    PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98877..............................444555555.555555559*****************************
+162|Pseudomonas/4666720-4666564         CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGATGA.TCGA.CTGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................AgctcattaaattgagcaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 162|Pseudomonas/4666720-4666564 PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98887..............................4444555555555555559*****************************
+163|CP002622/779686-779845              TGAATCAAGCAATTCGTGTGGGTGCTTGTGAATGTaAGGCTGGTAG.TCGC.AAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagtta.ctctttctaGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 163|CP002622/779686-779845      PP 79****************************9987769*********.****.************...*************************44444444.444444444334.44.44555..............................7.................******************************
+164|CP000094/5398436-5398297            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGAGTC.AGACTGATAG.TCAAcAAGATTATCAGC...ATCACAAGTTACTCCGCGAGAAATC..................AAA.GAtTTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTCT
+#=GR 164|CP000094/5398436-5398297    PP 79*********************************.**********.***99************...*************************..................*99.99556678..............................8.................99****************************
+165|AE016853/6219301-6219164            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGTGTC.AGACTGA-AG.TCAG.CAGATTATCAGC...AACCCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 165|AE016853/6219301-6219164    PP 79*********************************.******9.77.****.************...*************************..................***.99999***..............................*.................******************************
+166|CP000304/3519178-3519005            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAATGTaAGACTGATGG.TCAGtAAGATTATCAGC...ATCACAATGTGCTCAACGAGAAATC..................ATT.GA.GTGCTcttcttaagaagtgattcttttagaagagaT.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 166|CP000304/3519178-3519005    PP 79****************************9987769*********.****9************...*************************..................***.**.*99985556666666666665555555555555555.................******************************
+167|AE016853/666579-666716              TGAATCAAGCAATTCGTGTGGGTGCTTGTGGTGTC.AGACTGA-AG.TCAA.CAGATTATCAGC...AACCCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 167|AE016853/666579-666716      PP 79*********************************.******9.77.****.************...*************************..................***.99999***..............................*.................******************************
+168|AE016853/827393-827530              TGAATCAAGCAATTCGTGTGGGTGCTTGTGGTGTC.AGACTGA-AG.TCAA.CAGATTATCAGC...AACCCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 168|AE016853/827393-827530      PP 79*********************************.******9.77.****.************...*************************..................***.99999***..............................*.................******************************
+169|AE016853/1071930-1072067            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGTGTC.AGACTGA-AG.TCAA.CAGATTATCAGC...AACCCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 169|AE016853/1071930-1072067    PP 79*********************************.******9.77.****.************...*************************..................***.99999***..............................*.................******************************
+170|AE016853/3874830-3874693            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGTGTC.AGACTGA-AG.TCAA.CAGATTATCAGC...AACCCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 170|AE016853/3874830-3874693    PP 79*********************************.******9.77.****.************...*************************..................***.99999***..............................*.................******************************
+171|CP000075/771947-772084              TGAATCAAGCAATTCGTGTGGGTGCTTGTGGTGTC.AGACTGA-AG.TCAA.CAGATTATCAGC...AACCCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 171|CP000075/771947-772084      PP 79*********************************.******9.77.****.************...*************************..................***.99999***..............................*.................******************************
+172|CP000075/964537-964674              TGAATCAAGCAATTCGTGTGGGTGCTTGTGGTGTC.AGACTGA-AG.TCAA.CAGATTATCAGC...AACCCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 172|CP000075/964537-964674      PP 79*********************************.******9.77.****.************...*************************..................***.99999***..............................*.................******************************
+173|CP000075/3852826-3852689            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGTGTC.AGACTGA-AG.TCAA.CAGATTATCAGC...AACCCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 173|CP000075/3852826-3852689    PP 79*********************************.******9.77.****.************...*************************..................***.99999***..............................*.................******************************
+174|CP000075/5428413-5428276            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGTGTC.AGACTGA-AG.TCAA.CAGATTATCAGC...AACCCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 174|CP000075/5428413-5428276    PP 79*********************************.******9.77.****.************...*************************..................***.99999***..............................*.................******************************
+175|CP000075/5953335-5953198            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGTGTC.AGACTGA-AG.TCAA.CAGATTATCAGC...AACCCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAAC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 175|CP000075/5953335-5953198    PP 79*********************************.******9.77.****.************...*************************..................***.99999***..............................*.................******************************
+176|CP000058/5784512-5784375            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGTGTC.AGACTGA-AG.TCAA.CAGATTATCAGC...AACCCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAGC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 176|CP000058/5784512-5784375    PP 79*********************************.******9.77.****.************...*************************..................***.99999999..............................*.................******************************
+177|Pseudomonas/592998-593154           CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGATGA.TCGA.CTGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................AgctcattaaattgagcaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 177|Pseudomonas/592998-593154   PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98887..............................4445555555555555559*****************************
+178|Pseudomonas/5466640-5466484         CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGATGA.TCGA.CTGATTATCAGC...AACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................AgctcattaaattgagcaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 178|Pseudomonas/5466640-5466484 PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98887..............................4445555555555555559*****************************
+179|CP000058/803853-803990              TGAATCAAGCAATTCGTGTGGGTGCTTGTGGTGTC.AGACTGA-AG.TCAA.CAGATTATCAGC...AACCCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAGC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 179|CP000058/803853-803990      PP 79*********************************.******9.77.****.************...*************************..................***.99999999..............................*.................******************************
+180|CP000058/1048588-1048725            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGTGTC.AGACTGA-AG.TCAA.CAGATTATCAGC...AACCCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAGC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 180|CP000058/1048588-1048725    PP 79*********************************.******9.77.****.************...*************************..................***.99999999..............................*.................******************************
+181|CP000058/3636842-3636705            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGTGTC.AGACTGA-AG.TCAA.CAGATTATCAGC...AACCCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAGC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 181|CP000058/3636842-3636705    PP 79*********************************.******9.77.****.************...*************************..................***.99999999..............................*.................******************************
+182|CP000058/5252383-5252246            TGAATCAAGCAATTCGTGTGGGTGCTTGTGGTGTC.AGACTGA-AG.TCAA.CAGATTATCAGC...AACCCAAGTTACTCCGCGAGAAATC..................AAA.GAtGTAGC..............................C.................AACGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 182|CP000058/5252383-5252246    PP 79*********************************.******9.77.****.************...*************************..................***.99999999..............................*.................******************************
+183|Pseudomonas/2646583-2646739         CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGATGA.TCGA.CTGATTATCAGC...AGCGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................AgctcattaaattgagcaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 183|Pseudomonas/2646583-2646739 PP 699********************************.**********.****.************...********9998.99**********..................9.8.99.98887..............................4444555555555555559*****************************
+184|CP000304/1796914-1797073            TGAATCAAGCAATTCGTGTGGGTGCTTGTGAATGTaAGATTGGTAG.TCGC.AAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagtta.ctctttctaGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 184|CP000304/1796914-1797073    PP 79****************************9987769*********.****.************...*************************44444444.444444444334.44.44555..............................7.................******************************
+185|Pseudomonas/986846-987007           TGAATCAAGCAATTCGTGTGGGTGCTTGTGGATGTaAGACTGATGG.TCAGaTAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagttactctttacttGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 185|Pseudomonas/986846-987007   PP 79***************************99877669*********.***999***********...*************************444444444444444444334.44.44455..............................7.................******************************
+186|Pseudomonas/1982829-1982990         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGATGTaAGACTGATGG.TCAGaTAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagttactctttacttGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 186|Pseudomonas/1982829-1982990 PP 79***************************99877669*********.***999***********...*************************444444444444444444334.44.44455..............................7.................******************************
+187|Pseudomonas/2705955-2705794         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGATGTaAGACTGATGG.TCAGaTAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagttactctttacttGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 187|Pseudomonas/2705955-2705794 PP 79***************************99877669*********.***999***********...*************************444444444444444444334.44.44455..............................7.................******************************
+188|Pseudomonas/3908166-3908005         TGAATCAAGCAATTCGTGTGGGTGCTTGTGGATGTaAGACTGATGG.TCAGaTAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagttactctttacttGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 188|Pseudomonas/3908166-3908005 PP 79***************************99877669*********.***999***********...*************************444444444444444444334.44.44455..............................7.................******************************
+189|Pseudomonas/1127902-1128063         TGAATCAAGCAATTCGTGTGGGTGCTTGTGAATGTaAGACTGATGG.TCAGaTAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagttactctttacttGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 189|Pseudomonas/1127902-1128063 PP 79****************************9987769*********.***999***********...*************************444444444444444444334.44.44455..............................7.................******************************
+190|Pseudomonas/2121619-2121780         TGAATCAAGCAATTCGTGTGGGTGCTTGTGAATGTaAGACTGATGG.TCAGaTAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagttactctttacttGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 190|Pseudomonas/2121619-2121780 PP 79****************************9987769*********.***999***********...*************************444444444444444444334.44.44455..............................7.................******************************
+191|Pseudomonas/2878402-2878241         TGAATCAAGCAATTCGTGTGGGTGCTTGTGAATGTaAGACTGATGG.TCAGaTAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagttactctttacttGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 191|Pseudomonas/2878402-2878241 PP 79****************************9987769*********.***999***********...*************************444444444444444444334.44.44455..............................7.................******************************
+192|Pseudomonas/3795990-3795829         TGAATCAAGCAATTCGTGTGGGTGCTTGTGAATGTaAGACTGATGG.TCAGaTAGATTATCAGC...ATCACAAAGCAACACTCGTTTATTCgagagttactctttacttGTA.AA.GAGAT..............................T.................TGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 192|Pseudomonas/3795990-3795829 PP 79****************************9987769*********.***999***********...*************************444444444444444444334.44.44455..............................7.................******************************
+193|Pseudomonas/2111845-2112004         CGAATCAAGCAATTCGTGTGGGTGCTTGTGATGTA.AGACTGATGA.TCGA.CTGATTATCAGCtttAACGCAAGTAAC-ACTCGTGAATTC..................G-A.GA.GTTTT..............................AgctcattaaattgagcaTGCGATTGCTGAGCCAAGTTTAGGGTTTTC
+#=GR 193|Pseudomonas/2111845-2112004 PP 699********************************.**********.****.***********97778899****9998.99**********..................9.8.99.98887..............................4444555555555555559*****************************
+194|Azotobacter/177286-177403           -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 194|Azotobacter/177286-177403   PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89*********************999876.
+195|Azotobacter/177286-177403           -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 195|Azotobacter/177286-177403   PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89*********************999876.
+196|Azotobacter/1377834-1377951         -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 196|Azotobacter/1377834-1377951 PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89*********************999876.
+197|Azotobacter/1377848-1377965         -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 197|Azotobacter/1377848-1377965 PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89*********************999876.
+198|Azotobacter/4675029-4674912         -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 198|Azotobacter/4675029-4674912 PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89*********************999876.
+199|Azotobacter/4675041-4674924         -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 199|Azotobacter/4675041-4674924 PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89*********************999876.
+200|CP001157/177286-177403              -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 200|CP001157/177286-177403      PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89*********************999876.
+201|CP001157/1377822-1377939            -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 201|CP001157/1377822-1377939    PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89*********************999876.
+202|CP001157/4675036-4674919            -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 202|CP001157/4675036-4674919    PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89*********************999876.
+203|Azotobacter/1909106-1909223         -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 203|Azotobacter/1909106-1909223 PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89********************9998876.
+204|Azotobacter/1909118-1909235         -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 204|Azotobacter/1909118-1909235 PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89********************9998876.
+205|Azotobacter/2842877-2842760         -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 205|Azotobacter/2842877-2842760 PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89********************9998876.
+206|Azotobacter/2842889-2842772         -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 206|Azotobacter/2842889-2842772 PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89********************9998876.
+207|Azotobacter/4281097-4280980         -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 207|Azotobacter/4281097-4280980 PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89********************9998876.
+208|Azotobacter/4281109-4280992         -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 208|Azotobacter/4281109-4280992 PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89********************9998876.
+209|CP001157/1909093-1909210            -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 209|CP001157/1909093-1909210    PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89********************9998876.
+210|CP001157/2842865-2842748            -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 210|CP001157/2842865-2842748    PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89********************9998876.
+211|CP001157/4281101-4280984            -GAATCAAGCAATTCGTGTGGGCGCTTGTGGC--A.AGCCTGGCA-.TCGC.AAGACAGTCAGC...AAGTCCAA--GCGACTCGTGAATTC..................A-T.GA.GTTA-..............................T.................GGCGATTGCTGAGCCAAGTTTGGGATCTT-
+#=GR 211|CP001157/4281101-4280984    PP .89**************************987..8.9*****987..****.************...***99998..667899*********..................9.8.99.9998...............................7.................89********************9998876.
+
+#=GC SS_cons                            .....(((((...((.....)).)))))...........(((((((.((.....)))))))))...................................................................................................................((((((...)))))).......
+
+000|CP002620/4254354-4254214            TCAAAACCCAAGCAG
+#=GR 000|CP002620/4254354-4254214    PP ************986
+001|CP002620/4720009-4719869            TCAAAACCCAAGCAG
+#=GR 001|CP002620/4720009-4719869    PP ************986
+002|CP002620/5209531-5209391            TCAAAACCCAAGCAG
+#=GR 002|CP002620/5209531-5209391    PP ************986
+003|CT573326/489886-490028              TAAAAACCCAAGCAG
+#=GR 003|CT573326/489886-490028      PP ************986
+004|CT573326/696354-696496              TAAAAACCCAAGCAG
+#=GR 004|CT573326/696354-696496      PP ************986
+005|CT573326/1375399-1375541            TAAAAACCCAAGCAG
+#=GR 005|CT573326/1375399-1375541    PP ************986
+006|CT573326/3800821-3800679            TAAAAACCCAAGCAG
+#=GR 006|CT573326/3800821-3800679    PP ************986
+007|CP002870/512520-512662              TAAAAACCCAAGCAG
+#=GR 007|CP002870/512520-512662      PP ************986
+008|CP002870/684334-684476              TAAAAACCCAAGCAG
+#=GR 008|CP002870/684334-684476      PP ************986
+009|CP002870/2066809-2066951            TAAAAACCCAAGCAG
+#=GR 009|CP002870/2066809-2066951    PP ************986
+010|CP002870/4651121-4650979            TAAAAACCCAAGCAG
+#=GR 010|CP002870/4651121-4650979    PP ************986
+011|CP002870/5114811-5114669            TAAAAACCCAAGCAG
+#=GR 011|CP002870/5114811-5114669    PP ************986
+012|Pseudomonas/4525057-4524915         TAAAAACCCAAGCAG
+#=GR 012|Pseudomonas/4525057-4524915 PP ************986
+013|Pseudomonas/5004791-5004649         TAAAAACCCAAGCAG
+#=GR 013|Pseudomonas/5004791-5004649 PP ************986
+014|CP000949/5621948-5621806            TAAAAACCCAAGCAG
+#=GR 014|CP000949/5621948-5621806    PP ************986
+015|CP000712/539690-539832              TAAAAACCCAAGCAG
+#=GR 015|CP000712/539690-539832      PP ************986
+016|CP000712/3914925-3914783            TAAAAACCCAAGCAG
+#=GR 016|CP000712/3914925-3914783    PP ************986
+017|CP000712/5076551-5076409            TAAAAACCCAAGCAG
+#=GR 017|CP000712/5076551-5076409    PP ************986
+018|Pseudomonas/2849974-2850116         TAAAAACCCAAGCAG
+#=GR 018|Pseudomonas/2849974-2850116 PP ************986
+019|Pseudomonas/3192582-3192724         TAAAAACCCAAGCAG
+#=GR 019|Pseudomonas/3192582-3192724 PP ************986
+020|Pseudomonas/4002476-4002618         TAAAAACCCAAGCAG
+#=GR 020|Pseudomonas/4002476-4002618 PP ************986
+021|Pseudomonas/1788475-1788333         TAAAAACCCAAGCAG
+#=GR 021|Pseudomonas/1788475-1788333 PP ************986
+022|AE015451/2548525-2548667            TAAAAACCCAAGCAG
+#=GR 022|AE015451/2548525-2548667    PP ************986
+023|AE015451/5312841-5312699            TAAAAACCCAAGCAG
+#=GR 023|AE015451/5312841-5312699    PP ************986
+024|CP000949/5041925-5041783            TAAAAACCCAAGCAG
+#=GR 024|CP000949/5041925-5041783    PP ************986
+025|CP000949/5256262-5256120            TAAAAACCCAAGCAG
+#=GR 025|CP000949/5256262-5256120    PP ************986
+026|CP002290/1354754-1354896            TAAAAACCCAAGCAG
+#=GR 026|CP002290/1354754-1354896    PP ************986
+027|Pseudomonas/2031211-2031353         TAAAAACCCAAGCAG
+#=GR 027|Pseudomonas/2031211-2031353 PP ************986
+028|Pseudomonas/674738-674596           TAAAAACCCAAGCAG
+#=GR 028|Pseudomonas/674738-674596   PP ************986
+029|CP000712/184977-185119              TAAAAACCCAAGCAG
+#=GR 029|CP000712/184977-185119      PP ************986
+030|CP000712/717019-717161              TAAAAACCCAAGCAG
+#=GR 030|CP000712/717019-717161      PP ************986
+031|CP000926/183473-183615              TAAAAACCCAAGCAG
+#=GR 031|CP000926/183473-183615      PP ************986
+032|CP000926/188880-189022              TAAAAACCCAAGCAG
+#=GR 032|CP000926/188880-189022      PP ************986
+033|CP000926/542489-542631              TAAAAACCCAAGCAG
+#=GR 033|CP000926/542489-542631      PP ************986
+034|CP000926/731375-731517              TAAAAACCCAAGCAG
+#=GR 034|CP000926/731375-731517      PP ************986
+035|CP000926/4767554-4767412            TAAAAACCCAAGCAG
+#=GR 035|CP000926/4767554-4767412    PP ************986
+036|CP000926/5221642-5221500            TAAAAACCCAAGCAG
+#=GR 036|CP000926/5221642-5221500    PP ************986
+037|Pseudomonas/246062-246204           TAAAAACCCAAGCAG
+#=GR 037|Pseudomonas/246062-246204   PP ************986
+038|Pseudomonas/251469-251611           TAAAAACCCAAGCAG
+#=GR 038|Pseudomonas/251469-251611   PP ************986
+039|Pseudomonas/626071-626213           TAAAAACCCAAGCAG
+#=GR 039|Pseudomonas/626071-626213   PP ************986
+040|Pseudomonas/801315-801457           TAAAAACCCAAGCAG
+#=GR 040|Pseudomonas/801315-801457   PP ************986
+041|Pseudomonas/3369888-3370030         TAAAAACCCAAGCAG
+#=GR 041|Pseudomonas/3369888-3370030 PP ************986
+042|AE015451/176655-176797              TAAAAACCCAAGCAG
+#=GR 042|AE015451/176655-176797      PP ************986
+043|AE015451/697660-697802              TAAAAACCCAAGCAG
+#=GR 043|AE015451/697660-697802      PP ************986
+044|CP002290/205548-205690              TAAAAACCCAAGCAG
+#=GR 044|CP002290/205548-205690      PP ************986
+045|CP002290/733142-733284              TAAAAACCCAAGCAG
+#=GR 045|CP002290/733142-733284      PP ************986
+046|CP002290/3822767-3822625            TAAAAACCCAAGCAG
+#=GR 046|CP002290/3822767-3822625    PP ************986
+047|CP002290/4884934-4884792            TAAAAACCCAAGCAG
+#=GR 047|CP002290/4884934-4884792    PP ************986
+048|CP002870/131370-131512              TAAAAACCCAAGCAG
+#=GR 048|CP002870/131370-131512      PP ************986
+049|CP000949/1294598-1294740            TAAAAACCCAAGCAG
+#=GR 049|CP000949/1294598-1294740    PP ************986
+050|Pseudomonas/4256294-4256436         TAAAAACCCAAGCAG
+#=GR 050|Pseudomonas/4256294-4256436 PP ************986
+051|CP000680/1141835-1141975            TCAAAACCCAAGCAG
+#=GR 051|CP000680/1141835-1141975    PP ************986
+052|CP000680/2193112-2193252            TCAAAACCCAAGCAG
+#=GR 052|CP000680/2193112-2193252    PP ************986
+053|CP000680/4313448-4313308            TCAAAACCCAAGCAG
+#=GR 053|CP000680/4313448-4313308    PP ************986
+054|CP000680/4854675-4854535            TCAAAACCCAAGCAG
+#=GR 054|CP000680/4854675-4854535    PP ************986
+055|AE015451/171225-171367              TAAAAACCCAAGCAG
+#=GR 055|AE015451/171225-171367      PP ************986
+056|CP000949/5616507-5616365            TAAAAACCCAAGCAG
+#=GR 056|CP000949/5616507-5616365    PP ************986
+057|CP002290/200118-200260              TAAAAACCCAAGCAG
+#=GR 057|CP002290/200118-200260      PP ************986
+058|CT573326/115345-115487              TAAAAACCCAAGCAG
+#=GR 058|CT573326/115345-115487      PP ************986
+059|CT573326/2739167-2739309            TAAAAACCCAAGCAG
+#=GR 059|CT573326/2739167-2739309    PP ************986
+060|CT573326/5003837-5003695            TAAAAACCCAAGCAG
+#=GR 060|CT573326/5003837-5003695    PP ************986
+061|AE015451/524785-524927              TAAAAACCCAAGCAG
+#=GR 061|AE015451/524785-524927      PP ************986
+062|CP002290/548059-548201              TAAAAACCCAAGCAG
+#=GR 062|CP002290/548059-548201      PP ************986
+063|Pseudomonas/4993840-4993698         TAAAAACCCAAGCAG
+#=GR 063|Pseudomonas/4993840-4993698 PP ************986
+064|AE015451/1325339-1325481            TAAAAACCCAAGCAG
+#=GR 064|AE015451/1325339-1325481    PP ************986
+065|CP000949/839540-839682              TAAAAACCCAAGCAG
+#=GR 065|CP000949/839540-839682      PP ************986
+066|CP000949/3781102-3780960            TAAAAACCCAAGCAG
+#=GR 066|CP000949/3781102-3780960    PP ************986
+067|CP000712/1342666-1342808            TAAAAACCCAAGCAG
+#=GR 067|CP000712/1342666-1342808    PP ************986
+068|CP002727/239370-239510              TCAAAACCCAAGCAG
+#=GR 068|CP002727/239370-239510      PP ************986
+069|CP002727/691435-691575              TCAAAACCCAAGCAG
+#=GR 069|CP002727/691435-691575      PP ************986
+070|CP002727/936776-936916              TCAAAACCCAAGCAG
+#=GR 070|CP002727/936776-936916      PP ************986
+071|CP002727/2803941-2803801            TCAAAACCCAAGCAG
+#=GR 071|CP002727/2803941-2803801    PP ************986
+072|Pseudomonas/961965-962131           TCAAAACCCAAGCAG
+#=GR 072|Pseudomonas/961965-962131   PP ************986
+073|Pseudomonas/2652310-2652144         TCAAAACCCAAGCAG
+#=GR 073|Pseudomonas/2652310-2652144 PP ************986
+074|Pseudomonas/679520-679686           TCAAAACCCAAGCAG
+#=GR 074|Pseudomonas/679520-679686   PP ************986
+075|CP000926/2092574-2092716            TAAAAACCCAAGCAG
+#=GR 075|CP000926/2092574-2092716    PP ************986
+076|Pseudomonas/3874107-3873969         TCAAAACCCAA----
+#=GR 076|Pseudomonas/3874107-3873969 PP ********986....
+077|CP002585/182326-182464              TCAAAACCCAA----
+#=GR 077|CP002585/182326-182464      PP ********986....
+078|CP002585/4846628-4846490            TCAAAACCCAA----
+#=GR 078|CP002585/4846628-4846490    PP ********986....
+079|CP002585/5809489-5809351            TCAAAACCCAA----
+#=GR 079|CP002585/5809489-5809351    PP ********986....
+080|CP002585/6173282-6173144            TCAAAACCCAA----
+#=GR 080|CP002585/6173282-6173144    PP ********986....
+081|CP003150/165750-165888              TCAAAACCCAA----
+#=GR 081|CP003150/165750-165888      PP ********986....
+082|CP003150/844876-845014              TCAAAACCCAA----
+#=GR 082|CP003150/844876-845014      PP ********986....
+083|CP003150/2107247-2107385            TCAAAACCCAA----
+#=GR 083|CP003150/2107247-2107385    PP ********986....
+084|CP003150/5766612-5766474            TCAAAACCCAA----
+#=GR 084|CP003150/5766612-5766474    PP ********986....
+085|CP003150/6155380-6155242            TCAAAACCCAA----
+#=GR 085|CP003150/6155380-6155242    PP ********986....
+086|Pseudomonas/111024-111162           TCAAAACCCAA----
+#=GR 086|Pseudomonas/111024-111162   PP ********986....
+087|Pseudomonas/1768530-1768668         TCAAAACCCAA----
+#=GR 087|Pseudomonas/1768530-1768668 PP ********986....
+088|Pseudomonas/689975-690113           TCAAAACCCAA----
+#=GR 088|Pseudomonas/689975-690113   PP ********986....
+089|Pseudomonas/1080396-1080534         TCAAAACCCAA----
+#=GR 089|Pseudomonas/1080396-1080534 PP ********986....
+090|Pseudomonas/5287806-5287668         TCAAAACCCAA----
+#=GR 090|Pseudomonas/5287806-5287668 PP ********986....
+091|Pseudomonas/5596311-5596173         TCAAAACCCAA----
+#=GR 091|Pseudomonas/5596311-5596173 PP ********986....
+092|CP000438/6317823-6317668            TCAAAACCCAAGCAG
+#=GR 092|CP000438/6317823-6317668    PP ************986
+093|AE004091/6044904-6044749            TCAAAACCCAAGCAG
+#=GR 093|AE004091/6044904-6044749    PP ************986
+094|CP000076/122663-122802              TCAAAACCCAA----
+#=GR 094|CP000076/122663-122802      PP ********986....
+095|CP000076/853904-854043              TCAAAACCCAA----
+#=GR 095|CP000076/853904-854043      PP ********986....
+096|CP000076/4815329-4815190            TCAAAACCCAA----
+#=GR 096|CP000076/4815329-4815190    PP ********986....
+097|CP000076/6014281-6014142            TCAAAACCCAA----
+#=GR 097|CP000076/6014281-6014142    PP ********986....
+098|CP000076/6388101-6387962            TCAAAACCCAA----
+#=GR 098|CP000076/6388101-6387962    PP ********986....
+099|Pseudomonas/3697307-3697141         TCAAAACCCAAGCAG
+#=GR 099|Pseudomonas/3697307-3697141 PP ************986
+100|CP002585/844486-844624              TCAAAACCCAA----
+#=GR 100|CP002585/844486-844624      PP ********986....
+101|CP000744/806941-807081              TCAAAACCCAAGCAG
+#=GR 101|CP000744/806941-807081      PP ************986
+102|CP000744/4988224-4988084            TCAAAACCCAAGCAG
+#=GR 102|CP000744/4988224-4988084    PP ************986
+103|CP000744/5571540-5571400            TCAAAACCCAAGCAG
+#=GR 103|CP000744/5571540-5571400    PP ************986
+104|CP000744/6358776-6358636            TCAAAACCCAAGCAG
+#=GR 104|CP000744/6358776-6358636    PP ************986
+105|CP002496/699057-699212              TCAAAACCCAAGCAG
+#=GR 105|CP002496/699057-699212      PP ************986
+106|CP002496/4832875-4832720            TCAAAACCCAAGCAG
+#=GR 106|CP002496/4832875-4832720    PP ************986
+107|CP002496/6099763-6099608            TCAAAACCCAAGCAG
+#=GR 107|CP002496/6099763-6099608    PP ************986
+108|AE004091/721936-722091              TCAAAACCCAAGCAG
+#=GR 108|AE004091/721936-722091      PP ************986
+109|AE004091/4793892-4793737            TCAAAACCCAAGCAG
+#=GR 109|AE004091/4793892-4793737    PP ************986
+110|CP000438/4957338-4957183            TCAAAACCCAAGCAG
+#=GR 110|CP000438/4957338-4957183    PP ************986
+111|CP002496/5322322-5322167            TCAAAACCCAAGCAG
+#=GR 111|CP002496/5322322-5322167    PP ************986
+112|FM209186/699192-699347              TCAAAACCCAAGCAG
+#=GR 112|FM209186/699192-699347      PP ************986
+113|FM209186/5133608-5133453            TCAAAACCCAAGCAG
+#=GR 113|FM209186/5133608-5133453    PP ************986
+114|FM209186/5603243-5603088            TCAAAACCCAAGCAG
+#=GR 114|FM209186/5603243-5603088    PP ************986
+115|FM209186/6380849-6380694            TCAAAACCCAAGCAG
+#=GR 115|FM209186/6380849-6380694    PP ************986
+116|Pseudomonas/694099-694254           TCAAAACCCAAGCAG
+#=GR 116|Pseudomonas/694099-694254   PP ************986
+117|Pseudomonas/699021-699176           TCAAAACCCAAGCAG
+#=GR 117|Pseudomonas/699021-699176   PP ************986
+118|Pseudomonas/4802391-4802236         TCAAAACCCAAGCAG
+#=GR 118|Pseudomonas/4802391-4802236 PP ************986
+119|Pseudomonas/4836356-4836201         TCAAAACCCAAGCAG
+#=GR 119|Pseudomonas/4836356-4836201 PP ************986
+120|Pseudomonas/5370852-5370697         TCAAAACCCAAGCAG
+#=GR 120|Pseudomonas/5370852-5370697 PP ************986
+121|Pseudomonas/5415681-5415526         TCAAAACCCAAGCAG
+#=GR 121|Pseudomonas/5415681-5415526 PP ************986
+122|Pseudomonas/6181880-6181725         TCAAAACCCAAGCAG
+#=GR 122|Pseudomonas/6181880-6181725 PP ************986
+123|Pseudomonas/6201268-6201113         TCAAAACCCAAGCAG
+#=GR 123|Pseudomonas/6201268-6201113 PP ************986
+124|CP002620/3044700-3044560            TCAAAACCCAAGCAG
+#=GR 124|CP002620/3044700-3044560    PP ************986
+125|AP012280/1450148-1450303            TCAAAACCCAAGCAG
+#=GR 125|AP012280/1450148-1450303    PP ************986
+126|AP012280/5920107-5919952            TCAAAACCCAAGCAG
+#=GR 126|AP012280/5920107-5919952    PP ************986
+127|AP012280/6536326-6536171            TCAAAACCCAAGCAG
+#=GR 127|AP012280/6536326-6536171    PP ************986
+128|CP000438/732926-733081              TCAAAACCCAAGCAG
+#=GR 128|CP000438/732926-733081      PP ************986
+129|Pseudomonas/5506741-5506879         TAAAAACCCAA----
+#=GR 129|Pseudomonas/5506741-5506879 PP ********986....
+130|Pseudomonas/1279138-1279276         TAAAAACCCAA----
+#=GR 130|Pseudomonas/1279138-1279276 PP ********986....
+131|Pseudomonas/3809989-3809851         TAAAAACCCAA----
+#=GR 131|Pseudomonas/3809989-3809851 PP ********986....
+132|Pseudomonas/4138397-4138259         TAAAAACCCAA----
+#=GR 132|Pseudomonas/4138397-4138259 PP ********986....
+133|AM181176/768383-768522              TAAAAACCCAA----
+#=GR 133|AM181176/768383-768522      PP ********986....
+134|AM181176/119571-119710              TAAAAACCCAA----
+#=GR 134|AM181176/119571-119710      PP ********986....
+135|AM181176/6073863-6073724            TAAAAACCCAA----
+#=GR 135|AM181176/6073863-6073724    PP ********986....
+136|CP000094/121319-121458              TAAAAACCCAA----
+#=GR 136|CP000094/121319-121458      PP ********986....
+137|CP000094/802880-803019              TAAAAACCCAA----
+#=GR 137|CP000094/802880-803019      PP ********986....
+138|CP000094/2549382-2549521            TAAAAACCCAA----
+#=GR 138|CP000094/2549382-2549521    PP ********986....
+139|CP000094/4421879-4421740            TAAAAACCCAA----
+#=GR 139|CP000094/4421879-4421740    PP ********986....
+140|CP000094/5731708-5731569            TAAAAACCCAA----
+#=GR 140|CP000094/5731708-5731569    PP ********986....
+141|Pseudomonas/119660-119799           TAAAAACCCAA----
+#=GR 141|Pseudomonas/119660-119799   PP ********986....
+142|Pseudomonas/766544-766683           TAAAAACCCAA----
+#=GR 142|Pseudomonas/766544-766683   PP ********986....
+143|Pseudomonas/2134823-2134962         TAAAAACCCAA----
+#=GR 143|Pseudomonas/2134823-2134962 PP ********986....
+144|Pseudomonas/4480096-4479957         TAAAAACCCAA----
+#=GR 144|Pseudomonas/4480096-4479957 PP ********986....
+145|Pseudomonas/4967300-4967161         TAAAAACCCAA----
+#=GR 145|Pseudomonas/4967300-4967161 PP ********986....
+146|Pseudomonas/5323043-5322904         TAAAAACCCAA----
+#=GR 146|Pseudomonas/5323043-5322904 PP ********986....
+147|AM181176/2234778-2234917            TAAAAACCCAA----
+#=GR 147|AM181176/2234778-2234917    PP ********986....
+148|AM181176/5722408-5722269            TAAAAACCCAA----
+#=GR 148|AM181176/5722408-5722269    PP ********986....
+149|CP000304/866544-866703              TCAAAACCCAAGCAG
+#=GR 149|CP000304/866544-866703      PP ************986
+150|CP000304/2535957-2535798            TCAAAACCCAAGCAG
+#=GR 150|CP000304/2535957-2535798    PP ************986
+151|CP002622/1793266-1793425            TCAAAACCCAAGCAG
+#=GR 151|CP002622/1793266-1793425    PP ************986
+152|CP002622/2526280-2526121            TCAAAACCCAAGCAG
+#=GR 152|CP002622/2526280-2526121    PP ************986
+153|CP002622/3617696-3617537            TCAAAACCCAAGCAG
+#=GR 153|CP002622/3617696-3617537    PP ************986
+154|CP002881/719295-719454              TCAAAACCCAAGCAG
+#=GR 154|CP002881/719295-719454      PP ************986
+155|CP002881/1648679-1648838            TCAAAACCCAAGCAG
+#=GR 155|CP002881/1648679-1648838    PP ************986
+156|CP002881/2365177-2365018            TCAAAACCCAAGCAG
+#=GR 156|CP002881/2365177-2365018    PP ************986
+157|CP002881/3529018-3528859            TCAAAACCCAAGCAG
+#=GR 157|CP002881/3529018-3528859    PP ************986
+158|AE004091/5269420-5269265            TCAAAACCCAAGCAG
+#=GR 158|AE004091/5269420-5269265    PP ************986
+159|Pseudomonas/4900143-4900281         TAAAAACCCAA----
+#=GR 159|Pseudomonas/4900143-4900281 PP ********986....
+160|AP012280/974829-974984              TCAAAACCCAAGCAG
+#=GR 160|AP012280/974829-974984      PP ************986
+161|CP000438/5541352-5541197            TCAAAACCCGAGCAG
+#=GR 161|CP000438/5541352-5541197    PP ***********9986
+162|Pseudomonas/4666720-4666564         TCAAAACCCAAGCAG
+#=GR 162|Pseudomonas/4666720-4666564 PP ************986
+163|CP002622/779686-779845              TCAAAACCCAAGCAG
+#=GR 163|CP002622/779686-779845      PP ************986
+164|CP000094/5398436-5398297            TAAAAACCCAA----
+#=GR 164|CP000094/5398436-5398297    PP ********986....
+165|AE016853/6219301-6219164            TCAAAACCCAG----
+#=GR 165|AE016853/6219301-6219164    PP ********986....
+166|CP000304/3519178-3519005            TCAAAACCCATGCAG
+#=GR 166|CP000304/3519178-3519005    PP ***********9986
+167|AE016853/666579-666716              TCAAAACCCAG----
+#=GR 167|AE016853/666579-666716      PP ********986....
+168|AE016853/827393-827530              TCAAAACCCAG----
+#=GR 168|AE016853/827393-827530      PP ********986....
+169|AE016853/1071930-1072067            TCAAAACCCAG----
+#=GR 169|AE016853/1071930-1072067    PP ********986....
+170|AE016853/3874830-3874693            TCAAAACCCAG----
+#=GR 170|AE016853/3874830-3874693    PP ********986....
+171|CP000075/771947-772084              TCAAAACCCAG----
+#=GR 171|CP000075/771947-772084      PP ********986....
+172|CP000075/964537-964674              TCAAAACCCAG----
+#=GR 172|CP000075/964537-964674      PP ********986....
+173|CP000075/3852826-3852689            TCAAAACCCAG----
+#=GR 173|CP000075/3852826-3852689    PP ********986....
+174|CP000075/5428413-5428276            TCAAAACCCAG----
+#=GR 174|CP000075/5428413-5428276    PP ********986....
+175|CP000075/5953335-5953198            TCAAAACCCAG----
+#=GR 175|CP000075/5953335-5953198    PP ********986....
+176|CP000058/5784512-5784375            TCAAAACCCAG----
+#=GR 176|CP000058/5784512-5784375    PP ********986....
+177|Pseudomonas/592998-593154           GCAAAACCCAAGCAG
+#=GR 177|Pseudomonas/592998-593154   PP ************986
+178|Pseudomonas/5466640-5466484         GCAAAACCCAAGCAG
+#=GR 178|Pseudomonas/5466640-5466484 PP ************986
+179|CP000058/803853-803990              TCAAAACCCAG----
+#=GR 179|CP000058/803853-803990      PP ********986....
+180|CP000058/1048588-1048725            TCAAAACCCAG----
+#=GR 180|CP000058/1048588-1048725    PP ********986....
+181|CP000058/3636842-3636705            TCAAAACCCAG----
+#=GR 181|CP000058/3636842-3636705    PP ********986....
+182|CP000058/5252383-5252246            TCAAAACCCAG----
+#=GR 182|CP000058/5252383-5252246    PP ********986....
+183|Pseudomonas/2646583-2646739         GCAAAACCCAAGCAG
+#=GR 183|Pseudomonas/2646583-2646739 PP ************986
+184|CP000304/1796914-1797073            TCAAAACCCAAGCAG
+#=GR 184|CP000304/1796914-1797073    PP ************986
+185|Pseudomonas/986846-987007           TCAAAACCCAAGCAG
+#=GR 185|Pseudomonas/986846-987007   PP ************986
+186|Pseudomonas/1982829-1982990         TCAAAACCCAAGCAG
+#=GR 186|Pseudomonas/1982829-1982990 PP ************986
+187|Pseudomonas/2705955-2705794         TCAAAACCCAAGCAG
+#=GR 187|Pseudomonas/2705955-2705794 PP ************986
+188|Pseudomonas/3908166-3908005         TCAAAACCCAAGCAG
+#=GR 188|Pseudomonas/3908166-3908005 PP ************986
+189|Pseudomonas/1127902-1128063         TCAAAACCCAAGCAG
+#=GR 189|Pseudomonas/1127902-1128063 PP ************986
+190|Pseudomonas/2121619-2121780         TCAAAACCCAAGCAG
+#=GR 190|Pseudomonas/2121619-2121780 PP ************986
+191|Pseudomonas/2878402-2878241         TCAAAACCCAAGCAG
+#=GR 191|Pseudomonas/2878402-2878241 PP ************986
+192|Pseudomonas/3795990-3795829         TCAAAACCCAAGCAG
+#=GR 192|Pseudomonas/3795990-3795829 PP ************986
+193|Pseudomonas/2111845-2112004         GCAAAACCCAAGCAG
+#=GR 193|Pseudomonas/2111845-2112004 PP ************986
+194|Azotobacter/177286-177403           ---------------
+#=GR 194|Azotobacter/177286-177403   PP ...............
+195|Azotobacter/177286-177403           ---------------
+#=GR 195|Azotobacter/177286-177403   PP ...............
+196|Azotobacter/1377834-1377951         ---------------
+#=GR 196|Azotobacter/1377834-1377951 PP ...............
+197|Azotobacter/1377848-1377965         ---------------
+#=GR 197|Azotobacter/1377848-1377965 PP ...............
+198|Azotobacter/4675029-4674912         ---------------
+#=GR 198|Azotobacter/4675029-4674912 PP ...............
+199|Azotobacter/4675041-4674924         ---------------
+#=GR 199|Azotobacter/4675041-4674924 PP ...............
+200|CP001157/177286-177403              ---------------
+#=GR 200|CP001157/177286-177403      PP ...............
+201|CP001157/1377822-1377939            ---------------
+#=GR 201|CP001157/1377822-1377939    PP ...............
+202|CP001157/4675036-4674919            ---------------
+#=GR 202|CP001157/4675036-4674919    PP ...............
+203|Azotobacter/1909106-1909223         ---------------
+#=GR 203|Azotobacter/1909106-1909223 PP ...............
+204|Azotobacter/1909118-1909235         ---------------
+#=GR 204|Azotobacter/1909118-1909235 PP ...............
+205|Azotobacter/2842877-2842760         ---------------
+#=GR 205|Azotobacter/2842877-2842760 PP ...............
+206|Azotobacter/2842889-2842772         ---------------
+#=GR 206|Azotobacter/2842889-2842772 PP ...............
+207|Azotobacter/4281097-4280980         ---------------
+#=GR 207|Azotobacter/4281097-4280980 PP ...............
+208|Azotobacter/4281109-4280992         ---------------
+#=GR 208|Azotobacter/4281109-4280992 PP ...............
+209|CP001157/1909093-1909210            ---------------
+#=GR 209|CP001157/1909093-1909210    PP ...............
+210|CP001157/2842865-2842748            ---------------
+#=GR 210|CP001157/2842865-2842748    PP ...............
+211|CP001157/4281101-4280984            ---------------
+#=GR 211|CP001157/4281101-4280984    PP ...............
+#=GC SS_cons                            ...............
+
+//

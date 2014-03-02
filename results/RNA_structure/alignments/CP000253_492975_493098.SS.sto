@@ -1,0 +1,802 @@
+# STOCKHOLM 1.0
+# WARNING: seq names have been made unique by adding a prefix of "<seq#>|"
+
+#=GS 000|BX571856/2337394-2337293       DE [subseq from] Staphylococcus aureus subsp. aureus strain MRSA252, complete genome
+#=GS 001|AJ938182/2191795-2191694       DE [subseq from] Staphylococcus aureus RF122 complete genome
+#=GS 002|AM990992/613561-613662         DE [subseq from] Staphylococcus aureus subsp. aureus S0385 complete genome
+#=GS 003|AP009324/2307338-2307237       DE [subseq from] Staphylococcus aureus subsp. aureus Mu3 DNA, complete genome.
+#=GS 004|BA000017/2305700-2305599       DE [subseq from] Staphylococcus aureus subsp. aureus Mu50 DNA, complete genome.
+#=GS 005|BA000018/2235980-2235879       DE [subseq from] Staphylococcus aureus subsp. aureus N315 DNA, complete genome.
+#=GS 006|BA000033/2255940-2255839       DE [subseq from] Staphylococcus aureus subsp. aureus MW2 DNA, complete genome.
+#=GS 007|BX571857/2235045-2234944       DE [subseq from] Staphylococcus aureus strain MSSA476, complete genome
+#=GS 008|CP000253/2244461-2244360       DE [subseq from] Staphylococcus aureus subsp. aureus NCTC 8325, complete genome.
+#=GS 009|CP000703/2335715-2335614       DE [subseq from] Staphylococcus aureus subsp. aureus JH9, complete genome.
+#=GS 010|CP000736/2335590-2335489       DE [subseq from] Staphylococcus aureus subsp. aureus JH1, complete genome.
+#=GS 011|CP001781/2252105-2252004       DE [subseq from] Staphylococcus aureus subsp. aureus ED98, complete genome.
+#=GS 012|CP001844/2249211-2249110       DE [subseq from] Staphylococcus aureus 04-02981, complete genome.
+#=GS 013|CP003166/2200386-2200285       DE [subseq from] Staphylococcus aureus subsp. aureus M013, complete genome.
+#=GS 014|CP003194/2279555-2279454       DE [subseq from] Staphylococcus aureus subsp. aureus 11819-97, complete genome.
+#=GS 015|FR714927/2158870-2158769       DE [subseq from] Staphylococcus aureus subsp. aureus ECT-R 2 complete genome
+#=GS 016|FR821779/2189458-2189357       DE [subseq from] Staphylococcus aureus subsp. aureus LGA251 complete genome sequence
+#=GS 017|Staphylococcus/2185666-2185565 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 18412 2759263
+#=GS 018|Staphylococcus/2185719-2185618 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 18583 2759328
+#=GS 019|Staphylococcus/2185853-2185752 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 16125 2759457
+#=GS 020|Staphylococcus/2185903-2185802 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 18341 2759473
+#=GS 021|Staphylococcus/2185904-2185803 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 10497 2759512
+#=GS 022|Staphylococcus/2185917-2185816 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 10388 2759510
+#=GS 023|Staphylococcus/2186213-2186112 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 15532 2759883
+#=GS 024|Staphylococcus/2186233-2186132 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 16035 2759835
+#=GS 025|Staphylococcus/2257336-2257235 DE [subseq from] aureus subsp. aureus HO 5096 0412 complete genome 2832299
+#=GS 026|BA000033/540862-540963         DE [subseq from] Staphylococcus aureus subsp. aureus MW2 DNA, complete genome.
+#=GS 027|BX571857/539510-539611         DE [subseq from] Staphylococcus aureus strain MSSA476, complete genome
+#=GS 028|CP000046/577883-577984         DE [subseq from] Staphylococcus aureus subsp. aureus COL, complete genome.
+#=GS 029|CP000703/590980-591081         DE [subseq from] Staphylococcus aureus subsp. aureus JH9, complete genome.
+#=GS 030|CP000736/590918-591019         DE [subseq from] Staphylococcus aureus subsp. aureus JH1, complete genome.
+#=GS 031|FR821779/529770-529871         DE [subseq from] Staphylococcus aureus subsp. aureus LGA251 complete genome sequence
+#=GS 032|Staphylococcus/498829-498930   DE [subseq from] aureus subsp. aureus 71193, complete genome. 2715000
+#=GS 033|Staphylococcus/590248-590349   DE [subseq from] aureus 08BA02176, complete genome. 2782313
+#=GS 034|BX571856/514146-514247         DE [subseq from] Staphylococcus aureus subsp. aureus strain MRSA252, complete genome
+#=GS 035|CP002110/49300-49199           DE [subseq from] Staphylococcus aureus subsp. aureus TCH60, complete genome.
+#=GS 036|AJ938182/473048-473149         DE [subseq from] Staphylococcus aureus RF122 complete genome
+#=GS 037|AP009324/531817-531918         DE [subseq from] Staphylococcus aureus subsp. aureus Mu3 DNA, complete genome.
+#=GS 038|AP009324/576178-576279         DE [subseq from] Staphylococcus aureus subsp. aureus Mu3 DNA, complete genome.
+#=GS 039|AP009351/502380-502481         DE [subseq from] Staphylococcus aureus subsp. aureus str. Newman DNA, complete genome.
+#=GS 040|AP009351/546939-547040         DE [subseq from] Staphylococcus aureus subsp. aureus str. Newman DNA, complete genome.
+#=GS 041|BA000017/530370-530471         DE [subseq from] Staphylococcus aureus subsp. aureus Mu50 DNA, complete genome.
+#=GS 042|BA000017/574731-574832         DE [subseq from] Staphylococcus aureus subsp. aureus Mu50 DNA, complete genome.
+#=GS 043|BA000018/506056-506157         DE [subseq from] Staphylococcus aureus subsp. aureus N315 DNA, complete genome.
+#=GS 044|BA000018/550484-550585         DE [subseq from] Staphylococcus aureus subsp. aureus N315 DNA, complete genome.
+#=GS 045|BA000033/491429-491530         DE [subseq from] Staphylococcus aureus subsp. aureus MW2 DNA, complete genome.
+#=GS 046|BA000033/535668-535769         DE [subseq from] Staphylococcus aureus subsp. aureus MW2 DNA, complete genome.
+#=GS 047|BX571856/559873-559974         DE [subseq from] Staphylococcus aureus subsp. aureus strain MRSA252, complete genome
+#=GS 048|BX571857/490091-490192         DE [subseq from] Staphylococcus aureus strain MSSA476, complete genome
+#=GS 049|BX571857/534299-534400         DE [subseq from] Staphylococcus aureus strain MSSA476, complete genome
+#=GS 050|CP000046/529041-529142         DE [subseq from] Staphylococcus aureus subsp. aureus COL, complete genome.
+#=GS 051|CP000046/572671-572772         DE [subseq from] Staphylococcus aureus subsp. aureus COL, complete genome.
+#=GS 052|CP000253/492994-493095         DE [subseq from] Staphylococcus aureus subsp. aureus NCTC 8325, complete genome.
+#=GS 053|CP000255/512785-512886         DE [subseq from] Staphylococcus aureus subsp. aureus USA300_FPR3757, complete genome.
+#=GS 054|CP000255/556416-556517         DE [subseq from] Staphylococcus aureus subsp. aureus USA300_FPR3757, complete genome.
+#=GS 055|CP000703/541316-541417         DE [subseq from] Staphylococcus aureus subsp. aureus JH9, complete genome.
+#=GS 056|CP000703/585635-585736         DE [subseq from] Staphylococcus aureus subsp. aureus JH9, complete genome.
+#=GS 057|CP000730/512680-512781         DE [subseq from] Staphylococcus aureus subsp. aureus USA300_TCH1516, complete genome.
+#=GS 058|CP000730/556959-557060         DE [subseq from] Staphylococcus aureus subsp. aureus USA300_TCH1516, complete genome.
+#=GS 059|CP000736/541387-541488         DE [subseq from] Staphylococcus aureus subsp. aureus JH1, complete genome.
+#=GS 060|CP000736/585706-585807         DE [subseq from] Staphylococcus aureus subsp. aureus JH1, complete genome.
+#=GS 061|CP001781/467177-467278         DE [subseq from] Staphylococcus aureus subsp. aureus ED98, complete genome.
+#=GS 062|CP001781/511497-511598         DE [subseq from] Staphylococcus aureus subsp. aureus ED98, complete genome.
+#=GS 063|CP001844/503661-503762         DE [subseq from] Staphylococcus aureus 04-02981, complete genome.
+#=GS 064|CP001844/548089-548190         DE [subseq from] Staphylococcus aureus 04-02981, complete genome.
+#=GS 065|CP002110/5238-5137             DE [subseq from] Staphylococcus aureus subsp. aureus TCH60, complete genome.
+#=GS 066|CP002114/533950-534051         DE [subseq from] Staphylococcus aureus subsp. aureus JKD6159, complete genome.
+#=GS 067|CP002120/525601-525702         DE [subseq from] Staphylococcus aureus subsp. aureus str. JKD6008, complete genome.
+#=GS 068|CP002643/521949-522050         DE [subseq from] Staphylococcus aureus subsp. aureus T0131, complete genome.
+#=GS 069|CP003166/495369-495470         DE [subseq from] Staphylococcus aureus subsp. aureus M013, complete genome.
+#=GS 070|CP003166/2082983-2082882       DE [subseq from] Staphylococcus aureus subsp. aureus M013, complete genome.
+#=GS 071|CP003194/503600-503701         DE [subseq from] Staphylococcus aureus subsp. aureus 11819-97, complete genome.
+#=GS 072|CP003194/547741-547842         DE [subseq from] Staphylococcus aureus subsp. aureus 11819-97, complete genome.
+#=GS 073|FN433596/582861-582962         DE [subseq from] Staphylococcus aureus subsp. aureus TW20, complete genome
+#=GS 074|FR714927/471861-471962         DE [subseq from] Staphylococcus aureus subsp. aureus ECT-R 2 complete genome
+#=GS 075|FR714927/516012-516113         DE [subseq from] Staphylococcus aureus subsp. aureus ECT-R 2 complete genome
+#=GS 076|Staphylococcus/474343-474444   DE [subseq from] aureus subsp. aureus HO 5096 0412 complete genome 2832299
+#=GS 077|Staphylococcus/482037-482138   DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 18412 2759263
+#=GS 078|Staphylococcus/482063-482164   DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 16125 2759457
+#=GS 079|Staphylococcus/482077-482178   DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 18583 2759328
+#=GS 080|Staphylococcus/482143-482244   DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 18341 2759473
+#=GS 081|Staphylococcus/482156-482257   DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 10497 2759512
+#=GS 082|Staphylococcus/482157-482258   DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 15532 2759883
+#=GS 083|Staphylococcus/482161-482262   DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 10388 2759510
+#=GS 084|Staphylococcus/482161-482262   DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 16035 2759835
+#=GS 085|Staphylococcus/493589-493690   DE [subseq from] aureus subsp. aureus 71193, complete genome. 2715000
+#=GS 086|Staphylococcus/518721-518822   DE [subseq from] aureus subsp. aureus HO 5096 0412 complete genome 2832299
+#=GS 087|Staphylococcus/526464-526565   DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 18412 2759263
+#=GS 088|Staphylococcus/526486-526587   DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 16125 2759457
+#=GS 089|Staphylococcus/526506-526607   DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 18583 2759328
+#=GS 090|Staphylococcus/526572-526673   DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 18341 2759473
+#=GS 091|Staphylococcus/526585-526686   DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 10497 2759512
+#=GS 092|Staphylococcus/526586-526687   DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 15532 2759883
+#=GS 093|Staphylococcus/526590-526691   DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 10388 2759510
+#=GS 094|Staphylococcus/526590-526691   DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 16035 2759835
+#=GS 095|Staphylococcus/585041-585142   DE [subseq from] aureus 08BA02176, complete genome. 2782313
+#=GS 096|Staphylococcus/1952879-1952779 DE [subseq from] aureus subsp. aureus HO 5096 0412 complete genome 2832299
+#=GS 097|AM990992/564442-564543         DE [subseq from] Staphylococcus aureus subsp. aureus S0385 complete genome
+#=GS 098|Staphylococcus/449235-449336   DE [subseq from] aureus subsp. aureus 71193, complete genome. 2715000
+#=GS 099|Staphylococcus/540306-540407   DE [subseq from] aureus 08BA02176, complete genome. 2782313
+#=GS 100|AM990992/2309696-2309596       DE [subseq from] Staphylococcus aureus subsp. aureus S0385 complete genome
+#=GS 101|CP001996/2270082-2269982       DE [subseq from] Staphylococcus aureus subsp. aureus ED133, complete genome.
+#=GS 102|CP002114/2242179-2242079       DE [subseq from] Staphylococcus aureus subsp. aureus JKD6159, complete genome.
+#=GS 103|CP003033/2115752-2115652       DE [subseq from] Staphylococcus aureus subsp. aureus VC40, complete genome.
+#=GS 104|Staphylococcus/2152510-2152410 DE [subseq from] aureus subsp. aureus 71193, complete genome. 2715000
+#=GS 105|FR821777/2183943-2183843       DE [subseq from] Staphylococcus aureus subsp. aureus MSHR1132 complete genome sequence
+#=GS 106|AP009351/2302194-2302094       DE [subseq from] Staphylococcus aureus subsp. aureus str. Newman DNA, complete genome.
+#=GS 107|CP000046/2233811-2233711       DE [subseq from] Staphylococcus aureus subsp. aureus COL, complete genome.
+#=GS 108|CP000255/2297679-2297579       DE [subseq from] Staphylococcus aureus subsp. aureus USA300_FPR3757, complete genome.
+#=GS 109|CP000730/2297829-2297729       DE [subseq from] Staphylococcus aureus subsp. aureus USA300_TCH1516, complete genome.
+#=GS 110|CP002120/2329874-2329774       DE [subseq from] Staphylococcus aureus subsp. aureus str. JKD6008, complete genome.
+#=GS 111|CP002643/2294608-2294508       DE [subseq from] Staphylococcus aureus subsp. aureus T0131, complete genome.
+#=GS 112|FN433596/2450251-2450151       DE [subseq from] Staphylococcus aureus subsp. aureus TW20, complete genome
+#=GS 113|AP009351/2185704-2185604       DE [subseq from] Staphylococcus aureus subsp. aureus str. Newman DNA, complete genome.
+#=GS 114|BA000018/2114280-2114180       DE [subseq from] Staphylococcus aureus subsp. aureus N315 DNA, complete genome.
+#=GS 115|BA000033/2142493-2142393       DE [subseq from] Staphylococcus aureus subsp. aureus MW2 DNA, complete genome.
+#=GS 116|BX571857/2121618-2121518       DE [subseq from] Staphylococcus aureus strain MSSA476, complete genome
+#=GS 117|CP000046/2117321-2117221       DE [subseq from] Staphylococcus aureus subsp. aureus COL, complete genome.
+#=GS 118|CP000253/2128058-2127958       DE [subseq from] Staphylococcus aureus subsp. aureus NCTC 8325, complete genome.
+#=GS 119|CP000255/2181125-2181025       DE [subseq from] Staphylococcus aureus subsp. aureus USA300_FPR3757, complete genome.
+#=GS 120|CP000703/2220627-2220527       DE [subseq from] Staphylococcus aureus subsp. aureus JH9, complete genome.
+#=GS 121|CP000730/2181519-2181419       DE [subseq from] Staphylococcus aureus subsp. aureus USA300_TCH1516, complete genome.
+#=GS 122|CP000736/2220502-2220402       DE [subseq from] Staphylococcus aureus subsp. aureus JH1, complete genome.
+#=GS 123|CP001781/2137017-2136917       DE [subseq from] Staphylococcus aureus subsp. aureus ED98, complete genome.
+#=GS 124|CP001844/2134123-2134023       DE [subseq from] Staphylococcus aureus 04-02981, complete genome.
+#=GS 125|CP002120/2211449-2211349       DE [subseq from] Staphylococcus aureus subsp. aureus str. JKD6008, complete genome.
+#=GS 126|CP002643/2176811-2176711       DE [subseq from] Staphylococcus aureus subsp. aureus T0131, complete genome.
+#=GS 127|CP003033/448713-448813         DE [subseq from] Staphylococcus aureus subsp. aureus VC40, complete genome.
+#=GS 128|CP003033/492991-493091         DE [subseq from] Staphylococcus aureus subsp. aureus VC40, complete genome.
+#=GS 129|CP003033/1999352-1999252       DE [subseq from] Staphylococcus aureus subsp. aureus VC40, complete genome.
+#=GS 130|CP003194/2164193-2164093       DE [subseq from] Staphylococcus aureus subsp. aureus 11819-97, complete genome.
+#=GS 131|FN433596/2333698-2333598       DE [subseq from] Staphylococcus aureus subsp. aureus TW20, complete genome
+#=GS 132|FR714927/2043782-2043682       DE [subseq from] Staphylococcus aureus subsp. aureus ECT-R 2 complete genome
+#=GS 133|FR821779/524593-524693         DE [subseq from] Staphylococcus aureus subsp. aureus LGA251 complete genome sequence
+#=GS 134|Staphylococcus/524056-524156   DE [subseq from] aureus subsp. aureus HO 5096 0412 complete genome 2832299
+#=GS 135|Staphylococcus/2025344-2025244 DE [subseq from] aureus subsp. aureus 71193, complete genome. 2715000
+#=GS 136|Staphylococcus/2064122-2064022 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 18412 2759263
+#=GS 137|Staphylococcus/2064175-2064075 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 18583 2759328
+#=GS 138|Staphylococcus/2064310-2064210 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 16125 2759457
+#=GS 139|Staphylococcus/2064357-2064257 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 18341 2759473
+#=GS 140|Staphylococcus/2064358-2064258 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 10497 2759512
+#=GS 141|Staphylococcus/2064371-2064271 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 10388 2759510
+#=GS 142|Staphylococcus/2064671-2064571 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 15532 2759883
+#=GS 143|Staphylococcus/2064687-2064587 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 16035 2759835
+#=GS 144|Staphylococcus/2092748-2092648 DE [subseq from] aureus 08BA02176, complete genome. 2782313
+#=GS 145|Staphylococcus/2144148-2144048 DE [subseq from] aureus subsp. aureus HO 5096 0412 complete genome 2832299
+#=GS 146|Staphylococcus/2173316-2173216 DE [subseq from] aureus M1 complete genome 2864125
+#=GS 147|AJ938182/2080004-2079904       DE [subseq from] Staphylococcus aureus RF122 complete genome
+#=GS 148|CP000253/448715-448815         DE [subseq from] Staphylococcus aureus subsp. aureus NCTC 8325, complete genome.
+#=GS 149|CP001996/517804-517904         DE [subseq from] Staphylococcus aureus subsp. aureus ED133, complete genome.
+#=GS 150|CP002114/489457-489557         DE [subseq from] Staphylococcus aureus subsp. aureus JKD6159, complete genome.
+#=GS 151|CP003166/540157-540257         DE [subseq from] Staphylococcus aureus subsp. aureus M013, complete genome.
+#=GS 152|FR821777/485062-485162         DE [subseq from] Staphylococcus aureus subsp. aureus MSHR1132 complete genome sequence
+#=GS 153|FR821777/2061303-2061203       DE [subseq from] Staphylococcus aureus subsp. aureus MSHR1132 complete genome sequence
+#=GS 154|Staphylococcus/2219898-2219799 DE [subseq from] aureus 08BA02176, complete genome. 2782313
+#=GS 155|AJ938182/1928107-1928008       DE [subseq from] Staphylococcus aureus RF122 complete genome
+#=GS 156|BA000033/1964565-1964466       DE [subseq from] Staphylococcus aureus subsp. aureus MW2 DNA, complete genome.
+#=GS 157|BX571857/1943812-1943713       DE [subseq from] Staphylococcus aureus strain MSSA476, complete genome
+#=GS 158|CP002110/1357128-1357227       DE [subseq from] Staphylococcus aureus subsp. aureus TCH60, complete genome.
+#=GS 159|CP002114/1955933-1955834       DE [subseq from] Staphylococcus aureus subsp. aureus JKD6159, complete genome.
+#=GS 160|FR821777/1889586-1889487       DE [subseq from] Staphylococcus aureus subsp. aureus MSHR1132 complete genome sequence
+#=GS 161|FR821779/1941044-1940945       DE [subseq from] Staphylococcus aureus subsp. aureus LGA251 complete genome sequence
+#=GS 162|AM990992/2029492-2029393       DE [subseq from] Staphylococcus aureus subsp. aureus S0385 complete genome
+#=GS 163|AP009324/2003178-2003079       DE [subseq from] Staphylococcus aureus subsp. aureus Mu3 DNA, complete genome.
+#=GS 164|BA000017/2001781-2001682       DE [subseq from] Staphylococcus aureus subsp. aureus Mu50 DNA, complete genome.
+#=GS 165|BA000018/1923986-1923887       DE [subseq from] Staphylococcus aureus subsp. aureus N315 DNA, complete genome.
+#=GS 166|CP000046/1982181-1982082       DE [subseq from] Staphylococcus aureus subsp. aureus COL, complete genome.
+#=GS 167|CP000253/1906588-1906489       DE [subseq from] Staphylococcus aureus subsp. aureus NCTC 8325, complete genome.
+#=GS 168|CP000255/2002827-2002728       DE [subseq from] Staphylococcus aureus subsp. aureus USA300_FPR3757, complete genome.
+#=GS 169|CP000703/2047681-2047582       DE [subseq from] Staphylococcus aureus subsp. aureus JH9, complete genome.
+#=GS 170|CP000730/2003524-2003425       DE [subseq from] Staphylococcus aureus subsp. aureus USA300_TCH1516, complete genome.
+#=GS 171|CP000736/2047555-2047456       DE [subseq from] Staphylococcus aureus subsp. aureus JH1, complete genome.
+#=GS 172|CP001781/1946678-1946579       DE [subseq from] Staphylococcus aureus subsp. aureus ED98, complete genome.
+#=GS 173|CP001844/1957016-1956917       DE [subseq from] Staphylococcus aureus 04-02981, complete genome.
+#=GS 174|CP001996/1955055-1954956       DE [subseq from] Staphylococcus aureus subsp. aureus ED133, complete genome.
+#=GS 175|CP002120/1961581-1961482       DE [subseq from] Staphylococcus aureus subsp. aureus str. JKD6008, complete genome.
+#=GS 176|CP003033/1864219-1864120       DE [subseq from] Staphylococcus aureus subsp. aureus VC40, complete genome.
+#=GS 177|CP003166/1951965-1951866       DE [subseq from] Staphylococcus aureus subsp. aureus M013, complete genome.
+#=GS 178|CP003194/1989848-1989749       DE [subseq from] Staphylococcus aureus subsp. aureus 11819-97, complete genome.
+#=GS 179|FN433596/2026674-2026575       DE [subseq from] Staphylococcus aureus subsp. aureus TW20, complete genome
+#=GS 180|FR714927/1869137-1869038       DE [subseq from] Staphylococcus aureus subsp. aureus ECT-R 2 complete genome
+#=GS 181|Staphylococcus/1840749-1840650 DE [subseq from] aureus subsp. aureus 71193, complete genome. 2715000
+#=GS 182|Staphylococcus/1902132-1902033 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 18412 2759263
+#=GS 183|Staphylococcus/1902184-1902085 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 18583 2759328
+#=GS 184|Staphylococcus/1902312-1902213 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 16035 2759835
+#=GS 185|Staphylococcus/1902321-1902222 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 16125 2759457
+#=GS 186|Staphylococcus/1902366-1902267 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 18341 2759473
+#=GS 187|Staphylococcus/1902367-1902268 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 10497 2759512
+#=GS 188|Staphylococcus/1902380-1902281 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 10388 2759510
+#=GS 189|Staphylococcus/1902680-1902581 DE [subseq from] aureus subsp. aureus ST228 complete genome, isolate 15532 2759883
+#=GS 190|Staphylococcus/1952487-1952388 DE [subseq from] aureus 08BA02176, complete genome. 2782313
+#=GS 191|Staphylococcus/1993375-1993276 DE [subseq from] aureus M1 complete genome 2864125
+#=GS 192|CP002110/2802580-2802479       DE [subseq from] Staphylococcus aureus subsp. aureus TCH60, complete genome.
+#=GS 193|BX571856/2041464-2041365       DE [subseq from] Staphylococcus aureus subsp. aureus strain MRSA252, complete genome
+#=GS 194|AM990992/608420-608519         DE [subseq from] Staphylococcus aureus subsp. aureus S0385 complete genome
+#=GS 195|AP009324/2192351-2192251       DE [subseq from] Staphylococcus aureus subsp. aureus Mu3 DNA, complete genome.
+#=GS 196|BA000017/2190713-2190613       DE [subseq from] Staphylococcus aureus subsp. aureus Mu50 DNA, complete genome.
+#=GS 197|AP009351/1963317-1963219       DE [subseq from] Staphylococcus aureus subsp. aureus str. Newman DNA, complete genome.
+#=GS 198|CP001996/562579-562681         DE [subseq from] Staphylococcus aureus subsp. aureus ED133, complete genome.
+#=GS 199|CP002120/569886-569988         DE [subseq from] Staphylococcus aureus subsp. aureus str. JKD6008, complete genome.
+#=GS 200|FN433596/627146-627248         DE [subseq from] Staphylococcus aureus subsp. aureus TW20, complete genome
+#=GS 201|FR821779/479341-479443         DE [subseq from] Staphylococcus aureus subsp. aureus LGA251 complete genome sequence
+#=GS 202|FR821779/2077510-2077408       DE [subseq from] Staphylococcus aureus subsp. aureus LGA251 complete genome sequence
+#=GS 203|CP002114/2128529-2128429       DE [subseq from] Staphylococcus aureus subsp. aureus JKD6159, complete genome.
+#=GS 204|BX571856/2218910-2218810       DE [subseq from] Staphylococcus aureus subsp. aureus strain MRSA252, complete genome
+#=GS 205|CP002110/1202459-1202559       DE [subseq from] Staphylococcus aureus subsp. aureus TCH60, complete genome.
+#=GS 206|CP002643/565956-566058         DE [subseq from] Staphylococcus aureus subsp. aureus T0131, complete genome.
+#=GS 207|AJ938182/517387-517489         DE [subseq from] Staphylococcus aureus RF122 complete genome
+#=GS 208|CP001996/2152246-2152146       DE [subseq from] Staphylococcus aureus subsp. aureus ED133, complete genome.
+#=GS 209|FR821777/529508-529607         DE [subseq from] Staphylococcus aureus subsp. aureus MSHR1132 complete genome sequence
+#=GS 210|CP002643/1980710-1980611       DE [subseq from] Staphylococcus aureus subsp. aureus T0131, complete genome.
+#=GS 211|CP002110/1087714-1087810       DE [subseq from] Staphylococcus aureus subsp. aureus TCH60, complete genome.
+#=GS 212|CP001837/1130744-1130845       DE [subseq from] Staphylococcus lugdunensis HKU09-01, complete genome.
+#=GS 213|CP001837/1011814-1011915       DE [subseq from] Staphylococcus lugdunensis HKU09-01, complete genome.
+#=GS 214|AE015929/1813259-1813159       DE [subseq from] Staphylococcus epidermidis ATCC 12228, complete genome.
+#=GS 215|AE015929/1723945-1723845       DE [subseq from] Staphylococcus epidermidis ATCC 12228, complete genome.
+#=GS 216|AE015929/2337593-2337493       DE [subseq from] Staphylococcus epidermidis ATCC 12228, complete genome.
+#=GS 217|CP000029/105630-105730         DE [subseq from] Staphylococcus epidermidis RP62A, complete genome.
+#=GS 218|CP000029/150270-150370         DE [subseq from] Staphylococcus epidermidis RP62A, complete genome.
+#=GS 219|CP000029/1718969-1718869       DE [subseq from] Staphylococcus epidermidis RP62A, complete genome.
+#=GS 220|CP000029/155421-155521         DE [subseq from] Staphylococcus epidermidis RP62A, complete genome.
+#=GS 221|AE015929/2382230-2382130       DE [subseq from] Staphylococcus epidermidis ATCC 12228, complete genome.
+#=GS 222|AE015929/1599663-1599564       DE [subseq from] Staphylococcus epidermidis ATCC 12228, complete genome.
+#=GS 223|CP000029/1462377-1462278       DE [subseq from] Staphylococcus epidermidis RP62A, complete genome.
+#=GS 224|CP000029/1808290-1808190       DE [subseq from] Staphylococcus epidermidis RP62A, complete genome.
+#=GS 225|AP006716/971079-971180         DE [subseq from] Staphylococcus haemolyticus JCSC1435 DNA, complete genome.
+#=GS 226|AP006716/879728-879829         DE [subseq from] Staphylococcus haemolyticus JCSC1435 DNA, complete genome.
+#=GS 227|AP006716/2500444-2500344       DE [subseq from] Staphylococcus haemolyticus JCSC1435 DNA, complete genome.
+#=GS 228|AP006716/2544132-2544032       DE [subseq from] Staphylococcus haemolyticus JCSC1435 DNA, complete genome.
+#=GS 229|CP001837/916085-916186         DE [subseq from] Staphylococcus lugdunensis HKU09-01, complete genome.
+#=GS 230|CP001837/2448134-2448032       DE [subseq from] Staphylococcus lugdunensis HKU09-01, complete genome.
+#=GS 231|CP001837/2453575-2453473       DE [subseq from] Staphylococcus lugdunensis HKU09-01, complete genome.
+#=GS 232|CP001837/2506071-2505969       DE [subseq from] Staphylococcus lugdunensis HKU09-01, complete genome.
+#=GS 233|AP006716/1103017-1103117       DE [subseq from] Staphylococcus haemolyticus JCSC1435 DNA, complete genome.
+#=GS 234|Staphylococcus/764038-764137   DE [subseq from] warneri SG1, complete genome. 2486042
+#=GS 235|Staphylococcus/2267416-2267317 DE [subseq from] warneri SG1, complete genome. 2486042
+#=GS 236|Staphylococcus/2311202-2311103 DE [subseq from] warneri SG1, complete genome. 2486042
+#=GS 237|Staphylococcus/856825-856924   DE [subseq from] warneri SG1, complete genome. 2486042
+#=GS 238|AP008934/2355215-2355093       DE [subseq from] Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 DNA, complete genome.
+#=GS 239|AP008934/2306332-2306210       DE [subseq from] Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 DNA, complete genome.
+#=GS 240|AP008934/2311610-2311488       DE [subseq from] Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 DNA, complete genome.
+#=GS 241|AM295250/121681-121782         DE [subseq from] Staphylococcus carnosus subsp. carnosus TM300 complete genome
+#=GS 242|AP008934/841581-841703         DE [subseq from] Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 DNA, complete genome.
+#=GS 243|AM295250/1460140-1460039       DE [subseq from] Staphylococcus carnosus subsp. carnosus TM300 complete genome
+#=GS 244|AM295250/174309-174410         DE [subseq from] Staphylococcus carnosus subsp. carnosus TM300 complete genome
+#=GS 245|AM295250/1590628-1590527       DE [subseq from] Staphylococcus carnosus subsp. carnosus TM300 complete genome
+#=GS 246|AM295250/1689709-1689608       DE [subseq from] Staphylococcus carnosus subsp. carnosus TM300 complete genome
+#=GS 247|Staphylococcus/974814-974912   DE [subseq from] warneri SG1, complete genome. 2486042
+#=GS 248|AP008934/743587-743709         DE [subseq from] Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 DNA, complete genome.
+#=GS 249|AP008934/959494-959616         DE [subseq from] Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 DNA, complete genome.
+#=GS 250|AP009484/326047-326103         DE [subseq from] Macrococcus caseolyticus JCSC5402 DNA, complete genome.
+#=GS 251|AP009484/1724192-1724136       DE [subseq from] Macrococcus caseolyticus JCSC5402 DNA, complete genome.
+#=GS 252|AP009484/1866939-1866883       DE [subseq from] Macrococcus caseolyticus JCSC5402 DNA, complete genome.
+#=GS 253|AP009484/2071737-2071681       DE [subseq from] Macrococcus caseolyticus JCSC5402 DNA, complete genome.
+#=GS 254|CP002439/1910067-1910016       DE [subseq from] Staphylococcus pseudintermedius HKU10-03, complete genome.
+#=GS 255|CP002439/157430-157480         DE [subseq from] Staphylococcus pseudintermedius HKU10-03, complete genome.
+#=GS 256|CP002439/203036-203086         DE [subseq from] Staphylococcus pseudintermedius HKU10-03, complete genome.
+#=GS 257|CP002439/208342-208392         DE [subseq from] Staphylococcus pseudintermedius HKU10-03, complete genome.
+#=GS 258|CP002478/711516-711566         DE [subseq from] Staphylococcus pseudintermedius ED99, complete genome.
+#=GS 259|CP002478/2347030-2346980       DE [subseq from] Staphylococcus pseudintermedius ED99, complete genome.
+#=GS 260|CP002439/1809127-1809077       DE [subseq from] Staphylococcus pseudintermedius HKU10-03, complete genome.
+#=GS 261|CP002478/815809-815859         DE [subseq from] Staphylococcus pseudintermedius ED99, complete genome.
+#=GS 262|CP002478/957619-957668         DE [subseq from] Staphylococcus pseudintermedius ED99, complete genome.
+#=GS 263|CP002439/1674358-1674309       DE [subseq from] Staphylococcus pseudintermedius HKU10-03, complete genome.
+#=GS 264|CP002478/2393143-2393094       DE [subseq from] Staphylococcus pseudintermedius ED99, complete genome.
+
+000|BX571856/2337394-2337293               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......G.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 000|BX571856/2337394-2337293       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+001|AJ938182/2191795-2191694               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 001|AJ938182/2191795-2191694       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+002|AM990992/613561-613662                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 002|AM990992/613561-613662         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+003|AP009324/2307338-2307237               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 003|AP009324/2307338-2307237       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+004|BA000017/2305700-2305599               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 004|BA000017/2305700-2305599       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+005|BA000018/2235980-2235879               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 005|BA000018/2235980-2235879       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+006|BA000033/2255940-2255839               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 006|BA000033/2255940-2255839       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+007|BX571857/2235045-2234944               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 007|BX571857/2235045-2234944       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+008|CP000253/2244461-2244360               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 008|CP000253/2244461-2244360       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+009|CP000703/2335715-2335614               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 009|CP000703/2335715-2335614       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+010|CP000736/2335590-2335489               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 010|CP000736/2335590-2335489       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+011|CP001781/2252105-2252004               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 011|CP001781/2252105-2252004       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+012|CP001844/2249211-2249110               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 012|CP001844/2249211-2249110       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+013|CP003166/2200386-2200285               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 013|CP003166/2200386-2200285       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+014|CP003194/2279555-2279454               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 014|CP003194/2279555-2279454       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+015|FR714927/2158870-2158769               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 015|FR714927/2158870-2158769       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+016|FR821779/2189458-2189357               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 016|FR821779/2189458-2189357       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+017|Staphylococcus/2185666-2185565         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 017|Staphylococcus/2185666-2185565 PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+018|Staphylococcus/2185719-2185618         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 018|Staphylococcus/2185719-2185618 PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+019|Staphylococcus/2185853-2185752         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 019|Staphylococcus/2185853-2185752 PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+020|Staphylococcus/2185903-2185802         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 020|Staphylococcus/2185903-2185802 PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+021|Staphylococcus/2185904-2185803         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 021|Staphylococcus/2185904-2185803 PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+022|Staphylococcus/2185917-2185816         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 022|Staphylococcus/2185917-2185816 PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+023|Staphylococcus/2186213-2186112         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 023|Staphylococcus/2186213-2186112 PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+024|Staphylococcus/2186233-2186132         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 024|Staphylococcus/2186233-2186132 PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+025|Staphylococcus/2257336-2257235         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 025|Staphylococcus/2257336-2257235 PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+026|BA000033/540862-540963                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 026|BA000033/540862-540963         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+027|BX571857/539510-539611                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 027|BX571857/539510-539611         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+028|CP000046/577883-577984                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 028|CP000046/577883-577984         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+029|CP000703/590980-591081                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 029|CP000703/590980-591081         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+030|CP000736/590918-591019                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 030|CP000736/590918-591019         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+031|FR821779/529770-529871                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 031|FR821779/529770-529871         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+032|Staphylococcus/498829-498930           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 032|Staphylococcus/498829-498930   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+033|Staphylococcus/590248-590349           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 033|Staphylococcus/590248-590349   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+034|BX571856/514146-514247                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......G.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 034|BX571856/514146-514247         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+035|CP002110/49300-49199                   TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......G.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 035|CP002110/49300-49199           PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+036|AJ938182/473048-473149                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 036|AJ938182/473048-473149         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+037|AP009324/531817-531918                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 037|AP009324/531817-531918         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+038|AP009324/576178-576279                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 038|AP009324/576178-576279         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+039|AP009351/502380-502481                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 039|AP009351/502380-502481         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+040|AP009351/546939-547040                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 040|AP009351/546939-547040         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+041|BA000017/530370-530471                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 041|BA000017/530370-530471         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+042|BA000017/574731-574832                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 042|BA000017/574731-574832         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+043|BA000018/506056-506157                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 043|BA000018/506056-506157         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+044|BA000018/550484-550585                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 044|BA000018/550484-550585         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+045|BA000033/491429-491530                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 045|BA000033/491429-491530         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+046|BA000033/535668-535769                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 046|BA000033/535668-535769         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+047|BX571856/559873-559974                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 047|BX571856/559873-559974         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+048|BX571857/490091-490192                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 048|BX571857/490091-490192         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+049|BX571857/534299-534400                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 049|BX571857/534299-534400         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+050|CP000046/529041-529142                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 050|CP000046/529041-529142         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+051|CP000046/572671-572772                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 051|CP000046/572671-572772         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+052|CP000253/492994-493095                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 052|CP000253/492994-493095         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+053|CP000255/512785-512886                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 053|CP000255/512785-512886         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+054|CP000255/556416-556517                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 054|CP000255/556416-556517         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+055|CP000703/541316-541417                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 055|CP000703/541316-541417         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+056|CP000703/585635-585736                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 056|CP000703/585635-585736         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+057|CP000730/512680-512781                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 057|CP000730/512680-512781         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+058|CP000730/556959-557060                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 058|CP000730/556959-557060         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+059|CP000736/541387-541488                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 059|CP000736/541387-541488         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+060|CP000736/585706-585807                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 060|CP000736/585706-585807         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+061|CP001781/467177-467278                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 061|CP001781/467177-467278         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+062|CP001781/511497-511598                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 062|CP001781/511497-511598         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+063|CP001844/503661-503762                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 063|CP001844/503661-503762         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+064|CP001844/548089-548190                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 064|CP001844/548089-548190         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+065|CP002110/5238-5137                     TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 065|CP002110/5238-5137             PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+066|CP002114/533950-534051                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 066|CP002114/533950-534051         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+067|CP002120/525601-525702                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 067|CP002120/525601-525702         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+068|CP002643/521949-522050                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 068|CP002643/521949-522050         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+069|CP003166/495369-495470                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 069|CP003166/495369-495470         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+070|CP003166/2082983-2082882               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 070|CP003166/2082983-2082882       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+071|CP003194/503600-503701                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 071|CP003194/503600-503701         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+072|CP003194/547741-547842                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 072|CP003194/547741-547842         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+073|FN433596/582861-582962                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 073|FN433596/582861-582962         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+074|FR714927/471861-471962                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 074|FR714927/471861-471962         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+075|FR714927/516012-516113                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 075|FR714927/516012-516113         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+076|Staphylococcus/474343-474444           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 076|Staphylococcus/474343-474444   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+077|Staphylococcus/482037-482138           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 077|Staphylococcus/482037-482138   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+078|Staphylococcus/482063-482164           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 078|Staphylococcus/482063-482164   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+079|Staphylococcus/482077-482178           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 079|Staphylococcus/482077-482178   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+080|Staphylococcus/482143-482244           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 080|Staphylococcus/482143-482244   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+081|Staphylococcus/482156-482257           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 081|Staphylococcus/482156-482257   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+082|Staphylococcus/482157-482258           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 082|Staphylococcus/482157-482258   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+083|Staphylococcus/482161-482262           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 083|Staphylococcus/482161-482262   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+084|Staphylococcus/482161-482262           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 084|Staphylococcus/482161-482262   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+085|Staphylococcus/493589-493690           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 085|Staphylococcus/493589-493690   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+086|Staphylococcus/518721-518822           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 086|Staphylococcus/518721-518822   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+087|Staphylococcus/526464-526565           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 087|Staphylococcus/526464-526565   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+088|Staphylococcus/526486-526587           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 088|Staphylococcus/526486-526587   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+089|Staphylococcus/526506-526607           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 089|Staphylococcus/526506-526607   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+090|Staphylococcus/526572-526673           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 090|Staphylococcus/526572-526673   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+091|Staphylococcus/526585-526686           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 091|Staphylococcus/526585-526686   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+092|Staphylococcus/526586-526687           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 092|Staphylococcus/526586-526687   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+093|Staphylococcus/526590-526691           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 093|Staphylococcus/526590-526691   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+094|Staphylococcus/526590-526691           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 094|Staphylococcus/526590-526691   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+095|Staphylococcus/585041-585142           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 095|Staphylococcus/585041-585142   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+096|Staphylococcus/1952879-1952779         -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 096|Staphylococcus/1952879-1952779 PP .89******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+097|AM990992/564442-564543                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.TTAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 097|AM990992/564442-564543         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+098|Staphylococcus/449235-449336           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.TTAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 098|Staphylococcus/449235-449336   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+099|Staphylococcus/540306-540407           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.TTAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 099|Staphylococcus/540306-540407   PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+100|AM990992/2309696-2309596               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 100|AM990992/2309696-2309596       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+101|CP001996/2270082-2269982               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 101|CP001996/2270082-2269982       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+102|CP002114/2242179-2242079               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 102|CP002114/2242179-2242079       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+103|CP003033/2115752-2115652               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 103|CP003033/2115752-2115652       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+104|Staphylococcus/2152510-2152410         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 104|Staphylococcus/2152510-2152410 PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+105|FR821777/2183943-2183843               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 105|FR821777/2183943-2183843       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+106|AP009351/2302194-2302094               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 106|AP009351/2302194-2302094       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+107|CP000046/2233811-2233711               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 107|CP000046/2233811-2233711       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+108|CP000255/2297679-2297579               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 108|CP000255/2297679-2297579       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+109|CP000730/2297829-2297729               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 109|CP000730/2297829-2297729       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+110|CP002120/2329874-2329774               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 110|CP002120/2329874-2329774       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+111|CP002643/2294608-2294508               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 111|CP002643/2294608-2294508       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+112|FN433596/2450251-2450151               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 112|FN433596/2450251-2450151       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+113|AP009351/2185704-2185604               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 113|AP009351/2185704-2185604       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+114|BA000018/2114280-2114180               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 114|BA000018/2114280-2114180       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+115|BA000033/2142493-2142393               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 115|BA000033/2142493-2142393       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+116|BX571857/2121618-2121518               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 116|BX571857/2121618-2121518       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+117|CP000046/2117321-2117221               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 117|CP000046/2117321-2117221       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+118|CP000253/2128058-2127958               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 118|CP000253/2128058-2127958       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+119|CP000255/2181125-2181025               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 119|CP000255/2181125-2181025       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+120|CP000703/2220627-2220527               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 120|CP000703/2220627-2220527       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+121|CP000730/2181519-2181419               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 121|CP000730/2181519-2181419       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+122|CP000736/2220502-2220402               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 122|CP000736/2220502-2220402       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+123|CP001781/2137017-2136917               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 123|CP001781/2137017-2136917       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+124|CP001844/2134123-2134023               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 124|CP001844/2134123-2134023       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+125|CP002120/2211449-2211349               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 125|CP002120/2211449-2211349       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+126|CP002643/2176811-2176711               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 126|CP002643/2176811-2176711       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+127|CP003033/448713-448813                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 127|CP003033/448713-448813         PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+128|CP003033/492991-493091                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 128|CP003033/492991-493091         PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+129|CP003033/1999352-1999252               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 129|CP003033/1999352-1999252       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+130|CP003194/2164193-2164093               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 130|CP003194/2164193-2164093       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+131|FN433596/2333698-2333598               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 131|FN433596/2333698-2333598       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+132|FR714927/2043782-2043682               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 132|FR714927/2043782-2043682       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+133|FR821779/524593-524693                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 133|FR821779/524593-524693         PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+134|Staphylococcus/524056-524156           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 134|Staphylococcus/524056-524156   PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+135|Staphylococcus/2025344-2025244         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 135|Staphylococcus/2025344-2025244 PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+136|Staphylococcus/2064122-2064022         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 136|Staphylococcus/2064122-2064022 PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+137|Staphylococcus/2064175-2064075         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 137|Staphylococcus/2064175-2064075 PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+138|Staphylococcus/2064310-2064210         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 138|Staphylococcus/2064310-2064210 PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+139|Staphylococcus/2064357-2064257         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 139|Staphylococcus/2064357-2064257 PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+140|Staphylococcus/2064358-2064258         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 140|Staphylococcus/2064358-2064258 PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+141|Staphylococcus/2064371-2064271         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 141|Staphylococcus/2064371-2064271 PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+142|Staphylococcus/2064671-2064571         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 142|Staphylococcus/2064671-2064571 PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+143|Staphylococcus/2064687-2064587         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 143|Staphylococcus/2064687-2064587 PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+144|Staphylococcus/2092748-2092648         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 144|Staphylococcus/2092748-2092648 PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+145|Staphylococcus/2144148-2144048         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 145|Staphylococcus/2144148-2144048 PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+146|Staphylococcus/2173316-2173216         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 146|Staphylococcus/2173316-2173216 PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+147|AJ938182/2080004-2079904               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 147|AJ938182/2080004-2079904       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+148|CP000253/448715-448815                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 148|CP000253/448715-448815         PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+149|CP001996/517804-517904                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 149|CP001996/517804-517904         PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+150|CP002114/489457-489557                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 150|CP002114/489457-489557         PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+151|CP003166/540157-540257                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 151|CP003166/540157-540257         PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+152|FR821777/485062-485162                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 152|FR821777/485062-485162         PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+153|FR821777/2061303-2061203               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 153|FR821777/2061303-2061203       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+154|Staphylococcus/2219898-2219799         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCG-
+#=GR 154|Staphylococcus/2219898-2219799 PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.********986.
+155|AJ938182/1928107-1928008               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 155|AJ938182/1928107-1928008       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+156|BA000033/1964565-1964466               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 156|BA000033/1964565-1964466       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+157|BX571857/1943812-1943713               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 157|BX571857/1943812-1943713       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+158|CP002110/1357128-1357227               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 158|CP002110/1357128-1357227       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+159|CP002114/1955933-1955834               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 159|CP002114/1955933-1955834       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+160|FR821777/1889586-1889487               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 160|FR821777/1889586-1889487       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+161|FR821779/1941044-1940945               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 161|FR821779/1941044-1940945       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+162|AM990992/2029492-2029393               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 162|AM990992/2029492-2029393       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+163|AP009324/2003178-2003079               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 163|AP009324/2003178-2003079       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+164|BA000017/2001781-2001682               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 164|BA000017/2001781-2001682       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+165|BA000018/1923986-1923887               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 165|BA000018/1923986-1923887       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+166|CP000046/1982181-1982082               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 166|CP000046/1982181-1982082       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+167|CP000253/1906588-1906489               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 167|CP000253/1906588-1906489       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+168|CP000255/2002827-2002728               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 168|CP000255/2002827-2002728       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+169|CP000703/2047681-2047582               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 169|CP000703/2047681-2047582       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+170|CP000730/2003524-2003425               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 170|CP000730/2003524-2003425       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+171|CP000736/2047555-2047456               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 171|CP000736/2047555-2047456       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+172|CP001781/1946678-1946579               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 172|CP001781/1946678-1946579       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+173|CP001844/1957016-1956917               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 173|CP001844/1957016-1956917       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+174|CP001996/1955055-1954956               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 174|CP001996/1955055-1954956       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+175|CP002120/1961581-1961482               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 175|CP002120/1961581-1961482       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+176|CP003033/1864219-1864120               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 176|CP003033/1864219-1864120       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+177|CP003166/1951965-1951866               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 177|CP003166/1951965-1951866       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+178|CP003194/1989848-1989749               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 178|CP003194/1989848-1989749       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+179|FN433596/2026674-2026575               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 179|FN433596/2026674-2026575       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+180|FR714927/1869137-1869038               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 180|FR714927/1869137-1869038       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+181|Staphylococcus/1840749-1840650         -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 181|Staphylococcus/1840749-1840650 PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+182|Staphylococcus/1902132-1902033         -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 182|Staphylococcus/1902132-1902033 PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+183|Staphylococcus/1902184-1902085         -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 183|Staphylococcus/1902184-1902085 PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+184|Staphylococcus/1902312-1902213         -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 184|Staphylococcus/1902312-1902213 PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+185|Staphylococcus/1902321-1902222         -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 185|Staphylococcus/1902321-1902222 PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+186|Staphylococcus/1902366-1902267         -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 186|Staphylococcus/1902366-1902267 PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+187|Staphylococcus/1902367-1902268         -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 187|Staphylococcus/1902367-1902268 PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+188|Staphylococcus/1902380-1902281         -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 188|Staphylococcus/1902380-1902281 PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+189|Staphylococcus/1902680-1902581         -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 189|Staphylococcus/1902680-1902581 PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+190|Staphylococcus/1952487-1952388         -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 190|Staphylococcus/1952487-1952388 PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+191|Staphylococcus/1993375-1993276         -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 191|Staphylococcus/1993375-1993276 PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+192|CP002110/2802580-2802479               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 192|CP002110/2802580-2802479       PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.**********.*********985
+193|BX571856/2041464-2041365               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GCAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 193|BX571856/2041464-2041365       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+194|AM990992/608420-608519                 -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 194|AM990992/608420-608519         PP .899***************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+195|AP009324/2192351-2192251               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAACTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 195|AP009324/2192351-2192251       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+196|BA000017/2190713-2190613               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAACTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 196|BA000017/2190713-2190613       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+197|AP009351/1963317-1963219               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACACCA-
+#=GR 197|AP009351/1963317-1963219       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*******9987.
+198|CP001996/562579-562681                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA....aAA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 198|CP001996/562579-562681         PP 699***************************************986....356....9*.*****.......*.**********................****..*.**********.**********.*********985
+199|CP002120/569886-569988                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA....aAA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 199|CP002120/569886-569988         PP 699***************************************986....356....9*.*****.......*.**********................****..*.**********.**********.*********985
+200|FN433596/627146-627248                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA....aAA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 200|FN433596/627146-627248         PP 699***************************************986....356....9*.*****.......*.**********................****..*.**********.**********.*********985
+201|FR821779/479341-479443                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA....aAA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 201|FR821779/479341-479443         PP 699***************************************986....356....9*.*****.......*.**********................****..*.**********.**********.*********985
+202|FR821779/2077510-2077408               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA....aAA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 202|FR821779/2077510-2077408       PP 699***************************************986....356....9*.*****.......*.**********................****..*.**********.**********.*********985
+203|CP002114/2128529-2128429               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACT................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 203|CP002114/2128529-2128429       PP 699****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+204|BX571856/2218910-2218810               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................A-CA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 204|BX571856/2218910-2218810       PP 699******************************************.....**....**.*****.......*.********97................5.7*..*.**********.**********.*********985
+205|CP002110/1202459-1202559               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................A-CA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 205|CP002110/1202459-1202559       PP 699******************************************.....**....**.*****.......*.********97................5.7*..*.**********.**********.*********985
+206|CP002643/565956-566058                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA....aAA....AC.GTAAC.......T.ATAAGTTATA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 206|CP002643/565956-566058         PP 699***************************************986....356....9*.*****.......*.**********................****..*.**********.**********.*********985
+207|AJ938182/517387-517489                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTAaATCAAACATCAT
+#=GR 207|AJ938182/517387-517489         PP 699******************************************.....**....**.*****.......*.**********................****..*.**********.*********747********985
+208|CP001996/2152246-2152146               TGAACATTGAAAACTGAATGACAATTTGTCAACGTTAATTCCAAA.....AA....AC.GTAAC.......T.AT-AGTTACA................AACA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 208|CP001996/2152246-2152146       PP 699******************************************.....**....**.*****.......*.96.69*****................****..*.**********.**********.*********985
+209|FR821777/529508-529607                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATTAGTTACA................AACA..T.TATTTAGTAT.-TATGAGCTA.ATCAAACATCAT
+#=GR 209|FR821777/529508-529607         PP 699****************************************9......99....**.*****.......*.**********................****..*.********97..8********.*********985
+210|CP002643/1980710-1980611               -GAACATTTAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AC.GTAAC.......T.ATAAGTTACA................AACA..T.TATTTAGCAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 210|CP002643/1980710-1980611       PP .89****************************************9......99....**.*****.......*.**********................****..*.**********.**********.*********985
+211|CP002110/1087714-1087810               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....AC.GT---.......-.-TAAGTTACA................AGCA..T.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 211|CP002110/1087714-1087810       PP 699*****************************************9.....98....88.76.............789******................****..*.**********.**********.*********985
+212|CP001837/1130744-1130845               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....AA....AT.GTAAC.......G.AAACGTTACA................AAGA..TtTAATTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 212|CP001837/1130744-1130845       PP 699****************************************9......99....9*.*****.......*.**********................*999..53899*******.**********.*********985
+213|CP001837/1011814-1011915               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....TA....AT.GTAAC.......G.AAACGTTACA................AAGA..TtTAATTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 213|CP001837/1011814-1011915       PP 699****************************************9......99....9*.*****.......*.**********................*999..53899*******.**********.*********985
+214|AE015929/1813259-1813159               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....ACaGTAAC.......G.AAACGTTACA................AAC-..-.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 214|AE015929/1813259-1813159       PP 699*****************************************9.....88....8779****.......*.*********9................976.....9*********.**********.*********985
+215|AE015929/1723945-1723845               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....ACaGTAAC.......G.AAACGTTACA................AAC-..-.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 215|AE015929/1723945-1723845       PP 699*****************************************9.....88....8779****.......*.*********9................976.....9*********.**********.*********985
+216|AE015929/2337593-2337493               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....ACaGTAAC.......G.AAACGTTACA................AAC-..-.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 216|AE015929/2337593-2337493       PP 699*****************************************9.....88....8779****.......*.*********9................976.....9*********.**********.*********985
+217|CP000029/105630-105730                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....ACaGTAAC.......G.AAACGTTACA................AAC-..-.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 217|CP000029/105630-105730         PP 699*****************************************9.....88....8779****.......*.*********9................976.....9*********.**********.*********985
+218|CP000029/150270-150370                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....ACaGTAAC.......G.AAACGTTACA................AAC-..-.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 218|CP000029/150270-150370         PP 699*****************************************9.....88....8779****.......*.*********9................976.....9*********.**********.*********985
+219|CP000029/1718969-1718869               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....ACaGTAAC.......G.AAACGTTACA................AAC-..-.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 219|CP000029/1718969-1718869       PP 699*****************************************9.....88....8779****.......*.*********9................976.....9*********.**********.*********985
+220|CP000029/155421-155521                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....ACaGTAAC.......G.AAATGTTACA................AAC-..-.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 220|CP000029/155421-155521         PP 699*****************************************9.....88....8779****.......*.*********9................976.....9*********.**********.*********985
+221|AE015929/2382230-2382130               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....ACaGTAAC.......G.AAACGTTACA................AAC-..-.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 221|AE015929/2382230-2382130       PP 699*****************************************9.....88....8779****.......*.*********9................976.....9*********.**********.*********985
+222|AE015929/1599663-1599564               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....ACaGTAAC.......G.AAACGTTACA................AAC-..-.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 222|AE015929/1599663-1599564       PP .799****************************************9.....88....8779****.......*.*********9................976.....9*********.**********.*********985
+223|CP000029/1462377-1462278               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....ACaGTAAC.......G.AAACGTTACA................AAC-..-.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 223|CP000029/1462377-1462278       PP .799****************************************9.....88....8779****.......*.*********9................976.....9*********.**********.*********985
+224|CP000029/1808290-1808190               TGAACATTGAAAACTGAATGACAATATGCCAACGTTAATTCCAAT.....AA....ACaGTAAC.......G.AAACGTTACA................AAC-..-.TATTTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 224|CP000029/1808290-1808190       PP 699*****************************************9.....88....8779****.......*.*********9................976.....9*********.**********.*********985
+225|AP006716/971079-971180                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAG.....AA....CA.GTAAC.......TtAATTGTTACA................AACA..C.TATTTAGTAT.-TATGAGCTA.ATCAAACATCAT
+#=GR 225|AP006716/971079-971180         PP 699*****************************************9.....99....99.99998.......527789******................****..*.********97..8********.*********985
+226|AP006716/879728-879829                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AA....CA.GTAAC.......TtAATTGTTACA................AACA..C.TATTTAGTAT.-TATGAGCTA.ATCAAACATCAT
+#=GR 226|AP006716/879728-879829         PP 699*****************************************9.....99....99.99998.......527789******................****..*.********97..8********.*********985
+227|AP006716/2500444-2500344               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AC....AG.TAACT.......T.AAATGTTACA................AACA..C.TATTTAGTAT.-TATGAGCTA.ATCAAACATCAT
+#=GR 227|AP006716/2500444-2500344       PP 699*****************************************6.....66....66.66666.......7.8999******................****..*.********97..8********.*********985
+228|AP006716/2544132-2544032               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AC....AG.TAACT.......T.AAATGTTACA................AACA..C.TATTTAGTAT.-TATGAGCTA.ATCAAACATCAT
+#=GR 228|AP006716/2544132-2544032       PP 699*****************************************6.....66....66.66666.......7.8999******................****..*.********97..8********.*********985
+229|CP001837/916085-916186                 TGAACATTGAAAACTGAATGACAATATGTCAATGTTAATTCCAA-.....TA....AT.GTAAC.......G.AAACGTTACA................AAGA..TtTAATTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 229|CP001837/916085-916186         PP 699****************************************9......99....9*.*****.......*.**********................*999..53899*******.**********.*********985
+230|CP001837/2448134-2448032               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....TA....AT.GTAAC.......A.AAACGTTACA................AAAGatT.TAATTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 230|CP001837/2448134-2448032       PP 699****************************************9......99....9*.*****.......*.********99................7654347.999*******.**********.*********985
+231|CP001837/2453575-2453473               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....TA....AT.GTAAC.......A.AAACGTTACA................AAAGatT.TAATTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 231|CP001837/2453575-2453473       PP 699****************************************9......99....9*.*****.......*.********99................7654347.999*******.**********.*********985
+232|CP001837/2506071-2505969               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....TA....AT.GTAAC.......A.AAACGTTACA................AAAGatT.TAATTAGTAT.TTATGAGCTA.ATCAAACATCAT
+#=GR 232|CP001837/2506071-2505969       PP 699****************************************9......99....9*.*****.......*.********99................7654347.999*******.**********.*********985
+233|AP006716/1103017-1103117               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAA.....AC....AG.TAACT.......T.AAATGTTACA................AAAA..C.TATTTAGTAT.-TATGAGCTA.ATCAAACATCAT
+#=GR 233|AP006716/1103017-1103117       PP 699*****************************************6.....66....66.66666.......7.8999******................****..*.********97..8********.*********985
+234|Staphylococcus/764038-764137           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....TA....AT.GTAAC.......G.A-AAGTTACA................ACAA..T.TAATTTAGTT.TTATGAGCTA.ATCAAACATCAT
+#=GR 234|Staphylococcus/764038-764137   PP 699****************************************9......89....99.***99.......8.7.789*****................*999..9.9988888889.9*********.*********985
+235|Staphylococcus/2267416-2267317         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....TA....AT.GTAAC.......G.A-AAGTTACA................ACAA..T.TAATTTAGTT.TTATGAGCTA.ATCAAACATCAT
+#=GR 235|Staphylococcus/2267416-2267317 PP 699****************************************9......89....99.***99.......8.7.789*****................*999..9.9988888889.9*********.*********985
+236|Staphylococcus/2311202-2311103         TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....TA....AT.GTAAC.......G.A-AAGTTACA................ACAA..T.TAATTTAGTT.TTATGAGCTA.ATCAAACATCAT
+#=GR 236|Staphylococcus/2311202-2311103 PP 699****************************************9......89....99.***99.......8.7.789*****................*999..9.9988888889.9*********.*********985
+237|Staphylococcus/856825-856924           TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAA-.....TA....AT.GTAAC.......G.A-AAGTTACA................ATAA..T.TAATTTAGTT.TTATGAGCTA.ATCAAACATCAT
+#=GR 237|Staphylococcus/856825-856924   PP 699****************************************9......89....99.***99.......8.7.789*****................*999..9.9888888889.9*********.*********985
+238|AP008934/2355215-2355093               TGAACATTGAAAACTGAATTGCAATATGTCAACGTTAATTCCGA-.....--....AC.GCAACattaaatT.GTTGGTTCAAaacaagtgttagagatAACA..C.AAATTAGTATtTTATGAGCTA.ATCAAACATCAT
+#=GR 238|AP008934/2355215-2355093       PP 699***************************************99............66.6666644444447.888888887788888888888888888999..*.*********9899********.*********985
+239|AP008934/2306332-2306210               TGAACATTGAAAACTGAATTGCAATATGTCAACGTTAATTCCGA-.....--....AC.GCAACattaaatT.GTTGGTTCAAaacaagtgttagagatAACA..C.AAATTAGTATtTTATGAGCTA.ATCAAACATCAT
+#=GR 239|AP008934/2306332-2306210       PP 699***************************************99............66.6666644444447.888888887788888888888888888999..*.*********9899********.*********985
+240|AP008934/2311610-2311488               TGAACATTGAAAACTGAATTGCAATATGTCAACGTTAATTCCGA-.....--....AC.GCAACattaaatT.GTTGGTTCAAaacaagtgttagagatAACA..C.AAATTAGTATtTTATGAGCTA.ATCAAACATCAT
+#=GR 240|AP008934/2311610-2311488       PP 699***************************************99............66.6666644444447.888888887788888888888888888999..*.*********9899********.*********985
+241|AM295250/121681-121782                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAActaacAA....AC.GTCTT.......A.GGACGTTTTA................AA-A..C.AAATTAGTTT.TTATGAGCTA.GTCAAACA----
+#=GR 241|AM295250/121681-121782         PP 699***************************************9864444467....99.99999.......9.*******999................87.8..9.9*********.**********.*****996....
+242|AP008934/841581-841703                 TGAACATTGAAAACTGAATTGCAATATGTCAACGTTAATTCCGA-.....--....AC.GCAACattaaatT.GTTGGTTCAAaacaagtgttagaaatAACA..C.AAATTAGTATtTTATGAGCTA.ATCAAACATCAT
+#=GR 242|AP008934/841581-841703         PP 699***************************************99............66.7666644444447.888888887778888888888888888999..*.*********9899********.*********985
+243|AM295250/1460140-1460039               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAAttaacAA....AC.GTCTT.......A.GGACGTTTTA................AA-A..C.AAATTAGTTT.TTATGAGCTA.GTCAAACA----
+#=GR 243|AM295250/1460140-1460039       PP 699***************************************9864444478....99.99999.......9.*******999................87.8..9.9*********.**********.*****996....
+244|AM295250/174309-174410                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAAttaacAA....AC.GTCTT.......A.GGACGTTTTA................AA-A..C.AAATTAGTTT.TTATGAGCTA.GTCAAACA----
+#=GR 244|AM295250/174309-174410         PP 699***************************************9864444478....99.99999.......9.*******999................87.8..9.9*********.**********.*****996....
+245|AM295250/1590628-1590527               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAAttaacAA....AC.GTCTT.......A.GGACGTTTTA................AA-A..C.AAATTAGTTT.TTATGAGCTA.GTCAAACA----
+#=GR 245|AM295250/1590628-1590527       PP 699***************************************9864444478....99.99999.......9.*******999................87.8..9.9*********.**********.*****996....
+246|AM295250/1689709-1689608               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAAttaacAA....AC.GTCTT.......A.GGACGTTTTA................AA-A..C.AAATTAGTTT.TTATGAGCTA.GTCAAACA----
+#=GR 246|AM295250/1689709-1689608       PP 699***************************************9864444478....99.99999.......9.*******999................87.8..9.9*********.**********.*****996....
+247|Staphylococcus/974814-974912           -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCTAA-.....TA....AT.GTAAC.......G.A-AAGTTACA................ACAA..T.TAATTTAGTT.TTATGAGCTA.ATCAAACATCAT
+#=GR 247|Staphylococcus/974814-974912   PP .89**************************************999......89....99.***99.......8.7.789*****................*999..9.9988888889.9*********.*********985
+248|AP008934/743587-743709                 TGAACATTGAAAACTGAATTGCAATATGTCAACGTTAATTCCGAA.....CAcaacAT.TAAAT.......T.GTTGGTTCAAaacaagtgttagagatAACA..C.AAATTAGTATtTTATGAGCTA.ATCAAACATCAT
+#=GR 248|AP008934/743587-743709         PP 699****************************************96.....54222234.55667.......8.899999988788888888888888888999..*.*********9899********.*********985
+249|AP008934/959494-959616                 TGAACATTGAAAACTGAATTGCAATATGTCAACGTTAATTCCGAA.....CAcaacAT.TAAAT.......T.GTTGGTTCAAaacaagtgttagaaatAACA..C.AAATTAGTATtTTATGAGCTA.ATCAAACATCAT
+#=GR 249|AP008934/959494-959616         PP 699****************************************96.....44222234.55666.......8.889999888778888888888888888899..9.*********9899********.*********985
+250|AP009484/326047-326103                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....TT.TGAGT.......G.AT--------................----..-.----------.----------.------------
+#=GR 250|AP009484/326047-326103         PP 699*****************************************7.....77....66.55554.......4.43..................................................................
+251|AP009484/1724192-1724136               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....TT.TGAGT.......G.AT--------................----..-.----------.----------.------------
+#=GR 251|AP009484/1724192-1724136       PP 699*****************************************7.....77....66.55554.......4.43..................................................................
+252|AP009484/1866939-1866883               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....TT.TGAGT.......G.AT--------................----..-.----------.----------.------------
+#=GR 252|AP009484/1866939-1866883       PP 699*****************************************7.....77....66.55554.......4.43..................................................................
+253|AP009484/2071737-2071681               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....TT.TGAGT.......G.AT--------................----..-.----------.----------.------------
+#=GR 253|AP009484/2071737-2071681       PP 699*****************************************7.....77....66.55554.......4.43..................................................................
+254|CP002439/1910067-1910016               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....TT.TGA--.......-.----------................----..-.----------.----------.------------
+#=GR 254|CP002439/1910067-1910016       PP 699****************************************96.....55....44.332...............................................................................
+255|CP002439/157430-157480                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....TT.TG---.......-.----------................----..-.----------.----------.------------
+#=GR 255|CP002439/157430-157480         PP 699****************************************96.....65....44.33................................................................................
+256|CP002439/203036-203086                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....TT.TG---.......-.----------................----..-.----------.----------.------------
+#=GR 256|CP002439/203036-203086         PP 699****************************************96.....65....44.33................................................................................
+257|CP002439/208342-208392                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....TT.TG---.......-.----------................----..-.----------.----------.------------
+#=GR 257|CP002439/208342-208392         PP 699****************************************96.....65....44.33................................................................................
+258|CP002478/711516-711566                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....TT.TG---.......-.----------................----..-.----------.----------.------------
+#=GR 258|CP002478/711516-711566         PP 699****************************************96.....65....44.33................................................................................
+259|CP002478/2347030-2346980               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....TT.TG---.......-.----------................----..-.----------.----------.------------
+#=GR 259|CP002478/2347030-2346980       PP 699****************************************96.....65....44.33................................................................................
+260|CP002439/1809127-1809077               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....TT.TG---.......-.----------................----..-.----------.----------.------------
+#=GR 260|CP002439/1809127-1809077       PP 699****************************************96.....65....44.33................................................................................
+261|CP002478/815809-815859                 TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....TT.TG---.......-.----------................----..-.----------.----------.------------
+#=GR 261|CP002478/815809-815859         PP 699****************************************96.....65....44.33................................................................................
+262|CP002478/957619-957668                 -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....TT.TG---.......-.----------................----..-.----------.----------.------------
+#=GR 262|CP002478/957619-957668         PP .89****************************************96.....65....44.33................................................................................
+263|CP002439/1674358-1674309               -GAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....TT.TG---.......-.----------................----..-.----------.----------.------------
+#=GR 263|CP002439/1674358-1674309       PP .89****************************************96.....65....44.33................................................................................
+264|CP002478/2393143-2393094               TGAACATTGAAAACTGAATGACAATATGTCAACGTTAATTCCAAT.....AA....TT.T----.......-.----------................----..-.----------.----------.------------
+#=GR 264|CP002478/2393143-2393094       PP 699****************************************96.....55....43.3.................................................................................
+#=GC SS_cons                               ..(((.((((....((.....)).....)))).))).........................................................................................................
+
+//

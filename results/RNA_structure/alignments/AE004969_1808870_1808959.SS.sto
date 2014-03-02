@@ -1,0 +1,57 @@
+# STOCKHOLM 1.0
+
+#=GS AL157959/118727-118816   DE [subseq from] Neisseria meningitidis serogroup A strain Z2491 complete genome
+#=GS AM889136/2037843-2037932 DE [subseq from] Neisseria meningitidis alpha14 complete genome
+#=GS CP001561/148646-148557   DE [subseq from] Neisseria meningitidis alpha710, complete genome.
+#=GS CP002422/152179-152090   DE [subseq from] Neisseria meningitidis M01-240355, complete genome.
+#=GS CP002424/150993-150904   DE [subseq from] Neisseria meningitidis NZ-05/33, complete genome.
+#=GS FM999788/147935-147846   DE [subseq from] Neisseria meningitidis 8013, complete genome
+#=GS FR774048/2112249-2112338 DE [subseq from] Neisseria meningitidis WUE 2594 complete genome
+#=GS CP002421/2119037-2119126 DE [subseq from] Neisseria meningitidis M01-240149, complete genome.
+#=GS FN995097/96312-96223     DE [subseq from] Neisseria lactamica 020-06 complete genome
+#=GS AE004969/1808870-1808959 DE [subseq from] Neisseria gonorrhoeae FA 1090, complete genome.
+#=GS CP001050/2030111-2030022 DE [subseq from] Neisseria gonorrhoeae NCCP11945, complete genome.
+#=GS CP002440/1938526-1938437 DE [subseq from] Neisseria gonorrhoeae TCDC-NG08107, complete genome.
+#=GS AM421808/136960-136871   DE [subseq from] Neisseria meningitidis serogroup C FAM18 complete genome
+#=GS CP002419/141293-141204   DE [subseq from] Neisseria meningitidis G2136, complete genome.
+#=GS AE002098/149595-149512   DE [subseq from] Neisseria meningitidis MC58, complete genome.
+#=GS CP002420/149659-149576   DE [subseq from] Neisseria meningitidis H44/76, complete genome.
+#=GS CP002423/155636-155553   DE [subseq from] Neisseria meningitidis M04-240196, complete genome.
+
+AL157959/118727-118816           CATGAGCTAATTCCTTTACAT.TAAAGATCGATTAAAGAACAATG.CCGTCTGAAAAATCATTT.CAGCCTTTCGGACGGCCTATTTGCCTGA
+#=GR AL157959/118727-118816   PP 699******************.***********************.******************.*************************996
+AM889136/2037843-2037932         CATGAGCTAATTCCTTTACAT.TAAAGATCGATTAAAGAACAATG.CCGTCTGAAAAATCATTT.CAGCCTTTCGGACGGCCTATTTGCCTGA
+#=GR AM889136/2037843-2037932 PP 699******************.***********************.******************.*************************996
+CP001561/148646-148557           CATGAGCTAATTCCTTTACAT.TAAAGATCGATTAAAGAACAATG.CCGTCTGAAAAATCATTT.CAGCCTTTCGGACGGCCTATTTGCCTGA
+#=GR CP001561/148646-148557   PP 699******************.***********************.******************.*************************996
+CP002422/152179-152090           CATGAGCTAATTCCTTTACAT.TAAAGATCGATTAAAGAACAATG.CCGTCTGAAAAATCATTT.CAGCCTTTCGGACGGCCTATTTGCCTGA
+#=GR CP002422/152179-152090   PP 699******************.***********************.******************.*************************996
+CP002424/150993-150904           CATGAGCTAATTCCTTTACAT.TAAAGATCGATTAAAGAACAATG.CCGTCTGAAAAATCATTT.CAGCCTTTCGGACGGCCTATTTGCCTGA
+#=GR CP002424/150993-150904   PP 699******************.***********************.******************.*************************996
+FM999788/147935-147846           CATGAGCTAATTCCTTTACAT.TAAAGATCGATTAAAGAACAATG.CCGTCTGAAAAATCATTT.CAGCCTTTCGGACGGCCTATTTGCCTGA
+#=GR FM999788/147935-147846   PP 699******************.***********************.******************.*************************996
+FR774048/2112249-2112338         CATGAGCTAATTCCTTTACAT.TAAAGATCGATTAAAGAACAATG.CCGTCTGAAAAATCATTT.CAGCCTTTCGGACGGCCTATTTGCCTGA
+#=GR FR774048/2112249-2112338 PP 699******************.***********************.******************.*************************996
+CP002421/2119037-2119126         CATGAGCTAATTCCTTTACAT.TAAAGATCGATTAAAGAACAATG.CCGTCTGAAAAATCATTT.CAGCCTTTCGGACGGCCTATTTGCCTGA
+#=GR CP002421/2119037-2119126 PP 699******************.***********************.******************.*************************996
+FN995097/96312-96223             CATGAGCTAATTCCTTTACAT.TAAAGATCGATTAAAGAACAATG.CCGTCTGAAAAATCATTT.CAGCCTTTCAGACGGCCTATTTGCCTGA
+#=GR FN995097/96312-96223     PP 699******************.***********************.******************.*************************996
+AE004969/1808870-1808959         CATGAGCTAATTCCTTTACAT.TAAAGATCGATTAAAGAACAATG.CCATCTGAAAAATCATTT.CAGCCTTTCAGACGGCCTATTTGCCTGA
+#=GR AE004969/1808870-1808959 PP 689******************.***********************.******************.*************************996
+CP001050/2030111-2030022         CATGAGCTAATTCCTTTACAT.TAAAGATCGATTAAAGAACAATG.CCATCTGAAAAATCATTT.CAGCCTTTCAGACGGCCTATTTGCCTGA
+#=GR CP001050/2030111-2030022 PP 689******************.***********************.******************.*************************996
+CP002440/1938526-1938437         CATGAGCTAATTCCTTTACAT.TAAAGATCGATTAAAGAACAATG.CCATCTGAAAAATCATTT.CAGCCTTTCAGACGGCCTATTTGCCTGA
+#=GR CP002440/1938526-1938437 PP 689******************.***********************.******************.*************************996
+AM421808/136960-136871           CATGAGCTAATTCCTTTACAT.TAAAGATCGATTAAAGAACAATG.CCGTCTGAAAAATCATTT.CAGCCTTTCAGACGACCTATTTGCCTGA
+#=GR AM421808/136960-136871   PP 689******************.***********************.******************.*************************996
+CP002419/141293-141204           CATGAGCTAATTCCTTTACAT.TAAAGATCGATTAAAGAACAATG.CCGTCTGAAAAATCATTT.CAGCCTTTCAGACGACCTATTTGCCTGA
+#=GR CP002419/141293-141204   PP 689******************.***********************.******************.*************************996
+AE002098/149595-149512           CATGAGCTAATTCCTTTACATaTAAAGATCGATTAAAGAACAATGgCCGTCTGAAAATTTATTTtCAG--TTTCAGACGGCCTTTT-------
+#=GR AE002098/149595-149512   PP 799*****************************************99***************9988***..************9876.......
+CP002420/149659-149576           CATGAGCTAATTCCTTTACATaTAAAGATCGATTAAAGAACAATGgCCGTCTGAAAATTTATTTtCAG--TTTCAGACGGCCTTTT-------
+#=GR CP002420/149659-149576   PP 799*****************************************99***************9988***..************9876.......
+CP002423/155636-155553           CATGAGCTAATTCCTTTACATaTAAAGATCGATTAAAGAACAATGgCCGTCTGAAAATTTATTTtCAG--TTTCAGACGGCCTTTT-------
+#=GR CP002423/155636-155553   PP 799*****************************************99***************9988***..************9876.......
+#=GC SS_cons                     .......(((((.(((((....)))))...))))).........(.((.(((((((..............))))))).)))............
+
+//

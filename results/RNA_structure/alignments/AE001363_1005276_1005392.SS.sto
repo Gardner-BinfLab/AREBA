@@ -1,0 +1,87 @@
+# STOCKHOLM 1.0
+
+#=GS CR848038/992073-991963        DE [subseq from] Chlamydophila abortus strain S26/3, complete genome.
+#=GS CP002549/1019303-1019193      DE [subseq from] Chlamydophila psittaci 6BC, complete genome.
+#=GS CP002586/1019215-1019105      DE [subseq from] Chlamydophila psittaci 6BC, complete genome.
+#=GS CP002804/1017019-1016909      DE [subseq from] Chlamydophila psittaci C19/98, complete genome.
+#=GS CP002805/1019839-1019729      DE [subseq from] Chlamydophila psittaci 01DC11, complete genome.
+#=GS CP002806/1019801-1019691      DE [subseq from] Chlamydophila psittaci 02DC15, complete genome.
+#=GS CP002807/1019672-1019562      DE [subseq from] Chlamydophila psittaci 08DC60, complete genome.
+#=GS Chlamydia/988431-988321       DE [subseq from] psittaci WS/RT/E30, complete genome. 1140789
+#=GS Chlamydia/994791-994681       DE [subseq from] psittaci GR9, complete genome. 1147152
+#=GS Chlamydia/1005051-1004941     DE [subseq from] psittaci VS225, complete genome. 1157385
+#=GS Chlamydia/1019716-1019606     DE [subseq from] psittaci 84/55, complete genome. 1172064
+#=GS Chlamydia/1019912-1019802     DE [subseq from] psittaci WC, complete genome. 1172265
+#=GS Chlamydophila/1011014-1010904 DE [subseq from] psittaci Mat116, complete genome. 1163362
+#=GS FQ482149/1011813-1011703      DE [subseq from] Chlamydophila psittaci RD1 genome.
+#=GS Chlamydia/1015822-1015712     DE [subseq from] psittaci CP3, complete genome. 1168150
+#=GS Chlamydia/1016156-1016046     DE [subseq from] psittaci MN, complete genome. 1168490
+#=GS Chlamydia/1018672-1018562     DE [subseq from] psittaci 01DC12 complete genome 1171011
+#=GS AP006861/152423-152533        DE [subseq from] Chlamydophila felis Fe/C-56 DNA, complete genome.
+#=GS Chlamydia/1009101-1008991     DE [subseq from] psittaci M56, complete genome. 1161385
+#=GS Chlamydia/1009068-1008958     DE [subseq from] psittaci NJ1, complete genome. 1161434
+#=GS AE015925/1020807-1020696      DE [subseq from] Chlamydophila caviae GPIC, complete genome.
+#=GS AE001363/1005280-1005387      DE [subseq from] Chlamydophila pneumoniae CWL029, complete genome.
+#=GS AE009440/1002603-1002710      DE [subseq from] Chlamydophila pneumoniae TW-183, complete genome.
+#=GS BA000008/1004601-1004708      DE [subseq from] Chlamydophila pneumoniae J138 genomic DNA, complete sequence.
+#=GS CP001713/1078146-1078039      DE [subseq from] Chlamydophila pneumoniae LPCoLN, complete genome.
+#=GS AE002161/1066162-1066055      DE [subseq from] Chlamydophila pneumoniae AR39, complete genome.
+#=GS CP002608/159112-159007        DE [subseq from] Chlamydophila pecorum E58, complete genome.
+
+CR848038/992073-991963                TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCGATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR CR848038/992073-991963        PP 689*******************************************************************.**************************.************986
+CP002549/1019303-1019193              TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR CP002549/1019303-1019193      PP 689*******************************************************************.**************************.************986
+CP002586/1019215-1019105              TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR CP002586/1019215-1019105      PP 689*******************************************************************.**************************.************986
+CP002804/1017019-1016909              TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR CP002804/1017019-1016909      PP 689*******************************************************************.**************************.************986
+CP002805/1019839-1019729              TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR CP002805/1019839-1019729      PP 689*******************************************************************.**************************.************986
+CP002806/1019801-1019691              TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR CP002806/1019801-1019691      PP 689*******************************************************************.**************************.************986
+CP002807/1019672-1019562              TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR CP002807/1019672-1019562      PP 689*******************************************************************.**************************.************986
+Chlamydia/988431-988321               TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR Chlamydia/988431-988321       PP 689*******************************************************************.**************************.************986
+Chlamydia/994791-994681               TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR Chlamydia/994791-994681       PP 689*******************************************************************.**************************.************986
+Chlamydia/1005051-1004941             TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR Chlamydia/1005051-1004941     PP 689*******************************************************************.**************************.************986
+Chlamydia/1019716-1019606             TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR Chlamydia/1019716-1019606     PP 689*******************************************************************.**************************.************986
+Chlamydia/1019912-1019802             TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR Chlamydia/1019912-1019802     PP 689*******************************************************************.**************************.************986
+Chlamydophila/1011014-1010904         TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR Chlamydophila/1011014-1010904 PP 689*******************************************************************.**************************.************986
+FQ482149/1011813-1011703              TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR FQ482149/1011813-1011703      PP 689*******************************************************************.**************************.************986
+Chlamydia/1015822-1015712             TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTGCGTTACAAGA
+#=GR Chlamydia/1015822-1015712     PP 689*******************************************************************.**************************.************986
+Chlamydia/1016156-1016046             TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTGCGTTACAAGA
+#=GR Chlamydia/1016156-1016046     PP 689*******************************************************************.**************************.************986
+Chlamydia/1018672-1018562             TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTGCGTTACAAGA
+#=GR Chlamydia/1018672-1018562     PP 689*******************************************************************.**************************.************986
+AP006861/152423-152533                TCATATGAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR AP006861/152423-152533        PP 6899******************************************************************.**************************.************986
+Chlamydia/1009101-1008991             TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.TTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR Chlamydia/1009101-1008991     PP 689*******************************************************************.**************************.************986
+Chlamydia/1009068-1008958             TCATATAAAAAGCTCAATAGGCTTTTTTATTGAAATAAATCGATCAATGTAAGTTGATACTAAAGACTCT.CTTAAGCGTCTATTAGTATACGTGAA.TGTTACGTTACAAGA
+#=GR Chlamydia/1009068-1008958     PP 689*******************************************************************.**************************.************986
+AE015925/1020807-1020696              TCATATAAAAAGCTCAATAGGCTTTTTTGTTGAAATAAATCGATCGATGTAAGTTGATACTAAAGACACT.CTTAAGCGTCTATTAGTATACGTGAAtTGTTACGTTACAAGA
+#=GR AE015925/1020807-1020696      PP 689*******************************************************************.*************************9679**********986
+AE001363/1005280-1005387              TCATATAAAAAGCTGAATAAGCTTTTTTGTTGAATT-AGTCGATTTATGCAAGTT--TACTAAAGACTCTtCTTAAGCGTCTATTAGTATACGTGAA.AA-TACGTTACAAGA
+#=GR AE001363/1005280-1005387      PP 689******************************999.8*****************..************99**************************.99.9********996
+AE009440/1002603-1002710              TCATATAAAAAGCTGAATAAGCTTTTTTGTTGAATT-AGTCGATTTATGCAAGTT--TACTAAAGACTCTtCTTAAGCGTCTATTAGTATACGTGAA.AA-TACGTTACAAGA
+#=GR AE009440/1002603-1002710      PP 689******************************999.8*****************..************99**************************.99.9********996
+BA000008/1004601-1004708              TCATATAAAAAGCTGAATAAGCTTTTTTGTTGAATT-AGTCGATTTATGCAAGTT--TACTAAAGACTCTtCTTAAGCGTCTATTAGTATACGTGAA.AA-TACGTTACAAGA
+#=GR BA000008/1004601-1004708      PP 689******************************999.8*****************..************99**************************.99.9********996
+CP001713/1078146-1078039              TCATATAAAAAGCTGAATAAGCTTTTTTGTTGAATT-AATCGATTTATGCAAGTT--TACTAAAGACTCTtCTTAAGCGTCTATTAGTATACGTGAA.AA-TACGTTACAAGA
+#=GR CP001713/1078146-1078039      PP 589******************************999.89****************..************99**************************.99.9********996
+AE002161/1066162-1066055              TCATATAAAAAGCTGAATAAGCTTTTTTGTTGAATT-AGTCGATTTATGCAAGTT--TACTAAAGACTCTtCTTAAGCGTCTATTAGTATACGTGAA.AA-TACGTTACAAGA
+#=GR AE002161/1066162-1066055      PP 589******************************999.8*****************..************99**************************.99.9********996
+CP002608/159112-159007                TCATAAAAAAAGCTGAACAGGCTTTTTTGTTGAAAT--ACCGATTTATGCAAGAG--TACTAAAGACTTT.CTTAAGCGTCTATTAGTATACGTGAA.GA-TACGTTACAAGA
+#=GR CP002608/159112-159007        PP 689999****************************99..79*************99..*************.*************************9.88.9********985
+#=GC SS_cons                          (((...((((((((.....))))))))...)))........................((((((((((.((.....)).)))).)))))).(((((......))))).......
+
+//

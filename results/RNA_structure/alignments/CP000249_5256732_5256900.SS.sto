@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+
+#=GS CT573213/7306990-7307155 DE [subseq from] Frankia alni str. ACN14A chromosome, complete sequence.
+#=GS CP000249/5256735-5256899 DE [subseq from] Frankia sp. CcI3, complete genome.
+#=GS CP000820/213421-213270   DE [subseq from] Frankia sp. EAN1pec, complete genome.
+#=GS CP002299/175987-175892   DE [subseq from] Frankia sp. EuI1c, complete genome.
+#=GS CP002801/5189181-5189294 DE [subseq from] Frankia symbiont of Datisca glomerata, complete genome.
+
+CT573213/7306990-7307155         TTGGCACTCTCACCTAGGGAGTGCCAAG.GCTGAAACGGCGAGGCTGCCCGTTCCGCCCGGCGTCCACGGTGGTTGCACCGAGGTCGGAGCCGGCGGGAGCCGTCCGTCGCGGGCGTCGTTGTGGCCAGGCCATCGAAcCTGCCAT..CCCACTGGGAGGACCCAGAAA
+#=GR CT573213/7306990-7307155 PP 689*************************.*********************************************************************************************************************..******************986
+CP000249/5256735-5256899         -TGGCACTCTCGCCTAGGGAGTGCCAAG.GCTGAAACGGCGAGGCTGCCCGATCCGCGCTGTGTCCGAGGTGCATCACCCGGGTCCGGAGCAGGCGGGAGCCGTCCGTCGCGGGCGTCGTTAGGGCCAGGCCATCGAAcCTGCCAT..CCCACTGGGAGGACCCAGAAA
+#=GR CP000249/5256735-5256899 PP .789************************.*********************************************************************************************************************..******************987
+CP000820/213421-213270           TTGGCACTCTCCCCATGGGAGTGCCAAGgGCTGAAACGACGAGGCTTCCTGGTCATCCTTCCGTTCG---------CACGGGGGCC-----GGGTCGGAGCCGTCCGTCGCGGGCGTCGTTGTGGCCAGGCCATCGAA.CTGCCAT..CCCCCTGGGAGGACCCAGACA
+#=GR CP000820/213421-213270   PP 689************************999**********************************999.........9*********.....899********************************************.*******..******************986
+CP002299/175987-175892           ----------------------------.--------------------------------------GGGTGCTCGTGCGCGGGTCG----TGGCGTGA-TCGTCCGTCGCGGGCGTCGTTGTGGCCAGGCCATCACA.CTGCCATatCCCTGTGGGAGGACTCCGACA
+#=GR CP002299/175987-175892   PP ...................................................................368999999**********9....********.9*************************************.*****987689999************9986
+CP002801/5189181-5189294         --GGCACTCACCCGCTGCGAGTGCCAGG.GCTGA-GCGACGAGGC----------------------------------------CA--------CCGGGCCGTCCGTCGCGGGCGTCGTCTTGGCCAGGCCATTGAA.CAGCCAT..TCCCCTGGGAGGACCACGACA
+#=GR CP002801/5189181-5189294 PP ..66677777777777777777777777.77765.2333333332........................................21........123369*************************************.*******..***************999976
+#=GC SS_cons                     .((((((((((.....))))))))))........................................................((((......(((...(((((((((...))))))..)))...))).))))..........((.(..(((...)))))).........
+
+//

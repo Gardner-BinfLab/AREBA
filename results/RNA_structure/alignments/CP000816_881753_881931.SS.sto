@@ -1,0 +1,78 @@
+# STOCKHOLM 1.0
+
+#=GS Thermosphaera/1022024-1022100   DE [subseq from] aggregans DSM 11486, complete genome. 1316595
+#=GS Desulfurococcus/1010310-1010387 DE [subseq from] fermentans DSM 16532, complete genome. 1384116
+#=GS Desulfurococcus/889306-889382   DE [subseq from] kamchatkensis 1221n, complete genome. 1365223
+#=GS Desulfurococcus/996979-996903   DE [subseq from] mucosus DSM 2162, complete genome. 1314639
+#=GS Staphylothermus/543879-543956   DE [subseq from] marinus F1, complete genome. 1570485
+#=GS Thermogladius/1239131-1239055   DE [subseq from] cellulolyticus 1633, complete genome. 1356318
+#=GS Staphylothermus/231976-231900   DE [subseq from] hellenicus DSM 12710, complete genome. 1580347
+#=GS Aeropyrum/523954-524031         DE [subseq from] pernix K1 DNA, complete genome. 1669696
+#=GS Ignisphaera/1436848-1436769     DE [subseq from] aggregans DSM 17230, complete genome. 1875953
+#=GS Ignicoccus/881820-881895        DE [subseq from] hospitalis KIN4/I, complete genome. 1297538
+#=GS Sulfolobus/172873-172925        DE [subseq from] islandicus M.14.25, complete genome. 2608832
+#=GS Sulfolobus/173226-173278        DE [subseq from] islandicus M.16.27, complete genome. 2692402
+#=GS Sulfolobus/173234-173286        DE [subseq from] islandicus L.D.8.5, complete genome. 2722032
+#=GS Sulfolobus/173342-173394        DE [subseq from] islandicus Y.G.57.14, complete genome. 2702058
+#=GS Sulfolobus/187338-187390        DE [subseq from] islandicus L.S.2.15, complete genome. 2736272
+#=GS Sulfolobus/2478493-2478545      DE [subseq from] islandicus Y.N.15.51, complete genome. 2812165
+#=GS Sulfolobus/164067-164119        DE [subseq from] islandicus LAL14/1, complete genome. 2465177
+#=GS Sulfolobus/173882-173934        DE [subseq from] islandicus REY15A, complete genome. 2522992
+#=GS Sulfolobus/173895-173947        DE [subseq from] islandicus HVE10/4, complete genome. 2655201
+#=GS Sulfolobus/185019-185071        DE [subseq from] islandicus M.16.4, complete genome. 2586647
+#=GS Hyperthermus/53683-53604        DE [subseq from] butylicus DSM 5456, complete genome. 1667163
+#=GS Sulfolobus/182764-182814        DE [subseq from] solfataricus 98/2, complete genome. 2668974
+#=GS Sulfolobus/2189467-2189517      DE [subseq from] solfataricus P2, complete genome. 2992245
+#=GS Pyrolobus/1367981-1368058       DE [subseq from] fumarii 1A, complete genome. 1843267
+
+Thermosphaera/1022024-1022100           -AGAATTAAGGCCGGGAGTGACCCGACCCATGCTCACTCTT.CCCCGG.TACTCGGGG..ACGTT...GCATG.GGCACCGGGGTC
+#=GR Thermosphaera/1022024-1022100   PP .5778999*********************************.******.*********..*****...*****.*********985
+Desulfurococcus/1010310-1010387         ATGTGGTGAGGCCGGGAGTGACCCGACCCATGTTCATTCCG.CCCCGT.TACGCGGGG..GTGTT...GCATG.GGCACCGGGGTC
+#=GR Desulfurococcus/1010310-1010387 PP 5788999**********************************.******.*********..*****...*****.*********986
+Desulfurococcus/889306-889382           -TGTGGTGAGGCCGGGAGTGACCCGACCCATGTTCATTCCG.CCCCGT.TACGCGGGG..GTGTT...ACATG.GGCACCGGGGTC
+#=GR Desulfurococcus/889306-889382   PP .5678899*********************************.******.*********..*****...*****.*********986
+Desulfurococcus/996979-996903           -TAGAGTGCGGCCGGGAGTGACCCGACCCATGTTCATTCCG.CCCCGT.TACGCGGGG..GTGTT...GCATG.GGCACCGGGGTC
+#=GR Desulfurococcus/996979-996903   PP .66788999********************************.******.*********..*****...*****.*********986
+Staphylothermus/543879-543956           ATGTGTTATAGCCGGGAGTGACCCGTCCTACGCTCATACCC.TCCCGG.TACACGGGA..GCGTT...GCGTA.GGCTCCGGGGCA
+#=GR Staphylothermus/543879-543956   PP 6789999**********************************.******.*********..*****...*****.*********975
+Thermogladius/1239131-1239055           -TTTATGTGAGCCGGGAGTGACCCGACCCATGGTCACCCAC.CCCCGG.TACACGGGG..GCGTA...GCATG.GGCACCGGGGTC
+#=GR Thermogladius/1239131-1239055   PP .677888899*******************************.******.*********..*****...*****.*********985
+Staphylothermus/231976-231900           -TGTGTTATGGCCGGGAGTGACCCGTCCTACGCTCATACCC.TCCCGG.TACACGGGA..GCGTT...GCGTA.GGCTCCGGGGCA
+#=GR Staphylothermus/231976-231900   PP .6788999*********************************.******.*********..*****...*****.*********976
+Aeropyrum/523954-524031                 -TTAAAGTAGGCCGGGAGTGACCCGCCCCGTGCACATTTAT.CCCCGA.GCCCCGGGG..TCTAT...TCGCAcGGGACCGGGGTA
+#=GR Aeropyrum/523954-524031         PP .56778889********************************.******.*********..*****...***************997
+Ignisphaera/1436848-1436769             -TATAGGGATGCCGGGGGTGACCCGCTCCGTGCACATATAG.CCCCGG.GACACGGGGtcCTTTT...ACACGgGCAACCGGGGCA
+#=GR Ignisphaera/1436848-1436769     PP .677888999*******************************.******.*********6557777...999997888999999875
+Ignicoccus/881820-881895                ---GGGTTGGGCCGGGAGTGACCCGCCCCGCGCCCATCGGA.CCCCGG.GACTCGGGG..CTACT...AAGCGcGGGACCGGGGTT
+#=GR Ignicoccus/881820-881895        PP ...5678889*******************************.******.*********..*****...***************997
+Sulfolobus/172873-172925                -------AAATCCGGGGGTGACCC-TCCTGCGATCATTTTA.CCCCGG.TACTCGGGG..ATTGG...-----.------------
+#=GR Sulfolobus/172873-172925        PP .......5789*************.****************.******.*********..99977.....................
+Sulfolobus/173226-173278                -------AAATCCGGGGGTGACCC-TCCTGCGATCATTTTA.CCCCGG.TACTCGGGG..ATTGG...-----.------------
+#=GR Sulfolobus/173226-173278        PP .......5789*************.****************.******.*********..99977.....................
+Sulfolobus/173234-173286                -------AAATCCGGGGGTGACCC-TCCTGCGATCATTTTA.CCCCGG.TACTCGGGG..ATTGG...-----.------------
+#=GR Sulfolobus/173234-173286        PP .......5789*************.****************.******.*********..99977.....................
+Sulfolobus/173342-173394                -------AAATCCGGGGGTGACCC-TCCTGCGATCATTTTA.CCCCGG.TACTCGGGG..ATTGG...-----.------------
+#=GR Sulfolobus/173342-173394        PP .......5789*************.****************.******.*********..99977.....................
+Sulfolobus/187338-187390                -------AAATCCGGGGGTGACCC-TCCTGCGATCATTTTA.CCCCGG.TACTCGGGG..ATTGG...-----.------------
+#=GR Sulfolobus/187338-187390        PP .......5789*************.****************.******.*********..99977.....................
+Sulfolobus/2478493-2478545              -------AAATCCGGGGGTGACCC-TCCTGCGATCATTTTA.CCCCGG.TACTCGGGG..ATTGG...-----.------------
+#=GR Sulfolobus/2478493-2478545      PP .......5789*************.****************.******.*********..99977.....................
+Sulfolobus/164067-164119                -------AAATCCGGGGGTGACCC-TCCTGCGATCATTTTA.CCCCGG.TACTCGGGG..ATTGT...-----.------------
+#=GR Sulfolobus/164067-164119        PP .......5789*************.****************.******.*********..99976.....................
+Sulfolobus/173882-173934                -------AAATCCGGGGGTGACCC-TCCTGCGATCATTTTA.CCCCGG.TACTCGGGG..ATTGT...-----.------------
+#=GR Sulfolobus/173882-173934        PP .......5789*************.****************.******.*********..99976.....................
+Sulfolobus/173895-173947                -------AAATCCGGGGGTGACCC-TCCTGCGATCATTTTA.CCCCGG.TACTCGGGG..ATTGT...-----.------------
+#=GR Sulfolobus/173895-173947        PP .......5789*************.****************.******.*********..99976.....................
+Sulfolobus/185019-185071                -------AAATCCGGGGGTGACCC-TCCTGCGATCATTTTA.CCCCGG.TACTCGGGG..ATTGT...-----.------------
+#=GR Sulfolobus/185019-185071        PP .......5789*************.****************.******.*********..99976.....................
+Hyperthermus/53683-53604                ---GGATGCGGCCGGGAGTGACCCGCCCCCTGCTCATCTGTtCCCCGG.GACTCGGGG..CCTTGtgcTCGCAgGGGACCGGGGTT
+#=GR Hyperthermus/53683-53604        PP ...6788899***************************998879*****.*********..98887677899**9*********986
+Sulfolobus/182764-182814                -------AAATCCGGGGGTGACCC-TCCTGCGATCATCTTA.CCCCGG.TACACGGGG..ATT--...-----.------------
+#=GR Sulfolobus/182764-182814        PP .......5789*************.****************.******.*********..987.......................
+Sulfolobus/2189467-2189517              -------AAATCCGGGGGTGACCC-TCCTGCGATCATCTTA.CCCCGG.TACACGGGG..ATT--...-----.------------
+#=GR Sulfolobus/2189467-2189517      PP .......5789*************.****************.******.*********..987.......................
+Pyrolobus/1367981-1368058               -TTGATTGCGGCCGGGAGTGACCCGACCCCTGCCCATCGAG.CCCCGAcGACACGGGG..TCGCG...TCGCAgGGGACCGGGGA-
+#=GR Pyrolobus/1367981-1368058       PP .6678999*********************************.******9*********..*****...**************985.
+#=GC SS_cons                            .........(((.(((..........)))..)))........(((((......)))))............................
+
+//

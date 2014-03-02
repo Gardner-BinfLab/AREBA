@@ -1,0 +1,166 @@
+# STOCKHOLM 1.0
+# WARNING: seq names have been made unique by adding a prefix of "<seq#>|"
+
+#=GS 00|CP002549/199264-199106      DE [subseq from] Chlamydophila psittaci 6BC, complete genome.
+#=GS 01|CP002586/199173-199015      DE [subseq from] Chlamydophila psittaci 6BC, complete genome.
+#=GS 02|CP002804/199265-199107      DE [subseq from] Chlamydophila psittaci C19/98, complete genome.
+#=GS 03|CP002805/199269-199111      DE [subseq from] Chlamydophila psittaci 01DC11, complete genome.
+#=GS 04|CP002806/199265-199107      DE [subseq from] Chlamydophila psittaci 02DC15, complete genome.
+#=GS 05|CP002807/199267-199109      DE [subseq from] Chlamydophila psittaci 08DC60, complete genome.
+#=GS 06|Chlamydia/199229-199071     DE [subseq from] psittaci WC, complete genome. 1172265
+#=GS 07|Chlamydia/199230-199072     DE [subseq from] psittaci NJ1, complete genome. 1161434
+#=GS 08|Chlamydia/199244-199086     DE [subseq from] psittaci 84/55, complete genome. 1172064
+#=GS 09|Chlamydia/199260-199102     DE [subseq from] psittaci MN, complete genome. 1168490
+#=GS 10|Chlamydia/199260-199102     DE [subseq from] psittaci CP3, complete genome. 1168150
+#=GS 11|Chlamydia/199265-199107     DE [subseq from] psittaci 01DC12 complete genome 1171011
+#=GS 12|Chlamydophila/199219-199061 DE [subseq from] psittaci Mat116, complete genome. 1163362
+#=GS 13|FQ482149/199266-199108      DE [subseq from] Chlamydophila psittaci RD1 genome.
+#=GS 14|Chlamydia/199207-199049     DE [subseq from] psittaci VS225, complete genome. 1157385
+#=GS 15|CR848038/199089-198931      DE [subseq from] Chlamydophila abortus strain S26/3, complete genome.
+#=GS 16|Chlamydia/199147-198989     DE [subseq from] psittaci GR9, complete genome. 1147152
+#=GS 17|Chlamydia/199250-199092     DE [subseq from] psittaci WS/RT/E30, complete genome. 1140789
+#=GS 18|Chlamydia/199206-199048     DE [subseq from] psittaci M56, complete genome. 1161385
+#=GS 19|AE001363/642859-643017      DE [subseq from] Chlamydophila pneumoniae CWL029, complete genome.
+#=GS 20|AE002161/198726-198568      DE [subseq from] Chlamydophila pneumoniae AR39, complete genome.
+#=GS 21|AE009440/640181-640339      DE [subseq from] Chlamydophila pneumoniae TW-183, complete genome.
+#=GS 22|BA000008/642180-642338      DE [subseq from] Chlamydophila pneumoniae J138 genomic DNA, complete sequence.
+#=GS 23|CP001713/199274-199116      DE [subseq from] Chlamydophila pneumoniae LPCoLN, complete genome.
+#=GS 24|AP006861/967706-967863      DE [subseq from] Chlamydophila felis Fe/C-56 DNA, complete genome.
+#=GS 25|AE015925/198180-198023      DE [subseq from] Chlamydophila caviae GPIC, complete genome.
+#=GS 26|AE001273/513616-513745      DE [subseq from] Chlamydia trachomatis D/UW-3/CX, complete genome.
+#=GS 27|CP001887/514227-514356      DE [subseq from] Chlamydia trachomatis G/9768, complete genome.
+#=GS 28|CP001888/513797-513926      DE [subseq from] Chlamydia trachomatis G/11222, complete genome.
+#=GS 29|CP001889/514229-514358      DE [subseq from] Chlamydia trachomatis G/11074, complete genome.
+#=GS 30|CP001930/514228-514357      DE [subseq from] Chlamydia trachomatis G/9301, complete genome.
+#=GS 31|CP002052/513617-513746      DE [subseq from] Chlamydia trachomatis D-EC, complete genome.
+#=GS 32|CP002054/513615-513744      DE [subseq from] Chlamydia trachomatis D-LC, complete genome.
+#=GS 33|CP002401/515891-516020      DE [subseq from] Chlamydia trachomatis A2497, complete genome.
+#=GS 34|FM872306/515888-516017      DE [subseq from] Chlamydia trachomatis A2497 serovar A, complete genome
+#=GS 35|FM872307/515857-515986      DE [subseq from] Chlamydia trachomatis B/TZ1A828/OT, complete genome
+#=GS 36|FM872308/515937-516066      DE [subseq from] Chlamydia trachomatis B/Jali20/OT, complete genome
+#=GS 37|AM884177/832238-832367      DE [subseq from] Chlamydia trachomatis L2b/UCH-1/proctitis complete genome
+#=GS 38|CP001886/514186-514315      DE [subseq from] Chlamydia trachomatis E/150, complete genome.
+#=GS 39|CP001890/514203-514332      DE [subseq from] Chlamydia trachomatis E/11023, complete genome.
+#=GS 40|Chlamydia/514385-514514     DE [subseq from] trachomatis F/SW4 complete genome 1042736
+#=GS 41|Chlamydia/514391-514520     DE [subseq from] trachomatis F/SW5 complete genome 1042743
+#=GS 42|Chlamydia/514813-514942     DE [subseq from] trachomatis IU888 complete genome 1043022
+#=GS 43|Chlamydia/514813-514942     DE [subseq from] trachomatis IU824 complete genome 1043022
+#=GS 44|Chlamydia/514838-514967     DE [subseq from] trachomatis E/SW3 complete genome 1042903
+#=GS 45|FN652779/514622-514751      DE [subseq from] Chlamydia trachomatis Sweden2, complete genome
+#=GS 46|AM884176/832204-832333      DE [subseq from] Chlamydia trachomatis strain L2/434/Bu complete genome
+#=GS 47|Chlamydia/832204-832333     DE [subseq from] trachomatis L2/434/Bu(f), complete genome. 1038842
+#=GS 48|Chlamydia/832204-832333     DE [subseq from] trachomatis L2/434/Bu(i), complete genome. 1038842
+#=GS 49|CP002024/831913-832042      DE [subseq from] Chlamydia trachomatis L2c, complete genome.
+#=GS 50|CP000051/516020-516149      DE [subseq from] Chlamydia trachomatis A/HAR-13, complete genome.
+#=GS 51|CP002608/498385-498219      DE [subseq from] Chlamydophila pecorum E58, complete genome.
+#=GS 52|AE002160/866230-866360      DE [subseq from] Chlamydia muridarum Nigg, complete genome.
+
+00|CP002549/199264-199106              CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAA.TTTACCTCCTAACTGCCTAACCAATTTAAGTAAACAGATAAG
+#=GR 00|CP002549/199264-199106      PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+01|CP002586/199173-199015              CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAA.TTTACCTCCTAACTGCCTAACCAATTTAAGTAAACAGATAAG
+#=GR 01|CP002586/199173-199015      PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+02|CP002804/199265-199107              CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAA.TTTACCTCCTAACTGCCTAACCAATTTAAGTAAACAGATAAG
+#=GR 02|CP002804/199265-199107      PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+03|CP002805/199269-199111              CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAA.TTTACCTCCTAACTGCCTAACCAATTTAAGTAAACAGATAAG
+#=GR 03|CP002805/199269-199111      PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+04|CP002806/199265-199107              CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAA.TTTACCTCCTAACTGCCTAACCAATTTAAGTAAACAGATAAG
+#=GR 04|CP002806/199265-199107      PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+05|CP002807/199267-199109              CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAA.TTTACCTCCTAACTGCCTAACCAATTTAAGTAAACAGATAAG
+#=GR 05|CP002807/199267-199109      PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+06|Chlamydia/199229-199071             CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAA.TTTACCTCCTAACTGCCTAACCAATTTAAGTAAACAGATAAG
+#=GR 06|Chlamydia/199229-199071     PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+07|Chlamydia/199230-199072             CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAA.TTTACCTCCTAACTGCCTAACCAATTTAAGTAAACAGATAAG
+#=GR 07|Chlamydia/199230-199072     PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+08|Chlamydia/199244-199086             CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAA.TTTACCTCCTAACTGCCTAACCAATTTAAGTAAACAGATAAG
+#=GR 08|Chlamydia/199244-199086     PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+09|Chlamydia/199260-199102             CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAA.TTTACCTCCTAACTGCCTAACCAATTTAAGTAAACAGATAAG
+#=GR 09|Chlamydia/199260-199102     PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+10|Chlamydia/199260-199102             CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAA.TTTACCTCCTAACTGCCTAACCAATTTAAGTAAACAGATAAG
+#=GR 10|Chlamydia/199260-199102     PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+11|Chlamydia/199265-199107             CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAA.TTTACCTCCTAACTGCCTAACCAATTTAAGTAAACAGATAAG
+#=GR 11|Chlamydia/199265-199107     PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+12|Chlamydophila/199219-199061         CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAA.TTTACCTCCTAACTGCCTAACCAATTTAAGTAAACAGATAAG
+#=GR 12|Chlamydophila/199219-199061 PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+13|FQ482149/199266-199108              CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAA.TTTACCTCCTAACTGCCTAACCAATTTAAGTAAACAGATAAG
+#=GR 13|FQ482149/199266-199108      PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+14|Chlamydia/199207-199049             CATAGGGATCTCCTAT....CGCATGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAA.TTTACCTCCTAACTGCCTAACCAATTTAAGTAAACAGATAAG
+#=GR 14|Chlamydia/199207-199049     PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+15|CR848038/199089-198931              CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAC.TTTACCTCCTAACTACCTAACCAATTTAAGTAAACAGATAAG
+#=GR 15|CR848038/199089-198931      PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+16|Chlamydia/199147-198989             CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAC.TTTACCTCCTAACTACCTAACCAATTTAAGTAAACAGATAAG
+#=GR 16|Chlamydia/199147-198989     PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+17|Chlamydia/199250-199092             CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--GTG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAC.TTTACCTCCTAACTACCTAACCAATTTAAGTAAACAGATAAG
+#=GR 17|Chlamydia/199250-199092     PP 689*************....**************************************99..***........****************************9999...55555554444499**....******..****.**************************************9986
+18|Chlamydia/199206-199048             CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTT--ATG........AACTCTTACCCTCAACATTTAAGTTTATTTTT.--CATAAAGGcagtTAGC....AGGGAA..ATAA.TTTACCTCCTAACTACCTAACCAATTTAAGTAAACAGATAAG
+#=GR 18|Chlamydia/199206-199048     PP 689*************....**************************************99..***........****************************9999...55555544444499**....******..****.**************************************9986
+19|AE001363/642859-643017              CATAGGGATCTCCTAT....CGCATGTTTATTTTTTTCTTCTGCCATCGGGTAGAATGTTTTGTA........AACTCTTACCCTCAACATTTGGGTTTATTATC.TGAATTAAGG....TAGT....CAGGAA..TTAA.TTCATCTCCTAACTACCCGATCAATTTAAGTAAACAGTTAAG
+#=GR 19|AE001363/642859-643017      PP 689*************....*********************************************........********************************.**********....****....******..****.*************************************99986
+20|AE002161/198726-198568              CATAGGGATCTCCTAT....CGCATGTTTATTTTTTTCTTCTGCCATCGGGTAGAATGTTTTGTA........AACTCTTACCCTCAACATTTGGGTTTATTATC.TGAATTAAGG....TAGT....CAGGAA..TTAA.TTCATCTCCTAACTACCTGATCAATTTAAGTAAACAGTTAAG
+#=GR 20|AE002161/198726-198568      PP 689*************....*********************************************........********************************.**********....****....******..****.*************************************99986
+21|AE009440/640181-640339              CATAGGGATCTCCTAT....CGCATGTTTATTTTTTTCTTCTGCCATCGGGTAGAATGTTTTGTA........AACTCTTACCCTCAACATTTGGGTTTATTATC.TGAATTAAGG....TAGT....CAGGAA..TTAA.TTCATCTCCTAACTACCTGATCAATTTAAGTAAACAGTTAAG
+#=GR 21|AE009440/640181-640339      PP 689*************....*********************************************........********************************.**********....****....******..****.*************************************99986
+22|BA000008/642180-642338              CATAGGGATCTCCTAT....CGCATGTTTATTTTTTTCTTCTGCCATCGGGTAGAATGTTTTGTA........AACTCTTACCCTCAACATTTGGGTTTATTATC.TGAATTAAGG....TAGT....CAGGAA..TTAA.TTCATCTCCTAACTACCTGATCAATTTAAGTAAACAGTTAAG
+#=GR 22|BA000008/642180-642338      PP 689*************....*********************************************........********************************.**********....****....******..****.*************************************99986
+23|CP001713/199274-199116              CATAGGGATCTCCTAT....CGCATGTTTATTTTTTTCTTCTGCCATCGGGTAGAATGTTTTGTA........AACTCTTACCCTCAACATTTGGGTTTATTATC.TGAATTAAGG....TAGT....CAGGAA..TTAA.TTCATCTCCTAACTACCTGATCAATTTAAGTAAACAGTTAAG
+#=GR 23|CP001713/199274-199116      PP 689*************....*********************************************........********************************.**********....****....******..****.*************************************99986
+24|AP006861/967706-967863              CATAGGGATCTCCTAT....CGCGTGTGTTGTTTTTTCTTCTGCCATCGGGTAGAAAGTT--ATG........AACTCTTACCCTCAACATTTAAGTTTATTTTTaTAAAGGCAGT....TAGC....AGGGAA..ATAC.TTTACCTCCTAACTACCCGATCAATTTAAGTAAACAGATAAG
+#=GR 24|AP006861/967706-967863      PP 689*************....**************************************99..***........**************************99988724455667888....****....******..****.**************************************9986
+25|AE015925/198180-198023              CATAGGGATCTCCTAT....CGCGTGTGTTATTTTTTCTTCTGCCATCGGGTAGAAAGTG--ATG........GACTCTTACCCTCAACATTTAAGTTTATTTTC.---ATAAAGG....TAGTtaacAGGGAA..ATAA.TTTACCTCCTAACTACCTAACCAATTTAAGTAAATAGTTAAG
+#=GR 25|AE015925/198180-198023      PP 689*************....****************************************..***........***************************99987....5666666....5554222299****..****.*************************************99986
+26|AE001273/513616-513745              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 26|AE001273/513616-513745      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+27|CP001887/514227-514356              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 27|CP001887/514227-514356      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+28|CP001888/513797-513926              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 28|CP001888/513797-513926      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+29|CP001889/514229-514358              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 29|CP001889/514229-514358      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+30|CP001930/514228-514357              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 30|CP001930/514228-514357      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+31|CP002052/513617-513746              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 31|CP002052/513617-513746      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+32|CP002054/513615-513744              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 32|CP002054/513615-513744      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+33|CP002401/515891-516020              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 33|CP002401/515891-516020      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+34|FM872306/515888-516017              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 34|FM872306/515888-516017      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+35|FM872307/515857-515986              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 35|FM872307/515857-515986      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+36|FM872308/515937-516066              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 36|FM872308/515937-516066      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+37|AM884177/832238-832367              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 37|AM884177/832238-832367      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+38|CP001886/514186-514315              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.TGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 38|CP001886/514186-514315      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+39|CP001890/514203-514332              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.TGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 39|CP001890/514203-514332      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+40|Chlamydia/514385-514514             -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.TGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 40|Chlamydia/514385-514514     PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+41|Chlamydia/514391-514520             -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.TGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 41|Chlamydia/514391-514520     PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+42|Chlamydia/514813-514942             -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.TGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 42|Chlamydia/514813-514942     PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+43|Chlamydia/514813-514942             -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.TGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 43|Chlamydia/514813-514942     PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+44|Chlamydia/514838-514967             -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.TGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 44|Chlamydia/514838-514967     PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+45|FN652779/514622-514751              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.TGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 45|FN652779/514622-514751      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+46|AM884176/832204-832333              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 46|AM884176/832204-832333      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+47|Chlamydia/832204-832333             -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 47|Chlamydia/832204-832333     PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+48|Chlamydia/832204-832333             -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 48|Chlamydia/832204-832333     PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+49|CP002024/831913-832042              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 49|CP002024/831913-832042      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+50|CP000051/516020-516149              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTACAAATTGTTATTaa....ctAACTTTTACCCTCAACATTTT--CTTGTTAGC.CGAAAT-AGT....TAGT....AAGGAA..GCCAaCTTCCTTACTAACTAC--------------------------
+#=GR 50|CP000051/516020-516149      PP .....79*********...************.899999**********************9999866....668899*****************..*********.***999.***....****....******..**999**************99..........................
+51|CP002608/498385-498219              CATAGGGATCTCCTATctatCACATAGTTAG-TTTTTCTTCTGCCATCGGGTAAAGAATCTAAAGcttgcaagGATCCCTACCCTTAACATTCAGTTTTACTAGT.----ACAAGG....TAGT....TAGAAA..GTATgTCTATTTCCTAACTACCCTATTAATTTAAGTAAACAGATAAG
+#=GR 51|CP002608/498385-498219      PP 689*********9887555589***999988.999******************999988876655555566669999*************************999.....778***....****....******..***9999************************************9986
+52|AE002160/866230-866360              -----GGATCTCCTAT...tCGCATAGATTA-TTTTTTGTCTGCCATCGGGTAGAAATTGTTATTaa....ctAACTTTTACCCTACACATTTT--TCTTTTATC.CGAAAT-AGT....TAGT....AAGGAAaaGCAT.TTTCCTTACTAACTAC--------------------------
+#=GR 52|AE002160/866230-866360      PP .....79*********...************.899999**********************9998866....668899****************9..999999***.**9999.***....****....***987335666.99************99..........................
+#=GC SS_cons                           .....((....))..........................((((((....)))))).................................................................(((......((..(..(....))..))..)))...............................
+
+//

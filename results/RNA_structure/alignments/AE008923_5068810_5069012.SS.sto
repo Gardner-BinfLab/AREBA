@@ -1,0 +1,244 @@
+# STOCKHOLM 1.0
+
+#=GS CP000050/5022861-5023053         DE [subseq from] Xanthomonas campestris pv. campestris str. 8004, complete genome.
+#=GS AE008923/5068813-5069005         DE [subseq from] Xanthomonas axonopodis pv. citri str. 306, complete genome.
+#=GS Xanthomonas/5048481-5048673      DE [subseq from] axonopodis Xac29-1, complete genome. 5153455
+#=GS AE008922/4560811-4561003         DE [subseq from] Xanthomonas campestris pv. campestris str. ATCC 33913, complete genome.
+#=GS AE008922/4948679-4948871         DE [subseq from] Xanthomonas campestris pv. campestris str. ATCC 33913, complete genome.
+#=GS CP000050/4635474-4635666         DE [subseq from] Xanthomonas campestris pv. campestris str. 8004, complete genome.
+#=GS CP002914/4845535-4845728         DE [subseq from] Xanthomonas axonopodis pv. citrumelo F1, complete genome.
+#=GS AM920689/4553403-4553595         DE [subseq from] Xanthomonas campestris pv. campestris complete genome, strain B100
+#=GS AE008923/4579571-4579763         DE [subseq from] Xanthomonas axonopodis pv. citri str. 306, complete genome.
+#=GS Xanthomonas/4586682-4586874      DE [subseq from] axonopodis Xac29-1, complete genome. 5153455
+#=GS Xanthomonas/5214749-5214941      DE [subseq from] citri subsp. citri Aw12879, complete genome. 5321499
+#=GS Xanthomonas/457957-457765        DE [subseq from] citri subsp. citri Aw12879, complete genome. 5321499
+#=GS CP003057/220308-220116           DE [subseq from] Xanthomonas oryzae pv. oryzicola BLS256, complete genome.
+#=GS CP003057/526866-526674           DE [subseq from] Xanthomonas oryzae pv. oryzicola BLS256, complete genome.
+#=GS CP002914/4382390-4382582         DE [subseq from] Xanthomonas axonopodis pv. citrumelo F1, complete genome.
+#=GS CP000967/5086315-5086507         DE [subseq from] Xanthomonas oryzae pv. oryzae PXO99A, complete genome.
+#=GS AE013598/307758-307566           DE [subseq from] Xanthomonas oryzae pv. oryzae KACC10331, complete genome.
+#=GS AE013598/535044-534852           DE [subseq from] Xanthomonas oryzae pv. oryzae KACC10331, complete genome.
+#=GS AP008229/295658-295466           DE [subseq from] Xanthomonas oryzae pv. oryzae MAFF 311018 DNA, complete genome.
+#=GS AP008229/522899-522707           DE [subseq from] Xanthomonas oryzae pv. oryzae MAFF 311018 DNA, complete genome.
+#=GS CP000967/4860916-4861108         DE [subseq from] Xanthomonas oryzae pv. oryzae PXO99A, complete genome.
+#=GS CP002789/4813878-4814071         DE [subseq from] Xanthomonas campestris pv. raphani 756C, complete genome.
+#=GS AM920689/4951568-4951761         DE [subseq from] Xanthomonas campestris pv. campestris complete genome, strain B100
+#=GS CP002789/482059-481866           DE [subseq from] Xanthomonas campestris pv. raphani 756C, complete genome.
+#=GS AM039952/5058259-5058450         DE [subseq from] Xanthomonas campestris pv. vesicatoria complete genome
+#=GS AM039952/4604080-4604270         DE [subseq from] Xanthomonas campestris pv. vesicatoria complete genome
+#=GS CP002986/4483980-4484168         DE [subseq from] Stenotrophomonas maltophilia JV3, complete genome.
+#=GS CP002986/4478316-4478504         DE [subseq from] Stenotrophomonas maltophilia JV3, complete genome.
+#=GS Stenotrophomonas/4707196-4707384 DE [subseq from] maltophilia D457 complete genome 4769156
+#=GS AM743169/4784927-4785113         DE [subseq from] Stenotrophomonas maltophilia K279a complete genome, strain K279a
+#=GS AM743169/4790591-4790777         DE [subseq from] Stenotrophomonas maltophilia K279a complete genome, strain K279a
+#=GS CP002986/373669-373481           DE [subseq from] Stenotrophomonas maltophilia JV3, complete genome.
+#=GS CP002986/368005-367817           DE [subseq from] Stenotrophomonas maltophilia JV3, complete genome.
+#=GS CP001111/4505290-4505478         DE [subseq from] Stenotrophomonas maltophilia R551-3, complete genome.
+#=GS CP001111/4510960-4511148         DE [subseq from] Stenotrophomonas maltophilia R551-3, complete genome.
+#=GS AM743169/418467-418281           DE [subseq from] Stenotrophomonas maltophilia K279a complete genome, strain K279a
+#=GS AM743169/424131-423945           DE [subseq from] Stenotrophomonas maltophilia K279a complete genome, strain K279a
+#=GS Stenotrophomonas/4701536-4701722 DE [subseq from] maltophilia D457 complete genome 4769156
+#=GS Stenotrophomonas/397430-397244   DE [subseq from] maltophilia D457 complete genome 4769156
+#=GS Stenotrophomonas/403090-402904   DE [subseq from] maltophilia D457 complete genome 4769156
+#=GS CP001111/355065-354877           DE [subseq from] Stenotrophomonas maltophilia R551-3, complete genome.
+#=GS CP001111/360735-360547           DE [subseq from] Stenotrophomonas maltophilia R551-3, complete genome.
+#=GS CP003093/3413964-3414152         DE [subseq from] Pseudoxanthomonas spadix BD-a59, complete genome.
+#=GS CP002446/3230210-3230395         DE [subseq from] Pseudoxanthomonas suwonensis 11-1, complete genome.
+#=GS CP002446/1427093-1426908         DE [subseq from] Pseudoxanthomonas suwonensis 11-1, complete genome.
+#=GS FP565176/3692521-3692709         DE [subseq from] Xanthomonas albilineans str. GPE PC73, chromosome, complete genome.
+#=GS FP565176/436220-436032           DE [subseq from] Xanthomonas albilineans str. GPE PC73, chromosome, complete genome.
+
+CP000050/5022861-5023053                 CAAGTTGCCTCGGAGTTACATGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR CP000050/5022861-5023053         PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+AE008923/5068813-5069005                 CAAGTTGCCTCGGAGCTATCTGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR AE008923/5068813-5069005         PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+Xanthomonas/5048481-5048673              CAAGTTGCCTCGGAGCTATCTGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR Xanthomonas/5048481-5048673      PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+AE008922/4560811-4561003                 CAAGTTGCCTCGGAGTTACATGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR AE008922/4560811-4561003         PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+AE008922/4948679-4948871                 CAAGTTGCCTCGGAGTTACATGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR AE008922/4948679-4948871         PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+CP000050/4635474-4635666                 CAAGTTGCCTCGGAGTTACATGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR CP000050/4635474-4635666         PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+CP002914/4845535-4845728                 CAAGTTGCCTCAGGGTCATATGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGAGCCATAT
+#=GR CP002914/4845535-4845728         PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+AM920689/4553403-4553595                 CAAGTTGCCTCGGAGCTACATGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR AM920689/4553403-4553595         PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+AE008923/4579571-4579763                 CAAGTTGCCTCGGAGCTATCTGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR AE008923/4579571-4579763         PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+Xanthomonas/4586682-4586874              CAAGTTGCCTCGGAGCTATCTGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR Xanthomonas/4586682-4586874      PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+Xanthomonas/5214749-5214941              CAAGTTGCCTCGGAGCTATCTGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR Xanthomonas/5214749-5214941      PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+Xanthomonas/457957-457765                CAAGTTGCCTCGGAGCTATCTGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR Xanthomonas/457957-457765        PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+CP003057/220308-220116                   CAAGTTGCCTTGGAGCGATATGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR CP003057/220308-220116           PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+CP003057/526866-526674                   CAAGTTGCCTTGGAGCGATATGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR CP003057/526866-526674           PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+CP002914/4382390-4382582                 CAAGTTGCCTCAGGGTCATATGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGAGCCATAT
+#=GR CP002914/4382390-4382582         PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+CP000967/5086315-5086507                 CAAGTTGCCTCGGAGCTATATGC.CGTGCTGTGTGGAGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR CP000967/5086315-5086507         PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+AE013598/307758-307566                   CAAGTTGCCTCGGAGCTATATGC.CGTGCTGTGTGGAGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR AE013598/307758-307566           PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+AE013598/535044-534852                   CAAGTTGCCTCGGAGCTATATGC.CGTGCTGTGTGGAGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR AE013598/535044-534852           PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+AP008229/295658-295466                   CAAGTTGCCTCGGAGCTATATGC.CGTGCTGTGTGGAGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR AP008229/295658-295466           PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+AP008229/522899-522707                   CAAGTTGCCTCGGAGCTATATGC.CGTGCTGTGTGGAGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR AP008229/522899-522707           PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+CP000967/4860916-4861108                 CAAGTTGCCTCGGAGCTATATGC.CGTGCTGTGTGGAGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR CP000967/4860916-4861108         PP 689********************.************************************.*..***************.*************************************..******.***.************************************************.**********.**********
+CP002789/4813878-4814071                 CAAGTTGCCTCGGAGCTACATGTaCGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR CP002789/4813878-4814071         PP 689******************98789**********************************.*..***************.*************************************..******.***.************************************************.**********.**********
+AM920689/4951568-4951761                 CAAGTTGCCTCGGAGCTACATGTaCGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR AM920689/4951568-4951761         PP 689******************98789**********************************.*..***************.*************************************..******.***.************************************************.**********.**********
+CP002789/482059-481866                   CAAGTTGCCTCGGAGCTACATGTaCGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGATCCATAT
+#=GR CP002789/482059-481866           PP 689******************98789**********************************.*..***************.*************************************..******.***.************************************************.**********.**********
+AM039952/5058259-5058450                 CAAGTTGCCTCAGGGTCA--TGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGAGCCATAT
+#=GR AM039952/5058259-5058450         PP 689***********9987..677.9***********************************.*..***************.*************************************..******.***.************************************************.**********.**********
+AM039952/4604080-4604270                 CAAGTTGCCTCAGGGTCA--TGC.CGTGTTGTGTGGGGTACAAAGCCACCAACGCGAACA.T.-ACGACTCAATTATTT.AGGGACTCGAAGTCCCCGCCTTAGCCTCAACGACACG..TTTAGA.TAG.ATATCTCAAACGCTCGCTACGTCACAAGTTATAAAAGAACATGTCTCA.GCCTCAACGC.TGAGCCATAT
+#=GR AM039952/4604080-4604270         PP 689***********9987..677.9***********************************.*..***************.*************************************..******.***.************************************************.**********.**********
+CP002986/4483980-4484168                 CAAGTTGCCTTGGG-TTATACAT.-ATG-ACCCGGGGGTACAAAGCC-CGGATACGAATA.T.AACGACTCAATTAATAaAGAGACTTACGTCTCTCGCCTTAGCCTC-ACGACACG..TCTG-A.TAGaACATCTCAAACGCTCGCTACGTCACAAGTTTTAAAAGAACACGTACCA.GCCACAGTGC.TGATGCGTAT
+#=GR CP002986/4483980-4484168         PP 689********998.99998875..344.68999*************.************.*.***************999***************************.9*******..**98.*.***99***********************************************.**********.**********
+CP002986/4478316-4478504                 CAAGTTGCCTTGGG-TTATACAT.-ATG-ACCCGGGGGTACAAAGCC-CGGATACGAATA.T.AACGACTCAATCAATAaAGAGACTTATGTCTCTCGCCTTAGCCTC-ACGACACG..TCTG-A.TAGaACATCTCAAACGCTCGCTACGTCACAAGTTTTAAAAGAACACGTACCA.GCCACAGTGC.TGATGCGTAT
+#=GR CP002986/4478316-4478504         PP 689********998.99998875..344.68999*************.************.*.***************999***************************.9*******..**98.*.***99***********************************************.**********.**********
+Stenotrophomonas/4707196-4707384         CAAGTTGCCTTGGG-TTATACAT.-GTG-ACCCGGGGGTACAAAGCC-CGGATACGAATA.T.AACGACTCAATCAATAaAGAGACTTGCGTCTCTCGCCTTAGCCTC-ACGACACG..TCTG-A.TAGaACATCTCAAACGCTCGCTACGTCACAAGTTTTAAAAGAACACGTACCA.GCCACAGTGC.TGATGCGTAT
+#=GR Stenotrophomonas/4707196-4707384 PP 689********998.99998874..555.679999************.************.*.***************999***************************.9*******..**98.*.***99***********************************************.**********.*********9
+AM743169/4784927-4785113                 CAAGTTGCCTTGGG-TTACACA-.--TGA-TCCGGGGGTACAAAGCC-CGGATACGAATA.T.AACGACTCAATCAATAaAGAGACTTATGTCTCTCGCCTTAGCCTC-ACGACACG..TCTG-A.TAGaACATCTCAAACGCTCGCTACGTCACAAGTTTTAAAAGAACACGTACCA.GCCACAGTGC.TGATGCGTAT
+#=GR AM743169/4784927-4785113         PP 689********998.9999986....554.488999***********.************.*.***************999***************************.9*******..**98.*.***99***********************************************.**********.**********
+AM743169/4790591-4790777                 CAAGTTGCCTTGGG-TTACACA-.--TGA-TCCGGGGGTACAAAGCC-CGGATACGAATA.T.AACGACTCAATCAATAaAGAGACTTATGTCTCTCGCCTTAGCCTC-ACGACACG..TCTG-A.TAGaACATCTCAAACGCTCGCTACGTCACAAGTTTTAAAAGAACACGTACCA.GCCACAGTGC.TGATGCGTAT
+#=GR AM743169/4790591-4790777         PP 689********998.9999986....554.488999***********.************.*.***************999***************************.9*******..**98.*.***99***********************************************.**********.**********
+CP002986/373669-373481                   CAAGTTGCCTTGGG-TTATACAT.-ATG-ACCCGGGGGTACAAAGCC-CGGATACGAATA.T.AACGACTCAATTAATAaAGAGACTTACGTCTCTCGCCTTAGCCTC-ACGACACG..TCTG-A.TAGaACATCTCAAACGCTCGCTACGTCACAAGTTTTAAAAGAACACGTACCA.GCCACAGTGC.TGATGCGTAT
+#=GR CP002986/373669-373481           PP 689********998.99998875..344.68999*************.************.*.***************999***************************.9*******..**98.*.***99***********************************************.**********.*********9
+CP002986/368005-367817                   CAAGTTGCCTTGGG-TTATACAT.-ATG-ACCCGGGGGTACAAAGCC-CGGATACGAATA.T.AACGACTCAATCAATAaAGAGACTTATGTCTCTCGCCTTAGCCTC-ACGACACG..TCTG-A.TAGaACATCTCAAACGCTCGCTACGTCACAAGTTTTAAAAGAACACGTACCA.GCCACAGTGC.TGATGCGTAT
+#=GR CP002986/368005-367817           PP 689********998.99998875..344.68999*************.************.*.***************999***************************.9*******..**98.*.***99***********************************************.**********.*********9
+CP001111/4505290-4505478                 CAAGTTGCCTTGGG-TTATACA-.-TTTGACCCGGGGGTACAAAGCC-CGGATACGAATA.T.AACGACTCAATTAATAaAGAGACTTATGTCTCTCGCCTTAGCCTC-ACGACACG..TCTG-A.TAGaACATCTCAAACGCTCGCTACGTCACAAGTTTTAAAAGAACACGAACCG.GCCACAGTGC.CGATACGTAT
+#=GR CP001111/4505290-4505478         PP 689********998.9888876...46668999**************.************.*.***************999***************************.9*******..**98.*.***99***********************************************.**********.*********9
+CP001111/4510960-4511148                 CAAGTTGCCTTGGG-TTATACA-.-TTTGACCCGGGGGTACAAAGCC-CGGATACGAATA.T.AACGACTCAATTAATAaAGAGACTTATGTCTCTCGCCTTAGCCTC-ACGACACG..TCTG-A.TAGaACATCTCAAACGCTCGCTACGTCACAAGTTTTAAAAGAACACGAACCG.GCCACAGTGC.CGATACGTAT
+#=GR CP001111/4510960-4511148         PP 689********998.9888876...46668999**************.************.*.***************999***************************.9*******..**98.*.***99***********************************************.**********.*********9
+AM743169/418467-418281                   CAAGTTGCCTTGGG-TTACACA-.--TGA-TCCGGGGGTACAAAGCC-CGGATACGAATA.T.AACGACTCAATCAATAaAGAGACTTATGTCTCTCGCCTTAGCCTC-ACGACACG..TCTG-A.TAGaACATCTCAAACGCTCGCTACGTCACAAGTTTTAAAAGAACACGTACCA.GCCACAGTGC.TGATGCGTAT
+#=GR AM743169/418467-418281           PP 689********998.9999986....554.488999***********.************.*.***************999***************************.9*******..**98.*.***99***********************************************.**********.*********9
+AM743169/424131-423945                   CAAGTTGCCTTGGG-TTACACA-.--TGA-TCCGGGGGTACAAAGCC-CGGATACGAATA.T.AACGACTCAATCAATAaAGAGACTTATGTCTCTCGCCTTAGCCTC-ACGACACG..TCTG-A.TAGaACATCTCAAACGCTCGCTACGTCACAAGTTTTAAAAGAACACGTACCA.GCCACAGTGC.TGATGCGTAT
+#=GR AM743169/424131-423945           PP 689********998.9999986....554.488999***********.************.*.***************999***************************.9*******..**98.*.***99***********************************************.**********.*********9
+Stenotrophomonas/4701536-4701722         CAAGTTGCCTTGGG-TTACATA-.--TG-ACCCGGGGGTACAAAGCC-CGGATACGAATA.T.AACGACTCAATCAATAaAGAGACTTGCGTCTCTCGCCTTAGCCTT-ACGACACG..TCTG-A.TAGaACATCTCAAACGCTCGCTACGTCACAAGTTTTAAAAGAACACGTACCA.GCCACAGTGC.TGATGCGTAT
+#=GR Stenotrophomonas/4701536-4701722 PP 689********998.9999996....45.67999*************.************.*.***************999**************************9.9*******..**98.*.***99***********************************************.**********.*********9
+Stenotrophomonas/397430-397244           CAAGTTGCCTTGGG-TTACATA-.--TG-ACCCGGGGGTACAAAGCC-CGGATACGAATA.T.AACGACTCAATCAATAaAGAGACTTGCGTCTCTCGCCTTAGCCTT-ACGACACG..TCTG-A.TAGaACATCTCAAACGCTCGCTACGTCACAAGTTTTAAAAGAACACGTACCA.GCCACAGTGC.TGATGCGTAT
+#=GR Stenotrophomonas/397430-397244   PP 689********998.9999996....45.67999*************.************.*.***************999**************************9.9*******..**98.*.***99***********************************************.**********.*********9
+Stenotrophomonas/403090-402904           CAAGTTGCCTTGGG-TTACATA-.--TG-ACCCGGGGGTACAAAGCC-CGGATACGAATA.T.AACGACTCAATCAATAaAGAGACTTGCGTCTCTCGCCTTAGCCTT-ACGACACG..TCTG-A.TAGaACATCTCAAACGCTCGCTACGTCACAAGTTTTAAAAGAACACGTACCA.GCCACAGTGC.TGATGCGTAT
+#=GR Stenotrophomonas/403090-402904   PP 689********998.9999996....45.67999*************.************.*.***************999**************************9.9*******..**98.*.***99***********************************************.**********.*********9
+CP001111/355065-354877                   CAAGTTGCCTTGGG-TTATACA-.-TTTGACCCGGGGGTACAAAGCC-CGGATACGAATA.T.AACGACTCAATTAATAaAGAGACTTATGTCTCTCGCCTTAGCCTC-ACGACACG..TCTG-A.TAGaACATCTCAAACGCTCGCTACGTCACAAGTTTTAAAAGAACACGAACCG.GCCACAGTGC.CGATACGTAT
+#=GR CP001111/355065-354877           PP 689********998.8888876...46668999**************.************.*.***************999***************************.9*******..**98.*.***99***********************************************.**********.********99
+CP001111/360735-360547                   CAAGTTGCCTTGGG-TTATACA-.-TTTGACCCGGGGGTACAAAGCC-CGGATACGAATA.T.AACGACTCAATTAATAaAGAGACTTATGTCTCTCGCCTTAGCCTC-ACGACACG..TCTG-A.TAGaACATCTCAAACGCTCGCTACGTCACAAGTTTTAAAAGAACACGAACCG.GCCACAGTGC.CGATACGTAT
+#=GR CP001111/360735-360547           PP 689********998.8888876...46668999**************.************.*.***************999***************************.9*******..**98.*.***99***********************************************.**********.********99
+CP003093/3413964-3414152                 CAAGTTGCCTCAGGGCCATACGC.CATG-TCCCAGGGGTACAAAGCCTGGTCCACGAATA.T.AACCACTCAATTTCTT.AGGGACTTTTCGTCCCCGCCTTAGCCTCAACGACACGtgTTTAGA.TGA.TCATCTAAAACGCTCGCTACGTCACAAGTTGTTAAAGAACAAGGGTCAgGCCTCAACGCcTGACAC----
+#=GR CP003093/3413964-3414152         PP 699********************.***9.57999**************************.*.****************.***********************************9844789999.***.***********************************************989********86777655....
+CP002446/3230210-3230395                 CAAGTCGCCTCGGGGTCGCCT--.---GTGCCCGGGGGTACAAATCC-CGGACGCGAATT.GcAACGACTCAATT-TTT.AGGGACTT-TCGTCCCCGCCTTAGCCTCAACGACACG..TCGAGA.TAG.TCATCTCAAACGCTCGCTACATCACAAGTTTTAAAAGAACACGTACCAgGCCTCAACGCcCGATGCGTAT
+#=GR CP002446/3230210-3230395         PP 689***********9988765......667899**************.**********99.559*********99.788.******99.678999**********************..******.***.***********************************************989********989******999
+CP002446/1427093-1426908                 CAAGTCGCCTCGGGGTCGCCT--.---GTGCCCGGGGGTACAAATCC-CGGACGCGAATT.GcAACGACTCAATT-TTC.AGGGACTT-TCGTCCCCGCCTTAGCCTCAACGACACG..TCGAGA.TAG.TCATCTCAAACGCTCGCTACATCACAAGTTTTAAAAGAACACGTACCAgGCCTCAACGCcCGATGCGTAT
+#=GR CP002446/1427093-1426908         PP 689***********9988765......667899**************.**********99.559*********99.678.******99.678999**********************..******.***.***********************************************989********989*******99
+FP565176/3692521-3692709                 CAAGTTGCCTCAAGGTCATATTC.A----GCCCAGGGGTACAAAGCC-CGGACGCGAACTaT.AACGACTCAATT--TT.AGGGACTCGAAGTCCCCGCCTTAGCCACAACGACACG..TCGAGAgTAT.TGTTCTCAAACGTTCGCTACATCACTAATTATTAAAGAACACGACCCG.GCCTCAGCGC.CGAATCATTC
+#=GR FP565176/3692521-3692709         PP 689*****************976.5....45999*************.*********97659.**********98..99.*************************************..*****98888.9***********************************************.**********.********99
+FP565176/436220-436032                   CAAGTTGCCTCAAGGTCATATTC.A----GCCCAGGGGTACAAAGCC-CGGACGCGAACTaT.AACGACTCAATT--TT.AGGGACTCGAAGTCCCCGCCTTAGCCACAACGACACG..TCGAGAgTAT.TGTTCTCAAACGTTCGCTACATCACTAATTATTAAAGAACACGACCCG.GCCTCAGCGC.CGAATCATTC
+#=GR FP565176/436220-436032           PP 689*****************976.5....45999*************.*********98659.**********98..99.*************************************..*****97888.99**********************************************.**********.********99
+
+#=GC SS_cons                             ..(((((...((........)).........((.((.........))..))..............)))))...........(((..........))).............(((..((..(...................))).)))........................(((...((.((......)).))...)))..
+
+CP000050/5022861-5023053                 AAAT-
+#=GR CP000050/5022861-5023053         PP *997.
+AE008923/5068813-5069005                 AAAT-
+#=GR AE008923/5068813-5069005         PP *997.
+Xanthomonas/5048481-5048673              AAAT-
+#=GR Xanthomonas/5048481-5048673      PP *997.
+AE008922/4560811-4561003                 AAAT-
+#=GR AE008922/4560811-4561003         PP *987.
+AE008922/4948679-4948871                 AAAT-
+#=GR AE008922/4948679-4948871         PP *987.
+CP000050/4635474-4635666                 AAAT-
+#=GR CP000050/4635474-4635666         PP *987.
+CP002914/4845535-4845728                 AAATT
+#=GR CP002914/4845535-4845728         PP *9975
+AM920689/4553403-4553595                 AAAT-
+#=GR AM920689/4553403-4553595         PP *997.
+AE008923/4579571-4579763                 AAAT-
+#=GR AE008923/4579571-4579763         PP *997.
+Xanthomonas/4586682-4586874              AAAT-
+#=GR Xanthomonas/4586682-4586874      PP *997.
+Xanthomonas/5214749-5214941              AAAT-
+#=GR Xanthomonas/5214749-5214941      PP *997.
+Xanthomonas/457957-457765                AAAT-
+#=GR Xanthomonas/457957-457765        PP *997.
+CP003057/220308-220116                   AAAT-
+#=GR CP003057/220308-220116           PP *987.
+CP003057/526866-526674                   AAAT-
+#=GR CP003057/526866-526674           PP *987.
+CP002914/4382390-4382582                 AAAT-
+#=GR CP002914/4382390-4382582         PP *997.
+CP000967/5086315-5086507                 AAAT-
+#=GR CP000967/5086315-5086507         PP *997.
+AE013598/307758-307566                   AAAT-
+#=GR AE013598/307758-307566           PP *987.
+AE013598/535044-534852                   AAAT-
+#=GR AE013598/535044-534852           PP *987.
+AP008229/295658-295466                   AAAT-
+#=GR AP008229/295658-295466           PP *987.
+AP008229/522899-522707                   AAAT-
+#=GR AP008229/522899-522707           PP *987.
+CP000967/4860916-4861108                 AAAT-
+#=GR CP000967/4860916-4861108         PP *987.
+CP002789/4813878-4814071                 AAAT-
+#=GR CP002789/4813878-4814071         PP *997.
+AM920689/4951568-4951761                 AAAT-
+#=GR AM920689/4951568-4951761         PP *987.
+CP002789/482059-481866                   AAAT-
+#=GR CP002789/482059-481866           PP *987.
+AM039952/5058259-5058450                 AAATT
+#=GR AM039952/5058259-5058450         PP *9975
+AM039952/4604080-4604270                 AAAT-
+#=GR AM039952/4604080-4604270         PP *997.
+CP002986/4483980-4484168                 AAA--
+#=GR CP002986/4483980-4484168         PP 987..
+CP002986/4478316-4478504                 AAA--
+#=GR CP002986/4478316-4478504         PP 987..
+Stenotrophomonas/4707196-4707384         AAA--
+#=GR Stenotrophomonas/4707196-4707384 PP 986..
+AM743169/4784927-4785113                 AAA--
+#=GR AM743169/4784927-4785113         PP 987..
+AM743169/4790591-4790777                 AAA--
+#=GR AM743169/4790591-4790777         PP 987..
+CP002986/373669-373481                   AAA--
+#=GR CP002986/373669-373481           PP 986..
+CP002986/368005-367817                   AAA--
+#=GR CP002986/368005-367817           PP 986..
+CP001111/4505290-4505478                 ATA--
+#=GR CP001111/4505290-4505478         PP 976..
+CP001111/4510960-4511148                 ATA--
+#=GR CP001111/4510960-4511148         PP 976..
+AM743169/418467-418281                   AAA--
+#=GR AM743169/418467-418281           PP 986..
+AM743169/424131-423945                   AAA--
+#=GR AM743169/424131-423945           PP 986..
+Stenotrophomonas/4701536-4701722         AAA--
+#=GR Stenotrophomonas/4701536-4701722 PP 986..
+Stenotrophomonas/397430-397244           AAA--
+#=GR Stenotrophomonas/397430-397244   PP 986..
+Stenotrophomonas/403090-402904           AAA--
+#=GR Stenotrophomonas/403090-402904   PP 986..
+CP001111/355065-354877                   ATA--
+#=GR CP001111/355065-354877           PP 865..
+CP001111/360735-360547                   ATA--
+#=GR CP001111/360735-360547           PP 865..
+CP003093/3413964-3414152                 -----
+#=GR CP003093/3413964-3414152         PP .....
+CP002446/3230210-3230395                 A----
+#=GR CP002446/3230210-3230395         PP 7....
+CP002446/1427093-1426908                 A----
+#=GR CP002446/1427093-1426908         PP 7....
+FP565176/3692521-3692709                 AAAT-
+#=GR FP565176/3692521-3692709         PP 9987.
+FP565176/436220-436032                   AAAT-
+#=GR FP565176/436220-436032           PP 9886.
+#=GC SS_cons                             .....
+
+//

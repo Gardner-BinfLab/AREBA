@@ -1,0 +1,39 @@
+# STOCKHOLM 1.0
+
+#=GS CP000947/261357-261472           DE [subseq from] Haemophilus somnus 2336, complete genome.
+#=GS Mannheimia/1658386-1658261       DE [subseq from] haemolytica M42548, complete genome. 2731870
+#=GS FQ670178/903975-904098           DE [subseq from] Haemophilus influenzae F3031 genome.
+#=GS CP000947/1312805-1312680         DE [subseq from] Haemophilus somnus 2336, complete genome.
+#=GS FQ670204/1690631-1690754         DE [subseq from] Haemophilus influenzae F3047 genome.
+#=GS CP002667/2563169-2563295         DE [subseq from] Gallibacterium anatis UMN179, complete genome.
+#=GS CP000947/259973-260090           DE [subseq from] Haemophilus somnus 2336, complete genome.
+#=GS CP001321/635263-635140           DE [subseq from] Haemophilus parasuis SH0165, complete genome.
+#=GS CP002667/2651903-2652033         DE [subseq from] Gallibacterium anatis UMN179, complete genome.
+#=GS CP001321/1142244-1142150         DE [subseq from] Haemophilus parasuis SH0165, complete genome.
+#=GS Enterobacteriaceae/814188-814115 DE [subseq from] bacterium strain FGI 57, complete genome. 4762179
+
+CP000947/261357-261472                   TAGGAACTGCCTAG...C......GGTG......G........CACCCGC...TAGGTCTT....ACGTT.....ATC..CTtAGTAAGCCGGCACGCTTACCAACATCAG...GATAATAAGGATTAATA...CTTTAACCAACATAATCC.AGTTCCT
+#=GR CP000947/261357-261472           PP 689***********...*......****......*........*******...********....*****.....999..555****************************...*****************...******************.*****96
+Mannheimia/1658386-1658261               TAGGAACTGCCTAG...CagagatGGCG......T........TCTCTGC...TAGGACTT....TTAGCtttctAAT..CT.AATAAGCTGGCGTGCTTATTAAGATTAA...GATCACTAGGATTAACA...ACTTAAGATACATAATCC.AGTTCCT
+#=GR Mannheimia/1658386-1658261       PP 589***********...94444445555......6........9******...********....8776655556889..**.****************************...*****************...******************.*****96
+FQ670178/903975-904098                   -GGGAACTGCCTAGtgaC......GGTG......G........CAGCCGCcacTAGGACTTttagATTCT.....AAT..CT.AGTAAGCTGGCAGGCTTACTAAGATTAA...AATAACTAGGATTAACA...GCTTAATACACATAATCC.AGTTCCT
+#=GR FQ670178/903975-904098           PP .79***********9999......9999......9........888888766699*****9444334556.....999..**.****************************...*****************...******************.*****96
+CP000947/1312805-1312680                 TAGGAACTGCCTAG...C......AGAGatggcaG........TCTCTGC...CAGGACTT....TTAGCcttctAAT..CT.AATAAGCTGGCGTGCTTATTAAGATTAA...GATAACTAGGATTAACA...ACTTAAAATACATAATCC.AGTTCCT
+#=GR CP000947/1312805-1312680         PP 589***********...*......77664433336........99*****...********....8777655556888..9*.****************************...*****************...******************.*****96
+FQ670204/1690631-1690754                 -GGGAACTGCCTAGtgaC......GGTG......G........CAGCCGCcacTAGGACTTttagATTCT.....AAT..CT.AGCAAGCTGGCAGGCTTACTAAGATTAA...AATAACTAGGATTAACA...GCTTAATACACATAATCC.AGTTCCT
+#=GR FQ670204/1690631-1690754         PP .79***********9999......9999......9........888888766699*****9444334556.....999..**.****************************...*****************...******************.*****96
+CP002667/2563169-2563295                 TAGGAACTGCCTAG...C......GGTG......CgggtaaaaTCACCGC...TAGGACTT....TTAGCta.tcTAT..CT.AGTAAGCGGGTAAACTTACGAAGATAAG...AATAACTAGGATTAACA...GTTTAACGAACATAATCC.AGTTCCT
+#=GR CP002667/2563169-2563295         PP 589***********...*......***9......76778888899*****...********....8887743.33446..99.****************************...*****************...******************.*****97
+CP000947/259973-260090                   TAGGAACTGCCTAG...C......GGTG......G........TACCCGC...TAGGTCTT....ACGTC.....ATC..CT.AATAAGCCGATTGGCTTATTACTAATAG...GATGATTAGAATGATGAttaACCGTGGATTCATCTTCT.ATTTCCT
+#=GR CP000947/259973-260090           PP 589***********...*......****......*........*******...********....*****.....***..**.****************************...******999887777665448888999***********.****996
+CP001321/635263-635140                   TAGGAACTGCCTAG...C......AGTG......Gggg..caaCCACCGC...TAGGACTT....TATCT.....G-A..TT.AGTAAGCTGATGAGCTTAACGCAATCAG...AATTAAGAAGATGATGAtttGATAGGTTTTCATCGTCTtAGTTCCT
+#=GR CP001321/635263-635140           PP 589***********...*......9999......8788..88899*****...*******9....98877.....6.6..79.****************************...****************9666667778899**************996
+CP002667/2651903-2652033                 TAGGAATTGCCCAG...C......GGTC......Gcgg.caaaCAACCGC...CGGGTCTT....AGTTC.....AGTtaCT.AATAAGCGTTTGTGCTAATCGCCATTAGtaaAATGAACAGGATTATTAaagCAATGTGATGCATAATCCtAATTCCT
+#=GR CP002667/2651903-2652033         PP 589***********...*......**99......8777.7888899****...********....*****.....88888**.**********************99988766689*************9977667788999**********9***9996
+CP001321/1142244-1142150                 --------------...-......----......-........CCCCCGC...AGGGTTAT....CCATT.....A-A..CT.AGTAAGCATTTGAGCTTACCACTAACAA...GATAACTAGGATTGCGA...TTTTCCAAAACATAATCCtAGCTCCT
+#=GR CP001321/1142244-1142150         PP ...........................................78899**...****9999....88877.....7.6..9*.****************************...*****************...******************9***9986
+Enterobacteriaceae/814188-814115         --------------...-......----......-........-------...--------....-----.....TGT..TT.AGAAAGCTGGTGGGCTTATCATCAACAG...AATAACCAGGATGATGA...CTATCCTCATCATAACCC.TTCTCC-
+#=GR Enterobacteriaceae/814188-814115 PP ...........................................................................346..79.9***************************...*****************...**************9998.777766.
+#=GC SS_cons                             ..((((((.(((.(...(......((....................))))....)))...........................((((((......))))))....................((((((..................)))))).)))))).
+
+//

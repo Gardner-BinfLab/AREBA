@@ -1,0 +1,57 @@
+# STOCKHOLM 1.0
+
+#=GS AE004969/785653-785741   DE [subseq from] Neisseria gonorrhoeae FA 1090, complete genome.
+#=GS CP001050/828506-828418   DE [subseq from] Neisseria gonorrhoeae NCCP11945, complete genome.
+#=GS CP002420/1120962-1121050 DE [subseq from] Neisseria meningitidis H44/76, complete genome.
+#=GS CP002440/804392-804304   DE [subseq from] Neisseria gonorrhoeae TCDC-NG08107, complete genome.
+#=GS FM999788/1233322-1233410 DE [subseq from] Neisseria meningitidis 8013, complete genome
+#=GS CP002421/1118273-1118361 DE [subseq from] Neisseria meningitidis M01-240149, complete genome.
+#=GS CP002423/1112097-1112185 DE [subseq from] Neisseria meningitidis M04-240196, complete genome.
+#=GS CP002424/1216265-1216177 DE [subseq from] Neisseria meningitidis NZ-05/33, complete genome.
+#=GS CP002419/1100102-1100014 DE [subseq from] Neisseria meningitidis G2136, complete genome.
+#=GS CP001561/1137084-1136996 DE [subseq from] Neisseria meningitidis alpha710, complete genome.
+#=GS AE002098/1210619-1210531 DE [subseq from] Neisseria meningitidis MC58, complete genome.
+#=GS AL157959/1280771-1280683 DE [subseq from] Neisseria meningitidis serogroup A strain Z2491 complete genome
+#=GS AM889136/1057176-1057088 DE [subseq from] Neisseria meningitidis alpha14 complete genome
+#=GS CP002422/1178634-1178546 DE [subseq from] Neisseria meningitidis M01-240355, complete genome.
+#=GS FR774048/1056614-1056526 DE [subseq from] Neisseria meningitidis WUE 2594 complete genome
+#=GS FN995097/1061106-1061018 DE [subseq from] Neisseria lactamica 020-06 complete genome
+#=GS AM421808/1090580-1090493 DE [subseq from] Neisseria meningitidis serogroup C FAM18 complete genome
+
+AE004969/785653-785741           AAAACACAAACCACTGCCAAATACAGCAGTCCCCTGCATCATCAGACGGCATATCCGTATAAACGGGTATGCCGTTTTTCTTTGCCGGT
+#=GR AE004969/785653-785741   PP 689************************************************************************************96
+CP001050/828506-828418           AAAACACAAACCACTGCCAAATACAGCAGTCCCCTGCATCATCAGACGGCATATCCGTATAAACGGGTATGCCGTTTTTCTTTGCCGGT
+#=GR CP001050/828506-828418   PP 689************************************************************************************96
+CP002420/1120962-1121050         AAAACACAAACCACTGCCAAATACAGCAGTCCCCTGCATCATCAGACGGCATATCCGTATAAACGGGTATGCCGTTTTTCTTTGCCGGT
+#=GR CP002420/1120962-1121050 PP 689************************************************************************************96
+CP002440/804392-804304           AAAACACAAACCACTGCCAAATACAGCAGTCCCCTGCATCATCAGACGGCATATCCGTATAAACGGGTATGCCGTTTTTCTTTGCCGGT
+#=GR CP002440/804392-804304   PP 689************************************************************************************96
+FM999788/1233322-1233410         AAAACACAAACCACTGCCAAATACAGCAGTCCCCTGCATCATCAGACGGCATATCCGTATAAACGGGTATGCCGTTTTTCTTTGCCGGT
+#=GR FM999788/1233322-1233410 PP 689************************************************************************************96
+CP002421/1118273-1118361         AAAACACAAACCACTGCCAAATATAGCAGTCCCCTGCATCATCAGACGGCATATCCGTATAAACGGGTATGCCGTTTTTCTTTGCCGGT
+#=GR CP002421/1118273-1118361 PP 689************************************************************************************96
+CP002423/1112097-1112185         AAAACACAAACCACTGCCAAATATAGCAGTCCCCTGCATCATCAGACGGCATATCCGTATAAACGGGTATGCCGTTTTTCTTTGCCGGT
+#=GR CP002423/1112097-1112185 PP 689************************************************************************************96
+CP002424/1216265-1216177         AAAACACAAACCACTGCCAAATATAGCAGTCCCCTGCATCATCAGACGGCATATCCGTATAAACGGGTATGCCGTTTTTCTTTGCCGGT
+#=GR CP002424/1216265-1216177 PP 689************************************************************************************96
+CP002419/1100102-1100014         AAAACACAAACCACTGCCAAATATAGCAGTCCCCTGCATCATCAGACGGCATATCCGTATAAACGGGTATGCCGTTTTTCTTTTTCGGT
+#=GR CP002419/1100102-1100014 PP 689************************************************************************************96
+CP001561/1137084-1136996         AAAACACAAACCACTGCCAAATACAGCAGTCCCCTGCATCATCAGACGGCATATCCGTATAAACGGGTATGCCGTTTTTCTTTACCGGT
+#=GR CP001561/1137084-1136996 PP 689************************************************************************************96
+AE002098/1210619-1210531         AAAACACAAACCACTGCCAAATACAGCAGTCCCCCGCACCATCAGACGGCATATCCGTATAAACGGATATGCCGTTTTTCTTTTTCGGT
+#=GR AE002098/1210619-1210531 PP 689************************************************************************************96
+AL157959/1280771-1280683         AAAACACAAACTACTGCCAAATACAGCAGTCCCCCGCACCATCAGACGGCATATCCGTATAAACGGATATGCCGTTTTTCTTTTTCGGT
+#=GR AL157959/1280771-1280683 PP 689************************************************************************************96
+AM889136/1057176-1057088         AAAACACAAACTACTGCCAAATACAGCAGTCCCCCGCACCATCAGACGGCATATCCGTATAAACGGATATGCCGTTTTTCTTTTTCGGT
+#=GR AM889136/1057176-1057088 PP 689************************************************************************************96
+CP002422/1178634-1178546         AAAACACAAACTACTGCCAAATACAGCAGTCCCCCGCACCATCAGACGGCATATCCGTATAAACGGATATGCCGTTTTTCTTTTTCGGT
+#=GR CP002422/1178634-1178546 PP 689************************************************************************************96
+FR774048/1056614-1056526         AAAACACAAACTACTGCCAAATACAGCAGTCCCCCGCACCATCAGACGGCATATCCGTATAAACGGATATGCCGTTTTTCTTTTTCGGT
+#=GR FR774048/1056614-1056526 PP 689************************************************************************************96
+FN995097/1061106-1061018         AAAACACAAATCACTGCCAAATACAGCAGTCCCCTGCACCATCAGACGGCATATCTGCATAAACGGATATGCCGTTTTTCTTTGCCGGT
+#=GR FN995097/1061106-1061018 PP 689************************************************************************************96
+AM421808/1090580-1090493         AAAACACAAATCACTGCCAAATATAGCAGTCCCCTGCACCATCAGACGGCATATCCATATAAACGGATATGCCGTTTTTCTTTATCGG-
+#=GR AM421808/1090580-1090493 PP 689**********************************************************************************998.
+#=GC SS_cons                     ............(((((........)))))...(((.......(((((((((((((((....)))))))))))))))........))).
+
+//

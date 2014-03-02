@@ -1,0 +1,585 @@
+# STOCKHOLM 1.0
+
+#=GS FR775238/16294-16358                    DE [subseq from] Salmonella enterica subsp. enterica serovar Weltevreden str. 2007-60-3289-1 complete genome, contig 51
+#=GS AE005174/4244782-4244846                DE [subseq from] Escherichia coli O157:H7 EDL933, complete genome.
+#=GS AE005674/3426931-3426995                DE [subseq from] Shigella flexneri 2a str. 301, complete genome.
+#=GS AE006468/3585809-3585873                DE [subseq from] Salmonella enterica subsp. enterica serovar Typhimurium str. LT2, complete genome.
+#=GS AE014073/4345773-4345709                DE [subseq from] Shigella flexneri 2a str. 2457T, complete genome.
+#=GS AE014075/3873924-3873988                DE [subseq from] Escherichia coli CFT073, complete genome.
+#=GS AE014613/4228341-4228277                DE [subseq from] Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.
+#=GS AE017220/3540252-3540316                DE [subseq from] Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.
+#=GS AM933172/3467425-3467489                DE [subseq from] Salmonella enterica subsp. enterica serovar Enteritidis str. P125109 complete genome
+#=GS AM933173/4230940-4230876                DE [subseq from] Salmonella enterica subsp. enterica serovar Gallinarum str. 287/91 complete genome
+#=GS AM946981/3303712-3303776                DE [subseq from] Escherichia coli BL21(DE3), complete genome
+#=GS AP009048/4197868-4197804                DE [subseq from] Escherichia coli str. K12 substr. W3110 DNA, complete genome.
+#=GS AP009240/3705448-3705512                DE [subseq from] Escherichia coli SE11 DNA, complete genome.
+#=GS AP009378/3401287-3401351                DE [subseq from] Escherichia coli SE15 DNA, complete genome.
+#=GS AP010953/4375755-4375819                DE [subseq from] Escherichia coli O26:H11 str. 11368 DNA, complete genome.
+#=GS AP010958/4119320-4119384                DE [subseq from] Escherichia coli O103:H2 str. 12009 DNA, complete genome.
+#=GS AP010960/4113435-4113499                DE [subseq from] Escherichia coli O111:H- str. 11128 DNA, complete genome.
+#=GS AP012030/3420453-3420517                DE [subseq from] Escherichia coli DH1 (ME8569) DNA, complete genome.
+#=GS AP012306/2910400-2910464                DE [subseq from] Escherichia coli str. K-12 substr. MDS42 DNA, complete genome.
+#=GS BA000007/4177560-4177624                DE [subseq from] Escherichia coli O157:H7 str. Sakai DNA, complete genome.
+#=GS CP000026/3392196-3392260                DE [subseq from] Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.
+#=GS CP000034/3224986-3225050                DE [subseq from] Shigella dysenteriae Sd197, complete genome.
+#=GS CP000036/3290830-3290894                DE [subseq from] Shigella boydii Sb227, complete genome.
+#=GS CP000038/3615348-3615412                DE [subseq from] Shigella sonnei Ss046, complete genome.
+#=GS CP000243/3660358-3660422                DE [subseq from] Escherichia coli UTI89, complete genome.
+#=GS CP000247/3552198-3552262                DE [subseq from] Escherichia coli 536, complete genome.
+#=GS CP000266/3388815-3388879                DE [subseq from] Shigella flexneri 5 str. 8401, complete genome.
+#=GS CP000468/3733273-3733337                DE [subseq from] Escherichia coli APEC O1, complete genome.
+#=GS CP000653/4042688-4042752                DE [subseq from] Enterobacter sp. 638, complete genome.
+#=GS CP000783/11060-10996                    DE [subseq from] Cronobacter sakazakii ATCC BAA-894, complete genome.
+#=GS CP000800/3772361-3772425                DE [subseq from] Escherichia coli E24377A, complete genome.
+#=GS CP000802/3486891-3486955                DE [subseq from] Escherichia coli HS, complete genome.
+#=GS CP000819/3370453-3370517                DE [subseq from] Escherichia coli B str. REL606, complete genome.
+#=GS CP000822/4340917-4340981                DE [subseq from] Citrobacter koseri ATCC BAA-895, complete genome.
+#=GS CP000857/3518727-3518791                DE [subseq from] Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.
+#=GS CP000880/4138175-4138111                DE [subseq from] Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.
+#=GS CP000886/3544444-3544508                DE [subseq from] Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.
+#=GS CP000946/452382-452318                  DE [subseq from] Escherichia coli ATCC 8739, complete genome.
+#=GS CP000948/3538315-3538379                DE [subseq from] Escherichia coli str. K12 substr. DH10B, complete genome.
+#=GS CP000970/3669783-3669847                DE [subseq from] Escherichia coli SMS-3-5, complete genome.
+#=GS CP001063/3424551-3424615                DE [subseq from] Shigella boydii CDC 3083-94, complete genome.
+#=GS CP001113/3567826-3567890                DE [subseq from] Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.
+#=GS CP001120/3600104-3600168                DE [subseq from] Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.
+#=GS CP001127/3483723-3483787                DE [subseq from] Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.
+#=GS CP001138/3501823-3501887                DE [subseq from] Salmonella enterica subsp. enterica serovar Agona str. SL483, complete genome.
+#=GS CP001144/3626608-3626672                DE [subseq from] Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853, complete genome.
+#=GS CP001164/4280640-4280704                DE [subseq from] Escherichia coli O157:H7 str. EC4115, complete genome.
+#=GS CP001363/3599667-3599731                DE [subseq from] Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S, complete genome.
+#=GS CP001368/4236681-4236745                DE [subseq from] Escherichia coli O157:H7 str. TW14359, complete genome.
+#=GS CP001383/3462946-3463010                DE [subseq from] Shigella flexneri 2002017, complete genome.
+#=GS CP001396/3327727-3327791                DE [subseq from] Escherichia coli BW2952, complete genome.
+#=GS CP001509/3303718-3303782                DE [subseq from] Escherichia coli BL21(DE3), complete genome.
+#=GS CP001637/441216-441152                  DE [subseq from] Escherichia coli DH1, complete genome.
+#=GS CP001654/461239-461175                  DE [subseq from] Dickeya dadantii Ech703, complete genome.
+#=GS CP001665/470086-470022                  DE [subseq from] Escherichia coli 'BL21-Gold(DE3)pLysS AG', complete genome.
+#=GS CP001671/3778310-3778374                DE [subseq from] Escherichia coli ABU 83972, complete genome.
+#=GS CP001846/4066288-4066352                DE [subseq from] Escherichia coli O55:H7 str. CB9615, complete genome.
+#=GS CP001855/3459886-3459950                DE [subseq from] Escherichia coli O83:H1 str. NRG 857C, complete genome.
+#=GS CP001918/4803865-4803929                DE [subseq from] Enterobacter cloacae subsp. cloacae ATCC 13047, complete genome.
+#=GS CP001969/3813426-3813490                DE [subseq from] Escherichia coli IHE3034, complete genome.
+#=GS CP002167/3402413-3402477                DE [subseq from] Escherichia coli UM146, complete genome.
+#=GS CP002185/3655517-3655581                DE [subseq from] Escherichia coli W, complete genome.
+#=GS CP002211/3744982-3745046                DE [subseq from] Escherichia coli str. 'clone D i2', complete genome.
+#=GS CP002212/3744982-3745046                DE [subseq from] Escherichia coli str. 'clone D i14', complete genome.
+#=GS CP002487/3607291-3607355                DE [subseq from] Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74, complete genome.
+#=GS CP002516/450556-450492                  DE [subseq from] Escherichia coli KO11, complete genome.
+#=GS CP002614/3547274-3547338                DE [subseq from] Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1, complete genome.
+#=GS CP002729/3929943-3930007                DE [subseq from] Escherichia coli UMNK88, complete genome.
+#=GS CP002797/3457813-3457877                DE [subseq from] Escherichia coli NA114, complete genome.
+#=GS CP002824/1011458-1011522                DE [subseq from] Enterobacter aerogenes KCTC 2190, complete genome.
+#=GS CP002886/4265330-4265394                DE [subseq from] Enterobacter cloacae EcWSU1, complete genome.
+#=GS CP003026/4300665-4300729                DE [subseq from] Enterobacter asburiae LF7a, complete genome.
+#=GS CP003034/3903342-3903406                DE [subseq from] Escherichia coli O7:K1 str. CE10, complete genome.
+#=GS CP003047/4211124-4211060                DE [subseq from] Salmonella enterica subsp. enterica serovar Gallinarum/pullorum str. RKS5078, complete genome.
+#=GS CP003109/3974759-3974823                DE [subseq from] Escherichia coli O55:H7 str. RM12579, complete genome.
+#=GS CP003218/890012-890076                  DE [subseq from] Klebsiella oxytoca KCTC 1686, complete genome.
+#=GS CP003278/4216864-4216800                DE [subseq from] Salmonella enterica subsp. enterica serovar Typhi str. P-stx-12, complete genome.
+#=GS CU928145/3792186-3792250                DE [subseq from] Escherichia coli 55989 chromosome, complete genome.
+#=GS CU928158/3358640-3358704                DE [subseq from] Escherichia fergusonii ATCC 35469 chromosome, complete genome
+#=GS CU928160/3523606-3523670                DE [subseq from] Escherichia coli IAI1 chromosome, complete genome.
+#=GS CU928161/3648063-3648127                DE [subseq from] Escherichia coli S88 chromosome, complete genome.
+#=GS CU928162/3883935-3883999                DE [subseq from] Escherichia coli ED1a chromosome, complete genome.
+#=GS CU928163/3888807-3888871                DE [subseq from] Escherichia coli UMN026 chromosome, complete genome.
+#=GS CU928164/3956923-3956987                DE [subseq from] Escherichia coli IAI39 chromosome, complete genome.
+#=GS Cronobacter/11061-10997                 DE [subseq from] sakazakii SP291, complete genome. 4344092
+#=GS Cronobacter/374043-373979               DE [subseq from] sakazakii ES15, complete genome. 4268675
+#=GS ENA|AL513382|AL513382.1/4243693-4243629 DE [subseq from] Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete chromosome
+#=GS ENA|CM000662|CM000662.1/2594906-2594842 DE [subseq from] Escherichia coli O157:H7 str. TW14588 chromosome, whole genome shotgun sequence.
+#=GS Enterobacter/4313500-4313564            DE [subseq from] cloacae subsp. cloacae ENHKU01, complete genome. 4726582
+#=GS Enterobacter/4474800-4474864            DE [subseq from] cloacae subsp. dissolvens SDM, complete genome. 4968248
+#=GS Enterobacteriaceae/417109-417045        DE [subseq from] bacterium strain FGI 57, complete genome. 4762179
+#=GS Escherichia/3440570-3440634             DE [subseq from] coli str. K-12 substr. MG1655, complete genome. 4639675
+#=GS Escherichia/3652010-3652074             DE [subseq from] coli W, complete genome. 4897452
+#=GS Escherichia/3708938-3709002             DE [subseq from] coli P12b, complete genome. 4935294
+#=GS Escherichia/4104820-4104884             DE [subseq from] coli Xuzhou21, complete genome. 5386223
+#=GS Escherichia/4203995-4204059             DE [subseq from] coli APEC O78, complete genome. 4798435
+#=GS Escherichia/319695-319631               DE [subseq from] blattae DSM 4481, complete genome. 4158725
+#=GS Escherichia/504297-504233               DE [subseq from] coli O104:H4 str. 2009EL-2071, complete genome. 5312586
+#=GS Escherichia/510996-510932               DE [subseq from] coli O104:H4 str. 2011C-3493, complete genome. 5273097
+#=GS Escherichia/515624-515560               DE [subseq from] coli O104:H4 str. 2009EL-2050, complete genome. 5253138
+#=GS Escherichia/1333916-1333852             DE [subseq from] coli KO11FL, complete genome. 5021812
+#=GS FM180568/3711701-3711765                DE [subseq from] Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69
+#=GS FM200053/3387872-3387936                DE [subseq from] Salmonella enterica subsp. enterica serovar Paratyphi A str. AKU_12601 complete genome, strain AKU_12601
+#=GS FN424405/3608907-3608971                DE [subseq from] Salmonella enterica subsp. enterica serovar Typhimurium str. D23580 complete genome
+#=GS FN543093/3987403-3987467                DE [subseq from] Cronobacter turicensis z3032 complete genome
+#=GS FN543502/4767904-4767840                DE [subseq from] Citrobacter rodentium ICC168, complete genome
+#=GS FN554766/3803916-3803980                DE [subseq from] Escherichia coli 042 complete genome
+#=GS FN649414/3829025-3829089                DE [subseq from] Escherichia coli ETEC H10407, complete genome
+#=GS FP929040/2554195-2554259                DE [subseq from] Enterobacter cloacae subsp. cloacae NCTC 9394 draft genome.
+#=GS FQ312003/3607291-3607355                DE [subseq from] Salmonella enterica subsp. enterica serovar Typhimurium SL1344 complete genome
+#=GS FR877557/3317158-3317222                DE [subseq from] Salmonella bongori NCTC 12419, culture collection SGSC SARC11, complete genome
+#=GS HE616528/3750060-3750124                DE [subseq from] Shigella sonnei 53G main chromosome, complete genome
+#=GS Klebsiella/5550667-5550731              DE [subseq from] oxytoca E718, complete genome. 6097032
+#=GS Salmonella/3583440-3583504              DE [subseq from] enterica subsp. enterica serovar Typhimurium str. U288, complete genome. 4852606
+#=GS Salmonella/3606289-3606353              DE [subseq from] enterica subsp. enterica serovar Typhimurium str. 798, complete genome. 4876219
+#=GS Salmonella/4258082-4258146              DE [subseq from] enterica subsp. enterica serovar Heidelberg str. B182, complete genome. 4750465
+#=GS Salmonella/3415843-3415779              DE [subseq from] enterica subsp. enterica serovar Javiana str. CFSAN001992, complete genome. 4634161
+#=GS Salmonella/4228338-4228274              DE [subseq from] enterica subsp. enterica serovar Typhi str. Ty21a, complete genome. 4791958
+#=GS Serratia/4860923-4860987                DE [subseq from] marcescens WW4, complete genome. 5241455
+#=GS CP002124/928081-928145                  DE [subseq from] Erwinia sp. Ejp617, complete genome.
+#=GS FN392235/3672358-3672422                DE [subseq from] Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163
+#=GS FN434113/3475726-3475790                DE [subseq from] Erwinia amylovora CFBP1430 complete genome
+#=GS FN666575/3475978-3476042                DE [subseq from] Erwinia amylovora ATCC 49946 chromosomal sequence.
+#=GS FP236842/3672408-3672472                DE [subseq from] Erwinia pyrifoliae strain Ep1/96 complete chromosome.
+#=GS CP000826/5012543-5012606                DE [subseq from] Serratia proteamaculans 568, complete genome.
+#=GS CP001790/4399778-4399841                DE [subseq from] Pectobacterium wasabiae WPP163, complete genome.
+#=GS CP002505/389945-389882                  DE [subseq from] Rahnella sp. Y9602, complete genome.
+#=GS CP002773/5003157-5003220                DE [subseq from] Serratia sp. AS9, complete genome.
+#=GS CP002774/5003287-5003350                DE [subseq from] Serratia sp. AS12, complete genome.
+#=GS CP002775/5002834-5002897                DE [subseq from] Serratia sp. AS13, complete genome.
+#=GS CP003244/397702-397639                  DE [subseq from] Rahnella aquatilis CIP 78.65 = ATCC 33071, complete genome.
+#=GS Pectobacterium/4475268-4475331          DE [subseq from] sp. SCC3193, complete genome. 5164411
+#=GS Rahnella/392599-392536                  DE [subseq from] aquatilis HX2, complete genome. 4962173
+#=GS AP006725/4774013-4774077                DE [subseq from] Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044 DNA, complete genome.
+#=GS CP000647/4057236-4057300                DE [subseq from] Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.
+#=GS CP000964/440881-440817                  DE [subseq from] Klebsiella pneumoniae 342, complete genome.
+#=GS CP001891/428833-428769                  DE [subseq from] Klebsiella variicola At-22, complete genome.
+#=GS CP002272/435166-435102                  DE [subseq from] Enterobacter cloacae SCF1, complete genome.
+#=GS CP002910/4519780-4519844                DE [subseq from] Klebsiella pneumoniae KCTC 2242, complete genome.
+#=GS CP003200/4860171-4860235                DE [subseq from] Klebsiella pneumoniae subsp. pneumoniae HS11286, complete genome.
+#=GS Klebsiella/440178-440114                DE [subseq from] pneumoniae subsp. pneumoniae 1084, complete genome. 5386705
+#=GS Raoultella/4616096-4616032              DE [subseq from] ornithinolytica B6, complete genome. 5398151
+#=GS AP012032/3413113-3413177                DE [subseq from] Pantoea ananatis AJ13355 DNA, complete genome.
+#=GS CP001875/4005325-4005389                DE [subseq from] Pantoea ananatis LMG 20103, complete genome.
+#=GS CP002206/3041703-3041767                DE [subseq from] Pantoea vagans C9-1, complete genome.
+#=GS CP002433/3966892-3966956                DE [subseq from] Pantoea sp. At-9b, complete genome.
+#=GS CP003085/465828-465764                  DE [subseq from] Pantoea ananatis PA13, complete genome.
+#=GS HE617160/465905-465841                  DE [subseq from] Pantoea ananatis LMG 5342 main chromosome complete genome
+#=GS CU468135/3522365-3522429                DE [subseq from] Erwinia tasmaniensis strain ET1/99 complete chromosome.
+#=GS BX950851/4490615-4490678                DE [subseq from] Erwinia carotovora subsp. atroseptica SCRI1043, complete genome
+#=GS CP001655/386556-386493                  DE [subseq from] Dickeya zeae Ech1591, complete genome.
+#=GS CP001657/4297606-4297669                DE [subseq from] Pectobacterium carotovorum subsp. carotovorum PC1, complete genome.
+#=GS CP001836/4257903-4257966                DE [subseq from] Dickeya dadantii Ech586, complete genome.
+#=GS CP002038/4381132-4381195                DE [subseq from] Dickeya dadantii 3937, complete genome.
+#=GS Pectobacterium/4309264-4309327          DE [subseq from] carotovorum subsp. carotovorum PCC21, complete genome. 4842771
+#=GS Enterobacter/4395123-4395059            DE [subseq from] aerogenes EA1509E complete genome. 5419609
+#=GS AE009952/4453502-4453441                DE [subseq from] Yersinia pestis KIM10+, complete genome.
+#=GS AE017042/231110-231049                  DE [subseq from] Yersinia pestis biovar Microtus str. 91001, complete genome.
+#=GS AL590842/232398-232337                  DE [subseq from] Yersinia pestis CO92 complete genome
+#=GS AM286415/4258974-4259035                DE [subseq from] Yersinia enterocolitica subsp. enterocolitica 8081 complete genome
+#=GS BX936398/4386785-4386846                DE [subseq from] Yersinia pseudotuberculosis IP32953 genome, complete sequence.
+#=GS CP000305/4387855-4387916                DE [subseq from] Yersinia pestis Nepal516, complete genome.
+#=GS CP000308/3593801-3593862                DE [subseq from] Yersinia pestis Antiqua, complete genome.
+#=GS CP000668/158909-158848                  DE [subseq from] Yersinia pestis Pestoides F, complete genome.
+#=GS CP000720/4384375-4384436                DE [subseq from] Yersinia pseudotuberculosis IP 31758, complete genome.
+#=GS CP000901/615567-615506                  DE [subseq from] Yersinia pestis Angola, complete genome.
+#=GS CP000950/330088-330027                  DE [subseq from] Yersinia pseudotuberculosis YPIII, complete genome.
+#=GS CP001048/4317874-4317935                DE [subseq from] Yersinia pseudotuberculosis PB1/+, complete genome.
+#=GS CP001585/229401-229340                  DE [subseq from] Yersinia pestis D106004, complete genome.
+#=GS CP001589/231439-231378                  DE [subseq from] Yersinia pestis D182038, complete genome.
+#=GS CP001593/229407-229346                  DE [subseq from] Yersinia pestis Z176003, complete genome.
+#=GS CP001608/160098-160037                  DE [subseq from] Yersinia pestis biovar Medievalis str. Harbin 35, complete genome.
+#=GS CP002246/4175540-4175601                DE [subseq from] Yersinia enterocolitica subsp. palearctica 105.5R(r), complete genome.
+#=GS CP002956/872705-872766                  DE [subseq from] Yersinia pestis A1122, complete genome.
+#=GS FR729477/3418994-3418933                DE [subseq from] Yersinia enterocolitica subsp. palearctica Y11
+#=GS Serratia/4489450-4489513                DE [subseq from] marcescens FGI94, complete genome. 4858216
+#=GS CP001135/3393140-3393203                DE [subseq from] Edwardsiella tarda EIB202, complete genome.
+#=GS CP001600/3472355-3472418                DE [subseq from] Edwardsiella ictaluri 93-146, complete genome.
+#=GS CP002154/3329252-3329315                DE [subseq from] Edwardsiella tarda FL6-60, complete genome.
+#=GS Edwardsiella/3472342-3472405            DE [subseq from] ictaluri 93-146, complete genome. 3812301
+#=GS Edwardsiella/3472675-3472738            DE [subseq from] tarda C07-087, complete genome. 3857040
+#=GS FP236843/4580651-4580711                DE [subseq from] Erwinia billingiae strain Eb661 complete chromosome.
+#=GS AP008232/3920586-3920647                DE [subseq from] Sodalis glossinidius str. 'morsitans' DNA, complete genome.
+#=GS FN667741/4056551-4056612                DE [subseq from] Xenorhabdus bovienii SS-2004 chromosome, complete genome
+#=GS FN667742/277513-277452                  DE [subseq from] Xenorhabdus nematophila ATCC 19061 chromosome, complete genome
+#=GS ENA|BX470251|BX470251.1/5487805-5487866 DE [subseq from] Photorhabdus luminescens subsp. laumondii TTO1 complete genome
+#=GS FM162591/4866739-4866800                DE [subseq from] Photorhabdus asymbiotica ATCC43949 complete genome
+#=GS Providencia/2458005-2457946             DE [subseq from] stuartii MRSN 2154, complete genome. 4402109
+#=GS Morganella/324655-324710                DE [subseq from] morganii subsp. morganii KT, complete genome. 3799539
+#=GS AM942759/3593128-3593069                DE [subseq from] Proteus mirabilis strain HI4320, complete genome
+#=GS Secondary/484659-484719                 DE [subseq from] endosymbiont of Ctenarytaina eucalypti, complete genome. 1441139
+#=GS Serratia/1519038-1518978                DE [subseq from] symbiotica str. 'Cinara cedri', complete genome. 1762765
+#=GS ENA|CR354531|CR354531.1/343372-343315   DE [subseq from] Photobacterium profundum SS9
+
+FR775238/16294-16358                            GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR FR775238/16294-16358                    PP 799************.************************************************96
+AE005174/4244782-4244846                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AE005174/4244782-4244846                PP 699************.************************************************96
+AE005674/3426931-3426995                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AE005674/3426931-3426995                PP 699************.************************************************96
+AE006468/3585809-3585873                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AE006468/3585809-3585873                PP 699************.************************************************96
+AE014073/4345773-4345709                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AE014073/4345773-4345709                PP 699************.************************************************96
+AE014075/3873924-3873988                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AE014075/3873924-3873988                PP 699************.************************************************96
+AE014613/4228341-4228277                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AE014613/4228341-4228277                PP 699************.************************************************96
+AE017220/3540252-3540316                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AE017220/3540252-3540316                PP 699************.************************************************96
+AM933172/3467425-3467489                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AM933172/3467425-3467489                PP 699************.************************************************96
+AM933173/4230940-4230876                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AM933173/4230940-4230876                PP 699************.************************************************96
+AM946981/3303712-3303776                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AM946981/3303712-3303776                PP 699************.************************************************96
+AP009048/4197868-4197804                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AP009048/4197868-4197804                PP 699************.************************************************96
+AP009240/3705448-3705512                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AP009240/3705448-3705512                PP 699************.************************************************96
+AP009378/3401287-3401351                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AP009378/3401287-3401351                PP 699************.************************************************96
+AP010953/4375755-4375819                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AP010953/4375755-4375819                PP 699************.************************************************96
+AP010958/4119320-4119384                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AP010958/4119320-4119384                PP 699************.************************************************96
+AP010960/4113435-4113499                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AP010960/4113435-4113499                PP 699************.************************************************96
+AP012030/3420453-3420517                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AP012030/3420453-3420517                PP 699************.************************************************96
+AP012306/2910400-2910464                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR AP012306/2910400-2910464                PP 699************.************************************************96
+BA000007/4177560-4177624                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR BA000007/4177560-4177624                PP 699************.************************************************96
+CP000026/3392196-3392260                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000026/3392196-3392260                PP 699************.************************************************96
+CP000034/3224986-3225050                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000034/3224986-3225050                PP 699************.************************************************96
+CP000036/3290830-3290894                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000036/3290830-3290894                PP 699************.************************************************96
+CP000038/3615348-3615412                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000038/3615348-3615412                PP 699************.************************************************96
+CP000243/3660358-3660422                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000243/3660358-3660422                PP 699************.************************************************96
+CP000247/3552198-3552262                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000247/3552198-3552262                PP 699************.************************************************96
+CP000266/3388815-3388879                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000266/3388815-3388879                PP 699************.************************************************96
+CP000468/3733273-3733337                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000468/3733273-3733337                PP 699************.************************************************96
+CP000653/4042688-4042752                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000653/4042688-4042752                PP 699************.************************************************96
+CP000783/11060-10996                            GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000783/11060-10996                    PP 699************.************************************************96
+CP000800/3772361-3772425                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000800/3772361-3772425                PP 699************.************************************************96
+CP000802/3486891-3486955                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000802/3486891-3486955                PP 699************.************************************************96
+CP000819/3370453-3370517                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000819/3370453-3370517                PP 699************.************************************************96
+CP000822/4340917-4340981                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000822/4340917-4340981                PP 699************.************************************************96
+CP000857/3518727-3518791                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000857/3518727-3518791                PP 699************.************************************************96
+CP000880/4138175-4138111                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000880/4138175-4138111                PP 699************.************************************************96
+CP000886/3544444-3544508                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000886/3544444-3544508                PP 699************.************************************************96
+CP000946/452382-452318                          GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000946/452382-452318                  PP 699************.************************************************96
+CP000948/3538315-3538379                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000948/3538315-3538379                PP 699************.************************************************96
+CP000970/3669783-3669847                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000970/3669783-3669847                PP 699************.************************************************96
+CP001063/3424551-3424615                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001063/3424551-3424615                PP 699************.************************************************96
+CP001113/3567826-3567890                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001113/3567826-3567890                PP 699************.************************************************96
+CP001120/3600104-3600168                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001120/3600104-3600168                PP 699************.************************************************96
+CP001127/3483723-3483787                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001127/3483723-3483787                PP 699************.************************************************96
+CP001138/3501823-3501887                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001138/3501823-3501887                PP 699************.************************************************96
+CP001144/3626608-3626672                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001144/3626608-3626672                PP 699************.************************************************96
+CP001164/4280640-4280704                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001164/4280640-4280704                PP 699************.************************************************96
+CP001363/3599667-3599731                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001363/3599667-3599731                PP 699************.************************************************96
+CP001368/4236681-4236745                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001368/4236681-4236745                PP 699************.************************************************96
+CP001383/3462946-3463010                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001383/3462946-3463010                PP 699************.************************************************96
+CP001396/3327727-3327791                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001396/3327727-3327791                PP 699************.************************************************96
+CP001509/3303718-3303782                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001509/3303718-3303782                PP 699************.************************************************96
+CP001637/441216-441152                          GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001637/441216-441152                  PP 699************.************************************************96
+CP001654/461239-461175                          GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001654/461239-461175                  PP 699************.************************************************96
+CP001665/470086-470022                          GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001665/470086-470022                  PP 699************.************************************************96
+CP001671/3778310-3778374                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001671/3778310-3778374                PP 699************.************************************************96
+CP001846/4066288-4066352                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001846/4066288-4066352                PP 699************.************************************************96
+CP001855/3459886-3459950                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001855/3459886-3459950                PP 699************.************************************************96
+CP001918/4803865-4803929                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001918/4803865-4803929                PP 699************.************************************************96
+CP001969/3813426-3813490                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001969/3813426-3813490                PP 699************.************************************************96
+CP002167/3402413-3402477                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002167/3402413-3402477                PP 699************.************************************************96
+CP002185/3655517-3655581                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002185/3655517-3655581                PP 699************.************************************************96
+CP002211/3744982-3745046                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002211/3744982-3745046                PP 699************.************************************************96
+CP002212/3744982-3745046                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002212/3744982-3745046                PP 699************.************************************************96
+CP002487/3607291-3607355                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002487/3607291-3607355                PP 699************.************************************************96
+CP002516/450556-450492                          GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002516/450556-450492                  PP 699************.************************************************96
+CP002614/3547274-3547338                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002614/3547274-3547338                PP 699************.************************************************96
+CP002729/3929943-3930007                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002729/3929943-3930007                PP 699************.************************************************96
+CP002797/3457813-3457877                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002797/3457813-3457877                PP 699************.************************************************96
+CP002824/1011458-1011522                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002824/1011458-1011522                PP 699************.************************************************96
+CP002886/4265330-4265394                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002886/4265330-4265394                PP 699************.************************************************96
+CP003026/4300665-4300729                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP003026/4300665-4300729                PP 699************.************************************************96
+CP003034/3903342-3903406                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP003034/3903342-3903406                PP 699************.************************************************96
+CP003047/4211124-4211060                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP003047/4211124-4211060                PP 699************.************************************************96
+CP003109/3974759-3974823                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP003109/3974759-3974823                PP 699************.************************************************96
+CP003218/890012-890076                          GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP003218/890012-890076                  PP 699************.************************************************96
+CP003278/4216864-4216800                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP003278/4216864-4216800                PP 699************.************************************************96
+CU928145/3792186-3792250                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CU928145/3792186-3792250                PP 699************.************************************************96
+CU928158/3358640-3358704                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CU928158/3358640-3358704                PP 699************.************************************************96
+CU928160/3523606-3523670                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CU928160/3523606-3523670                PP 699************.************************************************96
+CU928161/3648063-3648127                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CU928161/3648063-3648127                PP 699************.************************************************96
+CU928162/3883935-3883999                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CU928162/3883935-3883999                PP 699************.************************************************96
+CU928163/3888807-3888871                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CU928163/3888807-3888871                PP 699************.************************************************96
+CU928164/3956923-3956987                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CU928164/3956923-3956987                PP 699************.************************************************96
+Cronobacter/11061-10997                         GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Cronobacter/11061-10997                 PP 699************.************************************************96
+Cronobacter/374043-373979                       GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Cronobacter/374043-373979               PP 699************.************************************************96
+ENA|AL513382|AL513382.1/4243693-4243629         GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR ENA|AL513382|AL513382.1/4243693-4243629 PP 699************.************************************************96
+ENA|CM000662|CM000662.1/2594906-2594842         GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR ENA|CM000662|CM000662.1/2594906-2594842 PP 699************.************************************************96
+Enterobacter/4313500-4313564                    GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Enterobacter/4313500-4313564            PP 699************.************************************************96
+Enterobacter/4474800-4474864                    GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Enterobacter/4474800-4474864            PP 699************.************************************************96
+Enterobacteriaceae/417109-417045                GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Enterobacteriaceae/417109-417045        PP 699************.************************************************96
+Escherichia/3440570-3440634                     GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Escherichia/3440570-3440634             PP 699************.************************************************96
+Escherichia/3652010-3652074                     GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Escherichia/3652010-3652074             PP 699************.************************************************96
+Escherichia/3708938-3709002                     GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Escherichia/3708938-3709002             PP 699************.************************************************96
+Escherichia/4104820-4104884                     GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Escherichia/4104820-4104884             PP 699************.************************************************96
+Escherichia/4203995-4204059                     GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Escherichia/4203995-4204059             PP 699************.************************************************96
+Escherichia/319695-319631                       GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Escherichia/319695-319631               PP 699************.************************************************96
+Escherichia/504297-504233                       GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Escherichia/504297-504233               PP 699************.************************************************96
+Escherichia/510996-510932                       GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Escherichia/510996-510932               PP 699************.************************************************96
+Escherichia/515624-515560                       GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Escherichia/515624-515560               PP 699************.************************************************96
+Escherichia/1333916-1333852                     GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Escherichia/1333916-1333852             PP 699************.************************************************96
+FM180568/3711701-3711765                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR FM180568/3711701-3711765                PP 699************.************************************************96
+FM200053/3387872-3387936                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR FM200053/3387872-3387936                PP 699************.************************************************96
+FN424405/3608907-3608971                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR FN424405/3608907-3608971                PP 699************.************************************************96
+FN543093/3987403-3987467                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR FN543093/3987403-3987467                PP 699************.************************************************96
+FN543502/4767904-4767840                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR FN543502/4767904-4767840                PP 699************.************************************************96
+FN554766/3803916-3803980                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR FN554766/3803916-3803980                PP 699************.************************************************96
+FN649414/3829025-3829089                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR FN649414/3829025-3829089                PP 699************.************************************************96
+FP929040/2554195-2554259                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR FP929040/2554195-2554259                PP 699************.************************************************96
+FQ312003/3607291-3607355                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR FQ312003/3607291-3607355                PP 699************.************************************************96
+FR877557/3317158-3317222                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR FR877557/3317158-3317222                PP 699************.************************************************96
+HE616528/3750060-3750124                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR HE616528/3750060-3750124                PP 699************.************************************************96
+Klebsiella/5550667-5550731                      GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Klebsiella/5550667-5550731              PP 699************.************************************************96
+Salmonella/3583440-3583504                      GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Salmonella/3583440-3583504              PP 699************.************************************************96
+Salmonella/3606289-3606353                      GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Salmonella/3606289-3606353              PP 699************.************************************************96
+Salmonella/4258082-4258146                      GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Salmonella/4258082-4258146              PP 699************.************************************************96
+Salmonella/3415843-3415779                      GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Salmonella/3415843-3415779              PP 699************.************************************************96
+Salmonella/4228338-4228274                      GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Salmonella/4228338-4228274              PP 699************.************************************************96
+Serratia/4860923-4860987                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Serratia/4860923-4860987                PP 699************.************************************************96
+CP002124/928081-928145                          GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCGACTTTGCAAGAAAAATATGCGA
+#=GR CP002124/928081-928145                  PP 699************.************************************************86
+FN392235/3672358-3672422                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCGACTTTGCAAGAAAAATATGCGA
+#=GR FN392235/3672358-3672422                PP 699************.************************************************86
+FN434113/3475726-3475790                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCGACTTTGCAAGAAAAATATGCGA
+#=GR FN434113/3475726-3475790                PP 699************.************************************************86
+FN666575/3475978-3476042                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCGACTTTGCAAGAAAAATATGCGA
+#=GR FN666575/3475978-3476042                PP 699************.************************************************86
+FP236842/3672408-3672472                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCGACTTTGCAAGAAAAATATGCGA
+#=GR FP236842/3672408-3672472                PP 699************.************************************************86
+CP000826/5012543-5012606                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000826/5012543-5012606                PP .799***********.************************************************96
+CP001790/4399778-4399841                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001790/4399778-4399841                PP .799***********.************************************************96
+CP002505/389945-389882                          -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002505/389945-389882                  PP .799***********.************************************************96
+CP002773/5003157-5003220                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002773/5003157-5003220                PP .799***********.************************************************96
+CP002774/5003287-5003350                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002774/5003287-5003350                PP .799***********.************************************************96
+CP002775/5002834-5002897                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002775/5002834-5002897                PP .799***********.************************************************96
+CP003244/397702-397639                          -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP003244/397702-397639                  PP .799***********.************************************************96
+Pectobacterium/4475268-4475331                  -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Pectobacterium/4475268-4475331          PP .799***********.************************************************96
+Rahnella/392599-392536                          -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Rahnella/392599-392536                  PP .799***********.************************************************96
+AP006725/4774013-4774077                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAATCCAACTTTGCAAGAAAAATATGCGA
+#=GR AP006725/4774013-4774077                PP 699************.************************************************96
+CP000647/4057236-4057300                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAATCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000647/4057236-4057300                PP 699************.************************************************96
+CP000964/440881-440817                          GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAATCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP000964/440881-440817                  PP 699************.************************************************96
+CP001891/428833-428769                          GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAATCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001891/428833-428769                  PP 699************.************************************************96
+CP002272/435166-435102                          GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAATCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002272/435166-435102                  PP 699************.************************************************96
+CP002910/4519780-4519844                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAATCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002910/4519780-4519844                PP 699************.************************************************96
+CP003200/4860171-4860235                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAATCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP003200/4860171-4860235                PP 699************.************************************************96
+Klebsiella/440178-440114                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAATCCAACTTTGCAAGAAAAATATGCGA
+#=GR Klebsiella/440178-440114                PP 699************.************************************************96
+Raoultella/4616096-4616032                      GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAATCCAACTTTGCAAGAAAAATATGCGA
+#=GR Raoultella/4616096-4616032              PP 699************.************************************************96
+AP012032/3413113-3413177                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCGACTTTGCAAGAAAAATATGTGA
+#=GR AP012032/3413113-3413177                PP 699************.***********************************************985
+CP001875/4005325-4005389                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCGACTTTGCAAGAAAAATATGTGA
+#=GR CP001875/4005325-4005389                PP 699************.***********************************************985
+CP002206/3041703-3041767                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCGACTTTGCAAGAAAAATATGTGA
+#=GR CP002206/3041703-3041767                PP 699************.***********************************************985
+CP002433/3966892-3966956                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCGACTTTGCAAGAAAAATATGTGA
+#=GR CP002433/3966892-3966956                PP 699************.***********************************************985
+CP003085/465828-465764                          GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCGACTTTGCAAGAAAAATATGTGA
+#=GR CP003085/465828-465764                  PP 699************.***********************************************985
+HE617160/465905-465841                          GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCGACTTTGCAAGAAAAATATGTGA
+#=GR HE617160/465905-465841                  PP 699************.***********************************************985
+CU468135/3522365-3522429                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCGACTTTGCAAGAACAATATGCGA
+#=GR CU468135/3522365-3522429                PP 699************.***********************************************996
+BX950851/4490615-4490678                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAATCCAACTTTGCAAGAAAAATATGCGA
+#=GR BX950851/4490615-4490678                PP .799***********.************************************************96
+CP001655/386556-386493                          -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAATCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001655/386556-386493                  PP .799***********.************************************************96
+CP001657/4297606-4297669                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAATCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001657/4297606-4297669                PP .799***********.************************************************96
+CP001836/4257903-4257966                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAATCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001836/4257903-4257966                PP .799***********.************************************************96
+CP002038/4381132-4381195                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAATCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002038/4381132-4381195                PP .799***********.************************************************96
+Pectobacterium/4309264-4309327                  -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAATCCAACTTTGCAAGAAAAATATGCGA
+#=GR Pectobacterium/4309264-4309327          PP .799***********.************************************************96
+Enterobacter/4395123-4395059                    GACATACAAAAGATT.GGCTTGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Enterobacter/4395123-4395059            PP 799************.************************************************96
+AE009952/4453502-4453441                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR AE009952/4453502-4453441                PP .699***********.**********************************************98..
+AE017042/231110-231049                          -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR AE017042/231110-231049                  PP .699***********.**********************************************98..
+AL590842/232398-232337                          -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR AL590842/232398-232337                  PP .699***********.**********************************************98..
+AM286415/4258974-4259035                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR AM286415/4258974-4259035                PP .699***********.**********************************************98..
+BX936398/4386785-4386846                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR BX936398/4386785-4386846                PP .699***********.**********************************************98..
+CP000305/4387855-4387916                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR CP000305/4387855-4387916                PP .699***********.**********************************************98..
+CP000308/3593801-3593862                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR CP000308/3593801-3593862                PP .699***********.**********************************************98..
+CP000668/158909-158848                          -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR CP000668/158909-158848                  PP .699***********.**********************************************98..
+CP000720/4384375-4384436                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR CP000720/4384375-4384436                PP .699***********.**********************************************98..
+CP000901/615567-615506                          -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR CP000901/615567-615506                  PP .699***********.**********************************************98..
+CP000950/330088-330027                          -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR CP000950/330088-330027                  PP .699***********.**********************************************98..
+CP001048/4317874-4317935                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR CP001048/4317874-4317935                PP .699***********.**********************************************98..
+CP001585/229401-229340                          -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR CP001585/229401-229340                  PP .699***********.**********************************************98..
+CP001589/231439-231378                          -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR CP001589/231439-231378                  PP .699***********.**********************************************98..
+CP001593/229407-229346                          -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR CP001593/229407-229346                  PP .699***********.**********************************************98..
+CP001608/160098-160037                          -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR CP001608/160098-160037                  PP .699***********.**********************************************98..
+CP002246/4175540-4175601                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR CP002246/4175540-4175601                PP .699***********.**********************************************98..
+CP002956/872705-872766                          -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR CP002956/872705-872766                  PP .699***********.**********************************************98..
+FR729477/3418994-3418933                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGC--
+#=GR FR729477/3418994-3418933                PP .699***********.**********************************************98..
+Serratia/4489450-4489513                        -ACATAAAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Serratia/4489450-4489513                PP .689***********.************************************************96
+CP001135/3393140-3393203                        -ACAAACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001135/3393140-3393203                PP .57889*********.************************************************96
+CP001600/3472355-3472418                        -ACAAACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP001600/3472355-3472418                PP .57889*********.************************************************96
+CP002154/3329252-3329315                        -ACAAACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR CP002154/3329252-3329315                PP .57889*********.************************************************96
+Edwardsiella/3472342-3472405                    -ACAAACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Edwardsiella/3472342-3472405            PP .57889*********.************************************************96
+Edwardsiella/3472675-3472738                    -ACAAACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR Edwardsiella/3472675-3472738            PP .57889*********.************************************************96
+FP236843/4580651-4580711                        GACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCGACTTTGCAAGAAAAATAT----
+#=GR FP236843/4580651-4580711                PP 699************.*******************************************997....
+AP008232/3920586-3920647                        -ACATACAAAAGATT.GGCTGGCTAATCTAGCCAGCTCAACCCAACTTTGCAAGAAAAAAATGC--
+#=GR AP008232/3920586-3920647                PP .699***********.*********************************************997..
+FN667741/4056551-4056612                        ---ATAAAAAAGATT.GGCTGGCTAATTTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR FN667741/4056551-4056612                PP ...78999*******.************************************************96
+FN667742/277513-277452                          ---ATAAAAAAGATT.GGCTGGCTAATTTAGCCAGCTCAACCCAACTTTGCAAGAAAAATATGCGA
+#=GR FN667742/277513-277452                  PP ...78999*******.************************************************96
+ENA|BX470251|BX470251.1/5487805-5487866         -ATATAAAAAAGATT.GGCTGGCTAATTTAGCCAGCTCAAACCGACTTTGCAAGAAAAATATGC--
+#=GR ENA|BX470251|BX470251.1/5487805-5487866 PP .678999********.**********************************************98..
+FM162591/4866739-4866800                        -ATATAAAAAAGATT.GGCTGGCTAATTTAGCCAGCTCAAACCGACTTTGCAAGAAAAATATGC--
+#=GR FM162591/4866739-4866800                PP .678999********.**********************************************98..
+Providencia/2458005-2457946                     ---ATAAAAAAGATT.GGCTGGCTAATTTAGCCAGCTCAACCCAACTTTGCAAGAAAAAAATGC--
+#=GR Providencia/2458005-2457946             PP ...57889*******.*********************************************997..
+Morganella/324655-324710                        -------AAAAGATT.GGCTGGCTAATTTAGCCAGCTCAATCCAACTTTGCAAGAAAAATATGC--
+#=GR Morganella/324655-324710                PP .......689*****.**********************************************97..
+AM942759/3593128-3593069                        ----TATAAATGATTgGGCTGGCTAATTTAGCCAGCTCAACCGAACTTTGCAAGAAAAAAATGC--
+#=GR AM942759/3593128-3593069                PP ....578999*****778********************************************98..
+Secondary/484659-484719                         GACATAGAA-ATATT.GACTGGTCAATTTAGCCAGCTCAACGCAACTTTGCAAGAATAAAATG---
+#=GR Secondary/484659-484719                 PP 678899876.79***.*****************************************999887...
+Serratia/1519038-1518978                        ---ATACAAAATATT.GACTGGCAAATCTAGCTAGCTAGATTTAATTTTGCAAGAAAAATACGTG-
+#=GR Serratia/1519038-1518978                PP ...799*********.*********************************************9987.
+ENA|CR354531|CR354531.1/343372-343315           -ACACACAAAAGATT.GGTTGGCTAATTTAGCCAACCTACCTTCAATTTGCAAGAAATAT------
+#=GR ENA|CR354531|CR354531.1/343372-343315   PP .6899**********.****************************************9876......
+#=GC SS_cons                                    .............((.(((((((((...)))))))).))).........(((.........)))..
+
+//

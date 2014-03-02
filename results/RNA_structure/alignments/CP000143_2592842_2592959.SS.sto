@@ -1,0 +1,18 @@
+# STOCKHOLM 1.0
+
+#=GS CP001150/2246111-2246228 DE [subseq from] Rhodobacter sphaeroides KD131 chromosome 1, complete sequence.
+#=GS CP000577/2639875-2639992 DE [subseq from] Rhodobacter sphaeroides ATCC 17029 chromosome 1, complete sequence.
+#=GS CP000143/2592842-2592959 DE [subseq from] Rhodobacter sphaeroides 2.4.1 chromosome 1, complete sequence.
+#=GS CP000661/3209595-3209522 DE [subseq from] Rhodobacter sphaeroides ATCC 17025, complete genome.
+
+CP001150/2246111-2246228         GGATCTCCGATCCTGAACGGAAAGAGCGGGC.TCCGGCCCGCTCTTTTCATTTCCGCCTCTGCCGGCGATCCGCAACGGCCGAAGAGGTTTGCGAAAATCGACAGCGCGCCCGGTCCGT
+#=GR CP001150/2246111-2246228 PP 689****************************.***********************************************************************************9986
+CP000577/2639875-2639992         GGAACTCCGATCCTGAACGGAAAGAGCGGGC.TCCGGCCCGCTCTTTTCATTTCCGCCTCTGCCGGCGATCCGCAACGGCCGAAGAGGTTTGCGAAAATCGACAGCGCGCCCGGTCCGT
+#=GR CP000577/2639875-2639992 PP 689****************************.***********************************************************************************9986
+CP000143/2592842-2592959         GGAACTCCGATCCTGAACGGAAAGAGCGGGC.TCCGGCCCACTCTTTTCATTTCCGCCTCTGCCGGCGATCCGCAACGGCCGAAGAGGTTTGCGAAAATCGACAGCGCGCCCGGTCCGT
+#=GR CP000143/2592842-2592959 PP 689****************************.***********************************************************************************9986
+CP000661/3209595-3209522         GGATCTCCGATCCTGAACGGAAAGAGCGGGCcTTGTGCCCGCTCTTTTCATTTTCACC---GCCTGCAAGCCTCACC------------------------------------------
+#=GR CP000661/3209595-3209522 PP 689***************************99**************************...************9975..........................................
+#=GC SS_cons                     (((((.(((.....(((.(((((((((((((.....)))))))))))))..))).........))).)))))....((((((....(((.(((...........))).)))))).))).
+
+//

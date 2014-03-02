@@ -1,0 +1,66 @@
+# STOCKHOLM 1.0
+
+#=GS ENA|CM000287|CM000287.4/1772-1825 DE [subseq from] Clostridium difficile QCD-32g58 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000441|CM000441.2/2018-2071 DE [subseq from] Clostridium difficile QCD-66c26 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000657|CM000657.1/1777-1830 DE [subseq from] Clostridium difficile QCD-97b34 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000658|CM000658.1/2017-2070 DE [subseq from] Clostridium difficile QCD-37x79 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000659|CM000659.1/2018-2071 DE [subseq from] Clostridium difficile CIP 107932 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000661|CM000661.1/2008-2061 DE [subseq from] Clostridium difficile QCD-76w55 chromosome, whole genome shotgun sequence.
+#=GS FN538970/17611-17664              DE [subseq from] Clostridium difficile CD196 complete genome, strain CD196
+#=GS FN545816/17513-17566              DE [subseq from] Clostridium difficile R20291 complete genome
+#=GS FN665654/17513-17566              DE [subseq from] Clostridium difficile complete genome, strain 2007855
+#=GS FN668941/22904-22957              DE [subseq from] Clostridium difficile BI1 chromosome, complete sequence
+#=GS ENA|CM000660|CM000660.1/1789-1842 DE [subseq from] Clostridium difficile QCD-23m63 chromosome, whole genome shotgun sequence.
+#=GS FN665653/23000-23053              DE [subseq from] Clostridium difficile complete genome, strain M120
+#=GS AM180355/17751-17804              DE [subseq from] Clostridium difficile 630 complete genome
+#=GS ENA|CM000604|CM000604.1/1769-1822 DE [subseq from] Clostridium difficile ATCC 43255 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000637|CM000637.1/1786-1839 DE [subseq from] Clostridium difficile QCD-63q42 chromosome, whole genome shotgun sequence.
+#=GS FN665652/17465-17518              DE [subseq from] Clostridium difficile complete genome, strain CF5
+#=GS FN668944/1834-1887                DE [subseq from] Clostridium difficile BI9 chromosome
+#=GS FN668375/4203624-4203677          DE [subseq from] Clostridium difficile M68, complete genome
+#=GS AE015929/1343380-1343330          DE [subseq from] Staphylococcus epidermidis ATCC 12228, complete genome.
+#=GS CP000029/1231305-1231255          DE [subseq from] Staphylococcus epidermidis RP62A, complete genome.
+
+ENA|CM000287|CM000287.4/1772-1825         ATAGGTCTGAGAGGATTATACGTTT..TAGTATAATCAATTAGGGTGGCAACGCGG
+#=GR ENA|CM000287|CM000287.4/1772-1825 PP 69***********************..***************************97
+ENA|CM000441|CM000441.2/2018-2071         ATAGGTCTGAGAGGATTATACGTTT..TAGTATAATCAATTAGGGTGGCAACGCGG
+#=GR ENA|CM000441|CM000441.2/2018-2071 PP 69***********************..***************************97
+ENA|CM000657|CM000657.1/1777-1830         ATAGGTCTGAGAGGATTATACGTTT..TAGTATAATCAATTAGGGTGGCAACGCGG
+#=GR ENA|CM000657|CM000657.1/1777-1830 PP 69***********************..***************************97
+ENA|CM000658|CM000658.1/2017-2070         ATAGGTCTGAGAGGATTATACGTTT..TAGTATAATCAATTAGGGTGGCAACGCGG
+#=GR ENA|CM000658|CM000658.1/2017-2070 PP 69***********************..***************************97
+ENA|CM000659|CM000659.1/2018-2071         ATAGGTCTGAGAGGATTATACGTTT..TAGTATAATCAATTAGGGTGGCAACGCGG
+#=GR ENA|CM000659|CM000659.1/2018-2071 PP 69***********************..***************************97
+ENA|CM000661|CM000661.1/2008-2061         ATAGGTCTGAGAGGATTATACGTTT..TAGTATAATCAATTAGGGTGGCAACGCGG
+#=GR ENA|CM000661|CM000661.1/2008-2061 PP 69***********************..***************************97
+FN538970/17611-17664                      ATAGGTCTGAGAGGATTATACGTTT..TAGTATAATCAATTAGGGTGGCAACGCGG
+#=GR FN538970/17611-17664              PP 69***********************..***************************97
+FN545816/17513-17566                      ATAGGTCTGAGAGGATTATACGTTT..TAGTATAATCAATTAGGGTGGCAACGCGG
+#=GR FN545816/17513-17566              PP 69***********************..***************************97
+FN665654/17513-17566                      ATAGGTCTGAGAGGATTATACGTTT..TAGTATAATCAATTAGGGTGGCAACGCGG
+#=GR FN665654/17513-17566              PP 69***********************..***************************97
+FN668941/22904-22957                      ATAGGTCTGAGAGGATTATACGTTT..TAGTATAATCAATTAGGGTGGCAACGCGG
+#=GR FN668941/22904-22957              PP 69***********************..***************************97
+ENA|CM000660|CM000660.1/1789-1842         ATAGGTCTGAGAGGATTATACATTT..TAGTATAATCAATTAGGGTGGCAACGCGG
+#=GR ENA|CM000660|CM000660.1/1789-1842 PP 69***********************..***************************97
+FN665653/23000-23053                      ATAGGTCTGAGAGGATTATACATTT..TAGTATAATCAATTAGGGTGGCAACGCGG
+#=GR FN665653/23000-23053              PP 69***********************..***************************97
+AM180355/17751-17804                      ATAGGTCTGAGAGGATTATACATTT..TAGTATAGTCAATTAGGGTGGCAACGCGG
+#=GR AM180355/17751-17804              PP 69***********************..***************************97
+ENA|CM000604|CM000604.1/1769-1822         ATAGGTCTGAGAGGATTATACATTT..TAGTATAGTCAATTAGGGTGGCAACGCGG
+#=GR ENA|CM000604|CM000604.1/1769-1822 PP 69***********************..***************************97
+ENA|CM000637|CM000637.1/1786-1839         ATAGGTCTGAGAGGATTATACATTT..TAGTATAGTCAATTAGGGTGGCAACGCGG
+#=GR ENA|CM000637|CM000637.1/1786-1839 PP 69***********************..***************************97
+FN665652/17465-17518                      ATAGGTCTGAGAGGATTATACATTT..TAGTATAGTCAATTAGGGTGGCAACGCGG
+#=GR FN665652/17465-17518              PP 69***********************..***************************97
+FN668944/1834-1887                        ATAGGTCTGAGAGGATTATACATTT..TAGTATAGTCAATTAGGGTGGCAACGCGG
+#=GR FN668944/1834-1887                PP 69***********************..***************************97
+FN668375/4203624-4203677                  ATAGGTCTGAGAGGATTATACATTT..TAGTATAGTCAATTAGGGTGGCAACGCGG
+#=GR FN668375/4203624-4203677          PP 699**********************..***************************97
+AE015929/1343380-1343330                  -----TTTGAGTGGATTATGCTTTTatCAGTATAATCAAATAGGGTGGCAACACGG
+#=GR AE015929/1343380-1343330          PP .....679****************999***************************97
+CP000029/1231305-1231255                  -----TTTGAGTGGATTATGCTTTTatCAGTATAATCAAATAGGGTGGCAACACGG
+#=GR CP000029/1231305-1231255          PP .....679****************999***************************97
+#=GC SS_cons                              .....(((((...((((((((........))))))))..)))))(((....)))..
+
+//

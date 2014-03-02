@@ -1,0 +1,240 @@
+# STOCKHOLM 1.0
+
+#=GS CP001176/1275915-1276047                DE [subseq from] Bacillus cereus B4264, complete genome.
+#=GS ENA|CM000729|CM000729.1/1110536-1110668 DE [subseq from] Bacillus cereus Rock1-15 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000736|CM000736.1/1150248-1150116 DE [subseq from] Bacillus cereus F65185 chromosome, whole genome shotgun sequence.
+#=GS Bacillus/1435529-1435661                DE [subseq from] thuringiensis serovar kurstaki str. HD73, complete genome. 5646799
+#=GS ENA|CM000734|CM000734.1/1201342-1201474 DE [subseq from] Bacillus cereus Rock4-2 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000751|CM000751.1/1136549-1136417 DE [subseq from] Bacillus thuringiensis serovar kurstaki str. T03a001 chromosome, whole genome shotgun sequence.
+#=GS AE017194/1383257-1383389                DE [subseq from] Bacillus cereus ATCC 10987, complete genome.
+#=GS AE017355/1248356-1248488                DE [subseq from] Bacillus thuringiensis serovar konkukian str. 97-27, complete genome.
+#=GS AP007209/1290375-1290507                DE [subseq from] Bacillus cereus NC7401 genomic DNA, complete genome.
+#=GS CP000001/1256301-1256433                DE [subseq from] Bacillus cereus E33L, complete genome.
+#=GS CP000227/1313363-1313495                DE [subseq from] Bacillus cereus Q1, complete genome.
+#=GS CP000485/1263370-1263502                DE [subseq from] Bacillus thuringiensis str. Al Hakam, complete genome.
+#=GS CP001177/1330895-1331027                DE [subseq from] Bacillus cereus AH187, complete genome.
+#=GS CP001283/1277470-1277602                DE [subseq from] Bacillus cereus AH820, complete genome.
+#=GS CP001407/1217735-1217867                DE [subseq from] Bacillus cereus 03BB102, complete genome.
+#=GS CP001746/1218521-1218653                DE [subseq from] Bacillus cereus biovar anthracis str. CI, complete genome.
+#=GS CP002508/1396814-1396946                DE [subseq from] Bacillus thuringiensis serovar finitimus YBT-020, complete genome.
+#=GS CP003187/1201234-1201366                DE [subseq from] Bacillus cereus F837/76, complete genome.
+#=GS ENA|CM000714|CM000714.1/1155271-1155403 DE [subseq from] Bacillus cereus m1293 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000716|CM000716.1/1156869-1157001 DE [subseq from] Bacillus cereus BGSC 6E1 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000724|CM000724.1/1169472-1169604 DE [subseq from] Bacillus cereus BDRD-ST26 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000732|CM000732.1/1163956-1164088 DE [subseq from] Bacillus cereus Rock3-42 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000717|CM000717.1/1158032-1158164 DE [subseq from] Bacillus cereus 172560W chromosome, whole genome shotgun sequence.
+#=GS AE016877/1229456-1229588                DE [subseq from] Bacillus cereus ATCC 14579, complete genome.
+#=GS ENA|CM000726|CM000726.1/1142981-1143113 DE [subseq from] Bacillus cereus BDRD-Cer4 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000727|CM000727.1/1185190-1185322 DE [subseq from] Bacillus cereus 95/8201 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000752|CM000752.1/1140653-1140785 DE [subseq from] Bacillus thuringiensis serovar monterrey BGSC 4AJ1 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000754|CM000754.1/1128036-1127904 DE [subseq from] Bacillus thuringiensis serovar andalousiensis BGSC 4AW1 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000755|CM000755.1/1125167-1125299 DE [subseq from] Bacillus thuringiensis serovar pondicheriensis BGSC 4BA1 chromosome, whole genome shotgun sequence.
+#=GS Bacillus/806077-806209                  DE [subseq from] thuringiensis HD-789, complete genome. 5495278
+#=GS Bacillus/2822268-2822136                DE [subseq from] thuringiensis HD-771, complete genome. 5886036
+#=GS CP001186/1217325-1217457                DE [subseq from] Bacillus cereus G9842, complete genome.
+#=GS ENA|CM000758|CM000758.1/1078541-1078409 DE [subseq from] Bacillus thuringiensis IBL 200 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000759|CM000759.1/1144340-1144472 DE [subseq from] Bacillus thuringiensis IBL 4222 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000722|CM000722.1/1144510-1144642 DE [subseq from] Bacillus cereus m1550 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000723|CM000723.1/1150318-1150450 DE [subseq from] Bacillus cereus BDRD-ST24 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000756|CM000756.1/1124900-1125032 DE [subseq from] Bacillus thuringiensis serovar huazhongensis BGSC 4BD1 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000750|CM000750.1/1108102-1107970 DE [subseq from] Bacillus thuringiensis serovar pakistani str. T13001 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000718|CM000718.1/1265965-1265833 DE [subseq from] Bacillus cereus MM3 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000738|CM000738.1/1180317-1180448 DE [subseq from] Bacillus cereus AH676 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000749|CM000749.1/1113239-1113370 DE [subseq from] Bacillus thuringiensis serovar sotto str. T04001 chromosome, whole genome shotgun sequence.
+#=GS Bacillus/1265918-1266049                DE [subseq from] thuringiensis serovar thuringiensis str. IS5056, complete genome. 5491935
+#=GS Bacillus/1270810-1270941                DE [subseq from] thuringiensis Bt407, complete genome. 5500501
+#=GS CP001907/1268717-1268848                DE [subseq from] Bacillus thuringiensis serovar chinensis CT-43, complete genome.
+#=GS ENA|CM000747|CM000747.1/1184895-1185026 DE [subseq from] Bacillus thuringiensis Bt407 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000748|CM000748.1/1143979-1144110 DE [subseq from] Bacillus thuringiensis serovar thuringiensis str. T01001 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000753|CM000753.1/1147390-1147521 DE [subseq from] Bacillus thuringiensis serovar berliner ATCC 10792 chromosome, whole genome shotgun sequence.
+#=GS CP001903/1244957-1245088                DE [subseq from] Bacillus thuringiensis BMB171, complete genome.
+#=GS ENA|CM000715|CM000715.1/1124047-1123915 DE [subseq from] Bacillus cereus ATCC 10876 chromosome, whole genome shotgun sequence.
+#=GS AE016879/1224367-1224501                DE [subseq from] Bacillus anthracis str. Ames, complete genome.
+#=GS AE017225/1224435-1224569                DE [subseq from] Bacillus anthracis str. Sterne, complete genome.
+#=GS AE017334/1224489-1224623                DE [subseq from] Bacillus anthracis str. 'Ames Ancestor', complete genome.
+#=GS Bacillus/1215217-1215351                DE [subseq from] anthracis str. H9401, complete genome. 5218947
+#=GS CP001215/3014707-3014573                DE [subseq from] Bacillus anthracis str. CDC 684, complete genome.
+#=GS CP001598/1224389-1224523                DE [subseq from] Bacillus anthracis str. A0248, complete genome.
+#=GS ENA|CM000757|CM000757.1/1170406-1170540 DE [subseq from] Bacillus thuringiensis serovar pulsiensis BGSC 4CC1 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000739|CM000739.1/1144346-1144479 DE [subseq from] Bacillus cereus AH1271 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000720|CM000720.1/1129557-1129686 DE [subseq from] Bacillus cereus R309803 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000746|CM000746.1/1146771-1146905 DE [subseq from] Bacillus thuringiensis serovar tochigiensis BGSC 4Y1 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000721|CM000721.1/1191762-1191627 DE [subseq from] Bacillus cereus ATCC 4342 chromosome, whole genome shotgun sequence.
+#=GS Bacillus/361421-361292                  DE [subseq from] cereus FRI-35, complete genome. 5083176
+#=GS Bacillus/463560-463690                  DE [subseq from] thuringiensis MC28, complete genome. 5414494
+#=GS ENA|CM000728|CM000728.1/1108932-1109062 DE [subseq from] Bacillus cereus Rock1-3 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000731|CM000731.1/1110276-1110406 DE [subseq from] Bacillus cereus Rock3-29 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000735|CM000735.1/1122450-1122580 DE [subseq from] Bacillus cereus Rock4-18 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000740|CM000740.1/1174019-1173891 DE [subseq from] Bacillus cereus AH1272 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000741|CM000741.1/1196028-1196156 DE [subseq from] Bacillus cereus AH1273 chromosome, whole genome shotgun sequence.
+#=GS CP000903/1237061-1237190                DE [subseq from] Bacillus weihenstephanensis KBAB4, complete genome.
+#=GS ENA|CM000725|CM000725.1/1112271-1112142 DE [subseq from] Bacillus cereus BDRD-ST196 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000742|CM000742.1/1126384-1126513 DE [subseq from] Bacillus mycoides DSM 2048 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000730|CM000730.1/1045687-1045557 DE [subseq from] Bacillus cereus Rock3-28 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000719|CM000719.1/1159936-1160065 DE [subseq from] Bacillus cereus AH621 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000737|CM000737.1/1154198-1154327 DE [subseq from] Bacillus cereus AH603 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000733|CM000733.1/4671165-4671061 DE [subseq from] Bacillus cereus Rock3-44 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000743|CM000743.1/4775728-4775831 DE [subseq from] Bacillus mycoides Rock1-4 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000745|CM000745.1/1148813-1148916 DE [subseq from] Bacillus pseudomycoides DSM 12442 chromosome, whole genome shotgun sequence.
+#=GS ENA|CM000744|CM000744.1/1066286-1066184 DE [subseq from] Bacillus mycoides Rock3-17 chromosome, whole genome shotgun sequence.
+#=GS CP000764/1079750-1079862                DE [subseq from] Bacillus cereus subsp. cytotoxis NVH 391-98, complete genome.
+
+CP001176/1275915-1276047                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAACCTTCATTGTTAC
+#=GR CP001176/1275915-1276047                PP 689***********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000729|CM000729.1/1110536-1110668         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAACCTTCATTGTTAC
+#=GR ENA|CM000729|CM000729.1/1110536-1110668 PP 689***********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000736|CM000736.1/1150248-1150116         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAACCTTCATTGTTAC
+#=GR ENA|CM000736|CM000736.1/1150248-1150116 PP 689***********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+Bacillus/1435529-1435661                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAAGCTTCATTGTTAC
+#=GR Bacillus/1435529-1435661                PP 689***********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000734|CM000734.1/1201342-1201474         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAAGCTTCATTGTTAC
+#=GR ENA|CM000734|CM000734.1/1201342-1201474 PP 689***********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000751|CM000751.1/1136549-1136417         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAAGCTTCATTGTTAC
+#=GR ENA|CM000751|CM000751.1/1136549-1136417 PP 689***********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+AE017194/1383257-1383389                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR AE017194/1383257-1383389                PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+AE017355/1248356-1248488                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR AE017355/1248356-1248488                PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+AP007209/1290375-1290507                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR AP007209/1290375-1290507                PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+CP000001/1256301-1256433                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR CP000001/1256301-1256433                PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+CP000227/1313363-1313495                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR CP000227/1313363-1313495                PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+CP000485/1263370-1263502                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR CP000485/1263370-1263502                PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+CP001177/1330895-1331027                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR CP001177/1330895-1331027                PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+CP001283/1277470-1277602                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR CP001283/1277470-1277602                PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+CP001407/1217735-1217867                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR CP001407/1217735-1217867                PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+CP001746/1218521-1218653                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR CP001746/1218521-1218653                PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+CP002508/1396814-1396946                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR CP002508/1396814-1396946                PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+CP003187/1201234-1201366                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR CP003187/1201234-1201366                PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000714|CM000714.1/1155271-1155403         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR ENA|CM000714|CM000714.1/1155271-1155403 PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000716|CM000716.1/1156869-1157001         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR ENA|CM000716|CM000716.1/1156869-1157001 PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000724|CM000724.1/1169472-1169604         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR ENA|CM000724|CM000724.1/1169472-1169604 PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000732|CM000732.1/1163956-1164088         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR ENA|CM000732|CM000732.1/1163956-1164088 PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000717|CM000717.1/1158032-1158164         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCAA.GAAAGCTTCATTGTTAC
+#=GR ENA|CM000717|CM000717.1/1158032-1158164 PP 689***********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+AE016877/1229456-1229588                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAACATTCATTGTTAC
+#=GR AE016877/1229456-1229588                PP 689***********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000726|CM000726.1/1142981-1143113         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGAATATCTGCCCAAG.GA.ACAAGCTA.GAAACATTCATTGTTAC
+#=GR ENA|CM000726|CM000726.1/1142981-1143113 PP 689***********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000727|CM000727.1/1185190-1185322         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGACTATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR ENA|CM000727|CM000727.1/1185190-1185322 PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000752|CM000752.1/1140653-1140785         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGACTATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR ENA|CM000752|CM000752.1/1140653-1140785 PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000754|CM000754.1/1128036-1127904         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGACTATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR ENA|CM000754|CM000754.1/1128036-1127904 PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000755|CM000755.1/1125167-1125299         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGACTATCTGCCCAAG.GA.ACAAGCTA.GAAATCTTCATTGTTAC
+#=GR ENA|CM000755|CM000755.1/1125167-1125299 PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+Bacillus/806077-806209                          CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGAATATCTGCCCAGG.GA.ACAAGCTA.GAAACCTTCATTATTAC
+#=GR Bacillus/806077-806209                  PP 689***********************************..*********.***************************..*******..**.***********************.**.********.***********999875
+Bacillus/2822268-2822136                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGAATATCTGCCCAGG.GA.ACAAGCTA.GAAACCTTCATTATTAC
+#=GR Bacillus/2822268-2822136                PP 689***********************************..*********.***************************..*******..**.***********************.**.********.***********999875
+CP001186/1217325-1217457                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGAATATCTGCCCAGG.GA.ACAAGCTA.GAAACCTTCATTATTAC
+#=GR CP001186/1217325-1217457                PP 689***********************************..*********.***************************..*******..**.***********************.**.********.***********999875
+ENA|CM000758|CM000758.1/1078541-1078409         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGAATATCTGCCCAGG.GA.ACAAGCTA.GAAACCTTCATTATTAC
+#=GR ENA|CM000758|CM000758.1/1078541-1078409 PP 689***********************************..*********.***************************..*******..**.***********************.**.********.***********999875
+ENA|CM000759|CM000759.1/1144340-1144472         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGAATATCTGCCCAGG.GA.ACAAGCTA.GAAACCTTCATTATTAC
+#=GR ENA|CM000759|CM000759.1/1144340-1144472 PP 689***********************************..*********.***************************..*******..**.***********************.**.********.***********999875
+ENA|CM000722|CM000722.1/1144510-1144642         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGATATTCTGCCCAAG.GA.ACAAGCTA.GAAACCTTCATTGTTAC
+#=GR ENA|CM000722|CM000722.1/1144510-1144642 PP 689***********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000723|CM000723.1/1150318-1150450         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGATATTCTGCCCAAG.GA.ACAAGCTA.GAAACCTTCATTGTTAC
+#=GR ENA|CM000723|CM000723.1/1150318-1150450 PP 689***********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000756|CM000756.1/1124900-1125032         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGATATTCTGCCCAAG.GA.ACAAGCTA.GAAACCTTCATTGTTAC
+#=GR ENA|CM000756|CM000756.1/1124900-1125032 PP 689***********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000750|CM000750.1/1108102-1107970         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGATATTCTGCCCAAG.GA.ACAAGCTA.GAAACATTCATTGTTAC
+#=GR ENA|CM000750|CM000750.1/1108102-1107970 PP 689***********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+ENA|CM000718|CM000718.1/1265965-1265833         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..CC.CCTGGGCAGAAGATCTGCCCGGG.GA.ACAAGCTA.GAAACCTTCATTATTAC
+#=GR ENA|CM000718|CM000718.1/1265965-1265833 PP 689***********************************..*********.***************************..*******..**.***********************.**.********.************99885
+ENA|CM000738|CM000738.1/1180317-1180448         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGA-TATCTGCCCAAG.GA.ACAAGCTA.GAAACCTTCATTGTTAC
+#=GR ENA|CM000738|CM000738.1/1180317-1180448 PP 689***********************************..*********.***************************..*******..**.*********8.789*********.**.********.*************9986
+ENA|CM000749|CM000749.1/1113239-1113370         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTT-TTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GC.CTTGGGCAGAATATCTGCCCAGG.GA.ACAAGCTA.GAAACCTTCATTATTAC
+#=GR ENA|CM000749|CM000749.1/1113239-1113370 PP 689***********************************..876.689**.***************************..*******..**.***********************.**.********.***********999875
+Bacillus/1265918-1266049                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CCTGGGCAGAATATCTGCCCG-G.GA.TCAAGCTA.GAAACCGTCATTGTTAC
+#=GR Bacillus/1265918-1266049                PP 689***********************************..*********.***************************..*******..**.*****************9976.6.79.********.*************9986
+Bacillus/1270810-1270941                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CCTGGGCAGAATATCTGCCCG-G.GA.TCAAGCTA.GAAACCGTCATTGTTAC
+#=GR Bacillus/1270810-1270941                PP 689***********************************..*********.***************************..*******..**.*****************9976.6.79.********.*************9986
+CP001907/1268717-1268848                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CCTGGGCAGAATATCTGCCCG-G.GA.TCAAGCTA.GAAACCGTCATTGTTAC
+#=GR CP001907/1268717-1268848                PP 689***********************************..*********.***************************..*******..**.*****************9976.6.79.********.*************9986
+ENA|CM000747|CM000747.1/1184895-1185026         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CCTGGGCAGAATATCTGCCCG-G.GA.TCAAGCTA.GAAACCGTCATTGTTAC
+#=GR ENA|CM000747|CM000747.1/1184895-1185026 PP 689***********************************..*********.***************************..*******..**.*****************9976.6.79.********.*************9986
+ENA|CM000748|CM000748.1/1143979-1144110         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CCTGGGCAGAATATCTGCCCG-G.GA.TCAAGCTA.GAAACCGTCATTGTTAC
+#=GR ENA|CM000748|CM000748.1/1143979-1144110 PP 689***********************************..*********.***************************..*******..**.*****************9976.6.79.********.*************9986
+ENA|CM000753|CM000753.1/1147390-1147521         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CCTGGGCAGAATATCTGCCCG-G.GA.TCAAGCTA.GAAACCGTCATTGTTAC
+#=GR ENA|CM000753|CM000753.1/1147390-1147521 PP 689***********************************..*********.***************************..*******..**.*****************9976.6.79.********.*************9986
+CP001903/1244957-1245088                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..GA.CTTGGGCAGA-TATCTGCCCAAG.GA.ACAAGCTA.GAAACCTTCATTGTTAC
+#=GR CP001903/1244957-1245088                PP 689***********************************..*********.***************************..*******..**.*********8.789*********.**.********.*************9986
+ENA|CM000715|CM000715.1/1124047-1123915         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTTTTCGGTAATCTCCATTTGT..TAGCCTG..CC.CCTGGGCAGAATATCTGCCCAAG.TA.ACAAGCTA.GAAACTTTCATTGTTAC
+#=GR ENA|CM000715|CM000715.1/1124047-1123915 PP 6899**********************************..*********.***************************..*******..**.***********************.**.********.*************9986
+AE016879/1224367-1224501                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGTttTAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAA.GA.ACAAGCTA.GAAATCTTTATTGTTAC
+#=GR AE016879/1224367-1224501                PP 6899**********************************..*********.************************998779******..**.***********************.**.********.*************9986
+AE017225/1224435-1224569                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGTttTAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAA.GA.ACAAGCTA.GAAATCTTTATTGTTAC
+#=GR AE017225/1224435-1224569                PP 6899**********************************..*********.************************998779******..**.***********************.**.********.*************9986
+AE017334/1224489-1224623                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGTttTAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAA.GA.ACAAGCTA.GAAATCTTTATTGTTAC
+#=GR AE017334/1224489-1224623                PP 6899**********************************..*********.************************998779******..**.***********************.**.********.*************9986
+Bacillus/1215217-1215351                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGTttTAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAA.GA.ACAAGCTA.GAAATCTTTATTGTTAC
+#=GR Bacillus/1215217-1215351                PP 6899**********************************..*********.************************998779******..**.***********************.**.********.*************9986
+CP001215/3014707-3014573                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGTttTAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAA.GA.ACAAGCTA.GAAATCTTTATTGTTAC
+#=GR CP001215/3014707-3014573                PP 6899**********************************..*********.************************998779******..**.***********************.**.********.*************9986
+CP001598/1224389-1224523                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGTttTAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAA.GA.ACAAGCTA.GAAATCTTTATTGTTAC
+#=GR CP001598/1224389-1224523                PP 6899**********************************..*********.************************998779******..**.***********************.**.********.*************9986
+ENA|CM000757|CM000757.1/1170406-1170540         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGTttTAGCCTG..AC.CTTGGGCAGAATATCTGCCCAAA.GA.ACAAGCTA.GAAATCTTTATTGTTAC
+#=GR ENA|CM000757|CM000757.1/1170406-1170540 PP 6899**********************************..*********.************************998779******..**.***********************.**.********.*************9986
+ENA|CM000739|CM000739.1/1144346-1144479         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCCG..CCcCCCGGGCAGAGTATCCGTCCAGG.GA.GCAAGCTA.GAAATCTTCATTGTTAC
+#=GR ENA|CM000739|CM000739.1/1144346-1144479 PP 689***********************************..*********.***************************..*****99..6526789*******************.**.********.*************9985
+ENA|CM000720|CM000720.1/1129557-1129686         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCTG..AC.CTTGGGCAGATAGTCTGCCCAAG.--.GCAAGCTA.GAAACCTTCATTCTTA-
+#=GR ENA|CM000720|CM000720.1/1129557-1129686 PP 689***********************************..*********.***************************..*******..**.*********************99....89******.***********98887.
+ENA|CM000746|CM000746.1/1146771-1146905         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCCGC.cCC.CCTGGGCAGAATATCTGCCCAGG.GAaACAAGCTA.GAAACCTTCATTGTTAC
+#=GR ENA|CM000746|CM000746.1/1146771-1146905 PP 689***********************************..*********.***************************..***9987.245.789*****************998.75389******.*************9985
+ENA|CM000721|CM000721.1/1191762-1191627         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTATTCGGTAATCTCCATTTGT..TAGCCGCccCC.CCTGGGCAGAATATCTGCCCAGGgGA.ACAAGCTA.GAAACCTTCATTGTTAC
+#=GR ENA|CM000721|CM000721.1/1191762-1191627 PP 689***********************************..*********.***************************..***98762245.789***************99876378.9*******.*************9985
+Bacillus/361421-361292                          CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTTTCTT.CTTTTGTCTTCGGTAATCTCCATTTGT..TAGCTCG..C-.CTTGGGCAGATATTCTGCCCAGG.--.GCGGGCTA.GAAACCTTCATTGTTAC
+#=GR Bacillus/361421-361292                  PP 699***********************************..*********.***************************..****998..6..9*******************988....7899****.*************9986
+Bacillus/463560-463690                          CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTGTCTT.CTTTAATCTTCGGTAATCTCCATTTGT..TAGCTCG..A-.CTTGGGCAGAATATCTGCCCAAG.-T.CGAGCCGG.GAAAAATTCATTGTTAC
+#=GR Bacillus/463560-463690                  PP 689***********************************..*********.***************************..*******..9..8******************9988..4.55566678.9999*********9986
+ENA|CM000728|CM000728.1/1108932-1109062         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTGTCTT.CTTTAATCTTCGGTAATCTCCATTTGT..TAGCTCG..A-.CTTGGGCAGAATATCTGCCCAAG.-T.CGAGCCGG.GAAAAATTCATTGTTAC
+#=GR ENA|CM000728|CM000728.1/1108932-1109062 PP 689***********************************..*********.***************************..*******..9..8******************9988..4.55566678.9999*********9986
+ENA|CM000731|CM000731.1/1110276-1110406         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTGTCTT.CTTTAATCTTCGGTAATCTCCATTTGT..TAGCTCG..A-.CTTGGGCAGAATATCTGCCCAAG.-T.CGAGCCGG.GAAAAATTCATTGTTAC
+#=GR ENA|CM000731|CM000731.1/1110276-1110406 PP 689***********************************..*********.***************************..*******..9..8******************9988..4.55566678.9999*********9986
+ENA|CM000735|CM000735.1/1122450-1122580         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTGTCTT.CTTTAATCTTCGGTAATCTCCATTTGT..TAGCTCG..A-.CTTGGGCAGAATATCTGCCCAAG.--.TCGAGCTGgGAAAAATTCATTGTTAC
+#=GR ENA|CM000735|CM000735.1/1122450-1122580 PP 689***********************************..*********.***************************..*******..9..8********************98....7788887527889999******9986
+ENA|CM000740|CM000740.1/1174019-1173891         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTGTCTT.CTTTAATCTTCGGTAATCTCCATTTGT..TAGCTCG..A-.CTTGGGCAGATACTCTGCCCAAG.--.TCGAGCCG.GAAAAACTCATTGTTA-
+#=GR ENA|CM000740|CM000740.1/1174019-1173891 PP 689***********************************..*********.***************************..*******..9..8********************99....99******.************9986.
+ENA|CM000741|CM000741.1/1196028-1196156         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTGTCTT.CTTTAATCTTCGGTAATCTCCATTTGT..TAGCTCG..A-.CTTGGGCAGATACTCTGCCCAAG.--.TCGAGCCG.GAAAAACTCATTGTTA-
+#=GR ENA|CM000741|CM000741.1/1196028-1196156 PP 689***********************************..*********.***************************..*******..9..8********************99....99******.************9986.
+CP000903/1237061-1237190                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTGTCTT.CTTTAATCTTCGGTAATCTCCATTTGT..TAGCCTG..G-.CTGAGGCAGACTATCTGCCTCAG.--.CCAAGCCT.GAAAAACTCATTGTTAC
+#=GR CP000903/1237061-1237190                PP 689***********************************..*********.***************************..*******..9..89*****************9999....99******.*************9985
+ENA|CM000725|CM000725.1/1112271-1112142         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTATCTT.CTTTAATCTTCGGTAATCTCCATTTGT..TAGCCTG..G-.CTGTGGCAGACTATCTGCCACAG.--.CCAAGCCT.GAAAAACTCATTGTTAC
+#=GR ENA|CM000725|CM000725.1/1112271-1112142 PP 689***********************************..*********.***************************..*******..9..8999***************9998....9*******.*************9985
+ENA|CM000742|CM000742.1/1126384-1126513         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTATCTT.CTTTAATCTTCGGTAATCTCCATTTGT..TAGCCTG..G-.CTGTGGCAGACTATCTGCCACAG.--.CCAAGCCT.GAAAAACTCATTGTTAC
+#=GR ENA|CM000742|CM000742.1/1126384-1126513 PP 689***********************************..*********.***************************..*******..9..8999***************9998....9*******.*************9985
+ENA|CM000730|CM000730.1/1045687-1045557         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTGTCTT.CTTTAATCTTCGGTAATCTCCATTTGT..TAGCTCG..A-.CTTGGGCAGAATATCTGCCCAAA.-T.TGAGCCGG.GAAAAATTCATTGTTAC
+#=GR ENA|CM000730|CM000730.1/1045687-1045557 PP 689***********************************..*********.***************************..*******..9..8******************9986..4.56667788.999**********9986
+ENA|CM000719|CM000719.1/1159936-1160065         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTATCTT.CTTTAATCTTCGGTAATCTCCATTTGT..TAGCTTG..G-.CTGTGGCAGACTATCTGCCACAG.--.CCAAGCCT.GAAAAACTCATTGTTAC
+#=GR ENA|CM000719|CM000719.1/1159936-1160065 PP 689***********************************..*********.***************************..*******..9..8999***************9998....9*******.*************9985
+ENA|CM000737|CM000737.1/1154198-1154327         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTATCTT.CTTTAATCTTTGGTAATCTCCATTTGT..TAGCCTG..G-.CTGTGGCAGACTATCTGCCACAG.--.CCAAGCCT.GAAAAACTCATTGTTAC
+#=GR ENA|CM000737|CM000737.1/1154198-1154327 PP 689***********************************..*********.***************************..*******..9..8999***************9998....9*******.*************9985
+ENA|CM000733|CM000733.1/4671165-4671061         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTT-TTCTT.CTTTTTTCTTCGGTAATCTCCATCTTTtcCAGCTTG..A-.-TTGGGCAGAAATTCTTTACGAC.--.--------.-----------------
+#=GR ENA|CM000733|CM000733.1/4671165-4671061 PP 6899**********************************..876.689**.**********************99888678******..8...9*********999987666543..............................
+ENA|CM000743|CM000743.1/4775728-4775831         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTGtgTTTTGTCTT.CTTTTTTCTTCGGTAATCTCAAAGTTT.cCAGCTTG..A-.-TTGGGCAGAAATTCTTTAC---.--.--------.-----------------
+#=GR ENA|CM000743|CM000743.1/4775728-4775831 PP 689******************************9876622788899***.**********************99998.89******..8...9*********998875543.................................
+ENA|CM000745|CM000745.1/1148813-1148916         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTGtgTTTTGTCTT.CTTTTTTCTTCGGTAATCTCAAAGTTT.cCAGCTTG..A-.-TTGGGCAGAAATTCTTTAC---.--.--------.-----------------
+#=GR ENA|CM000745|CM000745.1/1148813-1148916 PP 689******************************9876622788899***.**********************99998.89******..8...9*********998875543.................................
+ENA|CM000744|CM000744.1/1066286-1066184         CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TGTTTTGTCtTTTTTTTCTTCGGTAATCTCAAAGTTT.cCAGCTTG..A-.-TTGGGCAGAAATTCTTTAC---.--.--------.-----------------
+#=GR ENA|CM000744|CM000744.1/1066286-1066184 PP 689*******************************9998..77666655414556779***************99998.89******..8...9*********999875543.................................
+CP000764/1079750-1079862                        CATTTTAAATGTCCTCCCCTTATTTGCCTAACGGTGTG..TTTTCTT--.-------TTACGGTAATCTCCAAGTTTttTAGCTTA..--.CTGAGGTAGATGAAACGCTACCT.CA.GTAAGCCA.GAAATC-----------
+#=GR CP000764/1079750-1079862                PP 6899**********************************..9987654..........578************87766559**9987.....79************999999999.99.********.***976...........
+#=GC SS_cons                                    .........................(((....)))..............................................((((.........))))..............................................
+
+//

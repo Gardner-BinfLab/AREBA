@@ -1,0 +1,18 @@
+# STOCKHOLM 1.0
+
+#=GS Stenotrophomonas/520912-521050 DE [subseq from] maltophilia D457 complete genome 4769156
+#=GS CP002986/489779-489917         DE [subseq from] Stenotrophomonas maltophilia JV3, complete genome.
+#=GS AM743169/546856-546993         DE [subseq from] Stenotrophomonas maltophilia K279a complete genome, strain K279a
+#=GS CP001111/493993-494131         DE [subseq from] Stenotrophomonas maltophilia R551-3, complete genome.
+
+Stenotrophomonas/520912-521050         CTATGTTTCGCGCCCAGCGGACGCATCAGCGTCCGCGATCCGTGCGTATTGACCGAGGAGCGGTTGGATGTATTCAAGGACGAAGAGCGCATCGCGCGCTTTTGCGCGCCTGCTTGCCTGTGCCCTGTGCCTGGCCGTA
+#=GR Stenotrophomonas/520912-521050 PP 79**************************************************************************************************************************************986
+CP002986/489779-489917                 CTATGTTTCGCGCCCAGCGGACGCATGAGCGTCCGCGATCCGTGCGTATTGACCGAGGAGCGGTTGGATGTATTCAAGGACGAAGAGCGCATCGCGCGCTTTTGCGCGCCTGCTTGCCTGTGCCCTGTGCCTGGCCGTA
+#=GR CP002986/489779-489917         PP 79**************************************************************************************************************************************986
+AM743169/546856-546993                 CTATGTTTCGCGCCCAGCGGACGCATCAGCGTCCGCATTCCGTGCGTATTGACCGAGGAGCGGTTGGATGTATTCAAGGACGAAGAGCGCATCGCGCGCTTTTGCGCGCCTGCTTGCCTGTGCCCTGTGCCTGGCCGT-
+#=GR AM743169/546856-546993         PP 79*************************************************************************************************************************************986.
+CP001111/493993-494131                 TTATGTTTCGCGCCCAGCGGACGCGTCAGCGTCCACTTTCCATGCGTATTGACCGAGGAGCGGTTGGATGTATTCAAGGACGAAGAGCGCATCGCGCGCTTTTGCGCGCCTGCTTGCCTGTGCCCTGTGCCTGGCCGTA
+#=GR CP001111/493993-494131         PP 699*************************************************************************************************************************************986
+#=GC SS_cons                           ........((.(((..((((((((....)))))))).....((((((.(((((((.....))))))))))))).(((((.((.((.(((((..((((((....)))))).)))..)))).)).))).))...)))))..
+
+//

@@ -1,0 +1,64 @@
+# STOCKHOLM 1.0
+# WARNING: seq names have been made unique by adding a prefix of "<seq#>|"
+
+#=GS 00|CP002331/1402131-1402309     DE [subseq from] Helicobacter pylori India7, complete genome.
+#=GS 01|AP011941/69625-69445         DE [subseq from] Helicobacter pylori F30 DNA, complete genome.
+#=GS 02|CP002605/1348350-1348530     DE [subseq from] Helicobacter pylori 83, complete genome.
+#=GS 03|Helicobacter/1484213-1484393 DE [subseq from] pylori Aklavik86, complete genome. 1494183
+#=GS 04|CP001072/1341495-1341675     DE [subseq from] Helicobacter pylori Shi470, complete genome.
+#=GS 05|CP002184/1290944-1291120     DE [subseq from] Helicobacter pylori 908, complete genome.
+#=GS 06|CP002571/1296493-1296669     DE [subseq from] Helicobacter pylori 2017, complete genome.
+#=GS 07|CP002572/1304854-1305030     DE [subseq from] Helicobacter pylori 2018, complete genome.
+#=GS 08|Helicobacter/1387133-1387309 DE [subseq from] pylori PeCan18, complete genome. 1660685
+#=GS 09|Helicobacter/1359495-1359674 DE [subseq from] pylori OK113 DNA, complete genome. 1616617
+#=GS 10|CP000241/1327105-1327281     DE [subseq from] Helicobacter pylori HPAG1, complete genome.
+#=GS 11|AP011943/1331326-1331509     DE [subseq from] Helicobacter pylori F32 DNA, complete genome.
+#=GS 12|AE000511/1394946-1395122     DE [subseq from] Helicobacter pylori 26695, complete genome.
+#=GS 13|Helicobacter/1394962-1395138 DE [subseq from] pylori Rif1, complete genome. 1667883
+#=GS 14|Helicobacter/1394965-1395141 DE [subseq from] pylori 26695, complete genome. 1667892
+#=GS 15|Helicobacter/1394965-1395141 DE [subseq from] pylori Rif2, complete genome. 1667890
+#=GS 16|Helicobacter/1359257-1359442 DE [subseq from] pylori Shi112, complete genome. 1663456
+#=GS 17|AP011940/1327807-1327989     DE [subseq from] Helicobacter pylori F16 DNA, complete genome.
+#=GS 18|CP001173/1386897-1387072     DE [subseq from] Helicobacter pylori G27, complete genome.
+
+00|CP002331/1402131-1402309             -AGACAATATTTGACAAGCAAAAACAATTAGAGTAAAATAAGAGCATAACTTCTAGGAAGGATCTC......TTTT..ATTAGGAGATCCCACGACCCTTGTGAACCCATAGAATACAAGTGCGAACCCTAGATATT.T.TTATCCGTTTCTTGTCGCCCAATAT.TGAAAGGGTTGAAAGGGGCGGACTT
+#=GR 00|CP002331/1402131-1402309     PP .589**************************************************************......****..***********************************************************.*.*************************.*********************9987
+01|AP011941/69625-69445                 AGGACAATATTTGACAAGCAAAAACAATTAGAGTAGAATGAGAGCATAACTTCTAGGAAGGATCTC......TTTT..ATTAAGAGATCCCACGACCCTTGTGAACCTATAGAATACAAGTGCGAACCCTAGATATT.TtTTATCCGTTTCTTGTCGCCCAATAT.TGAAAGGGTTGAAAGGGACGGACTT
+#=GR 01|AP011941/69625-69445         PP 589***************************************************************......****..**********************************************************9.769************************.*********************9987
+02|CP002605/1348350-1348530             AGGACAATATTTGACAAGCAAAAACAATTAGAGTAAAATGAGAGCATAATTTCTAGGAAGGATCTC......TTTT..ATTAAGAGATCCCACGACCCTTGTGAACCCATAGAATACAAGTGCGAACCCTAGATATT.TtTTATCCGTTTCTTGTCGCCCAATAT.TGAAAGGGTTGAAAGGGACGGACTT
+#=GR 02|CP002605/1348350-1348530     PP 589***************************************************************......****..**********************************************************9.769************************.*********************9987
+03|Helicobacter/1484213-1484393         AGGACAATACTTGACAAGCAAAAACAATTAGAGTAGAATAAGGGCATAACTTCTAGGAAGGATCTC......TTTT..ATTAAGAGATCCCACGACCCTTGTGAAACTATAGAATACAAGTGCGAACCCTAGATATTcT.TTATCCGTTTCTTGTCGCCCAATAT.TGAAAGGGTTGAAAGGGGCGGACTT
+#=GR 03|Helicobacter/1484213-1484393 PP 589***************************************************************......****..**********************************************************955.9************************.*********************9986
+04|CP001072/1341495-1341675             AGGACAATACTTGACAAGCAAAAACAATTAGAGTAAAGTAAGGGCATAACTTCTAGGAAGGATCTC......TTTC..ATTAAGAGATCCCACGACCCTTGTGAACCTATAGAATGCAAGTACGAACCCTAGATATT.TtTTATCCGTTTCTTGTCGCCCAATAT.TGAAAGGGTTGAAAGGGGCGGACTT
+#=GR 04|CP001072/1341495-1341675     PP 589***************************************************************......****..**********************************************************9.769************************.*********************9987
+05|CP002184/1290944-1291120             AGGACAATATTTGACAAGCAAAAACAATTAGAGTAAAATAAGAGCATAACTTCTAGGAAGGATCTC......TTTT..ATTAGGAGATCCCACGACCCTTGTGAACCCATAGAATACAAGTGCGAACCCTAGATATT.T.TTATCCGTTCCTTTTT--TCAACAC.TGACAT-GTTGAAAGGAGCGGAGCT
+#=GR 05|CP002184/1290944-1291120     PP 589***************************************************************......****..***********************************************************.*.***************9..*******.******.9**************987
+06|CP002571/1296493-1296669             AGGACAATATTTGACAAGCAAAAACAATTAGAGTAAAATAAGAGCATAACTTCTAGGAAGGATCTC......TTTT..ATTAGGAGATCCCACGACCCTTGTGAACCCATAGAATACAAGTGCGAACCCTAGATATT.T.TTATCCGTTCCTTTTT--TCAACAC.TGACAT-GTTGAAAGGAGCGGAGCT
+#=GR 06|CP002571/1296493-1296669     PP 589***************************************************************......****..***********************************************************.*.***************9..*******.******.9**************987
+07|CP002572/1304854-1305030             AGGACAATATTTGACAAGCAAAAACAATTAGAGTAAAATAAGAGCATAACTTCTAGGAAGGATCTC......TTTT..ATTAGGAGATCCCACGACCCTTGTGAACCCATAGAATACAAGTGCGAACCCTAGATATT.T.TTATCCGTTCCTTTTT--TCAACAC.TGACAT-GTTGAAAGGAGCGGAGCT
+#=GR 07|CP002572/1304854-1305030     PP 589***************************************************************......****..***********************************************************.*.***************9..*******.******.9**************987
+08|Helicobacter/1387133-1387309         AGGACAATATTTGACAAGCAAAAACAATTAGAGTAAAATAAGAGCATAACTTCTAGGAAGGATCTC......TTTT..ATTAGGAGATCCCACGACCCTTGTGAACCCATAGAATACAAGTGCGAACCCTAGATATT.T.TTATCCGTTCCTTTTT--TCAACAC.TGACAT-GTTGAAAGGAGCGGAGCT
+#=GR 08|Helicobacter/1387133-1387309 PP 589***************************************************************......****..***********************************************************.*.***************9..*******.******.9**************987
+09|Helicobacter/1359495-1359674         -AGACAATGTTTGACAAGCAAAAACAATTAGAGTAAAATGAGAGCATAACTTCTAGGAAGGATCTC......TTTT..ATTAAGAGATCCCACGACCCTTGTGAACCTATAGAATACAAGTGCGAACCCTAGATATT.TtTTATCCGTTTCTTGTCGCCCAGTAT.TGAAAGGGTTGAAAGGGACGGACTT
+#=GR 09|Helicobacter/1359495-1359674 PP .589**************************************************************......****..**********************************************************9.769************************.*********************9987
+10|CP000241/1327105-1327281             AGGACAATATTTGACAAGCAAAAACAATTAGAGTAAAATAAGAGCATAACTTCTAGGAAGGATCTC......TTTT..ATTAGGAGATCCCACGACCCTTGTGAACCCATAGAATACAAGTGCGAACCCTAGATATT.T.TTATCTGTTCCTTTTT--TCAACAC.TGACAT-GTTGAAAGGAGCGGAGCT
+#=GR 10|CP000241/1327105-1327281     PP 589***************************************************************......****..***********************************************************.*.***************9..*******.******.9**************987
+11|AP011943/1331326-1331509             AGGACAATATTTGACAAGCAAAAACAATTAGAGTAAAATAAGGGCATAACTTCTAGGAAGGATCTC......TTTTtcATTAATAGATCCCACGACCCTTGTGAACCCATAGAATACAAGTGCGAACCCTAGATATT.TtTTATCCGTTTCTTGTCGCCCAATATtTGAAAGGGTTGAAAGGGGCGGACTT
+#=GR 11|AP011943/1331326-1331509     PP 589*************************************************************99......876555**********************************************************9.769***********************879********************9986
+12|AE000511/1394946-1395122             AGGACAATATTTGACAAGCAAAAACAATTATAGTAAAATAAGAGCATAACTTCTAGGAAGAATCTC......TTTT..ATTAGGAGATCCCACGACCCTTGTGAACCCATAGAATACAAGTGCGAACCCTAGATATT.T.TTATCCGTTCCTTTTT--TCAACAC.TGACAT-GTTGAAAGGAGCGGAGCT
+#=GR 12|AE000511/1394946-1395122     PP 589***************************************************************......****..***********************************************************.*.***************9..*******.******.9**************987
+13|Helicobacter/1394962-1395138         AGGACAATATTTGACAAGCAAAAACAATTATAGTAAAATAAGAGCATAACTTCTAGGAAGAATCTC......TTTT..ATTAGGAGATCCCACGACCCTTGTGAACCCATAGAATACAAGTGCGAACCCTAGATATT.T.TTATCCGTTCCTTTTT--TCAACAC.TGACAT-GTTGAAAGGAGCGGAGCT
+#=GR 13|Helicobacter/1394962-1395138 PP 589***************************************************************......****..***********************************************************.*.***************9..*******.******.9**************987
+14|Helicobacter/1394965-1395141         AGGACAATATTTGACAAGCAAAAACAATTATAGTAAAATAAGAGCATAACTTCTAGGAAGAATCTC......TTTT..ATTAGGAGATCCCACGACCCTTGTGAACCCATAGAATACAAGTGCGAACCCTAGATATT.T.TTATCCGTTCCTTTTT--TCAACAC.TGACAT-GTTGAAAGGAGCGGAGCT
+#=GR 14|Helicobacter/1394965-1395141 PP 589***************************************************************......****..***********************************************************.*.***************9..*******.******.9**************987
+15|Helicobacter/1394965-1395141         AGGACAATATTTGACAAGCAAAAACAATTATAGTAAAATAAGAGCATAACTTCTAGGAAGAATCTC......TTTT..ATTAGGAGATCCCACGACCCTTGTGAACCCATAGAATACAAGTGCGAACCCTAGATATT.T.TTATCCGTTCCTTTTT--TCAACAC.TGACAT-GTTGAAAGGAGCGGAGCT
+#=GR 15|Helicobacter/1394965-1395141 PP 589***************************************************************......****..***********************************************************.*.***************9..*******.******.9**************987
+16|Helicobacter/1359257-1359442         AGGACAATACTTGACAAGCAAAAACGATTAGAGTAAAATAAGGGTATAACTTCTAGGAAGGATCTCtttctcTTTC..ATTAAGAGATCCCACGACCCTTGTGAACCTATAGAATACAAGTGCGAACCCTAGATATTcT.TTATCCGTTTCTTGTCGCCCAATAT.TGAAAGGGTTGAAAGGAGCGGACT-
+#=GR 16|Helicobacter/1359257-1359442 PP 589***********************************************************98762222225678..**********************************************************955.*************************.*********************987.
+17|AP011940/1327807-1327989             -AGACAATATTTGACAAGCAAAAACAATTAGAGTAAAATAAGGGCATAACTCCTAGGAAGGATCTC......TTTTtcATTAAGAGATCCCACGACCCTTGTGAACCCATAGAATACAGGTGCGAACCCTAGATATT.TtTTATCCGTTTCTTGTCGCCCAATATtTGAAAGGGTTGAAAGGGGCGGACTT
+#=GR 17|AP011940/1327807-1327989     PP .589************************************************************99......876555**********************************************************9.769***********************879********************9987
+18|CP001173/1386897-1387072             AGGACAATATTTGACAAGCAAAAACAATTAGAGTAAAATAAGAGCATAACTTCTAGGAAGGATCTC......TTTT..ATTAGGAGATCCCACGACCCTTGTGAACCCATAGAATATAAGTGCGAACCCTAGATATT.T.TTATCCGTTCTTTTT---TCAACAC.TGACAT-GTTGAAAGGAGCGGAGCT
+#=GR 18|CP001173/1386897-1387072     PP 589***************************************************************......****..***********************************************************.*.*******99887777...8******.******.9**************987
+#=GC SS_cons                            ...................................................((((((....(((((......((.......)))))))....((.(.((((((...........)))))).)))...))))))..........((((((((((......((((..........)))).))))))))))...
+
+//

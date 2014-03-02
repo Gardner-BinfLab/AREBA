@@ -1,0 +1,150 @@
+# STOCKHOLM 1.0
+
+#=GS AE000511/1278195-1278305     DE [subseq from] Helicobacter pylori 26695, complete genome.
+#=GS AE001439/1256539-1256649     DE [subseq from] Helicobacter pylori J99, complete genome.
+#=GS AP011940/1212249-1212359     DE [subseq from] Helicobacter pylori F16 DNA, complete genome.
+#=GS AP011943/1216778-1216888     DE [subseq from] Helicobacter pylori F32 DNA, complete genome.
+#=GS AP011945/1248213-1248323     DE [subseq from] Helicobacter pylori F57 DNA, complete genome.
+#=GS CP000012/1223508-1223618     DE [subseq from] Helicobacter pylori 51, complete genome.
+#=GS CP001072/1228119-1228229     DE [subseq from] Helicobacter pylori Shi470, complete genome.
+#=GS CP001173/1266323-1266433     DE [subseq from] Helicobacter pylori G27, complete genome.
+#=GS CP001217/1254306-1254416     DE [subseq from] Helicobacter pylori P12, complete genome.
+#=GS CP001582/1214806-1214916     DE [subseq from] Helicobacter pylori v225d, complete genome.
+#=GS CP001680/1205275-1205385     DE [subseq from] Helicobacter pylori 52, complete genome.
+#=GS CP002071/1179701-1179811     DE [subseq from] Helicobacter pylori Sat464, complete genome.
+#=GS CP002074/1199426-1199536     DE [subseq from] Helicobacter pylori PeCan4, complete genome.
+#=GS CP002076/1254976-1255086     DE [subseq from] Helicobacter pylori Cuz20, complete genome.
+#=GS CP002184/1178488-1178598     DE [subseq from] Helicobacter pylori 908, complete genome.
+#=GS CP002331/1285768-1285878     DE [subseq from] Helicobacter pylori India7, complete genome.
+#=GS CP002332/1269253-1269363     DE [subseq from] Helicobacter pylori Gambia94/24, complete genome.
+#=GS CP002571/1182250-1182360     DE [subseq from] Helicobacter pylori 2017, complete genome.
+#=GS CP002572/1190484-1190594     DE [subseq from] Helicobacter pylori 2018, complete genome.
+#=GS CP002605/1229867-1229977     DE [subseq from] Helicobacter pylori 83, complete genome.
+#=GS CP002982/1266588-1266698     DE [subseq from] Helicobacter pylori Puno135, complete genome.
+#=GS CP002983/1235419-1235529     DE [subseq from] Helicobacter pylori SNT49, complete genome.
+#=GS FM991728/1183000-1183110     DE [subseq from] Helicobacter pylori B38 complete genome, strain B38
+#=GS FN598874/253956-253846       DE [subseq from] Helicobacter pylori B8 complete genome
+#=GS Helicobacter/1193142-1193252 DE [subseq from] pylori OK310 DNA, complete genome. 1591278
+#=GS Helicobacter/1201863-1201973 DE [subseq from] pylori Aklavik117, complete genome. 1614447
+#=GS Helicobacter/1236651-1236761 DE [subseq from] pylori Shi417, complete genome. 1665719
+#=GS Helicobacter/1237808-1237918 DE [subseq from] pylori Shi169, complete genome. 1616909
+#=GS Helicobacter/1238794-1238904 DE [subseq from] pylori Shi112, complete genome. 1663456
+#=GS Helicobacter/1244449-1244559 DE [subseq from] pylori OK113 DNA, complete genome. 1616617
+#=GS Helicobacter/1273970-1274080 DE [subseq from] pylori ELS37, complete genome. 1664587
+#=GS Helicobacter/1277985-1278095 DE [subseq from] pylori XZ274, complete genome. 1634138
+#=GS Helicobacter/1278209-1278319 DE [subseq from] pylori Rif1, complete genome. 1667883
+#=GS Helicobacter/1278212-1278322 DE [subseq from] pylori Rif2, complete genome. 1667890
+#=GS Helicobacter/1278213-1278323 DE [subseq from] pylori 26695, complete genome. 1667892
+#=GS CP000241/1209137-1209247     DE [subseq from] Helicobacter pylori HPAG1, complete genome.
+#=GS AP011941/183675-183565       DE [subseq from] Helicobacter pylori F30 DNA, complete genome.
+#=GS CP002096/1409973-1410083     DE [subseq from] Helicobacter pylori 35A, complete genome.
+#=GS CP002980/1209647-1209757     DE [subseq from] Helicobacter pylori Puno120, complete genome.
+#=GS Helicobacter/247750-247640   DE [subseq from] pylori Aklavik86, complete genome. 1494183
+#=GS CP002334/1205438-1205550     DE [subseq from] Helicobacter pylori Lithuania75, complete genome.
+#=GS Helicobacter/1201713-1201824 DE [subseq from] pylori HUP-B14, complete genome. 1599280
+#=GS AM260522/1375943-1376053     DE [subseq from] Helicobacter acinonychis str. Sheeba complete genome, strain Sheeba
+#=GS CP002336/1217085-1217194     DE [subseq from] Helicobacter pylori SouthAfrica7, complete genome.
+#=GS Helicobacter/1269323-1269435 DE [subseq from] pylori PeCan18, complete genome. 1660685
+#=GS CP002073/1221392-1221504     DE [subseq from] Helicobacter pylori SJM180, complete genome.
+#=GS Helicobacter/619457-619549   DE [subseq from] cetorum MIT 99-5656, complete genome. 1833666
+#=GS Helicobacter/1891332-1891444 DE [subseq from] cetorum MIT 00-7128, complete genome. 1947646
+
+AE000511/1278195-1278305             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR AE000511/1278195-1278305     PP 589***************************************.******************.***.....***********************************..**********997
+AE001439/1256539-1256649             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR AE001439/1256539-1256649     PP 589***************************************.******************.***.....***********************************..**********997
+AP011940/1212249-1212359             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR AP011940/1212249-1212359     PP 589***************************************.******************.***.....***********************************..**********997
+AP011943/1216778-1216888             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR AP011943/1216778-1216888     PP 589***************************************.******************.***.....***********************************..**********997
+AP011945/1248213-1248323             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR AP011945/1248213-1248323     PP 589***************************************.******************.***.....***********************************..**********997
+CP000012/1223508-1223618             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP000012/1223508-1223618     PP 589***************************************.******************.***.....***********************************..**********997
+CP001072/1228119-1228229             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP001072/1228119-1228229     PP 589***************************************.******************.***.....***********************************..**********997
+CP001173/1266323-1266433             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP001173/1266323-1266433     PP 589***************************************.******************.***.....***********************************..**********997
+CP001217/1254306-1254416             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP001217/1254306-1254416     PP 589***************************************.******************.***.....***********************************..**********997
+CP001582/1214806-1214916             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP001582/1214806-1214916     PP 589***************************************.******************.***.....***********************************..**********997
+CP001680/1205275-1205385             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP001680/1205275-1205385     PP 589***************************************.******************.***.....***********************************..**********997
+CP002071/1179701-1179811             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP002071/1179701-1179811     PP 589***************************************.******************.***.....***********************************..**********997
+CP002074/1199426-1199536             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP002074/1199426-1199536     PP 589***************************************.******************.***.....***********************************..**********997
+CP002076/1254976-1255086             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP002076/1254976-1255086     PP 589***************************************.******************.***.....***********************************..**********997
+CP002184/1178488-1178598             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP002184/1178488-1178598     PP 589***************************************.******************.***.....***********************************..**********997
+CP002331/1285768-1285878             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP002331/1285768-1285878     PP 589***************************************.******************.***.....***********************************..**********997
+CP002332/1269253-1269363             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP002332/1269253-1269363     PP 589***************************************.******************.***.....***********************************..**********997
+CP002571/1182250-1182360             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP002571/1182250-1182360     PP 589***************************************.******************.***.....***********************************..**********997
+CP002572/1190484-1190594             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP002572/1190484-1190594     PP 589***************************************.******************.***.....***********************************..**********997
+CP002605/1229867-1229977             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP002605/1229867-1229977     PP 589***************************************.******************.***.....***********************************..**********997
+CP002982/1266588-1266698             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP002982/1266588-1266698     PP 589***************************************.******************.***.....***********************************..**********997
+CP002983/1235419-1235529             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP002983/1235419-1235529     PP 589***************************************.******************.***.....***********************************..**********997
+FM991728/1183000-1183110             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR FM991728/1183000-1183110     PP 589***************************************.******************.***.....***********************************..**********997
+FN598874/253956-253846               TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR FN598874/253956-253846       PP 589***************************************.******************.***.....***********************************..**********997
+Helicobacter/1193142-1193252         TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR Helicobacter/1193142-1193252 PP 589***************************************.******************.***.....***********************************..**********997
+Helicobacter/1201863-1201973         TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR Helicobacter/1201863-1201973 PP 589***************************************.******************.***.....***********************************..**********997
+Helicobacter/1236651-1236761         TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR Helicobacter/1236651-1236761 PP 589***************************************.******************.***.....***********************************..**********997
+Helicobacter/1237808-1237918         TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR Helicobacter/1237808-1237918 PP 589***************************************.******************.***.....***********************************..**********997
+Helicobacter/1238794-1238904         TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR Helicobacter/1238794-1238904 PP 589***************************************.******************.***.....***********************************..**********997
+Helicobacter/1244449-1244559         TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR Helicobacter/1244449-1244559 PP 589***************************************.******************.***.....***********************************..**********997
+Helicobacter/1273970-1274080         TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR Helicobacter/1273970-1274080 PP 589***************************************.******************.***.....***********************************..**********997
+Helicobacter/1277985-1278095         TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR Helicobacter/1277985-1278095 PP 589***************************************.******************.***.....***********************************..**********997
+Helicobacter/1278209-1278319         TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR Helicobacter/1278209-1278319 PP 589***************************************.******************.***.....***********************************..**********997
+Helicobacter/1278212-1278322         TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR Helicobacter/1278212-1278322 PP 589***************************************.******************.***.....***********************************..**********997
+Helicobacter/1278213-1278323         TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR Helicobacter/1278213-1278323 PP 589***************************************.******************.***.....***********************************..**********997
+CP000241/1209137-1209247             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAGCTC..CTAACGCTATTTA
+#=GR CP000241/1209137-1209247     PP 589***************************************.******************.***.....***********************************..**********997
+AP011941/183675-183565               TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCCT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR AP011941/183675-183565       PP 689***************************************.******************.***.....***********************************..**********997
+CP002096/1409973-1410083             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR CP002096/1409973-1410083     PP 589***************************************.******************.***.....***********************************..*********9987
+CP002980/1209647-1209757             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..CTAATGCTATTTA
+#=GR CP002980/1209647-1209757     PP 589***************************************.******************.***.....***********************************..*********9987
+Helicobacter/247750-247640           TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAAATC..CTAACGCTATTTA
+#=GR Helicobacter/247750-247640   PP 689***************************************.******************.***.....***********************************..**********987
+CP002334/1205438-1205550             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTCccCTAACGCTATTTA
+#=GR CP002334/1205438-1205550     PP 589***************************************.******************.***.....*******************************998644799******9997
+Helicobacter/1201713-1201824         TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAAaAAAAGAAATTTTAAGCTT.TTT.....AGCTCTTGCGATCTTCAGCCTAAGATTAAAAACTC..CTAACGCTATTTA
+#=GR Helicobacter/1201713-1201824 PP 689*********************************99998626789**************.***.....***********************************..**********997
+AM260522/1375943-1376053             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCCT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTC..TTAAAGCTATTTA
+#=GR AM260522/1375943-1376053     PP 589***************************************.******************.***.....***********************************..*********9987
+CP002336/1217085-1217194             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAA-AACGC..CTAAAGCTATTTA
+#=GR CP002336/1217085-1217194     PP 689***************************************.******************.***.....***************************87.6899*..*********9987
+Helicobacter/1269323-1269435         TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATATTCAGCCTAAGATTAAAAACTCccCTAACGCTATTTA
+#=GR Helicobacter/1269323-1269435 PP 689***************************************.******************.***.....*******************************998644799******9987
+CP002073/1221392-1221504             TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTAA.AAAAGAAATTTTAAGCTT.TTT.....AGCTCTTACGATCTTCAGCCTAAGATTAAAAACTCccCTAACACTATTTA
+#=GR CP002073/1221392-1221504     PP 589***************************************.******************.***.....*******************************9987447899999999887
+Helicobacter/619457-619549           TCCTCCTTTCTAGACTAGACCTCTGCAAGATTATCTTTTTTC.-AAAGAAATTTTAAGCTTcCTT.....AGCTCTTACGATCTTCAGCCTAAGATAAAC-----..-------------
+#=GR Helicobacter/619457-619549   PP 589*********************************999977..679************994567.....*************************98764....................
+Helicobacter/1891332-1891444         TCCTCCTTTCTAGACTAGACCTCTGCAAGGCTACCTCT---A.ACAAGATAAATCAAGTTT.TCTataaaAACCCTTACGATCTTCAGCCTAAGATAAAGCAACC..TCTAGGCTACTTA
+#=GR Helicobacter/1891332-1891444 PP 689*********************************99...9.******************.9996666668*********************************..*********9987
+#=GC SS_cons                         ......................(((.((((((.((((((....)))))).......((((..........)))).....)))))))))................................
+
+//

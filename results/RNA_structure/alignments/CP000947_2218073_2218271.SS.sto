@@ -1,0 +1,105 @@
+# STOCKHOLM 1.0
+
+#=GS CP000672/1375982-1376103       DE [subseq from] Haemophilus influenzae PittGG, complete genome.
+#=GS CP000671/1605130-1605009       DE [subseq from] Haemophilus influenzae PittEE, complete genome.
+#=GS CP002276/1612082-1611960       DE [subseq from] Haemophilus influenzae R2846, complete genome.
+#=GS CP002277/1644778-1644656       DE [subseq from] Haemophilus influenzae R2866, complete genome.
+#=GS CP000057/910259-910381         DE [subseq from] Haemophilus influenzae 86-028NP, complete genome.
+#=GS FQ312006/949510-949632         DE [subseq from] Haemophilus influenzae 10810 genome.
+#=GS FQ670178/1437300-1437178       DE [subseq from] Haemophilus influenzae F3031 genome.
+#=GS FQ670204/361919-361797         DE [subseq from] Haemophilus influenzae F3047 genome.
+#=GS Haemophilus/844852-844974      DE [subseq from] influenzae Rd KW20, complete genome. 1830138
+#=GS CP000947/2218160-2218270       DE [subseq from] Haemophilus somnus 2336, complete genome.
+#=GS CP001321/1417279-1417171       DE [subseq from] Haemophilus parasuis SH0165, complete genome.
+#=GS CP000436/70974-71084           DE [subseq from] Haemophilus somnus 129PT, complete genome.
+#=GS AE016827/2001427-2001318       DE [subseq from] Mannheimia succiniciproducens MBEL55E, complete genome.
+#=GS FQ312002/693090-693208         DE [subseq from] Haemophilus parainfluenzae T3T1 complete genome
+#=GS CP001733/508119-508225         DE [subseq from] Aggregatibacter actinomycetemcomitans D11S-1, complete genome.
+#=GS CP003099/755933-755827         DE [subseq from] Aggregatibacter actinomycetemcomitans ANH9381, complete genome.
+#=GS Aggregatibacter/762650-762545  DE [subseq from] actinomycetemcomitans D7S-1, complete genome. 2309073
+#=GS CP001607/2137546-2137666       DE [subseq from] Aggregatibacter aphrophilus NJ8700, complete genome.
+#=GS Bibersteinia/2170832-2170722   DE [subseq from] trehalosi USDA-ARS-USMARC-192, complete genome. 2407846
+#=GS CP000569/2001867-2001977       DE [subseq from] Actinobacillus pleuropneumoniae L20 serotype 5b complete genome.
+#=GS CP000687/1963307-1963417       DE [subseq from] Actinobacillus pleuropneumoniae serovar 3 str. JL03, complete genome.
+#=GS CP001091/2057938-2058048       DE [subseq from] Actinobacillus pleuropneumoniae serovar 7 str. AP76, complete genome.
+#=GS Actinobacillus/1895539-1895429 DE [subseq from] suis H91-0380, complete genome. 2484940
+#=GS AE004439/1593486-1593382       DE [subseq from] Pasteurella multocida subsp. multocida str. Pm70, complete genome.
+#=GS CP003022/1777776-1777672       DE [subseq from] Pasteurella multocida 36950, complete genome.
+#=GS Pasteurella/1765414-1765310    DE [subseq from] multocida subsp. multocida str. HN06, complete genome. 2402218
+#=GS Pasteurella/1794778-1794674    DE [subseq from] multocida subsp. multocida str. 3480, complete genome. 2378127
+#=GS AE017143/1645354-1645269       DE [subseq from] Haemophilus ducreyi strain 35000HP complete genome.
+#=GS CP002667/1250899-1250783       DE [subseq from] Gallibacterium anatis UMN179, complete genome.
+#=GS Mannheimia/205685-205795       DE [subseq from] haemolytica USDA-ARS-SAM-185, complete genome. 2544668
+#=GS Mannheimia/699466-699576       DE [subseq from] haemolytica M42548, complete genome. 2731870
+#=GS Mannheimia/2524778-2524668     DE [subseq from] haemolytica USDA-ARS-USMARC-183, complete genome. 2658332
+#=GS CP000746/522274-522378         DE [subseq from] Actinobacillus succinogenes 130Z, complete genome.
+
+CP000672/1375982-1376103               TAAATTATCATTGCCTTTCTCT-TTTTCTTTTGATAAAATCCGCCGCCTATCCGCCAttctatctgaaT............A.GTGT.......GGATGGGT..TCGTCCCGAAAGGGTGTTTTtTA..ATCTTAACGGAGCACTAA
+#=GR CP000672/1375982-1376103       PP 6899****************99.9999****************************99666666666667............9.****.......********..*******************9677..99*************997
+CP000671/1605130-1605009               -AAATTATCATTGCCTTTCTCT-TTTTCTTTTGATAGAATCCGCCACCTATCCGCCAttctatctgagT............A.GTGC.......GGATGGGT..TCGTCCCGAAAGGGTGTTTT.TTtaATCTTAACGGAGCACTAA
+#=GR CP000671/1605130-1605009       PP .89999**************99.9999****************************99777777766667............9.****.......********..****************9998.433599*************997
+CP002276/1612082-1611960               TAAATTATCATTGCCTTTCTCT-TTTTCTTTTGATAAAATCCGCCGCCTATCTGCCAttctatctgaaT............A.GTGT.......GGATGGGT..TCGTCCCGAAAGGGTGTTTT.TTtaATCTTAACGGAGCACTAA
+#=GR CP002276/1612082-1611960       PP 589999**************99.9999****************************99766666666667............9.****.......********..****************9998.433599*************996
+CP002277/1644778-1644656               TAAATTATCATTGCCTTTCTCT-TTTTCTTTTGATAAAATCCGCCGCCTATCCGCCAttctatctgaaT............A.GTGT.......GGATGGGT..TCGTCCCGAAAGGGTGTTTT.TTtaATCTTAACGGAGCACTAA
+#=GR CP002277/1644778-1644656       PP 6899****************99.9999****************************99666666666667............9.****.......********..****************9998.433599*************997
+CP000057/910259-910381                 TAAATTATCATTGCCTTTCTCT-TTTTCTTTTGATAAAATCCGCCGCCTATCTGCCAttctatctgaaT............A.GTGT.......GGATGGGT..TCGTCCCGAAAGGGTGTTTT.TTtaATCTTAACGGAGCACTAA
+#=GR CP000057/910259-910381         PP 6899****************99.9999****************************99666666666667............9.****.......********..****************9998.433599*************997
+FQ312006/949510-949632                 TAAATTATCATTGCCTTTCTCT-TTTTCTTTTGATAAAATCCGCCGCCTATCTGCCAttctatctgaaT............A.GTGT.......GGATGGGT..TCGTCCCGAAAGGGTGTTTT.TTtaATCTTAACGGAGCACTAA
+#=GR FQ312006/949510-949632         PP 6899****************99.9999****************************99666666666667............9.****.......********..****************9998.433599*************997
+FQ670178/1437300-1437178               TAAATTATCATTGCCTTTCTCT-TTTTCTTTTGATAAAATCCGCCGCCTATCTGCCAttctatctgaaT............A.GTGT.......GGATGGGT..TCGTCCCGAAAGGGTGTTTT.TTtaATCTTAACGGAGCACTAA
+#=GR FQ670178/1437300-1437178       PP 6899****************99.9999****************************99666666666667............9.****.......********..****************9998.433599*************997
+FQ670204/361919-361797                 TAAATTATCATTGCCTTTCTCT-TTTTCTTTTGATAAAATCCGCCGCCTATCTGCCAttctatctgaaT............A.GTGT.......GGATGGGT..TCGTCCCGAAAGGGTGTTTT.TTtaATCTTAACGGAGCACTAA
+#=GR FQ670204/361919-361797         PP 6899****************99.9999****************************99666666666667............9.****.......********..****************9998.433599*************997
+Haemophilus/844852-844974              TAAATTATCATTGCCTTTCTCT-TTTTCTTTTGATAAAATCCGCCGCCTATCTGCCAttctatctgaaT............A.GTGT.......GGATGGGT..TCGTCCCGAAAGGGTGTTTT.TTtaATCTTAACGGAGCACTAA
+#=GR Haemophilus/844852-844974      PP 6899****************99.9999****************************99666666666667............9.****.......********..****************9998.433599*************997
+CP000947/2218160-2218270               CAAAAGTTACTTGATAAGTGCGGTGCTATTGTGCTAAACTCTGCGACCTGTTTACCA...........T............A.GGGT.......AGATGGGT..TCGTCCCGAAAGGGTGTTTT.TT..ATTTTAACGGAGCACTAA
+#=GR CP000947/2218160-2218270       PP 6889999999************9**********************************...........*............*.****.......********..********************.**..***************996
+CP001321/1417279-1417171               -AAAATCCAGTTGATCTTATTACGCTAATTGCGATATAATCCGCAACCTATTTG-CA...........T............A.GGGT.......AAATAGGT..TCGTCCCGAAAGGGTGTTTT.TT..ATTTTAACGGAGCACTAA
+#=GR CP001321/1417279-1417171       PP .7899999************999*******************************.9*...........*............*.****.......********..********************.**..***************986
+CP000436/70974-71084                   CAAAAGTTACTTGATAAGTGCGGTGCTGTTGTGCTAAACTCTGCGACCTGTTTACCA...........T............A.GGGT.......AGATAGGT..TCGTCCCGAAAGGGTGTTTT.TT..ATTTTAACGGAGCACTAA
+#=GR CP000436/70974-71084           PP 588999999************99**********************************...........*............*.****.......********..********************.**..****************97
+AE016827/2001427-2001318               -AAAATTCTGTTGATTTTTCCC-TCTTGAATTGCTAAAATCTGCACCCTATTTACCT...........T............A.GGGT.......GAATAGGT..TCGTCCCGAAAGGGTGTATTaTT..AACTTAACGGAGCACTAA
+#=GR AE016827/2001427-2001318       PP .78999999*****99999888.677777889*************************...........*............*.****.......********..***********************..***************996
+FQ312002/693090-693208                 AAAATTTTGATTGCGTTTCTAG-CTTGATTTTGGTAAACTCCGCCACCTATCCGCCA...........TatatctttataaG.GTAT.......GGATAGGT..TCGTCCCGCAAGGGTGTATTaTT..AACTTAACGGAGCA----
+#=GR FQ312002/693090-693208         PP 589999***************9.99*******************************9...........55555555555558.999*.......********..***********************..************98....
+CP001733/508119-508225                 TAAAAGCTTATTGCTTTCGTTATGTTTTTTGTGCTAGAATCCGCACCCTATCCATTA...........T............G.GG--.......---TAGGT..TCGTCCCGCAAGGGTGGTTTtTT..AATTTAACGGAGCACTAA
+#=GR CP001733/508119-508225         PP 58999999********************************************99887...........7............6.65............*****..****************9999788..****************97
+CP003099/755933-755827                 TAAAAGCTTATTGCTTTCGTTATGTTTTTTGTGCTAGAATCCGCACCCTATCCATTA...........T............G.GG--.......---TAGGT..TCGTCCCGCAAGGGTGGTTTtTT..AATTTAACGGAGCACTAA
+#=GR CP003099/755933-755827         PP 58999999********************************************99887...........7............6.65............*****..****************9999788..****************97
+Aggregatibacter/762650-762545          -AAAAGCTTATTGCTTTCGTTATGTTTTTTGTGCTAGAATCCGCACCCTATCTATTA...........T............G.GG--.......---TAGGT..TCGTCCCGCAAGGGTGGTTTtTT..AATTTAACGGAGCACTAA
+#=GR Aggregatibacter/762650-762545  PP .8999999*********************************************9887...........7............6.65............*****..****************9999788..****************97
+CP001607/2137546-2137666               -AAATTTTCATTGCTTTTCATT-TATAATTTTGCTAAACTCCGCCACCTCTCCGTCAtacactttatgT............G.TTAC.......GGATAGGT..TCGTCCCGTAAGGGTGGTTTtTT..AATTTAACGGAGCACTAA
+#=GR CP001607/2137546-2137666       PP .899999*********999998.999*****************************99666666555444............6.6778.......********..****************9999788..***************996
+Bibersteinia/2170832-2170722           TAAAATCTGCTTGATTAGGGTGCGATATTTGTGATATATTTCGCACCCTATTTG-CA...........T............A.GGGC.......AAGTAGAT..TCGTCCCGAAAGGGTGTTTTtTT..TATTTAACGGAGCACTAA
+#=GR Bibersteinia/2170832-2170722   PP 589999************************************************.9*...........*............*.****.......********..******************99778..99*************996
+CP000569/2001867-2001977               -AAATTTTATTTGATTTATAATAGGTTATTGAGGTATAATTCGCCACCTGCTTA-CA...........T............A.GGGT.......AAGTGGGTttTCGTCCCGAAAGGGTGTTTT.TT..AATTTAACGGAGCACTAA
+#=GR CP000569/2001867-2001977       PP .789999999*******************************************9.9*...........*............*.****.......*******8779*******************.**..***************996
+CP000687/1963307-1963417               -AAATTTTATTTGATTTATAATAGGTTATTGAGGTATAATTCGCCACCTGCTTA-CA...........T............A.GGGT.......AAGTGGGTttTCGTCCCGAAAGGGTGTTTT.TT..AATTTAACGGAGCACTAA
+#=GR CP000687/1963307-1963417       PP .789999999*******************************************9.9*...........*............*.****.......*******8779*******************.**..***************996
+CP001091/2057938-2058048               -AAATTTTATTTGATTTATAATAGGTTATTGAGGTATAATTCGCCACCTGCTTA-CA...........T............A.GGGT.......AAGTGGGTttTCGTCCCGAAAGGGTGTTTT.TT..AATTTAACGGAGCACTAA
+#=GR CP001091/2057938-2058048       PP .789999999*******************************************9.9*...........*............*.****.......*******8779*******************.**..***************996
+Actinobacillus/1895539-1895429         -AAATTTTATTTGATTTCGGGTGAGTTATTGAGGTATAATTCGCCACCTACTTG-CA...........T............A.GGGC.......AAGTAGATttTCGTCCCGAAAGGGTTTTTT.TT..AATTTAACGGAGCACTAA
+#=GR Actinobacillus/1895539-1895429 PP .7999999**********************************************.9*...........*............*.****.......******98779*******************.**..***************996
+AE004439/1593486-1593382               ------TATGTTGCTTTCGTATTGTTTATTATGATAGAATCCACGTCCTATCTGTGT...........A............T.GTGC.......AGATAGAT..TCGTCCCGAAAGGGTTTTAT.TA..ATTTTAGCGGAGTACTAA
+#=GR AE004439/1593486-1593382       PP ......56789**********************************************...........*............*.****.......********..********************.**..***************986
+CP003022/1777776-1777672               ------TATGTTGCTTTCGTATTGTTTATTATGATAGAATCCACGTCCTATCTGTGT...........A............T.GTGC.......AGATAGAT..TCGTCCCGAAAGGGTTTTAT.TA..ATTTTAGCGGAGTACTAA
+#=GR CP003022/1777776-1777672       PP ......56789**********************************************...........*............*.****.......********..********************.**..***************986
+Pasteurella/1765414-1765310            ------TATGTTGCTTTCGTATTGTTTATTATGATAGAATCCACGTCCTATCTGTGT...........A............T.GTGC.......AGATAGAT..TCGTCCCGAAAGGGTTTTAT.TA..ATTTTAGCGGAGTACTAA
+#=GR Pasteurella/1765414-1765310    PP ......56789**********************************************...........*............*.****.......********..********************.**..***************986
+Pasteurella/1794778-1794674            ------TATGTTGCTTTCGTATTGTTTATTATGATAGAATCCACGTCCTATCTGTGT...........A............T.GTGC.......AGATAGAT..TCGTCCCGAAAGGGTTTTAT.TA..ATTTTAGCGGAGTACTAA
+#=GR Pasteurella/1794778-1794674    PP ......56789**********************************************...........*............*.****.......********..********************.**..***************986
+AE017143/1645354-1645269               -----------------------CCTGTTTTTTGTACAATCCGGGCCCTATTTG-CA...........T............A.GGGC.......AAATAGGT..TCGTCCCGAAAGGGTGTTTT.TT..AATTTAACGGAGCACTA-
+#=GR AE017143/1645354-1645269       PP .......................55667778889********************.9*...........*............*.****.......********..********************.**..***************97.
+CP002667/1250899-1250783               --AAATTAGGTTGCTTTTTGTCTATGCATTATGCTAGAATCCGCACCCTATCCGCCC...........T............AtGTGCgagatagAGGTAAAT..TCGTCCCGAAAGGGTTTTTT.TA..ATTTTAGCGGAGTACTAA
+#=GR CP002667/1250899-1250783       PP ..67888999************9*******************************999...........8............65666644444446789999*..********************.**..***************996
+Mannheimia/205685-205795               -AAAATTCACTTGATTAACTAGTGGTTTTTGTAGTATATTTTGCACCCTATTTATAT...........T............T.GTAT.......AAATAGGT..TCGTCCCGAAAGGGTGTTTTtTT..ATTTTAACGGAGCACTAA
+#=GR Mannheimia/205685-205795       PP .7899999*************************************************...........*............*.****.......********..*******************9788..***************996
+Mannheimia/699466-699576               -AAAATTCACTTGATTAACTAGTGGTTTTTGTAGTATATTTTGCACCCTATTTATAT...........T............T.GTAT.......AAATAGGT..TCGTCCCGAAAGGGTGTTTTtTT..ATTTTAACGGAGCACTAA
+#=GR Mannheimia/699466-699576       PP .7899999*************************************************...........*............*.****.......********..*******************9788..***************996
+Mannheimia/2524778-2524668             -AAAATTCACTTGATTAACTAGTGGTTTTTGTAGTATATTTTGCACCCTATTTATAT...........T............T.GTAT.......AAATAGGT..TCGTCCCGAAAGGGTGTTTTtTT..ATTTTAACGGAGCACTAA
+#=GR Mannheimia/2524778-2524668     PP .7899999*************************************************...........*............*.****.......********..*******************9788..***************996
+CP000746/522274-522378                 TAAAATGGAGTTGATCTCGGTT-TCTTAATCTGATAAACTCCGCGAACTGCCTG-CA...........T............T.GGGC.......AGGTG---..--GTCCCGAAAGGGTGTTTTaTT..AAATTAACGGAGCACTAA
+#=GR CP000746/522274-522378         PP 689999999*****99999998.8999999************************.89...........9............9.99**.......**999.......8********************..***************996
+#=GC SS_cons                           ...............................................(((((((................................).......)))))).(..(((((((....))).................))))).......
+
+//
