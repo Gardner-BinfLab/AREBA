@@ -1,0 +1,11 @@
+#These are the highly expressed RUFs, in total 568.
+#For venn diagram (Figure 2b), one of the columns should take 1 so at least RUF has a proof for secondary structure. RNAz and alifoldz.pl for MSA
+#creates a lot of NAs, that is why we used different tools to verify secondary structure.
+
+
+## First column is designated RUF id.
+## If RNAz predicts a structured RNA, it gets 1 for second column. (usage: RNAz -b) (initial alignments were filtered with 'rnazSelectSeqs.pl -n 100')
+## RNALfold predicted MFE is compared with 200 dinucleotide shuffled MFEs. If the p-value of the native MFE is <=0.05, third column gets 1.
+## alifoldz.pl script was used with default options. The script creates two different z-scores for both strands. If one of the z-scores is <=-2, fourth column gets 1.
+## alifoldz.pl script was used with 'alifoldz.pl --single' option. The script creates two different z-scores for both strands. If one of the z-scores is <=-2, fourth column gets 1.
+
