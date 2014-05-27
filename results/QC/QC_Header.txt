@@ -23,7 +23,7 @@ Species EMBL    Experiment_ID   Dataset_ID      Strand_Correlation      Core_CDS
 /*	Therefore, if 39/40 are expressed according to a plot file, it gets 0.975.
 	
 #Core_Rfam_On
-/*	It is similar to CDS ON or OFF test. This time I used core Rfam annotations (e.g 	'tRNA','RNaseP_bact_a','tmRNA','Bacteria_small_SRP','6S','SSU_rRNA_bacteria','5S_rRNA','C4','PK-G12rRNA').
+/*	It is similar to CDS ON or OFF test. This time I used core Rfam annotations (e.g 	'tRNA','RNaseP_bact_a','tmRNA','Bacteria_small_SRP','6S','SSU_rRNA_bacteria','5S_rRNA','PK-G12rRNA').
 
 
 #PPV
