@@ -1,0 +1,4 @@
+CP000144 Pfam domain 355178 355244 26.2 - . orf_coords=356141-355167;id=BCA_ABC_TP_C;acc=PF12399.3;pid=CP000144.11216/299-321;evalue=5.6e-06;note="length 325, nt 356141..355167 "
+CP000144 Pfam domain 355385 355853 99.8 - . orf_coords=356141-355167;id=ABC_tran;acc=PF00005.22;pid=CP000144.11216/96-252;evalue=1.8e-28;note="length 325, nt 356141..355167 "
+CP000144 Pfam domain 839014 839290 76.7 + . orf_coords=838801-839910;id=AIRS;acc=PF00586.19;pid=CP000144.2745/71-163;evalue=1.5e-21;note="length 370, nt 838801..839910 "
+CP000144 Pfam domain 839374 839893 84.5 + . orf_coords=838801-839910;id=AIRS_C;acc=PF02769.17;pid=CP000144.2745/191-364;evalue=9e-24;note="length 370, nt 838801..839910 "
