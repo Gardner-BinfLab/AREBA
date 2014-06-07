@@ -47,7 +47,6 @@ CP000249 Pfam domain 681404 681647 107.7 + . orf_coords=680639-681988;id=Ribosom
 CP000249 Pfam domain 692123 692450 166.1 + . orf_coords=691973-692452;id=Ribosomal_S11;acc=PF00411.14;pid=CP000249.20724/50-159;evalue=1.7e-48;note="length 160, nt 691973..692452 "
 CP000249 Pfam domain 661059 661347 91.2 + . orf_coords=660957-661616;id=Ribosomal_L10;acc=PF00466.15;pid=CP000249.38969/34-130;evalue=2.2e-25;note="length 220, nt 660957..661616 "
 CP000249 Pfam domain 684764 685157 155.0 + . orf_coords=684734-685156;id=Ribosomal_S8;acc=PF00410.14;pid=CP000249.20705/10-141;evalue=5.8e-45;note="length 141, nt 684734..685156 "
-CP000249 Pfam domain 4255706 4255871 71.8 - . orf_coords=4256876-4255701;id=TruB_C;acc=PF09142.6;pid=CP000249.95835/335-390;evalue=1.8e-19;note="length 392, nt 4256876..4255701 "
 CP000249 Pfam domain 4256045 4256516 148.1 - . orf_coords=4256876-4255701;id=TruB_N;acc=PF01509.13;pid=CP000249.95835/120-277;evalue=1.4e-42;note="length 392, nt 4256876..4255701 "
 CP000249 Pfam domain 685755 686091 126.5 + . orf_coords=685716-686090;id=Ribosomal_L18p;acc=PF00861.17;pid=CP000249.39068/13-125;evalue=4.2e-36;note="length 125, nt 685716..686090 "
 CP000249 Pfam domain 4254253 4254496 96.2 - . orf_coords=4254595-4254251;id=Ribosomal_S15;acc=PF00312.17;pid=CP000249.59301/33-114;evalue=5.2e-27;note="length 115, nt 4254595..4254251 "
