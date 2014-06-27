@@ -170,7 +170,7 @@ understanding of molecular functioning in microbes \cite{mandin2013rna}.
 The paucity of annotations is understandable, as RNA gene annotation
 is non-trivial \cite{Freyhult:2007,Nawrocki:2009}. However, the
 increasing roles for RNA uncovered through experimental and
-bioinformatic study make illuminating this ``dark matter'' all the more
+bioinformatic studies make illuminating this ``dark matter'' all the more
 urgent. Among the remarkable discoveries made are: riboswitch-mediated
 regulation \cite{Barrick:2007,Breaker:2012}, transcriptional
 termination by RNA elements
@@ -352,7 +352,7 @@ RNAs and noise. While these outputs could be genuine RNAs, these
 strains are in the ‘too hot’ region, meaning if everything is
 conserved, comparative power is lost. In contrast, only 12\% of RUFs
 are conserved between species pairs in the ‘too cold’ region (spanning
-clades; Figure~\ref{fig:3}) and of the 197 RUFs found through
+clades; Figure~\ref{fig:4}) and of the 197 RUFs found through
 comparative analysis of transcriptomes within the Goldilocks Zone,
 only 19 show evidence of expression in another transcriptome outside
 of this zone. This suggests that the low number of RUFs from
@@ -442,7 +442,7 @@ especially clear to Japanophones, as, in Japanese, the phrase ‘areba’
 All available bacterial and archaeal genomes were downloaded from the
 European Nucleotide Archive (ENA) (2,562 and 154 genomes,
 respectively) \cite{Cochrane:2013}. RNA-seq datasets published as of
-March 2013 were collected, spanning 37 species/strains, 44 experiments
+August 2013 were collected, spanning 37 species/strains, 44 experiments
 and 413 lanes of sequencing data (Table S1). Most of these datasets
 are generated on the Illumina platform \cite{Shendure:2005}, with a
 few lanes from the SOLiD platform \cite{Cloonan:2008} and the 454
@@ -479,7 +479,7 @@ RUFs in Bacteria and 78 RUFs in Archaea.
 Homologs of the identified RUFs were found in all the downloaded
 genomes using nhmmer \cite{Wheeler:2013} in an iterative fashion:
 First, the RUF sequence alone was used in the scan; then, all hits
-with $E-value<0.001$ were included and a HMM built. This was iterated
+with E-value$<0.001$ were included and a HMM built. This was iterated
 5 times. The alignments from the RUF homology search were analyzed
 further by investigating the potential for secondary structure
 formation using RNAz \cite{Gruber:2010} and alifoldz
@@ -538,7 +538,7 @@ correlation close to 1.
 {\bf Expression of core genes:} We defined a set of 40 core
 protein-coding genes based on \cite{Wu:2013,Darling:2014} and 16 noncoding RNA
 genes (the union of tRNA, RNaseP, tmRNA, SRP, 6S and rRNA RNA
-families) \cite{Gardner:2011,Burge:2013}. If the median read depth
+families) \cite{Gardner:2011,Burge:2013}. If the median read depth is
 greater than 10X, we defined the gene as expressed. For each dataset,
 we report the fraction of the 40 core genes that are expressed.
 	
@@ -601,22 +601,22 @@ New Zealand.
 \caption{ {\bf Identification of transcribed elements across
     publicly-available RNA-seq data.} Non-coding RNA elements show
   high expression across transcriptomes. Both annotated Rfam families
-  (red – core Rfam families are dark red, all others are light red)
+  (red - core Rfam families are dark red, all others are light red)
   and expressed RUFs (black) are among the highest expressed outputs
-  in transcriptomes. Protein-coding regions annotated using Pfam are
-  also shown (blue). For each species we generated relative rankings
-  of expression spanning protein coding genes, RNA genes and candidate
-  RUF genes. Genes were extracted from mapping data by comparing to
-  the annotation. Going from mapped reads to expression level can be
-  confounded by a number of factors (e.g. sample preparation, overall
-  sequencing depths, rRNA depletion etc.). For consistency, we
-  therefore ranked genes for each species and compared rankings
-  instead of comparing the read depths directly between species. For a
-  given species, the annotated genes were ranked based on the median
-  read depth of the annotated region. RUFs were manually picked by
-  masking out annotated genes and selecting regions showing evidence
-  of expression by inspecting read depth across the genome. This
-  yielded 844 gene candidate sequences in Bacteria (78 in
+  in transcriptomes (blue - core Pfam families are dark blue, all
+  others are light blue). For each species we generated relative
+  rankings of expression spanning protein coding genes, RNA genes and
+  candidate RUF genes. Genes were extracted from mapping data by
+  comparing to the annotation. Going from mapped reads to expression
+  level can be confounded by a number of factors (e.g. sample
+  preparation, overall sequencing depths, rRNA depletion etc.). For
+  consistency, we therefore ranked genes for each species and compared
+  rankings instead of comparing the read depths directly between
+  species. For a given species, the annotated genes were ranked based
+  on the median read depth of the annotated region. RUFs were manually
+  picked by masking out annotated genes and selecting regions showing
+  evidence of expression by inspecting read depth across the
+  genome. This yielded 844 gene candidate sequences in Bacteria (78 in
   Archaea). The plot contains the 50 most highly expressed elements
   for each species.}
 \label{fig:1}
