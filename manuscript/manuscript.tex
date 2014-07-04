@@ -102,34 +102,36 @@ $\ast$ Correspondence to A.M.P. or P.P.G.\\
 E-mails: anthony.poole@canterbury.ac.nz; paul.gardner@canterbury.ac.nz
 \end{flushleft}
 
+
+%Anthony Poole <anthony.poole@canterbury.ac.nz>, Anthony Poole <poulet.m@gmail.com>, Hisham ElDai <biohisham@gmail.com>, Hisham ElDai <hisham.eldai@pg.canterbury.ac.nz>, Lars Barquist <lb14@sanger.ac.uk>, Lars Barquist <lbarquist@gmail.com>, Sinan Ugur Umu <sinan.umu@pg.canterbury.ac.nz>, Sinan Ugur Umu <sinanugur@gmail.com>, Sook-Wei Lai Alicia <alicialsw85@gmail.com>, Stinus <stinus.lindgreen@canterbury.ac.nz>, Stinus <stinus.lindgreen@gmail.com>, stinus@binf.ku.dk, 
+
 % Please keep the abstract between 250 and 300 words
 \section*{Abstract}
 
 Noncoding RNAs are increasingly recognized as integral to a wide range
-of biological processes, including core processes such as translation,
-gene regulation, host-pathogen interactions and environmental
-sensing. While bacterial and archaeal genomics is now a mature field,
-our capacity to identify noncoding RNA elements in genomes is hampered
-by the difficulty of de novo identification. The emergence of new
-technologies for characterizing transcriptome outputs, notably
-RNA-seq, are improving noncoding RNA identification and expression
-quantification. However, a major challenge is to robustly distinguish
-functional outputs from transcriptional noise. To establish whether
-annotation of existing transcriptome data has effectively captured all
-functional outputs, we analysed 400 publicly available RNA-seq
-datasets spanning 40 different Archaea and Bacteria. Using comparative
-tools, we identify close to a thousand highly-expressed candidate
-noncoding RNAs. However, our analyses reveal that capacity to identify
-noncoding RNA outputs is strongly dependent on phylogenetic
-sampling. Surprisingly, and in stark contrast to protein-coding genes,
-the phylogenetic window for effective use of comparative methods is
-perversely narrow: aggregating public datasets only produced one
-phylogenetic cluster where these tools could be used to robustly
-separate unannotated noncoding RNAs from a null hypothesis of
-transcriptional noise. Our results show that for the full potential of
-transcriptomics data to be realized, a change in experimental design
-is paramount: effective transcriptomics requires phylogeny-aware
-sampling.
+of biological processes, including translation, gene regulation,
+host-pathogen interactions and environmental sensing. While genomics
+is now a mature field, our capacity to identify noncoding RNA elements
+in bacterial and archaeal genomes is hampered by the difficulty of \emph{de
+novo} identification. The emergence of new technologies for
+characterizing transcriptome outputs, notably RNA-seq, are improving
+noncoding RNA identification and expression quantification. However, a
+major challenge is to robustly distinguish functional outputs from
+transcriptional noise. To establish whether annotation of existing
+transcriptome data has effectively captured all functional outputs, we
+analysed over 400 publicly available RNA-seq datasets spanning 37 different
+Archaea and Bacteria. Using comparative tools, we identify close to a
+thousand highly-expressed candidate noncoding RNAs. However, our
+analyses reveal that capacity to identify noncoding RNA outputs is
+strongly dependent on phylogenetic sampling. Surprisingly, and in
+stark contrast to protein-coding genes, the phylogenetic window for
+effective use of comparative methods is perversely narrow: aggregating
+public datasets only produced one phylogenetic cluster where these
+tools could be used to robustly separate unannotated noncoding RNAs
+from a null hypothesis of transcriptional noise. Our results show that
+for the full potential of transcriptomics data to be realized, a
+change in experimental design is paramount: effective transcriptomics
+requires phylogeny-aware sampling.
 
 
 % Please keep the Author Summary between 150 and 200 words
@@ -144,21 +146,21 @@ insight into the physiology, biochemistry, and genetics of Bacteria
 and Archaea \cite{Wu:2009,Rinke:2013,Loman:2012,Chun:2014}. Equally,
 careful examination of transcriptional outputs has revealed that
 bacterial and archaeal transcriptomes are remarkably complex
-\cite{Sorek:2011}, containing a diverse array of noncoding RNA (ncRNA)
-families, including sRNAs, sno-like sRNAs in Archaea, crRNAs and
-riboswitches
+\cite{Sorek:2011}, and include regulation, post-transcriptional
+modification and genome defense processes
 \cite{Storz:2011,Dennis:2001,Horvath:2010,Breaker:2012,Cech:2014}. However,
 our view of the microbial RNA world still derives from a narrow
-sampling \cite{Pagani:2012} of microbial diversity. Additional bias
+sampling of microbial diversity \cite{Pagani:2012}. Additional bias
 comes from the fact that many microbes are not readily culturable
 \cite{Stewart:2012}. The development of metagenomics and initiatives
 such as the Genomic Encyclopedia of Bacteria and Archaea (GEBA)
 project have sought to redress these biases, generating genomes
 spanning undersampled regions of the bacterial and archaeal phylogeny
 \cite{Wu:2009}, and sequencing uncultured or unculturable species
-through metagenomics \cite{Elkins:2008,Konneke:2005,Tyson:2004,Woyke:2006,Rinke:2013}.
+through metagenomics
+\cite{Elkins:2008,Konneke:2005,Tyson:2004,Woyke:2006,Rinke:2013}.
 
-A further source of bias in our genome-informed view of microorganisms
+A further source of bias in our genome-informed view of microbes
 derives from a protein-centric approach to genome annotation. The
 majority of genome sequences deposited in public databases carry
 limited annotation of noncoding RNAs and cis-regulatory elements, yet
@@ -168,14 +170,17 @@ understanding of molecular functioning in microbes \cite{mandin2013rna}.
 The paucity of annotations is understandable, as RNA gene annotation
 is non-trivial \cite{Freyhult:2007,Nawrocki:2009}. However, the
 increasing roles for RNA uncovered through experimental and
-bioinformatic study make illuminating this dark matter all the more
-urgent. Among the remarkable discoveries made are, riboswitch-mediated
-regulation \cite{Barrick:2007}, transcriptional termination by RNA
-elements \cite{Gardner:2011,Chen:2013,Cambray:2013}, identification of
-novel natural catalytic RNAs \cite{Roth:2014}, CRISPR-mediated
-acquired immunity \cite{Barrangou:2007}, temperature-dependent gene
-regulation \cite{Loh:2013}, and sno-like RNAs in Archaea
-\cite{Omer:2000,Gardner:2010}. The Rfam database
+bioinformatic studies make illuminating this ``dark matter'' all the more
+urgent. Among the remarkable discoveries made are: riboswitch-mediated
+regulation \cite{Barrick:2007,Breaker:2012}, transcriptional
+termination by RNA elements
+\cite{von_Hippel:1998,Gardner:2011,Santangelo:2011}, identification of
+novel natural catalytic RNAs
+\cite{Kruger:1982,Guerrier-Takada:1983,Winkler:2004,Roth:2014},
+CRISPR-mediated acquired immunity \cite{Barrangou:2007,Brouns:2008},
+temperature-dependent gene regulation \cite{Narberhaus:2006,Loh:2013},
+and sno-like RNAs in Archaea
+\cite{Omer:2000,Gaspin:2000,Gardner:2010}. The Rfam database
 \cite{Gardner:2011,Burge:2013} provides a valuable platform for
 collating and characterising these and other families of noncoding
 RNA. However, a recent comparative analysis \cite{Hoeppner:2012}
@@ -184,15 +189,16 @@ than 19\% in Archaea show a broad phylogenetic distribution (that is,
 presence in at least 50\% of sequenced phyla). Crucially, that
 analysis revealed that underlying genome sequencing biases were a
 major contributor to this pattern, and that the wider genomic sampling
-provided by the GEBA dataset did help improve identification of
-broadly-conserved RNA families \cite{Hoeppner:2012}. Tools such as
-RNA-seq \cite{Croucher:2010} and transposon insertion
-sequencing \cite{van_Opijnen:2013,Barquist:2013,Barquist:2013a}
-promise to complement comparative genomics tools for RNA family
-discovery, and it may be possible to use a mix of data types in the
-identification of RNA elements. However, to date, no systematic
-analysis of available data has been undertaken, suggesting ncRNAs may
-be hidden in the deluge of published data.
+provided by the GEBA dataset \cite{Wu:2009} did help improve
+identification of broadly-conserved RNA families
+\cite{Hoeppner:2012}. Tools such as RNA-seq \cite{Croucher:2010} and
+transposon insertion sequencing
+\cite{van_Opijnen:2013,Barquist:2013,Barquist:2013a} promise to
+complement comparative genomics tools for RNA family discovery, and it
+may be possible to use a mix of data types in the identification of
+RNA elements. However, to date, no systematic analysis of available
+data has been undertaken, suggesting ncRNAs may be hidden in the
+deluge of published data.
 
 We have therefore assessed the value of RNA-seq data for
 identification of unannotated non-coding and cis-regulatory RNA
@@ -217,12 +223,13 @@ related microbes will generate the greatest benefit.
 To assess the relative contribution of noncoding RNAs and
 protein-coding genes to transcriptional output, we collected all
 publicly-available bacterial and archaeal RNA-seq datasets (available
-as of {\bf August 2013}), spanning 37 species/strains and 400
-datasets. For all datasets, we supplemented publicly available genome
-annotations with screening for additional loci against Pfam and Rfam
-databases, followed by manual identification of expressed unannotated
-regions. This latter annotation yielded 922 expressed RUFs (RNAs of
-unknown function).
+as of August 2013), spanning 37 species/strains and 413 datasets. For
+all datasets, we supplemented publicly available genome annotations
+with screening for additional loci against the Pfam and Rfam databases
+\cite{Punta:2012,Finn:2014,Gardner:2011,Burge:2013}, followed by
+manual identification of expressed unannotated regions. This latter
+annotation yielded 922 expressed RNAs of Unknown Function (RUFs)
+\cite{McCutcheon:2003}.
 
 We next examined the relative abundance of transcripts within each
 RNA-seq dataset, yielding an expression rank for individual
@@ -254,48 +261,50 @@ outputs are dominated by protein-coding transcripts
 (Figure~\ref{fig:2}B\&C). In contrast, transcripts that are highly
 expressed but poorly conserved are primarily RUFs
 (Figure~\ref{fig:2}A). Of the 568 RUFs identified, only 25 are
-supported by all three criteria (conservation, secondary structure and
-expression) (Figure~\ref{fig:2}D). A further 138 RUFs are supported by two criteria
-(Figure~\ref{fig:2}D). Consequently, on these criteria, the vast majority of RUFs
-appear indistinguishable from transcriptional noise. However, as these
-RUFs are among the mostly highly expressed transcripts in public
-RNA-seq data, we next considered whether our criteria were
-sufficiently discriminatory to identify functional RNAs. It is well
-established that not all functional RNAs exhibit conserved secondary
-structure – antisense base pairing with a target is common, and does
-not require intramolecular folding \cite{Gottesman:2011}. This
-indicates that criterion 2 will apply to some, but not all functional
-RNA elements. Criteria 1 and 3 both derive from comparative analysis:
-criterion 1 requires an expressed RUF to be conserved in some other
-genome, while criterion 2 requires an expressed RUF to be expressed in
-another of the datasets in our study. We therefore sought to examine
-how effective our comparative analyses are given that the available
-data represent a small sample (transcriptomes from 37 species) and
-given that biases in genome sampling across bacterial and archaeal
-diversity impact comparative analysis of RNAs \cite{Hoeppner:2012}.
+supported by all three conservative criteria (conservation, secondary
+structure and expression) (Figure~\ref{fig:2}D), a further 138 RUFs
+are supported by two criteria (Figure~\ref{fig:2}D). Consequently, on
+these criteria, the vast majority of RUFs appear indistinguishable
+from transcriptional noise. However, as these RUFs are among the
+mostly highly expressed transcripts in public RNA-seq data, we next
+considered whether our criteria were sufficiently discriminatory to
+identify functional RNAs. It is well established that not all
+functional RNAs exhibit conserved secondary structure – antisense base
+pairing with a target is common, and does not require intramolecular
+folding \cite{Gottesman:2011}. This indicates that criterion 2 will
+apply to some, but not all functional RNA elements. Criteria 1 and 3
+both derive from comparative analysis: criterion 1 requires an
+expressed RUF to be conserved in some other genome, while criterion 2
+requires an expressed RUF to be expressed in another of the datasets
+in our study. We therefore sought to examine how effective our
+comparative analyses are given that the available data represent a
+small sample (transcriptomes from 37 species) and given that biases in
+genome sampling across bacterial and archaeal diversity impact
+comparative analysis of RNAs \cite{Hoeppner:2012}.
 
 \subsection*{Comparative analysis reveals a 'Goldilocks Zone' for ncRNA identification}
 
 Effective comparative analysis requires appropriate phylogenetic
-distances between species under investigation (Eddy 2005). The
-transcriptomes available for our analyses are limited in number and
-phylogenetic diversity, and efforts to redress phylogenetic biases in
-genome sequencing have focused on maximising phylogenetic diversity
-across the tree of life \cite{Wu:2009,Rinke:2013}. Moreover,
-underlying biases in genome sampling have been shown to affect the
-assessment of ncRNA conservation \cite{Hoeppner:2012}. We therefore
-considered how species selection impacts comparative analysis as a
-tool for distinguishing signals of conservation in ncRNAs from
-transcriptional noise.
+distances between species under investigation \cite{Eddy:2005}.  For
+discovery of protein-coding gene families, maximising phylogenetic
+diversity across the tree of life has proven very effective
+\cite{Wu:2009,Rinke:2013}. For non-coding RNA, underlying biases in
+genome sampling do affect the assessment of ncRNA conservation, and
+adding phylogenetic diversity improves the identification of broadly
+conserved ncRNA families \cite{Hoeppner:2012}. However, few ncRNAs
+appear conserved across broad evolutionary distances
+\cite{Hoeppner:2012}.
+We have therefore considered how species selection impacts comparative
+analysis as a tool for the identification of conserved ncRNAs.
 
 To assess the effect of species selection on our capacity to identify
 RNA families using comparative analysis, we first generated F84
 phylogenetic distances between 2562 bacterial species and 154 archaeal
-species using SSU rRNA sequences from each species (Methods). Next,
-for each Rfam RNA family and Pfam protein family, we identified the
-maximum phylogenetic distance between any two species that encode a
-given family. We then calculated the fraction of conserved RNA and
-protein families for a given phylogenetic distance.
+species using SSU rRNA sequences from each species (see Methods for
+details). Next, for each Rfam RNA family and Pfam protein family, we
+identified the maximum phylogenetic distance between any two species
+that encode a given family. We then calculated the fraction of
+conserved RNA and protein families for a given phylogenetic distance.
 
 This reveals a dramatic difference in evolutionary conservation of
 Rfam and Pfam families (Figure~\ref{fig:3}). While 80\% of protein families are
@@ -305,54 +314,57 @@ families are conserved lies somewhere between the taxonomic levels of
 genus and family (Figure~\ref{fig:3}). The explanation for this rapid decay of RNA
 family conservation across long evolutionary time-scales is likely to
 be a combination of the limited abilities of existing bioinformatic
-tools to correctly align RNA sequences \cite{Gardner:2005} and genuine
+tools to correctly align RNA sequences \cite{Gardner:2005} and 
 rapid turnover of non-coding RNAs during evolution
 \cite{Hoeppner:2012}.
 
 These results in turn indicate that appropriate evolutionary distances
-for optimising comparative analysis differ greatly for protein- and
+for optimal comparative analysis differ greatly for protein- and
 RNA-coding genes. Figure~\ref{fig:3} confirms the utility of the GEBA sampling
 strategy \cite{Wu:2009,Rinke:2013} for protein-coding gene
-identification, since maximising phylogenetic diversity yields strong
+identification, since maximising phylogenetic diversity permits effective
 identification of conserved protein-coding genes. In contrast, at the
 largest phylogenetic distances, around 60\% of RNA families are
 invisible to comparative analysis. These results define a ‘Goldilocks
 Zone’ (an evolutionary distance neither too close nor too distant) for
-RNA family comparative analysis.
+ncRNA analysis through comparative analysis.
 
-To assess how phylogenetic sampling impacts comparative analysis of
-transcriptome data, we mapped the pairwise distances between species
+In order to assess the potential for existing RNA-seq data to be used
+for ncRNA analysis, we mapped the pairwise distances between species
 covered by the RNA-seq datasets in this study. Of the 506 possible
 pairs (excluding Bacteria vs Archaea), only 11 are in the Goldilocks
 Zone for RNA (phylogenetic distance between 0.0118 and 0.0542)
 covering 9 species/strains. While five pairs of datasets are ‘too hot’
 (i.e. too close phylogenetically), the remaining 490 comparisons are
-‘too cold’ for effective comparative RNA analysis (Figure~\ref{fig:3}). The
-datasets in the Goldilocks Zone span three distinct clades covering
-five Enterobacteria, two Pseudomanada, and two Xanthomonada
-(Figure~\ref{fig:3}). Subsequent analyses focused on the Enterobacterial clade, as
-this was the only clade containing transcriptomes from multiple
-species.
+‘too cold’ for effective comparative RNA analysis
+(Figure~\ref{fig:4}). The datasets in the Goldilocks Zone span three
+distinct clades covering five Enterobacteria, two Pseudomanada, and
+two Xanthomonada (Figure~\ref{fig:4}). Subsequent analyses focused on
+the Enterobacterial clade, as this was the only clade containing
+transcriptomes from multiple species.
 
 We next calculated the percentage of conserved RUFs for all
 Enterobacterial species pairs. On average, 83\% of RUFs are conserved
-across the Goldilocks Zone. The two E. coli strains are extremely
-similar, and share 99\% of RUFs, suggesting that these species are too
-similar for us to robustly separate expression of bona fide RNAs and
-noise. While these outputs could be genuine RNAs, these strains are in
-the ‘too hot’ region: if everything is conserved, comparative power is
-lost. In contrast, only 12\% of RUFs are conserved between species
-pairs in the ‘too cold’ region (spanning clades; Figure~\ref{fig:3}). Indeed, most
-of the currently available datasets fall outside the Goldilocks Zone
-for RNA discovery (Figure~\ref{fig:3}): of the 197 RUFs found in the datasets that
-cover this region, only 19 show evidence of expression in another
-transcriptome. This suggests that the low number of RUFs from Figure~\ref{fig:2}D
-showing both conservation and expression in other AREBA species is
-primarily a consequence of limited sampling. We also extracted a RUF
+across the Goldilocks Zone. The two \emph{E. coli} strains are extremely
+similar, and share 99\% of their RUFs, suggesting that these species
+are too similar for us to robustly separate expression of \emph{bona fide}
+RNAs and noise. While these outputs could be genuine RNAs, these
+strains are in the ‘too hot’ region, meaning if everything is
+conserved, comparative power is lost. In contrast, only 12\% of RUFs
+are conserved between species pairs in the ‘too cold’ region (spanning
+clades; Figure~\ref{fig:4}) and of the 197 RUFs found through
+comparative analysis of transcriptomes within the Goldilocks Zone,
+only 19 show evidence of expression in another transcriptome outside
+of this zone. This suggests that the low number of RUFs from
+Figure~\ref{fig:2}D showing both conservation and expression is
+primarily a consequence of limited sampling.  We also extracted a RUF
 in the Enterobacterial clade that had homologs in the other four
-species. In all cases, the homologs showed evidence of expression when
-examining the RNA-seq data, and the five homologs show evidence of a
-conserved secondary structure (Figure~\ref{fig:3}).
+species.  That said, mining RNA-seq data within the Goldilocks Zone
+permits a higher confidence in the identification of novel ncRNAs. One
+such example of this is illustrated in (Figure~\ref{fig:4}B\&C). This
+RUF exhibits sequence and secondary structure conservation and is
+expressed at high levels across all five Enterobacterial
+transcriptomes in our dataset.
 
 In summary, the Goldilocks Zone for RNA is surprisingly narrow, and
 suggests that optimal species selection for RNA comparative analyses
@@ -389,7 +401,7 @@ expressed across the transcriptomes we have examined, yet these do not
 show clear signs of sequence or structural conservation in other
 sequenced genomes. Given their high expression level, these seem
 unlikely to be transcriptional noise. Some may represent technical
-artefacts, but many could be bona fide lineage-specific ncRNAs with
+artefacts, but many could be \emph{bona fide} lineage-specific ncRNAs with
 potentially novel functions.
 
 Our results indicate that the greatest gain in analytical power for
@@ -406,7 +418,7 @@ and expression in other species.
 
 \begin{CJK}{UTF8}{min}
 Given that isolation, cultivation and study of individual bacterial
-and archaeal strains can be extremely challenging (Stewart 2012),
+and archaeal strains can be extremely challenging \cite{Stewart:2012}
 successful phylogeny-informed comparative RNA-seq will be a demanding
 endeavour, requiring complex sets of expertise spanning advanced
 culturing and isolation techniques, functional genomics capability and
@@ -430,10 +442,10 @@ especially clear to Japanophones, as, in Japanese, the phrase ‘areba’
 All available bacterial and archaeal genomes were downloaded from the
 European Nucleotide Archive (ENA) (2,562 and 154 genomes,
 respectively) \cite{Cochrane:2013}. RNA-seq datasets published as of
-March 2013 were collected, spanning 37 species/strains, 44 experiments
+August 2013 were collected, spanning 37 species/strains, 44 experiments
 and 413 lanes of sequencing data (Table S1). Most of these datasets
 are generated on the Illumina platform \cite{Shendure:2005}, with a
-few lanes from the SOLiD platform \cite{Valouev:2008} and 454
+few lanes from the SOLiD platform \cite{Cloonan:2008} and the 454
 platform \cite{Margulies:2005}. Where possible, FastQ files were
 downloaded, scanned for residual adapter sequences using
 AdapterRemoval \cite{Lindgreen:2012}, and mapped to the reference genome
@@ -466,15 +478,15 @@ RUFs in Bacteria and 78 RUFs in Archaea.
 
 Homologs of the identified RUFs were found in all the downloaded
 genomes using nhmmer \cite{Wheeler:2013} in an iterative fashion:
-First, the RUF sequence alone is used in the scan; then, all hits with
-$E-value<0.001$ are included and a HMM is built, and this is iterated
+First, the RUF sequence alone was used in the scan; then, all hits
+with E-value$<0.001$ were included and a HMM built. This was iterated
 5 times. The alignments from the RUF homology search were analyzed
 further by investigating the potential for secondary structure
 formation using RNAz \cite{Gruber:2010} and alifoldz
-\cite{Washietl:2004}; the protein coding potential using RNAcode
-\cite{Washietl:2011}, and overlaps between potential RUF homologs in
-other species and all the annotations in the respective genomes as
-described above.
+\cite{Washietl:2004}. Protein coding potential of the RUFs was
+assessed using RNAcode \cite{Washietl:2011}. Overlaps between
+potential RUF homologs in other species and all the annotations in the
+respective genomes was also assessed.
 
 \subsection*{Comparative expression and conservation analysis}
 
@@ -524,9 +536,9 @@ on the two strands. If the dataset is unstranded, we expect a
 correlation close to 1.
 	
 {\bf Expression of core genes:} We defined a set of 40 core
-protein-coding genes based on \cite{Wu:2013} and 16 noncoding RNA
+protein-coding genes based on \cite{Wu:2013,Darling:2014} and 16 noncoding RNA
 genes (the union of tRNA, RNaseP, tmRNA, SRP, 6S and rRNA RNA
-families) \cite{Gardner:2011,Burge:2013}. If the median read depth
+families) \cite{Gardner:2011,Burge:2013}. If the median read depth is
 greater than 10X, we defined the gene as expressed. For each dataset,
 we report the fraction of the 40 core genes that are expressed.
 	
@@ -577,6 +589,9 @@ New Zealand.
 % The bibtex filename
 \bibliography{bibliography}
 
+\newpage
+\clearpage
+
 \section*{Figure Legends}
 
 \begin{figure}[!ht]
@@ -586,22 +601,22 @@ New Zealand.
 \caption{ {\bf Identification of transcribed elements across
     publicly-available RNA-seq data.} Non-coding RNA elements show
   high expression across transcriptomes. Both annotated Rfam families
-  (red – core Rfam families are dark red, all others are light red)
+  (red - core Rfam families are dark red, all others are light red)
   and expressed RUFs (black) are among the highest expressed outputs
-  in transcriptomes. Protein-coding regions annotated using Pfam are
-  also shown (blue). For each species we generated relative rankings
-  of expression spanning protein coding genes, RNA genes and candidate
-  RUF genes. Genes were extracted from mapping data by comparing to
-  the annotation. Going from mapped reads to expression level can be
-  confounded by a number of factors (e.g. sample preparation, overall
-  sequencing depths, rRNA depletion etc.). For consistency, we
-  therefore ranked genes for each species and compared rankings
-  instead of comparing the read depths directly between species. For a
-  given species, the annotated genes were ranked based on the median
-  read depth of the annotated region. RUFs were manually picked by
-  masking out annotated genes and selecting regions showing evidence
-  of expression by inspecting read depth across the genome. This
-  yielded 844 gene candidate sequences in Bacteria (78 in
+  in transcriptomes (blue - core Pfam families are dark blue, all
+  others are light blue). For each species we generated relative
+  rankings of expression spanning protein coding genes, RNA genes and
+  candidate RUF genes. Genes were extracted from mapping data by
+  comparing to the annotation. Going from mapped reads to expression
+  level can be confounded by a number of factors (e.g. sample
+  preparation, overall sequencing depths, rRNA depletion etc.). For
+  consistency, we therefore ranked genes for each species and compared
+  rankings instead of comparing the read depths directly between
+  species. For a given species, the annotated genes were ranked based
+  on the median read depth of the annotated region. RUFs were manually
+  picked by masking out annotated genes and selecting regions showing
+  evidence of expression by inspecting read depth across the
+  genome. This yielded 844 gene candidate sequences in Bacteria (78 in
   Archaea). The plot contains the 50 most highly expressed elements
   for each species.}
 \label{fig:1}
@@ -627,7 +642,7 @@ New Zealand.
   RUF was analysed to look for evidence of secondary structure
   formation, level of conservation, and evidence of expression in at
   least one other RNA-seq dataset. All RUFs showing expression in
-  other AREBA species must of course be conserved in at least two
+  other species must of course be conserved in at least two
   species, so the figure also shows that 219 highly expressed RUFs are
   conserved across a limited phylogenetic distance only.}
 \label{fig:2}
@@ -678,8 +693,8 @@ New Zealand.
   second hairpin (highlighted in green, structure neutral variation is
   highlighted in blue, highly conserved regions are highlighted in
   pink), it conserves a tetraloop of the GNRA or UNCG types and there
-  have been two independent insertions of hairpins in the S. enterica
-  and K. pneumoniae within the first hairpin. {\bf (C)} The expression
+  have been two independent insertions of hairpins in \emph{S. enterica}
+  and \emph{K. pneumoniae} within the first hairpin. {\bf (C)} The expression
   levels inferred from RNA-seq in the locus containing the RUF
   illustrated in B. The locus contains a ncRNA (red: SraB) and three
   protein coding genes (blue: yceD, rpmF and plsX) and the RUF
@@ -692,7 +707,21 @@ New Zealand.
 \end{figure}
 %pdftops -eps figures/figure4.pdf figures/figure4.eps
 
+\newpage
+\clearpage
 
+\section*{Supplementary Table Legends}
+
+{\bf Table S1:} Species names, genome accessions, RNA-seq data
+sources, Pubmed IDs, sequencing platform and notes for each dataset
+used for this study.
+
+{\bf Table S2:} The Pfam, Rfam and RUF identifiers for each entry
+corresponding to Figure~\ref{fig:1}.
+
+{\bf Table S3:} Quality control measures computed for each RNA-seq
+dataset used in this study. The values are defined in detail in the
+Methods section.
 
 %\section*{Tables}
 %\begin{table}[!ht]
