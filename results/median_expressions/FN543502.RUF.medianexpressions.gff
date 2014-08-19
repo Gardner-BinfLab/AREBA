@@ -1,0 +1,13 @@
+FN543502	EMBL/GenBank/SwissProt	misc_RNA	27006	27106	.	-	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$18$,two_strands_combined:$108
+FN543502	EMBL/GenBank/SwissProt	misc_RNA	1131389	1131521	.	-	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$194$,two_strands_combined:$1046
+FN543502	EMBL/GenBank/SwissProt	misc_RNA	1243354	1243427	.	+	.	note "RUF predicted from transcriptome data.";Median_depth_one_strand:$4$,two_strands_combined:$2219
+FN543502	EMBL/GenBank/SwissProt	misc_RNA	1247226	1247510	.	+	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$36$,two_strands_combined:$554
+FN543502	EMBL/GenBank/SwissProt	misc_RNA	1434701	1434823	.	+	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$20$,two_strands_combined:$1071
+FN543502	EMBL/GenBank/SwissProt	misc_RNA	1920141	1920401	.	+	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$15$,two_strands_combined:$286
+FN543502	EMBL/GenBank/SwissProt	misc_RNA	3885865	3885968	.	-	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$87$,two_strands_combined:$1020
+FN543502	EMBL/GenBank/SwissProt	misc_RNA	3963051	3963133	.	-	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$52$,two_strands_combined:$1282
+FN543502	EMBL/GenBank/SwissProt	misc_RNA	3967233	3967350	.	-	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$88$,two_strands_combined:$1060
+FN543502	EMBL/GenBank/SwissProt	misc_RNA	3967506	3967621	.	-	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$27$,two_strands_combined:$555
+FN543502	EMBL/GenBank/SwissProt	misc_RNA	4016773	4016890	.	-	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$41$,two_strands_combined:$710
+FN543502	EMBL/GenBank/SwissProt	misc_RNA	4407566	4407728	.	+	.	note "RUF: predicted from transcriptome data.";Median_depth_one_strand:$65$,two_strands_combined:$1820
+FN543502	EMBL/GenBank/SwissProt	misc_RNA	4757060	4757183	.	+	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$93$,two_strands_combined:$965

@@ -1,0 +1,40 @@
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	11023	11096	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$53$,two_strands_combined:$62
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	100449	100582	.	+	.	note "RUF : ncRNA from transcriptome data, intergenic region";Median_depth_one_strand:$39$,two_strands_combined:$39
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	665510	665755	.	-	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$35$,two_strands_combined:$36
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	759587	759784	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$177$,two_strands_combined:$178
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	780991	781074	.	-	.	note "RUF : ncRNA from transcriptome data rnaseqExponential2 & rnaseqExponential";Median_depth_one_strand:$0$,two_strands_combined:$13
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	789629	789782	.	+	.	note "RUF : ncRNA from transcriptome data rnaseqStationary";Median_depth_one_strand:$67$,two_strands_combined:$68
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	937960	938247	.	-	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$246$,two_strands_combined:$250
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	968275	968389	.	-	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$51$,two_strands_combined:$122
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1014122	1014680	.	-	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$5$,two_strands_combined:$22
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1015298	1015397	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$17$,two_strands_combined:$18
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1016710	1016844	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$2$,two_strands_combined:$7
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1017131	1017202	.	-	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$29$,two_strands_combined:$30
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1023875	1024170	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$2$,two_strands_combined:$2
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1024162	1024229	.	-	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$2$,two_strands_combined:$9
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1024240	1024302	.	-	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$5$,two_strands_combined:$9
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1024759	1025293	.	-	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$67$,two_strands_combined:$81
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1025400	1025449	.	-	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$130$,two_strands_combined:$130
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1026911	1027056	.	-	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$3$,two_strands_combined:$3
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1029358	1029512	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$69$,two_strands_combined:$75
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1197250	1197326	.	-	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$1$,two_strands_combined:$980
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1221297	1222980	.	-	.	note "RUF : ncRNA region from transcriptome data rnaseqStationary.plot & rnaseqExponential3.plot, long region, I marked whole region";Median_depth_one_strand:$0$,two_strands_combined:$649
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1271771	1272173	.	-	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$105$,two_strands_combined:$117
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1453011	1453175	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$550$,two_strands_combined:$551
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1735505	1735921	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$683$,two_strands_combined:$683
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	1851993	1852272	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$448$,two_strands_combined:$448
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	2007047	2007187	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$25$,two_strands_combined:$27
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	2256001	2256534	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$3$,two_strands_combined:$361
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	2489145	2489207	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$15$,two_strands_combined:$26
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	2516895	2516994	.	-	.	note "RUF : ncRNA from transcriptome data rnaseqStationary.plot , exponential3 & exponential";Median_depth_one_strand:$1$,two_strands_combined:$457
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	2955436	2955540	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$277$,two_strands_combined:$303
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	3243405	3243575	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$889$,two_strands_combined:$905
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	3331783	3332162	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$130$,two_strands_combined:$137
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	3415074	3415271	.	-	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$215$,two_strands_combined:$220
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	3557017	3557211	.	-	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$15$,two_strands_combined:$180
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	3557208	3557327	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$100$,two_strands_combined:$183
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	3837387	3837455	.	-	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$2512$,two_strands_combined:$2512
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	3895715	3895804	.	+	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$253$,two_strands_combined:$253
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	3907403	3907528	.	-	.	note "RUF : ncRNA from transcriptome data";Median_depth_one_strand:$763$,two_strands_combined:$763
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	4103488	4103524	.	+	.	note "RUF : short ncRNA from transcriptome data rnaseqStationary & rnaseqExponential";Median_depth_one_strand:$0$,two_strands_combined:$40
+AL123456	EMBL/GenBank/SwissProt	misc_RNA	4105673	4105862	.	+	.	note "RUF : ncRNA from transcriptome data rnaseqExponential2";Median_depth_one_strand:$60$,two_strands_combined:$61

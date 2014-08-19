@@ -1,0 +1,11 @@
+CP000816	EMBL/GenBank/SwissProt	misc_RNA	1	142	.	-	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$28$,two_strands_combined:$28
+CP000816	EMBL/GenBank/SwissProt	misc_RNA	169353	169799	.	+	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$1$,two_strands_combined:$21
+CP000816	EMBL/GenBank/SwissProt	misc_RNA	405543	405720	.	+	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$28$,two_strands_combined:$28
+CP000816	EMBL/GenBank/SwissProt	misc_RNA	617415	617531	.	+	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$3$,two_strands_combined:$165
+CP000816	EMBL/GenBank/SwissProt	misc_RNA	734261	734505	.	+	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$11$,two_strands_combined:$11
+CP000816	EMBL/GenBank/SwissProt	misc_RNA	795075	795246	.	-	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$181$,two_strands_combined:$181
+CP000816	EMBL/GenBank/SwissProt	misc_RNA	881753	881931	.	-	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$15$,two_strands_combined:$16
+CP000816	EMBL/GenBank/SwissProt	misc_RNA	1000655	1000815	.	+	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$25$,two_strands_combined:$25
+CP000816	EMBL/GenBank/SwissProt	misc_RNA	1066717	1066898	.	+	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$2$,two_strands_combined:$36
+CP000816	EMBL/GenBank/SwissProt	misc_RNA	1266696	1266816	.	-	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$35$,two_strands_combined:$36
+CP000816	EMBL/GenBank/SwissProt	misc_RNA	1296273	1296514	.	+	.	note "RUF ncRNA predicted from transcriptome data.";Median_depth_one_strand:$18$,two_strands_combined:$19
