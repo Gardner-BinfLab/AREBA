@@ -109,14 +109,15 @@ def MedianTranscript(GffLine,PlotObject): #function to calculate Median of stran
     MedArrayCombined=[]
     if GffLine.split()[6]=='-':
         for i in range(int(GffLine.split()[3])-1,int(GffLine.split()[4])): #plot dosyalari sifirdan basliyor diye -1 yaptim
-            MedArrayStrand.append(int(PlotObject[i].split()[0]))
+            MedArrayStrand.append(int(PlotObject[i].split()[1])) #AREBA da hata varmis, duzelttim plot dosyasinda forward ilk, reverse ikinci sutun
             MedArrayCombined.append(int(PlotObject[i].split()[0])+int(PlotObject[i].split()[1]))
     else:
         for i in range(int(GffLine.split()[3])-1,int(GffLine.split()[4])):
-            MedArrayStrand.append(int(PlotObject[i].split()[1]))
+            MedArrayStrand.append(int(PlotObject[i].split()[0])) #AREBA da hata varmis, duzelttim plot dosyasinda forward ilk, reverse ikinci sutun
             MedArrayCombined.append(int(PlotObject[i].split()[0])+int(PlotObject[i].split()[1]))
     
-    return (int(numpy.median(MedArrayStrand)),int(numpy.median(MedArrayCombined)))
+    return (int(numpy.median(MedArrayStrand)),int(numpy.median(MedArrayCombined)),int(numpy.mean(MedArrayStrand)),int(numpy.mean(MedArrayCombined)),int(numpy.max(MedArrayStrand)),
+            int(numpy.max(MedArrayCombined)),int(numpy.min(MedArrayStrand)),int(numpy.min(MedArrayCombined)))
 
 def Median_Window_Transcript(Window,PlotObject): #function to calculate Median of strands, assumes both stranded or non-stranded plot files
     MedArrayCombined=[]
@@ -161,11 +162,13 @@ def main():
         print "%i\t%i\t%i" % (Rfam_Pfam_S)
     else:
         for GffLine in GffObject:
-            try: #basinda info kismi olan GFF dosyalari icin ise yariyor
-                MedianTup=MedianTranscript(GffLine,PlotObject)
-                print "%s;Median_depth_one_strand:$%d$,two_strands_combined:$%d" %(GffLine.strip(),MedianTup[0],MedianTup[1])
-            except:
-                pass
+            #try: #basinda info kismi olan GFF dosyalari icin ise yariyor
+            MedianTup=MedianTranscript(GffLine,PlotObject)
+            #print "%s;Median_depth_one_strand:$%d$,two_strands_combined:$%d" %(GffLine.strip(),MedianTup[0],MedianTup[1])
+            print "%s;Median_depth_one_strand:%d,two_strands_combined:%d,Mean_depth_one_strand:%d,two_strands_combined:%d,Max_strand:%d,combined:%d,Min_strand:%d,combined:%d" %(
+                    GffLine.strip(),MedianTup[0],MedianTup[1],MedianTup[2],MedianTup[3],MedianTup[4],MedianTup[5],MedianTup[6],MedianTup[7])
+            #except:
+            #    pass
 
     
     """    
