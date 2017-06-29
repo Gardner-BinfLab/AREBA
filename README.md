@@ -1,4 +1,6 @@
-Bacterial & Archaeal Transcriptome Meta-analysis Project.
+# Bacterial & Archaeal Transcriptome Meta-analysis Project.
+
+[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](http://www.repostatus.org/badges/latest/inactive.svg)](http://www.repostatus.org/#inactive)
 
 This is a collection of RNA-seq datasets spanning Archaea and
 Bacteria. Each dataset has been converted into a consistent format,
@@ -7,10 +9,9 @@ corresponding genome. These files can be read by genome viewing tools
 such as Artemis so RNA-seq data can be viewed in the context of genome
 annotations. 
 
+### Datasets for the next release:
 
-######################################################################
-Datasets for the next release:
-
+<pre>
 Directional RNA-seq reveals highly complex condition-dependent transcriptomes in E. coliK12 through accurate full-length transcripts assembling.
 Li S, Dong X, Su Z.
 BMC Genomics. 2013 Jul 30;14(1):520.
@@ -61,6 +62,4 @@ http://www.biomedcentral.com/1471-2164/14/888/abstract
 Ammonium induces differential expression of methane and nitrogen metabolism-related genes in Methylocystis sp. strain SC2
 Dam et al.
 http://onlinelibrary.wiley.com/doi/10.1111/1462-2920.12367/abstract
-
-######################################################################
-
+</pre>
